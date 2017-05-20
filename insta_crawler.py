@@ -28,7 +28,7 @@ conn.close()
 
 #
 #
-# params = urllib.parse.urlencode({'username': 'smileman_god@naver.com', 'password': 'sm140928'})
+# params = urllib.parse.urlencode({'username': 'smileman_god@naver.com', 'password': 'xxxxxx'})
 #
 #
 # headers = {"Host": "www.instagram.com",
