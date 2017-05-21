@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQCtOfIVlip2Sfc0UcvbhOzUCw8kGdd7mUDGlz029XYmFrnPNN_4mN0zXNi0DztmihM",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252912_1361663800543157_5167881620379664384_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "laina_haewon_chun",
+                            "id": "27679937",
+                            "full_name": "Laina Haewon Chun/ \ud589\ubcf5\ud558\uc790\ud83d\udc67\ud83c\udffb",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10723689_301228383408135_558438908_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "goo_jae_yee",
+                            "id": "265899032",
+                            "full_name": "\uad6c\uc7ac\uc774 jaeyee goo\ud83d\udc33",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802615_1742413462744765_7809460917451620352_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "joohee0630",
+                            "id": "538913789",
+                            "full_name": "Joohee Kim",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13741011_528912637309750_1784717751_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "kimjihyun7711",
+                            "id": "362858249",
+                            "full_name": "Jihyun Kim / \ud589\ubcf5\ud55c\uc138\uc0c1\ud83d\ude48\ud83d\ude49\ud83d\ude4a",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14134788_872242696240472_399495295_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "j_apostrophe_style",
+                            "id": "761362458",
+                            "full_name": "Jiseon Lee",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12479052_1588095941506733_616393922_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "hyoni_kang",
+                            "id": "207066840",
+                            "full_name": "HYONIKANG \uac15\uc2b9\ud604",
+                            "is_verified": true
+                        }
+                    }
+                ],
+                "count": 256
+            }
+        }
+    }
+}

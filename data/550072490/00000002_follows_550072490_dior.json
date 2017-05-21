@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQBLyETY0Lt2PYbJRpXejKo0n1zObag1hsUriBCqsg1eGlYvOoIVPphKwndeIKL3m-u_6BPiKOzUppcW3M_WT4VCzYtLKz12CJd-hVDxr2xiVQ",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12825724_543455422492778_1838397114_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "kirstendunst",
+                            "id": "3045009549",
+                            "full_name": "Kirsten Dunst",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464717_413648712360155_1014371468865175552_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "boygeorgeofficial",
+                            "id": "25030265",
+                            "full_name": "Boy George",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876167_1091055407687996_4475638338006548480_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "diorhomme",
+                            "id": "4265892365",
+                            "full_name": "Dior Homme Official",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13687177_762563733847354_1710187033_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "ruthnotmay",
+                            "id": "2031084168",
+                            "full_name": "Ruth Bell",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11380126_411688522356323_922198420_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "maynotruth",
+                            "id": "1951884183",
+                            "full_name": "May Bell",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10817972_1509310859343500_1619261436_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "brigittelacombe",
+                            "id": "1315365679",
+                            "full_name": "Brigitte Lacombe Official IG",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464615_1337409453020630_5114429790308270080_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "future",
+                            "id": "20111183",
+                            "full_name": "Future Hendrix",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372356_853285891452289_1401911659_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "vanityfairitalia",
+                            "id": "185280859",
+                            "full_name": "Vanity Fair Italia",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10632541_1452589388338029_1720399767_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "annehathaway",
+                            "id": "1470296487",
+                            "full_name": "Anne Hathaway",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11257824_846478068772046_1487026204_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "harpersbazaararabia",
+                            "id": "432038310",
+                            "full_name": "Harper's Bazaar Arabia",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583936_967715733362987_4812516958316527616_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "vmagazine",
+                            "id": "22636146",
+                            "full_name": "V Magazine",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14350532_1002907956485037_880907830_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "bebe_vio",
+                            "id": "970032701",
+                            "full_name": "Beatrice Vio",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10946291_898735570177268_909744338_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "maripolarama",
+                            "id": "1717049398",
+                            "full_name": "Maripol",
+                            "is_verified": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11261511_1282594235161457_793904263_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "patrickdemarchelier",
+                            "id": "2325348064",
+                            "full_name": "Patrick Demarchelier",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110614_798856726931056_8176976561686183936_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "hernameisbanks",
+                            "id": "270158761",
+                            "full_name": "BANKS",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820517_952281658188438_2143666903_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "thefashionguitar",
+                            "id": "17395902",
+                            "full_name": "Charlotte Groeneveld",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201523_1018981428142827_420869574_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "interviewmag",
+                            "id": "11711285",
+                            "full_name": "Interview Magazine",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13151110_271772259823855_2120081701_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "bazaarbr",
+                            "id": "12398129",
+                            "full_name": "Harper's Bazaar Brasil",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348209_784043241712585_546399015_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "marcquinnart",
+                            "id": "243374869",
+                            "full_name": "marcquinnart",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17817603_281186445671162_6409200226317369344_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "negin_mirsalehi",
+                            "id": "28159573",
+                            "full_name": "Negin Mirsalehi",
+                            "is_verified": true
+                        }
+                    }
+                ],
+                "count": 163
+            }
+        }
+    }
+}

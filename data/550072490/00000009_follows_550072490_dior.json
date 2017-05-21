@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQDp1mwIiIs4MUA4i9DYgQqDxWpxO6Ov8cKAy8xcY9E232oYQODxaRgvJdxLX276Uqw",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326150_1637597493176400_778431267_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "nytimesfashion",
+                            "id": "5857995",
+                            "full_name": "New York Times Fashion",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12256613_456383987879971_1345701054_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "lvmh",
+                            "id": "342885079",
+                            "full_name": "LVMH",
+                            "is_verified": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821949_767246046735419_190324017_a.jpg",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false,
+                            "username": "anothermagazine",
+                            "id": "13191255",
+                            "full_name": "AnOther Magazine",
+                            "is_verified": true
+                        }
+                    }
+                ],
+                "count": 163
+            }
+        }
+    }
+}
