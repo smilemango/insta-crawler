@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDK0VbaoSOj3QY21G9rVRMQ2B2Athfdc7nhuKoY9k6Kh1GaKedTpXCN01rlMHOEGN0"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stephani Nunez",
+                            "username": "jemappellestephani",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "510610858",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332782_234498640352135_3856729255685652480_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Aimee Song",
+                            "username": "songofstyle",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10051934",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15338563_562846357253321_7750332261601378304_a.jpg"
+                        }
+                    }
+                ],
+                "count": 7340
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAUTAFDe8KKJJGzgx89Ka3lmpnq85jfh-DuyNRSX0n3laCfv0azzNLfcWI9tbS9tXE"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Joao Paulo",
+                            "username": "jpcosme",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "174585394",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11202615_1597034690556732_709832379_a.jpg"
+                        }
+                    }
+                ],
+                "count": 579
+            }
+        }
+    },
+    "status": "ok"
+}

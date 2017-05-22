@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "43785699",
+                            "username": "hapatime",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18645826_1771566272869774_458284778693591040_a.jpg",
+                            "full_name": "Jessica Ricks",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDOlEFaR9g66l8Z8f9q_KMqyuORHyKFoYA_lNsNUhnWvEQX8h_n2Mfen4qlKzrq7_wHjzJzrEyNQ_UgoNiXHYG9Uyw6fMTFWtQ3nGUuadCoDg",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

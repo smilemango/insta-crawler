@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1350890358",
+                            "username": "huntforstyles",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579866_152712885266421_4298906339356180480_a.jpg",
+                            "full_name": "Gina Ybarra",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQChsXInaEJqDxz4_wlq61lM8DehDaBcwSE1XHSVLeMCxcjdV4xhFmwJXfVB_NRbjfyn9ke-k7zTPHXSXO2w7BGRDm2091r9twlTPfdWOy9qtA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

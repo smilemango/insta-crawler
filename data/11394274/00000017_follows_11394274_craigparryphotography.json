@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCoBAr2NwYMaLMne8EfCCHDEPqySFtbq-8RDPABXW2ID8p_ljcJyzqt491nosL1tsk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Adam Melling",
+                            "username": "adammelling",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5873737",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348311_398956373633867_969535539_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "James Wood",
+                            "username": "jimmywood",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5862082",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12479235_190272474692697_400746733_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u00c4LYSS\u00c5 GR\u0100NT",
+                            "username": "idontdrinkcoffee",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9152068",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558651_1718560148355433_709759959_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tony Hawk",
+                            "username": "tonyhawk",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1132845",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821190_1609277929320685_430060312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mick Fanning",
+                            "username": "mfanno",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4671809",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11910318_1651532858427145_1540836750_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kelly Slater",
+                            "username": "kellyslater",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "8139971",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18300237_1487391421281882_2875865210403422208_a.jpg"
+                        }
+                    }
+                ],
+                "count": 310
+            }
+        }
+    },
+    "status": "ok"
+}

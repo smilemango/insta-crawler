@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "50264581",
+                            "username": "mija_mija",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10547311_805729659445753_1754427560_a.jpg",
+                            "full_name": "Mija by Mirjam Flatau",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQA3iiuaDv-kz9yuUiSJWUcQCMMz8iO2GfF0Af-6pFDdg0Yg6HXPI3r98XOn0a8xdLdJ8gZCyk1t2nVVex6ZZeS8uHcxiLqoj3_nfgKhxyn6LA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

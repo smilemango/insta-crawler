@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "177879561",
+                            "username": "knighttcat",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15043947_547343438788561_5873444077374013440_n.jpg",
+                            "full_name": "DIGITAL FEE/S \ud83c\udfad",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "12281817",
+                            "username": "kyliejenner",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17883193_940000882769400_8455736118338387968_a.jpg",
+                            "full_name": "Kylie",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "25096719",
+                            "username": "rosiehw",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230204_1331135450295122_118740736039452672_a.jpg",
+                            "full_name": "Rosie Huntington-Whiteley",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "193513210",
+                            "username": "lifeofboheme",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095189_360528107678156_1008423433081454592_a.jpg",
+                            "full_name": "Marta Cygan",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "8245237",
+                            "username": "rumineely",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599324_564691240405104_755110152_a.jpg",
+                            "full_name": "Rumi Neely",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBdft7bm3lb1caPGiFtDilJ_KYZbWHkz6_hA4PRIDrhtgqX4O9WNneGLMG-8gADay4",
+                    "has_next_page": false
+                },
+                "count": 45
+            }
+        }
+    }
+}

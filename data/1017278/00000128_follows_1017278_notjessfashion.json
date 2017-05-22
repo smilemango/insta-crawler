@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2162976754",
+                            "username": "daniele_peccerillo",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624741_1297597560263154_7717606208533692416_a.jpg",
+                            "full_name": "Daniele Peccerillo",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCqa1qsDYXiVwIq_baKP1TQ3yRWX4MLkujNIRy_FHMRD94tqs_eIMo2-QIWX68-fmD2fNcvra38wnpCn9jMM4Wg3livF9697Pamxjma1sKwCA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

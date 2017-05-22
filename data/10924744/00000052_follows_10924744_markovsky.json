@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://instagram.fcgk1-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "Egor777",
+                            "is_verified": false,
+                            "id": "4155918093",
+                            "followed_by_viewer": false,
+                            "username": "kondrat02_06",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926239_734263319970234_681237007_a.jpg",
+                            "full_name": "Ilya M",
+                            "is_verified": false,
+                            "id": "246927998",
+                            "followed_by_viewer": false,
+                            "username": "ilya2702",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 973,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAX3lChU7WQtlHkqGdp3f-K-Mv0OxTZVuAyKkmBWfwcSVp3J6Ygj7U43P99OCs_bYh5FhmQot0tQXrkxr9a00zqNkQCh-Y-xHnaHyaLcs8YYQ"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

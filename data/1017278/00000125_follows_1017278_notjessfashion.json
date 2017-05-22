@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "526985070",
+                            "username": "theambitionista",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14718343_993217497473966_8913317467288240128_a.jpg",
+                            "full_name": "Heidi Nazarudin",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBmDTxS_qq5YnqR5ma0KlZC3aqcjFqSBPuXFLZg9adS4O70Ijkf5hQ3pUmdaOKRNY9GH0zbQhabUWJrFVlyJgOTb4YaEOeQ2i0MNBiJ0f_4fA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

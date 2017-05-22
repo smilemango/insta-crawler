@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2467953",
+                            "username": "rueckieful",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371255_862891680431302_1765801613_a.jpg",
+                            "full_name": "Kris Rock",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDtfCRuP7D51HFzeojG2KQ6Bt1KONdO8PMcq83jg1obL1dgK8FKZWB_dRH-NAxVYX95Iq_wjKp19XWZf4CFgJRkEYDR01m7_EI5ru5T0xZxXQ",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

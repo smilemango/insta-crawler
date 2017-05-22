@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAeKUzfYHeQkG27TPIGqi4JJG30rZl17bueR44-CL3zfz2jarlM4wRBIcfCuRJCzmU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "morning_ming",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "937286",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13118172_1715494205329569_2057607427_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\uff1cSHANG\uff1e",
+                            "username": "luciensssss",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "266461426",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13181408_1113510045376082_1153676278_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Wing Yeung",
+                            "username": "angelababycafe",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14415651",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13320140_266981103653835_918722715_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Angelababy",
+                            "username": "angelababyct",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9156600",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14262889_300464123659127_1298664126_a.jpg"
+                        }
+                    }
+                ],
+                "count": 22
+            }
+        }
+    },
+    "status": "ok"
+}

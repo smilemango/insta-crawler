@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1324635916",
+                            "username": "simplybysimone",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818657_1573843569311172_3984275383351508992_a.jpg",
+                            "full_name": "Simone",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "13625350",
+                            "username": "lisadnyc",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493542_643383432517403_2493989282885140480_a.jpg",
+                            "full_name": "Lisa DiCicco Cahue \ud83d\udc60",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQD_Jmw1lU8UeoAWDIKTmfSRGLnZqLo9Qi8-ZEGQD5Wqd2A32865Z9zehVIXh_-dqEXS3fGCmj-m_I4Cp3AJ-P7iUiNLlbe-BJKRsFh0vrDXHg",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

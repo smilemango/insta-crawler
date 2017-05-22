@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "4679905",
+                            "username": "pamhetlinger",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513840_1968771370020949_3960573378695266304_a.jpg",
+                            "full_name": "Pam Hetlinger",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4507990",
+                            "username": "9to5chic",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1168535_902098453240300_1188929749_a.jpg",
+                            "full_name": "Anh",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5750097",
+                            "username": "meg_legs",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443653_1686974758273712_6466254412963643392_a.jpg",
+                            "full_name": "\u2728M E G\u2728",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "606089297",
+                            "username": "livingboldly.ca",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18300138_460749937595926_2842423753223176192_a.jpg",
+                            "full_name": "Meagan Faye",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "321143099",
+                            "username": "rongrong_devoe_illustration",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513843_1070219559779483_1047031259177418752_a.jpg",
+                            "full_name": "Rongrong DeVoe|\u675c\u84c9\u84c9",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCHIPQlBWMubusXbZ6AnnNujmkn0ox4T8pz25wwfA0mnn4zjFxPHbtPZQwB0mMpNH60xPWH9ZaKzd7lvtLx2Qo1I0mIdAP0AKZB52Yq3_f82w",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

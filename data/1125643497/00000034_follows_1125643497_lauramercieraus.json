@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD4lVwElKlir74FGHzNEjZFrO2aK6AVCdF3msFEK-wVC0EZZHTr8J1mBqEqDmyQYHw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BEAUTICATE",
+                            "username": "beauticate",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "507984306",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1799825_392568580948041_284249323_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Laura Mercier Cosmetics",
+                            "username": "lauramercier",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "560611766",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249572_468554109983553_1982333449_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "sara_mclean",
+                            "username": "sara_mclean",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "173980688",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662009_287237891710410_4550602164614987776_a.jpg"
+                        }
+                    }
+                ],
+                "count": 656
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "6281714",
+                            "username": "muradosmann",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011246_1853221531609419_6194376003804987392_a.jpg",
+                            "full_name": "Murad Osmann",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "257558929",
+                            "username": "andicsinger",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12530875_218372941868080_1066162642_a.jpg",
+                            "full_name": "Andy Csinger",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "316719376",
+                            "username": "pepamack",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11939412_412963645559956_2035045125_a.jpg",
+                            "full_name": "Petra",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "500157638",
+                            "username": "fashionedchicstyling",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15337338_1136958349736129_845753208897798144_a.jpg",
+                            "full_name": "Erica Hoida \u2022 FashionedChic",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1368453610",
+                            "username": "monique_delapierre",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624596_356725618033536_8092937258727899136_a.jpg",
+                            "full_name": "Monique Delapierre",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBB822ydKpCygcB4bs35UbCiee5rhqoMcThEFcHAXf7W51G-i32kosTt7oo-nZWQMGVWE9kp6JrdsrzB4yjKT45LYOF-Og2COh-RfSg2BTMnw",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB3COK-fU9Apnf1XNXAdGrU7izan7EH_L_6MH68F7amRoW0MjT1620AIyk4OXwykvc9C29B09exWnM4E99zzkeZ4yPso5x64WpxZfqQnlOXdw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Helen Mitinskaya",
+                            "username": "mitinskaya",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "340310195",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17819337_1382709218452339_7157737395931054080_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u041a\u0430\u0442\u044f \u042f\u043a",
+                            "username": "kate_yak",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "31162033",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14073026_538769692999339_2142980150_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alena Sabanova",
+                            "username": "alenasabanova",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "193514779",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875759_202615900201720_6486125216597540864_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alisa Gagarina",
+                            "username": "alisa_gagarina",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25368938",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161682_1679741262322259_5897909890424242176_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anatoliy Budkov",
+                            "username": "upiter",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6410511",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17932453_1876924849215513_921282175892979712_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "yana.yatskovskaya@gmail.com",
+                            "username": "youryani",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6447183",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076130_169332216907227_8627835208781004800_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "olessiamiller",
+                            "username": "olessiamiller",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "28869526",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15099581_1198387450282816_4802971930372079616_a.jpg"
+                        }
+                    }
+                ],
+                "count": 512
+            }
+        }
+    },
+    "status": "ok"
+}

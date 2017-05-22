@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "30865148",
+                            "username": "levitatestyle",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438838_1658735171098038_7657066033156456448_a.jpg",
+                            "full_name": "Leo Chan \ud83d\udccdMorocco \ud83c\uddf2\ud83c\udde6",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBFVGYO9oRgAHQ2KAZTT7Q7jRUs_zSNTNcV7SbBk0VCrzngnySRHOOclru5uSfPtijr6PAan1ts5n0N_byUsy2_vHwt_tTkIZGxkx5zUW-ACA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

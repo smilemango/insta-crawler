@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "883740",
+                            "username": "dingster.eats",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10706723_873198002699361_1111225195_a.jpg",
+                            "full_name": "Food and Travel \ud83c\udf5c\ud83c\udf55\ud83c\udf54",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQC7zOciRa99t19_p_rPNB741VJrJxCSLB-yTi3V40Iv9VqHXLYWj9CRqABbWWfMozCOixlZwruRSpngESZmegItRdo-fPO-u9-jSlq-hj8W1Q",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

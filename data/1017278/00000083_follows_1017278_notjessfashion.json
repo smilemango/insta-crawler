@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "352424",
+                            "username": "mybelonging",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714489_319391828439089_3967192421514608640_a.jpg",
+                            "full_name": "Tommy Lei",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQAqU8tlRrjV_f0mN3Kzs-Vwr04tXn_pyfYMNQfeyz47GijHQwcAhLGw6E4LRsoNXVhArZRZsuQQY9_J0glT-Q1WXBczMY0rA0uJ47XzX1wd3A",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

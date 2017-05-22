@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBI_XzA9-z6hHmNFNjWjczR1QU00ZNs1ZK7rrIz0tqlA8qPUszeJ7wOUvLzW0_ZOZWdTiMUrPq7bwczhXV6rOwbjGsvK7Iyf4K1BkSsDGAaTw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83d\udc64  L E O N A D Z E \u00a9",
+                            "username": "leonadze",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "31349692",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15251703_1816681205270583_5320575000606932992_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dmitriy Nikiforov Retouch",
+                            "username": "d.s.nikiforov",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1396796686",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10611095_527287517416681_14880644_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Aaron Paul",
+                            "username": "glassofwhiskey",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "146293615",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11377798_614300048711932_379106669_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dmitry Khrustalev",
+                            "username": "dmitry_khrustalev",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "350535137",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10852783_273458256111482_11222074_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Magia di Gamma \u2764\ufe0f Poison Drop",
+                            "username": "magiadigamma",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "651054679",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373598_622986717804400_748302359_a.jpg"
+                        }
+                    }
+                ],
+                "count": 512
+            }
+        }
+    },
+    "status": "ok"
+}

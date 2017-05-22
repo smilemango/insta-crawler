@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "18485004",
+                            "username": "shalicenoel",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912568_206986703005680_2141295207_a.jpg",
+                            "full_name": "Shalice Noel",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQC-qoqDHYuJLOwAvElloYNFUt2V5TH0-eC3KrI_Ozypc4dHH4rAmqIs-hopAoafAJeQCooSU3wNZXimGSthhEZx95W30-XdMvp1HeGlVdmMOg",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

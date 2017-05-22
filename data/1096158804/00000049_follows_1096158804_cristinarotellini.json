@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDx77BBKZniID2-BRBRTl0hebbqZeFGtfKFdEwEKtraDjSkG1DIfpGfCb4m7-aMPtU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mafalda Marra",
+                            "username": "mafaldamarrafd",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "878021277",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16584995_1339812166064303_7500237303797776384_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Francesca Rotellini",
+                            "username": "fra0601",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "477951481",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14504667_1576724885970618_5839467248225353728_a.jpg"
+                        }
+                    }
+                ],
+                "count": 936
+            }
+        }
+    },
+    "status": "ok"
+}

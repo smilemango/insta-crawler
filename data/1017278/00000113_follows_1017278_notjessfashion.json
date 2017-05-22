@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "2569840",
+                            "username": "marianna_hewitt",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17931884_1781628728820725_7306673336904318976_a.jpg",
+                            "full_name": "Marianna Hewitt",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "6131270",
+                            "username": "blankitinerary",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661764_156759151513867_5587192641763672064_a.jpg",
+                            "full_name": "Paola Alberdi",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "587771206",
+                            "username": "ohhcouture",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583929_1837680909836923_3097091257764151296_a.jpg",
+                            "full_name": "Leonie Hanne",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "246004052",
+                            "username": "angelica_cheung",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11330614_1483202605307306_262106861_a.jpg",
+                            "full_name": "Angelica Cheung",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQAj0d94O2MqfLBimBycA3QKZkaA4Wfvr7_LMcZsA7Wt3MzZciwVm5OU8G_Sm88wC3PHhsbXluz8SjW3IbwL8edfBV5OTTXdbq7QlfT2hM8J0w",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

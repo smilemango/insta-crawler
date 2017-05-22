@@ -1,0 +1,104 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 223,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAVSSeKyAGeFE3XMRKLL-OcnT1T3OHcuEY5Bl_IC32WEFc2jtNL_UswaRB3SDZQfNA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123784_1294685973978804_6327388804499898368_n.jpg",
+                            "id": "13689943",
+                            "username": "madisonpettis",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Madison Pettis"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14590931_930233090413546_8504993792586153984_a.jpg",
+                            "id": "11167605",
+                            "username": "michaelablanks",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Michaela Blanks \ud83d\ude18"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15275639_229534127457838_1228397282727034880_a.jpg",
+                            "id": "9274528",
+                            "username": "briddynicole",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Brittany Mota-Wiley"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16124100_161289511028988_2298839927598612480_n.jpg",
+                            "id": "5393230",
+                            "username": "iamgraciedzienny",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Gracie Dzienny"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803697_1851353175107360_2498622753733607424_n.jpg",
+                            "id": "19189116",
+                            "username": "andreaschoice",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Andrea Brooks"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493653_200448133780479_1797242589863215104_a.jpg",
+                            "id": "4322367",
+                            "username": "jessicaharlow",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "H \u0391 R L\ud83d\udd78W"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437993_1830638447263171_5844458146252193792_a.jpg",
+                            "id": "13151837",
+                            "username": "chrisellelim",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chriselle Lim \ud83c\udf1f \uc784\uc18c\uc815"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126665_119529925243951_4298688112067870720_a.jpg",
+                            "id": "7620156",
+                            "username": "meaghandowling",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Meaghan Dowling \ud83c\udf19"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "350988977",
+                            "username": "howdoyouwearthat",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382595_448673528810768_3037591138782412800_a.jpg",
+                            "full_name": "Cait | Jersey City + NYC",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "3898716",
+                            "username": "ginnynam",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12940205_103058796767812_2141420746_a.jpg",
+                            "full_name": "Virginia Nam",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "31238368",
+                            "username": "dylanasuarez",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818110_411593372552377_2749555045476335616_a.jpg",
+                            "full_name": "Dylana Lim Suarez",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "30865031",
+                            "username": "natalieoffduty",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586689_375689296164277_7294082605916356608_a.jpg",
+                            "full_name": "Natalie Lim Suarez",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "449811767",
+                            "username": "arshiamoorjani",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446351_475159362675488_526683198_a.jpg",
+                            "full_name": "\ud83d\udc96Hi! I am Arshia!",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQB51JLKu3Tw8SHSdVq8Ulm8phLGaMEHz7uMeuKi6ZLI1w9h0GISWnKdzkF6X7Ow4pX_c8N4IcqdfjraIltKbTK3HDBzDQbS7FHZxVH2Vq9kPw",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

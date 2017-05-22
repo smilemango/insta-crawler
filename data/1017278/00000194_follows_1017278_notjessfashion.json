@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "183224860",
+                            "username": "jessicadddddd",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446297_1023637201064361_2114576038_a.jpg",
+                            "full_name": "Jessica Du",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "22677035",
+                            "username": "beigerenegade",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882899_773777692787057_2502724460386189312_a.jpg",
+                            "full_name": "Luxe Minimal Style & Life",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "15007430",
+                            "username": "kaity_modern",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237345_185952575080356_449355921_a.jpg",
+                            "full_name": "Kaitlyn Ham \u2022 MODERN LEGACY",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "405299470",
+                            "username": "xmyde",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13413231_580238545488155_1955638623_a.jpg",
+                            "full_name": "XMYDE",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "24969773",
+                            "username": "cece.lam",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908538_422585594746720_872205182329421824_a.jpg",
+                            "full_name": "CECE LAM",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBmOoVseuM4LvA7U0zQz9VQzJZn1bmGh0eEijq9WSjMARllU34qZ3CfbozpOVW7TKSqTEjHACYnWHGccC4u-pw_gE-0-HJxzmMY2beOcdc6rA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 120,
+                "page_info": {
+                    "end_cursor": "AQDkcEs1GZZ2xbAOtb2h893o24YvEU7y5p848I9EpDlKCToaTSmnGBTrYZDnCvqqJx8",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "2006446122",
+                            "username": "hyozung_jiyu",
+                            "full_name": "\uc804\ud6a8\uc815 Olivia Hyojung Chun",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14726476_525893894276604_3192857698341224448_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1820414857",
+                            "username": "paklaho",
+                            "full_name": "\ubc15\uac74\uc601 milan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13118192_572348526265816_115606256_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

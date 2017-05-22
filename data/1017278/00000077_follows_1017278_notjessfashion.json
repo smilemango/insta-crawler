@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5044404908",
+                            "username": "gigiwoodhouse",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17817630_1805386206446828_2206557109225521152_a.jpg",
+                            "full_name": "Gigi Woodhouse",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2309576918",
+                            "username": "qinmay99",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12354041_1651804438440371_610498702_a.jpg",
+                            "full_name": "Qin Na",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "8204017",
+                            "username": "juliahengel",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881789_308208379596061_4667416655066824704_a.jpg",
+                            "full_name": "Julia Engel (Gal Meets Glam)",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "31292250",
+                            "username": "luanna",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934699_1655314714482083_5761650309201920000_a.jpg",
+                            "full_name": "Lua",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "13151837",
+                            "username": "chrisellelim",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437993_1830638447263171_5844458146252193792_a.jpg",
+                            "full_name": "Chriselle Lim \ud83c\udf1f \uc784\uc18c\uc815",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQD8oyC-SGFstunsNmWcxZoK5b91sjAPrsmlOS_AWfMPIP8lTCFZvBUZ7k80WjIvXAOg2SdIRa1NL37zwOc-DkILeu7FvGNh_hFzJIttcvALnQ",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 557,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCzEaDroGwc9JEgz4tA1Wmjs7Egoz-RbwoHga-FgilF6SNqe4IowiyxavtIHwrteUI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12071031_152050941813686_135188217_a.jpg",
+                            "id": "2010425",
+                            "username": "ninamyhrstad",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nina Myhrstad Ingvaldsen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10914564_1530218390591108_1492525012_a.jpg",
+                            "id": "8282474",
+                            "username": "elisejolstad",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Elise J\u00f8lstad"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818368_230813554063180_5861544853300576256_a.jpg",
+                            "id": "13066709",
+                            "username": "ginafp",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gina Farsirotos Prebensen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531024_1693097050975537_1305938198_a.jpg",
+                            "id": "8894156",
+                            "username": "sunnivafekj",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sunniva Fekj\u00e6r"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299229_234598880355652_5103143346398822400_a.jpg",
+                            "id": "4413489",
+                            "username": "odahoiesen",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Oda H\u00f8iesen"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

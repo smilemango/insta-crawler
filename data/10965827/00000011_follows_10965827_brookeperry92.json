@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 808,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDDlE-hGwcMarYUjCN3mB9lRle0WIsZEmCgJF13_dSPSiyRz3iY2_IuemmM6qX8gr5igq9d34V5XgXsi7K3zQzvnUWnY2dcV_af9VDqJBF2tA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201523_1018981428142827_420869574_a.jpg",
+                            "id": "11711285",
+                            "username": "interviewmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Interview Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12339000_744907905642008_1402336868_a.jpg",
+                            "id": "6652363",
+                            "username": "milk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Milk"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14350452_1190125297676632_2043518248_a.jpg",
+                            "id": "146182543",
+                            "username": "wmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "W magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10593485_391163667697620_2047129171_a.jpg",
+                            "id": "10257497",
+                            "username": "papermagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Paper Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14145342_1738901639681937_1937107038_a.jpg",
+                            "id": "6894374",
+                            "username": "dazed",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dazed"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382452_255234014945849_2950427135447138304_a.jpg",
+                            "id": "2122626782",
+                            "username": "watts.on",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Watts.on"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14733744_1284610551559754_1753512482690826240_a.jpg",
+                            "id": "19314278",
+                            "username": "jakezaves",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jake Zaves"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512703_1324114364374784_4206783993846169600_n.jpg",
+                            "id": "13480238",
+                            "username": "courtsidemvtthew",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Matthew Davidson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15101739_332126447172779_2210062163316310016_a.jpg",
+                            "id": "202023733",
+                            "username": "victornoblepr",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Victor Noble"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907186_966664220049625_2099170345_a.jpg",
+                            "id": "9315054",
+                            "username": "justmegday",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Meg Day"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928861_1596843910581803_606045709_a.jpg",
+                            "id": "2045854",
+                            "username": "enriquevegaphoto",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Enrique Vega"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10706648_1511380752433370_346817071_a.jpg",
+                            "id": "218250532",
+                            "username": "francychamps",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francine Champagne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11055495_1556148971319857_1481886555_a.jpg",
+                            "id": "180721644",
+                            "username": "aleimmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ALEIM"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15306521_741177026034590_2981119409831018496_a.jpg",
+                            "id": "54584688",
+                            "username": "noelkirvendows",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Noel Kirven-Dows"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16790206_1324317150959677_7552399462564364288_a.jpg",
+                            "id": "323410914",
+                            "username": "cedricmarianalexander",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u00a9\u24c2\ufe0f\ud83c\udd70\ufe0f \ud83d\udd0a\ud83c\udfb6\ud83d\udc6f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11246316_945293278863988_217572976_a.jpg",
+                            "id": "281458739",
+                            "username": "sandelous",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Olivia Sandelman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10518162_1506670962967809_1811077833_a.jpg",
+                            "id": "272565825",
+                            "username": "waltertambke",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Walter Tambke"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444747_167197320477841_4171518610084200448_a.jpg",
+                            "id": "224299921",
+                            "username": "kristine_froseth",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "kristine_froseth"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15099611_681595082015876_4801035922323800064_a.jpg",
+                            "id": "383095253",
+                            "username": "gasolinealleycoffee",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gasoline Alley Coffee"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17819179_647011678839601_2996212826852294656_a.jpg",
+                            "id": "305919173",
+                            "username": "kellyswork",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kelly Hanna Thompson"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

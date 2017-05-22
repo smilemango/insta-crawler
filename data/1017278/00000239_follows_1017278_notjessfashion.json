@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1062891320",
+                            "username": "infinitycre8ive",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10802683_609187629187223_2111356647_a.jpg",
+                            "full_name": "INFINITY CREATIVE",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQD3T938-fTwc9zyrmOC6Z4QAYh12CCbf9AzBiNZOKJGfaMTt1TZxjrDjZ4W6w-jVbQy5beU4bbKY1SCKHOayOqtVO2SjfqT7xJo0fXcvfvmcQ",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

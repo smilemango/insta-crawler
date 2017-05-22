@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "750329",
+                            "username": "oh_anthonio",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908821_1407583799272142_2844546759852556288_a.jpg",
+                            "full_name": "Anthony Urbano",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1874303",
+                            "username": "thecharmingolive",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14583478_1815409225368650_847687833966608384_a.jpg",
+                            "full_name": "ADELINA PERRIN",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQA3em-_vlOrNHbGaZo0SoiIYhXCV0vxi__GzJS5fAU8CQmBiij5Yto0qKOanfnqUmSlh73Mblhy_g9OuX5lVJ04mGVPDgwJ7y3w73e4Zr8gbA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

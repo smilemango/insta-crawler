@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDi-3AufnMmmvKx7YvNO3jUvpLD8FC7XxuhvDH2wT9CQwgmYfurgB6quPBJPjXz2iU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "daniellekkkk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16123296",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908343_1443298792349888_1700742354123620352_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Garance Dor\u00e9",
+                            "username": "garancedore",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12488328",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662260_268973026887008_5417978596817895424_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Marie | Monat",
+                            "username": "blushingandsweet",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "10315081",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18298429_759791690892388_249144163713417216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sari Wynne Photography",
+                            "username": "sariwynnephotography",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2990596",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372054_1608142799445215_1561093699_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Leila",
+                            "username": "leilahoney",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12465914",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1389170_149877152013990_1975579402_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Will Taylor",
+                            "username": "brightbazaar",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2635838",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624903_361634537539302_8319343637943025664_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alimoe",
+                            "username": "sweetalimoe",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6884491",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10881940_1416312348660555_1384390766_a.jpg"
+                        }
+                    }
+                ],
+                "count": 504
+            }
+        }
+    },
+    "status": "ok"
+}

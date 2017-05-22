@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 907,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCT1MRoAUTFhbIFXGouNrHfXhk9ar5Qh5URYRgTFlgk1DyLndPNv7dRqoRvlvYbEOdyg-uQBcv-tr_R4KLuCxwrHwPzOVe8a0OIAxlbP1BRYQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110291_387677088254140_4065679272902131712_n.jpg",
+                            "id": "614085353",
+                            "username": "wwd",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "WWD"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850209_1152449768115827_673158304_a.jpg",
+                            "id": "399014591",
+                            "username": "rosie_assoulin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "rosie_assoulin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881831_1681683735396040_2013586194_a.jpg",
+                            "id": "4886940",
+                            "username": "saks",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Saks Fifth Avenue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14033664_342850846046596_844468633_a.jpg",
+                            "id": "230911402",
+                            "username": "josephfashion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "JOSEPH"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906303_959424924120518_1031079524_a.jpg",
+                            "id": "5860403",
+                            "username": "ragandbone",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "rag & bone"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821661_373552819520913_989994150_a.jpg",
+                            "id": "1392487",
+                            "username": "bergdorfs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Bergdorf Goodman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10401708_671644379551870_964127861_a.jpg",
+                            "id": "306672527",
+                            "username": "roksandailincic",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Roksanda"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12224612_1691895397721588_647189687_a.jpg",
+                            "id": "315569374",
+                            "username": "dereklam",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Derek Lam+Derek Lam 10 Crosby"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407153_1690182361258775_425315793_a.jpg",
+                            "id": "195220864",
+                            "username": "delpozo",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Delpozo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809631_711168325680639_1117097099_a.jpg",
+                            "id": "6696686",
+                            "username": "intermixonline",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "INTERMIX"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424457_447786412082467_1513372492_a.jpg",
+                            "id": "34207036",
+                            "username": "tibi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Tibi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10919123_880321415346381_2041291076_a.jpg",
+                            "id": "934406275",
+                            "username": "ath.arch",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alex Athanasiadis"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12934997_1990298774529189_1834808544_a.jpg",
+                            "id": "624022637",
+                            "username": "style_arrow_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "style arrow"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934237_1337747026319688_5055159765609480192_a.jpg",
+                            "id": "1093341940",
+                            "username": "nammosmykonos",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nammos Mykonos"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13731158_310273065986662_153054569_a.jpg",
+                            "id": "7586983",
+                            "username": "guiselarhein1",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Guisela Rhein"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818720_1945217142365381_1460679404836356096_a.jpg",
+                            "id": "3279779273",
+                            "username": "irini.grg",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "IRINI GEORGIOU \ud83c\uddec\ud83c\uddf7"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662229_1396298370427061_59661639816839168_a.jpg",
+                            "id": "218689126",
+                            "username": "adriana_paraskevopoulou",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Wanderlust. \ud83c\udf1e"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034468_546019725588502_737085073110597632_a.jpg",
+                            "id": "10540616",
+                            "username": "how_about_mina",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mina Cvetkovic"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10945164_666912406753321_1971784134_a.jpg",
+                            "id": "187950587",
+                            "username": "anabrand",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anita Brand MakeUp&Hair"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596647_201454650344274_4341589612674678784_a.jpg",
+                            "id": "234515680",
+                            "username": "martefrisnesjewellery",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "MARTE FRISNES"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

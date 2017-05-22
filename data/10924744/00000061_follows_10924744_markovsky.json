@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661845_278093685935665_7867025062744817664_a.jpg",
+                            "full_name": "Abdulnasser Alyaquob",
+                            "is_verified": false,
+                            "id": "206275944",
+                            "followed_by_viewer": false,
+                            "username": "an_alyaquob",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 973,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBYa8Z62pRKrF8fw7qevafkPpxFL0LK9FNzs_9naSA7d7X-QUUUluAiCSJ7IiMUpfU"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

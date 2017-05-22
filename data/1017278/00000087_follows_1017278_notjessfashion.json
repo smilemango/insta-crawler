@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "739181077",
+                            "username": "thriftsandthreads",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161548_709687342553046_5225917988737122304_a.jpg",
+                            "full_name": "Brittany Xavier",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDX1uN533JgwQ-nZYzmhOFMpjAKS45Ojs17M6q8UAAR6mP-N86i9xH_MKzK-A7N9ESVEz3upbNQ_qf5x3xIjd3bhS7Hvr5XzDMoF03qlKv_EQ",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 935,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCZzLQLSL7wkVnxYvlWte73cnOPyT7YCUE3EYjQRAstDvsn1GbDKMtqFZY0KMo8XWI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899524_1455289074799289_698890990_a.jpg",
+                            "id": "643157759",
+                            "username": "caron_boutique",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Caron"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719274_235763240201441_6142324831288295424_n.jpg",
+                            "id": "225542282",
+                            "username": "filippominelli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Filippo Minelli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324327_862856887133718_1802116580_a.jpg",
+                            "id": "253132147",
+                            "username": "mmclementina",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marta Morandi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10979641_848390158553562_156937404_a.jpg",
+                            "id": "358781955",
+                            "username": "misscocomasloco",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Coco"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10299905_1545658989089131_1262296672_a.jpg",
+                            "id": "724704830",
+                            "username": "alessandroaplusbboccingher",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessandro Boccingher"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11192684_1564188370508117_1450226729_a.jpg",
+                            "id": "203676576",
+                            "username": "angelorug",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Angelo Ruggeri"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

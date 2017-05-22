@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5798444",
+                            "username": "amy_marietta",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14565057_1114970955252423_4489228396215140352_a.jpg",
+                            "full_name": "Amy Nicole Marietta",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCZyBFa2VESxZ6AeFp-gMgBSuzmfEpgdfLsYng9p6BGxKseF1HXIeecfh0rP0WnL1akNTfFEHsy1OTzNbbYgB3N4Iyxm6AYY94-2Gplu4pqrA",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

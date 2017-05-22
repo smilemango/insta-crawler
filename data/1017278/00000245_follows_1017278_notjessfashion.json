@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "14876102",
+                            "username": "nicolettareggio",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095122_784428151722266_253693667951247360_a.jpg",
+                            "full_name": "Nicoletta Reggio",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "211897372",
+                            "username": "vicfrid",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820508_1612111899078454_1177551414_a.jpg",
+                            "full_name": "Vicki Frid",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "3901025",
+                            "username": "joannahalpin",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252103_1340080886039146_6609242507131748352_a.jpg",
+                            "full_name": "Joanna Halpin",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4835338",
+                            "username": "sliceofpai",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14309758_1136649383093785_2103697031_a.jpg",
+                            "full_name": "Joann Pai",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "37596807",
+                            "username": "aldensteimle",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034840_1612467602392726_7805147842573500416_a.jpg",
+                            "full_name": "A L D E N",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "10615912",
+                            "username": "jannid",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228542_588210148041314_4358065914675986432_a.jpg",
+                            "full_name": "Janni Del\u00e9r",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "466114003",
+                            "username": "inrachelshoes",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13256696_1110257882353541_349919831_a.jpg",
+                            "full_name": "Rachel\ud83d\udccdNYC",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQAORILVHMU5Lngcl1QA5vO3TDaCylGr8iX8P3K7bC_pOgSFIHbzwgftuLeT10pm84JLKu-Ve9AMCgjF4ONM3Fw_4JR0w8uWXtWDqGdXoIKxdg",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

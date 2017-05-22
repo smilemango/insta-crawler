@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "13964698",
+                            "username": "carakcrowley",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14369231_1579224005720543_1862781899_a.jpg",
+                            "full_name": "Cara Crowley Stammler",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCz4ljORD7uR11OBkc5z8c27ZjC8bNIChExbX0cyWpHr5sIeBycQVcMhiaubZxGQpbpgYNHg76qIAVWqeQdDRxIq7RReBQpJxO64en_oGm_Sg",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}

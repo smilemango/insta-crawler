@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDeqHNmKFV0A9gLPQLSGDyJO-vdvm-Dxkmxn9MeXP-6x1tcUAfQe7Pw6WIhIPX981w"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lili Claire(inet) \ud83c\udfb7",
+                            "username": "lilicotto",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7575765",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14032964_1764941250387281_871511161_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Malcolm (Malcs)",
+                            "username": "theycallmemalcsss",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8626041",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17495260_739329642902523_5508253784268079104_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Casey Goldberg",
+                            "username": "caseygoldberg",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8054604",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013516_449814478696286_3472578408544731136_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1012
+            }
+        }
+    },
+    "status": "ok"
+}

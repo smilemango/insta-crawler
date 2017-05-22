@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "3335002",
+                            "username": "retroflame",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15047998_1103265369794284_7387350178686042112_a.jpg",
+                            "full_name": "Retro Flame // Erika Fox",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQB65vhl5JxyYE3XK3fzGffC1D2WTsC-ijQypMucJntJ0lzdZEydJkWBehGqC0Sm9cJ8pdXIGR6SCnDES3hU9vml_za35XnjfuvfvE_m8Rw2PQ",
+                    "has_next_page": true
+                },
+                "count": 1629
+            }
+        }
+    }
+}
