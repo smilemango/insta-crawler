@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDP1z_xH2-GmcDEknC05feD7NwTzgo0dzu2H-nq9sli4W27KVU60tXj6sDhw5ooXxg"
+                },
+                "count": 826,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "5322096",
+                            "followed_by_viewer": false,
+                            "username": "glitterguide",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12224541_988359254554741_585687403_a.jpg",
+                            "full_name": "Glitter Guide"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "6924184",
+                            "followed_by_viewer": false,
+                            "username": "blaireadiebee",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407328_945381258879608_238774756_a.jpg",
+                            "full_name": "Blair Eadie / Atlantic-Pacific"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "7522782",
+                            "followed_by_viewer": false,
+                            "username": "tuulavintage",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230057_103230576859290_3654277167505735680_a.jpg",
+                            "full_name": "Jessica Stein"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "10961729",
+                            "followed_by_viewer": false,
+                            "username": "teresamason",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850286_871323292964621_1711539502_a.jpg",
+                            "full_name": "Teresa Mason"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5477987",
+                            "followed_by_viewer": false,
+                            "username": "brooklynblonde1",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583488_1310408749006756_7670593470741872640_a.jpg",
+                            "full_name": "Helena Glazer Hodne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "9675477",
+                            "followed_by_viewer": false,
+                            "username": "sincerelyjules",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15306584_1817826551828727_8387062713716572160_a.jpg",
+                            "full_name": "JULIE SARI\u00d1ANA"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
