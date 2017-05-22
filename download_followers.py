@@ -1,10 +1,30 @@
+import random
+import time
 import insta_crawler
-import pprint
 import os
 import json
+import logging
 
 DATA_DIR = "./data"
 USER_DICT = []
+
+logger = logging.getLogger("main_logger")
+
+formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+
+fileHandler = logging.FileHandler('./log/download_followers.log')
+fileHandler.setFormatter(formatter)
+streamHandler = logging.StreamHandler()
+streamHandler.setFormatter(formatter)
+
+
+logger.addHandler(fileHandler)
+logger.addHandler(streamHandler)
+
+fileHandler.setLevel(logging.DEBUG)
+streamHandler.setLevel(logging.INFO)
+
+logger.setLevel(logging.DEBUG)
 
 
 def touch(path):
@@ -21,7 +41,22 @@ def download_follows_by_username(username):
         return False
 
 def load_json_objects(files):
-    print("xx")
+    logger.info("load json files --> %s" % files)
+    count = 0
+    for file in files:
+        with open(file) as data_file:
+            data = json.load(data_file)
+            for node in data["data"]["user"]["edge_follow"]["edges"]:
+                USER_DICT.append({
+                    "username":node["node"]["username"],
+                    "id":node["node"]["id"]
+                })
+
+                count = count + 1
+
+    logger.info("%d users were added." % count)
+
+
 
 def download_follows_by_id(id, username = None):
     # id 타겟 dir이 없으면 만든다.
@@ -35,24 +70,31 @@ def download_follows_by_id(id, username = None):
         for file in os.listdir(dir4id):
             if file.endswith(".json"):
                 files.append(os.path.join(dir4id, file))
-
+        logger.info("Loading follows for '%s'(%s)." % (username,id))
         load_json_objects(files)
         return
 
-    json_follows = ic.get_follows_by_id(id)  # "1408289748"
-    # pprint.pprint(json_follows)
-    # json_follows['data']['user']['edge_follow']['page_info']['end_cursor']
-    # json_follows['data']['user']['edge_follow']['page_info']['has_next_page']
-    #
     file_idx = 0
 
-    while json_follows['data']['user']['edge_follow']['page_info']['has_next_page'] == True:
+    while True:
         file_idx = file_idx + 1
         file_name = "%08d_follows_%s_%s.json" % (file_idx, id, username)
 
-        if file_idx > 1:
-            json_follows = ic.get_follows_by_id(id, after=json_follows['data']['user']['edge_follow']['page_info'][
-                'end_cursor'])
+        if file_idx == 1:
+            json_follows = ic.get_follows_by_id(id)  # "1408289748"
+        else :
+            json_follows = ic.get_follows_by_id(id, after=after)
+
+        if 'status' in json_follows and 'message' in json_follows:
+            logger.info("Received wating message.")
+            logger.error(json_follows)
+            # message:'몇 분 후에 다시 시도해주세요.', status:'fail'
+            if json_follows['status'] == 'fail' and json_follows['message'] == '몇 분 후에 다시 시도해주세요.':
+                waits = random.randrange(1, 10)
+                logger.info("Waiting for %d seconds." % waits)
+                time.sleep(waits)
+                file_idx = file_idx - 1
+                continue
 
         for node in  json_follows['data']['user']['edge_follow']['edges']:
             f_id = node['node']['id']
@@ -60,30 +102,42 @@ def download_follows_by_id(id, username = None):
             USER_DICT.append({"id":f_id, "username":f_username})
 
         outfile_name = dir4id + "/" + file_name
-        print("Writing... '%s'" % outfile_name)
+        logger.info("Writing... '%s'" % outfile_name)
         with open(outfile_name, 'w') as outfile:
             json.dump(json_follows, outfile, indent=4)
+
+        if not json_follows['data']['user']['edge_follow']['page_info']['has_next_page'] == True:
+            break
+        else :
+            after = json_follows['data']['user']['edge_follow']['page_info']['end_cursor']
 
     touch(dir4id+"/END")
 
 
 if __name__ == "__main__":
+    logger.info("Start crawling.")
+
     if os.path.isdir(DATA_DIR) == True :
-        print("'%s' directory already exists." % DATA_DIR)
+        logger.info("DATA DIRECTORY '%s' already exists." % DATA_DIR)
     else:
         os.mkdir(DATA_DIR)
-        print("'%s' directory is made." % DATA_DIR)
+        logger.info("DATA DIRECTORY '%s' directory is made." % DATA_DIR)
 
-    ic = insta_crawler.InstaCrawler("smileman_god@naver.com","my password")
+    ic = insta_crawler.InstaCrawler("smileman_god@naver.com","zaq12345")
     ic.login()
-    print(ic.is_logged_in())
+    if ic.is_logged_in()== False:
+        logger.error("Login failure.")
+        exit(-1)
 
     download_follows_by_username("lovelymrsyi")
-    input("Press any key...")
+    #input("Press any key...")
 
 
     for user in USER_DICT:
-        print("Downloading... '%s'" % user['username'])
+        logger.info("Downloading... '%s'" % user['username'])
         download_follows_by_id(user["id"], username=user['username'])
-        print("[OK]")
-        input("Press any key...")
+        logger.info("[OK]")
+        waits = random.randrange(1,5)
+        logger.info("Waiting %d seconds." % waits)
+        time.sleep(waits)
+        #input("Press any key...")
