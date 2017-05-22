@@ -4,6 +4,7 @@ import insta_crawler
 import os
 import json
 import logging
+import sqlite3
 
 DATA_DIR = "./data"
 USER_DICT = []
@@ -26,6 +27,10 @@ streamHandler.setLevel(logging.INFO)
 
 logger.setLevel(logging.DEBUG)
 
+conn = sqlite3.connect("./data/insta-users.sqlite3")
+
+
+
 
 def touch(path):
     with open(path, 'a'):
@@ -43,6 +48,8 @@ def download_follows_by_username(username):
 def load_json_objects(files):
     logger.info("load json files --> %s" % files)
     count = 0
+
+    cur = conn.cursor()
     for file in files:
         with open(file) as data_file:
             data = json.load(data_file)
@@ -51,9 +58,10 @@ def load_json_objects(files):
                     "username":node["node"]["username"],
                     "id":node["node"]["id"]
                 })
-
+                cur.execute("INSERT OR IGNORE INTO users (id, username) VALUES (%s, '%s')" % (node["node"]["id"], node["node"]["username"]))
                 count = count + 1
 
+    conn.commit()
     logger.info("%d users were added." % count)
 
 
@@ -117,6 +125,8 @@ def download_follows_by_id(id, username = None):
 if __name__ == "__main__":
     logger.info("Start crawling.")
 
+
+
     if os.path.isdir(DATA_DIR) == True :
         logger.info("DATA DIRECTORY '%s' already exists." % DATA_DIR)
     else:
@@ -141,3 +151,5 @@ if __name__ == "__main__":
         logger.info("Waiting %d seconds." % waits)
         time.sleep(waits)
         #input("Press any key...")
+
+    conn.close()
