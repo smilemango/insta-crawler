@@ -7,7 +7,8 @@ import logging
 import sqlite3
 
 DATA_DIR = "./data"
-USER_DICT = []
+USER_DICT = {}
+NEXT_USER_DICT = {}
 COMPL_USER_DICT = {}
 
 logger = logging.getLogger("main_logger")
@@ -56,10 +57,7 @@ def load_json_objects(files):
             data = json.load(data_file)
             for node in data["data"]["user"]["edge_follow"]["edges"]:
                 if not node["node"]["id"] in COMPL_USER_DICT:
-                    USER_DICT.append({
-                        "username":node["node"]["username"],
-                        "id":node["node"]["id"]
-                    })
+                    NEXT_USER_DICT[node["node"]["id"]]= node["node"]["username"]
                 cur.execute("INSERT OR IGNORE INTO users (id, username) VALUES (%s, '%s')" % (node["node"]["id"], node["node"]["username"]))
                 count = count + 1
 
@@ -115,10 +113,7 @@ def download_follows_by_id(id, username = None):
             f_id = node['node']['id']
             f_username = node['node']['username']
             if not node["node"]["id"] in COMPL_USER_DICT:
-                USER_DICT.append({
-                    "username": f_username,
-                    "id": f_id
-                })
+                NEXT_USER_DICT[f_id] = f_username
 
         outfile_name = dir4id + "/" + file_name
         logger.info("Writing... '%s'" % outfile_name)
@@ -156,18 +151,26 @@ if __name__ == "__main__":
 
     download_follows_by_username("lovelymrsyi")
     #input("Press any key...")
+    iter_count = 1
+    USER_DICT= NEXT_USER_DICT
+    NEXT_USER_DICT={}
+    while len(USER_DICT) != 0 or len(NEXT_USER_DICT) != 0:
+        for id in USER_DICT:
+            logger.info("Downloading... '%s'" % USER_DICT[id])
+            if id in COMPL_USER_DICT:
+                logger.info("'%s' is already done. SKIP." % USER_DICT[id])
+                continue
+            download_follows_by_id(id, username=USER_DICT[id])
+            logger.info("[OK]")
+            #waits = random.randrange(1,5)
+            #logger.info("Waiting %d seconds." % waits)
+            #time.sleep(waits)
+            #input("Press any key...")
 
-
-    for user in USER_DICT:
-        logger.info("Downloading... '%s'" % user['username'])
-        if user['id'] in COMPL_USER_DICT:
-            logger.info("'%s' is already done. SKIP." % user['username'])
-            continue
-        download_follows_by_id(user["id"], username=user['username'])
-        logger.info("[OK]")
-        #waits = random.randrange(1,5)
-        #logger.info("Waiting %d seconds." % waits)
-        #time.sleep(waits)
-        #input("Press any key...")
+        logger.info("[%d] iteration completed. Count=%d" % (iter_count,len(USER_DICT)))
+        if len(NEXT_USER_DICT) > 0 :
+            logger.info("Next User Dict length : %d" % len(NEXT_USER_DICT))
+            USER_DICT = NEXT_USER_DICT
+            NEXT_USER_DICT = {}
 
     conn.close()
