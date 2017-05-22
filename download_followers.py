@@ -8,6 +8,7 @@ import sqlite3
 
 DATA_DIR = "./data"
 USER_DICT = []
+COMPL_USER_DICT = {}
 
 logger = logging.getLogger("main_logger")
 
@@ -54,10 +55,11 @@ def load_json_objects(files):
         with open(file) as data_file:
             data = json.load(data_file)
             for node in data["data"]["user"]["edge_follow"]["edges"]:
-                USER_DICT.append({
-                    "username":node["node"]["username"],
-                    "id":node["node"]["id"]
-                })
+                if not node["node"]["id"] in COMPL_USER_DICT:
+                    USER_DICT.append({
+                        "username":node["node"]["username"],
+                        "id":node["node"]["id"]
+                    })
                 cur.execute("INSERT OR IGNORE INTO users (id, username) VALUES (%s, '%s')" % (node["node"]["id"], node["node"]["username"]))
                 count = count + 1
 
@@ -80,6 +82,11 @@ def download_follows_by_id(id, username = None):
                 files.append(os.path.join(dir4id, file))
         logger.info("Loading follows for '%s'(%s)." % (username,id))
         load_json_objects(files)
+        if username != None :
+            COMPL_USER_DICT[id]= username
+        else:
+            COMPL_USER_DICT[id]= id
+
         return
 
     file_idx = 0
@@ -98,7 +105,7 @@ def download_follows_by_id(id, username = None):
             logger.error(json_follows)
             # message:'몇 분 후에 다시 시도해주세요.', status:'fail'
             if json_follows['status'] == 'fail' and json_follows['message'] == '몇 분 후에 다시 시도해주세요.':
-                waits = random.randrange(1, 10)
+                waits = random.randrange(20, 60)
                 logger.info("Waiting for %d seconds." % waits)
                 time.sleep(waits)
                 file_idx = file_idx - 1
@@ -107,7 +114,11 @@ def download_follows_by_id(id, username = None):
         for node in  json_follows['data']['user']['edge_follow']['edges']:
             f_id = node['node']['id']
             f_username = node['node']['username']
-            USER_DICT.append({"id":f_id, "username":f_username})
+            if not node["node"]["id"] in COMPL_USER_DICT:
+                USER_DICT.append({
+                    "username": f_username,
+                    "id": f_id
+                })
 
         outfile_name = dir4id + "/" + file_name
         logger.info("Writing... '%s'" % outfile_name)
@@ -120,6 +131,10 @@ def download_follows_by_id(id, username = None):
             after = json_follows['data']['user']['edge_follow']['page_info']['end_cursor']
 
     touch(dir4id+"/END")
+    if username != None :
+        COMPL_USER_DICT[id] = username
+    else:
+        COMPL_USER_DICT[id] = id
 
 
 if __name__ == "__main__":
@@ -145,11 +160,14 @@ if __name__ == "__main__":
 
     for user in USER_DICT:
         logger.info("Downloading... '%s'" % user['username'])
+        if user['id'] in COMPL_USER_DICT:
+            logger.info("'%s' is already done. SKIP." % user['username'])
+            continue
         download_follows_by_id(user["id"], username=user['username'])
         logger.info("[OK]")
-        waits = random.randrange(1,5)
-        logger.info("Waiting %d seconds." % waits)
-        time.sleep(waits)
+        #waits = random.randrange(1,5)
+        #logger.info("Waiting %d seconds." % waits)
+        #time.sleep(waits)
         #input("Press any key...")
 
     conn.close()
