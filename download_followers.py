@@ -20,6 +20,8 @@ def download_follows_by_username(username):
     else :
         return False
 
+def load_json_objects(files):
+    print("xx")
 
 def download_follows_by_id(id, username = None):
     # id 타겟 dir이 없으면 만든다.
@@ -29,6 +31,12 @@ def download_follows_by_id(id, username = None):
 
     # 디렉토리 내에 'END'라는 파일이 있으면 패스함
     if os.path.exists(dir4id+"/END"):
+        files = []
+        for file in os.listdir(dir4id):
+            if file.endswith(".json"):
+                files.append(os.path.join(dir4id, file))
+
+        load_json_objects(files)
         return
 
     json_follows = ic.get_follows_by_id(id)  # "1408289748"
