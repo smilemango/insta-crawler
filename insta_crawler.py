@@ -1,7 +1,15 @@
 import requests
 import json
-import pprint
+import traceback
 import re
+
+
+class CrawlerException(Exception):
+    def __init__(self, object):
+        self._object = object
+
+    def getObject(self):
+        return self._object
 
 
 class InstaCrawler:
@@ -23,7 +31,6 @@ class InstaCrawler:
         r = self._session.get('http://www.instagram.com', headers=headers)
         self._last_cookies = r.cookies
 
-
     def login(self):
         headers = {
             "Host": "www.instagram.com",
@@ -42,7 +49,8 @@ class InstaCrawler:
             "password": self._password
         }
 
-        r = self._session.post("https://www.instagram.com/accounts/login/ajax/", headers=headers, data=data, cookies=self._last_cookies)
+        r = self._session.post("https://www.instagram.com/accounts/login/ajax/", headers=headers, data=data,
+                               cookies=self._last_cookies)
         self._last_cookies = r.cookies
 
         result = json.loads(r.text)
@@ -52,16 +60,13 @@ class InstaCrawler:
         if result['authenticated'] == True:
             self._is_logged_in = True
             return True
-        else :
+        else:
             return False
-
-
 
     def is_logged_in(self):
         return self._is_logged_in
 
-
-    def get_followed_by_id(self, id, after = None):
+    def get_followed_by_id(self, id, after=None):
         if self._is_logged_in == False:
             return None
 
@@ -81,7 +86,7 @@ class InstaCrawler:
 
         url = "https://www.instagram.com/graphql/query/?query_id=17851374694183129&id=%s&first=20" % id
 
-        if after != None :
+        if after != None:
             url = url + "&after" + after
 
         r = self._session.get(url, headers=headers, cookies=self._last_cookies)
@@ -110,13 +115,17 @@ class InstaCrawler:
 
         url = "https://www.instagram.com/graphql/query/?query_id=17874545323001329&id=%s&first=20" % id
 
-        if after != None :
+        if after != None:
             url = url + "&after=" + after
 
         r = self._session.get(url, headers=headers, cookies=self._last_cookies)
         self._last_cookies = r.cookies
 
-        result = json.loads(r.text)
+        try:
+            result = json.loads(r.text)
+        except:
+            traceback.print_exc()
+            raise CrawlerException(r.text)
         return result
 
     def get_id_by_username(self, username):
@@ -135,13 +144,11 @@ class InstaCrawler:
             "Cache-Control": "max-age=0",
             "X-CSRFToken": self._last_cookies['csrftoken']
         }
-        r = self._session.get(url,headers=headers, cookies = self._last_cookies)
+        r = self._session.get(url, headers=headers, cookies=self._last_cookies)
         self._last_cookies = r.cookies
 
         m = re.findall('"id": "([0-9]{9,10})"', r.text)
-        if len(m) > 1 :
+        if len(m) > 1:
             return m[1]
         else:
             return None
-
-

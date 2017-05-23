@@ -93,10 +93,19 @@ def download_follows_by_id(id, username = None):
         file_idx = file_idx + 1
         file_name = "%08d_follows_%s_%s.json" % (file_idx, id, username)
 
-        if file_idx == 1:
-            json_follows = ic.get_follows_by_id(id)  # "1408289748"
-        else :
-            json_follows = ic.get_follows_by_id(id, after=after)
+        try:
+            if file_idx == 1:
+                json_follows = ic.get_follows_by_id(id)  # "1408289748"
+            else :
+                json_follows = ic.get_follows_by_id(id, after=after)
+        except insta_crawler.CrawlerException as e:
+            logger.fatal("Exception from get_follows_by_id ===>")
+            logger.fatal( e.getObject())
+            file_idx = file_idx -1
+            waits = random.randrange(5, 20)
+            logger.info("Waiting for %d seconds." % waits)
+            time.sleep(waits)
+            continue
 
         if 'status' in json_follows and 'message' in json_follows:
             logger.info("Received wating message.")
