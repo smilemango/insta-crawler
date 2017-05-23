@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "13497442",
+                            "username": "bryanboycom",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538416_102119593623571_6771147870654431232_a.jpg",
+                            "full_name": "Bryanboy",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "18643618",
+                            "username": "bettyautier",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14350746_257572517976812_5859288608195739648_a.jpg",
+                            "full_name": "Betty Autier",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "1392487",
+                            "username": "bergdorfs",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821661_373552819520913_989994150_a.jpg",
+                            "full_name": "Bergdorf Goodman",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "37551480",
+                            "username": "anna_dello_russo",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326469_309361052521233_1492388484_a.jpg",
+                            "full_name": "Anna Dello Russo",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1285906",
+                            "username": "alixcherry",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1515497_1047086071999752_351564477_a.jpg",
+                            "full_name": "Alix",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDM5LnviDAVR2n9aZgtXIJupb3NNjGgkA1xsQo3F5qpVaPtaZeKZ2LnHzrbNhK4kTk",
+                    "has_next_page": false
+                },
+                "count": 875
+            }
+        }
+    }
+}

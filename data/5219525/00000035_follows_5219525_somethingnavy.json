@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 676,
+                "page_info": {
+                    "end_cursor": "AQB9vCpjh1XwWRkCzNcgQAcJ-8DhW7pvT2B0iYBoaAQ74obT22QJ7O9vR44-lO5Bx_o",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "35181675",
+                            "username": "samalovis",
+                            "full_name": "Samantha Alovis",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11311616_1477183372601326_1433534313_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "225743557",
+                            "username": "ryanalovis",
+                            "full_name": "Ryan Alovis",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583752_1456745907693156_5348072759920427008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "10526532",
+                            "username": "shopbop",
+                            "full_name": "Shopbop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543085_1657266497894470_4143841_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5636427",
+                            "username": "reesalake",
+                            "full_name": "Reesa Lake",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13118174_969522569762281_1553422117_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

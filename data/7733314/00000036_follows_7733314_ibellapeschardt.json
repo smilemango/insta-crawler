@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAZ3Agl8vCDLMJi0Lg3MB1-GBE5EQqGLjS32VYb0hkOHj74anhhD2q2-6V6ZPn23ps"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kendall",
+                            "username": "kendalljenner",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6380930",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276596_341682029535586_5293615709933273088_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rose Bertram",
+                            "username": "rose_bertram",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "33238731",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011409_151789495352685_5804274831662776320_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tanya Memme",
+                            "username": "tanyamemme",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18007723",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10643823_1611730089112245_1661102492_a.jpg"
+                        }
+                    }
+                ],
+                "count": 688
+            }
+        }
+    },
+    "status": "ok"
+}

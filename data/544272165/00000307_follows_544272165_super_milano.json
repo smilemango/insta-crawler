@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 6049,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAcq1Vwex-yr1r3hi5LYdy0C4ZrfKfzZYBsiYgVLL_QJnFKqg9h61Kf4DqTCzf_dQZg8qUzce6vqnwL2zhtzOiIPYW3-RynI0tcFJtR-OqCZA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230382_255044994918185_3391145639634010112_a.jpg",
+                            "id": "1548042577",
+                            "username": "viacolviaggio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentina e Stefano"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11820511_117005431987102_189302622_a.jpg",
+                            "id": "604643596",
+                            "username": "jalissamaggi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2022 Nunmefateincazz\u00e1friends \u2022"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096145_1776234056024458_6045778617923796992_a.jpg",
+                            "id": "214300696",
+                            "username": "alecxsandra",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexandra Davidel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15101524_1691748644472690_3838133962849386496_a.jpg",
+                            "id": "8242328",
+                            "username": "valentinafusco",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "valentinafusco"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661722_765995283575130_2803778934573891584_a.jpg",
+                            "id": "176265623",
+                            "username": "milanoinedita",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Andrea Cherchi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380252_244251442729993_5688864323070328832_a.jpg",
+                            "id": "9208",
+                            "username": "sharoncheung.x",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udf80 s h a r o n"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

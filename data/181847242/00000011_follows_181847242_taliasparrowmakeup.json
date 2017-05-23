@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 736,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCPu5DV7bw0JIbi0ppgHlF4Q2cPK97-b7UOP_NR67cFlaYdax328Txh7fTTyNuUDx3JM6qojcbUStQZN6omo5vQBo2WwxsES3Mc8VDxyBH6mA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875364_1634834533459793_666716929_a.jpg",
+                            "id": "14171867",
+                            "username": "birchbox",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "birchbox"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10655078_270919699773750_293948860_a.jpg",
+                            "id": "19541835",
+                            "username": "theaaronjay",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Aaron Jay Harris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11007970_996146877063691_1678950503_a.jpg",
+                            "id": "182144062",
+                            "username": "lilyaldridge",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Lily Aldridge"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11939614_1629489670664072_1867555883_a.jpg",
+                            "id": "262009792",
+                            "username": "joannahillman",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18298712_665470630321143_2185948756627685376_a.jpg",
+                            "id": "789654217",
+                            "username": "jtavdav",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Julissa Taveras"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11377810_1698594240353979_1228099802_a.jpg",
+                            "id": "312947314",
+                            "username": "glasserienyc",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Glasserie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13774612_1726066310976582_1580297078_a.jpg",
+                            "id": "2140656733",
+                            "username": "frenchienamedchapo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Chapo the Frenchie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849381_418215791699977_1665561295_a.jpg",
+                            "id": "26176836",
+                            "username": "badpackages",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Brett Douglas"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13167348_1019495854794265_4064265_a.jpg",
+                            "id": "3204978098",
+                            "username": "j.tookes",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374484_304581179899759_2038522618_a.jpg",
+                            "id": "210771010",
+                            "username": "saraerikssonmakeup",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "SARA ERIKSSON"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17334118_191880424647220_2524412258524594176_a.jpg",
+                            "id": "32780702",
+                            "username": "wattsupphoto",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ben Watts"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228850_356935988024382_112854547784794112_n.jpg",
+                            "id": "15073427",
+                            "username": "bltucke",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "bethany tucke"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12346170_736682199808941_1550367623_a.jpg",
+                            "id": "9704991",
+                            "username": "brynnb",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "brynnb"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11416941_1657437781167515_2023951592_a.jpg",
+                            "id": "513057616",
+                            "username": "greghumphreysmusic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Greg Humphreys"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096452_409429889430410_5294941420308660224_a.jpg",
+                            "id": "13226738",
+                            "username": "kjohnson112",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kelly Johnson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912359_1041965419208713_1947508884_a.jpg",
+                            "id": "1645666968",
+                            "username": "kristinicony",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "KK"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14591989_1837926169810239_5210636538047627264_a.jpg",
+                            "id": "53345856",
+                            "username": "connie_berg",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stylist/ Fashion Editor NYC"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10724784_510358419101819_510273015_a.jpg",
+                            "id": "12207589",
+                            "username": "fionastiles",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "fionastiles"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465651_1648136848824307_5792028763210383360_a.jpg",
+                            "id": "1680862",
+                            "username": "likate",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lindsay Kate Grosswendt"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887275_852675101489483_1558744983_a.jpg",
+                            "id": "53834348",
+                            "username": "ridinator",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ridley"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

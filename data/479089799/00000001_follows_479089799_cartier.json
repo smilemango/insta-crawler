@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "582782014",
+                            "username": "cartierawards",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723500_1251607801568134_4143867602042617856_a.jpg",
+                            "full_name": "CartierWomen'sInitiativeAwards",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "981943565",
+                            "username": "fondationcartier",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11049428_1556644927945112_1322506556_a.jpg",
+                            "full_name": "Fondation Cartier",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBDCU5P65ehw0W6AMcCPxPHAyGl9ue-_1dMtVJyAXn7MwFm27QnkoAP1yIyu1SZrKU",
+                    "has_next_page": false
+                },
+                "count": 2
+            }
+        }
+    }
+}

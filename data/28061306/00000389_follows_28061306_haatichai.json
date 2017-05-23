@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "14864435",
+                            "username": "bite_moi",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12930759_999713853430907_339098454_a.jpg",
+                            "full_name": "It's all weird nothing's right",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQB3oniWsoJy6YPHjeWxQOQ405Lfg0r5pxben_q2GXyxrY1pTsFAtd0eEqAWdcOTru_7RUt-c7k4pq7o1tromeXHat95yVIeF1D68rRpTaajsw",
+                    "has_next_page": true
+                },
+                "count": 6944
+            }
+        }
+    }
+}

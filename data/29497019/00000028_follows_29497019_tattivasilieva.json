@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 527,
+                "page_info": {
+                    "end_cursor": "AQBqralSlB3roD6oBgtIGAF7h6Ca_i3XPzcvrDSsN-UxTwdbmyRfUcbSzL7TaB1vAg8",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "6835003",
+                            "username": "annapotapenko",
+                            "full_name": "Anna Potapenko",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139657_899406230135379_2050637990_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "24947357",
+                            "username": "alensjournal",
+                            "full_name": "Alena",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881897_296073737492418_1668693157837012992_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "21298552",
+                            "username": "khkris",
+                            "full_name": "Kristina Khoronzhuk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443769_1723020914664522_7582207635110232064_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

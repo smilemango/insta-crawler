@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQByPoVqy0SyCnONKV7tHo-vrHK9XnR2N-1Ch_DwGe3IyBoAfuDFo3oAEWGSHKJpmV_WXQusBIswe5CpYpYS7wJvXoPC3KP1ULjcKnMsK6y8Zw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Prada",
+                            "username": "prada",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "304662892",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359996_1495091150508318_322898428_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lavish Alice",
+                            "username": "lavishalice",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14711341",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13694872_506546942872232_384828164_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Guardian and Observer Fashion",
+                            "username": "guardianfashion",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "736185472",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948636_1387001104943255_1437749300_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ASOS",
+                            "username": "asos",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "3931765",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14677296_322608884784820_6229983236898947072_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ZARA Official",
+                            "username": "zara",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "602725764",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/12354086_991678500895957_1642384716_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Urban Outfitters",
+                            "username": "urbanoutfitters",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5413187",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14027233_178429059233503_959914736_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Topshop",
+                            "username": "topshop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4165329",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11296782_948597008537568_1892155633_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "bethanysfd",
+                            "username": "bethanysfd",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "186443645",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12627839_661624190643601_127461032_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "L O O K   M A G A Z I N E",
+                            "username": "lookmagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "221768239",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17265523_192607874575638_8946978002160320512_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "British Fashion Council",
+                            "username": "britishfashioncouncil",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "209212866",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906396_1678102129072022_360625123_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MISSGUIDED",
+                            "username": "missguided",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11747678",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12317623_922607807831818_1577075089_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Binky Felstead",
+                            "username": "binkyfelstead",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "216145363",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12224589_488894617959702_1213103749_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Grazia UK",
+                            "username": "graziauk",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "15680642",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139771_744392768993652_1586122371_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Louise Thompson",
+                            "username": "louise.thompson",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6382194",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382657_124682938089220_6195353229123911680_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Millie Mackintosh",
+                            "username": "milliemackintoshofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "214620354",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662884_272469193196451_2530605489696276480_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Native Youth Men l Women",
+                            "username": "native_youth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "288399013",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10903772_836442986397392_1123220357_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rosie Fortescue",
+                            "username": "rosiefortescue",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "208542812",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14145560_1194136253978864_124835516_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "River Island",
+                            "username": "riverisland",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "22931290",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821818_406980509492332_769824852_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lucy Watson",
+                            "username": "lucywatson",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "25113467",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13694814_1132530376821627_466484187_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New Look",
+                            "username": "newlookfashion",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "188787851",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11327139_103404783332196_2098339628_a.jpg"
+                        }
+                    }
+                ],
+                "count": 181
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 410,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA3Qr-iVz3xJIAxza-YwpBYN8oDSw1ya6-_GMpbAnTl89Um2ShI_qc5U_4ckcI4erFllyjd_hBHuTgPqwMGbi2Eu4UtdcXj0XnmvAKU1uDF_A"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547591_1678030149105375_2125379982_a.jpg",
+                            "id": "404909864",
+                            "username": "jpgaultierofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jean Paul Gaultier"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438757_1435255726525975_5562638425401589760_a.jpg",
+                            "id": "1415543509",
+                            "username": "lula_japan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lula JAPAN \uff08 \u30eb\u30e9 \u30b8\u30e3\u30d1\u30f3 \uff09"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095959_400652586987859_555602995249676288_a.jpg",
+                            "id": "181726134",
+                            "username": "thelovemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LOVE MAGAZINE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201523_1018981428142827_420869574_a.jpg",
+                            "id": "11711285",
+                            "username": "interviewmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Interview Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363974_973160646068074_979749028_a.jpg",
+                            "id": "294951328",
+                            "username": "theonlymattjones",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Matt Jones"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14276505_1369698346391687_1998570148230856704_a.jpg",
+                            "id": "1004511990",
+                            "username": "lulaofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lula Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12501807_1526247791013232_591352709_a.jpg",
+                            "id": "271194895",
+                            "username": "stellajeanltd",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stella Jean"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803754_1755392841446417_6503141812599783424_n.jpg",
+                            "id": "11285087",
+                            "username": "louboutinworld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christian Louboutin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662260_268973026887008_5417978596817895424_a.jpg",
+                            "id": "12488328",
+                            "username": "garancedore",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Garance Dor\u00e9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/924689_857685700974311_1011916035_a.jpg",
+                            "id": "25366279",
+                            "username": "thesartorialist",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Scott Schuman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11386456_1462233067426186_1288052955_a.jpg",
+                            "id": "1680276293",
+                            "username": "commedesgarcons",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Comme des Garcons  OFFICIAL"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1515563_593160150837296_1971520049_a.jpg",
+                            "id": "1423788781",
+                            "username": "azzedinealaiaofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Azzedine Ala\u00efa"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11258805_1668258883395555_1500920766_a.jpg",
+                            "id": "1091521227",
+                            "username": "bossthings_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BOSS THINGS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125890_1311088245646247_4485462384206413824_a.jpg",
+                            "id": "175694806",
+                            "username": "adidasy3",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Y-3"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12728391_938993589487265_1114157894_a.jpg",
+                            "id": "552831007",
+                            "username": "lucatommassini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Luca Tommassini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11428365_145547859114676_1491599889_a.jpg",
+                            "id": "892771467",
+                            "username": "philipppleininternational",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "PHILIPP PLEIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437618_1877012655889000_6538501629807689728_a.jpg",
+                            "id": "13924342",
+                            "username": "marellimanuel",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Manuel Marelli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875355_1466370280354842_252590726_a.jpg",
+                            "id": "249571825",
+                            "username": "missoni",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Missoni"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519575_1066202476775457_523527751_a.jpg",
+                            "id": "285881283",
+                            "username": "mariaazzurra_mintlist",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Maria Azzurra Rossi"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

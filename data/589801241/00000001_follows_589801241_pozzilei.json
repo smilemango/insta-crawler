@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 159,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB0x-ZJf1US_TELl_D8fZj24cIIBKHOsFQun_nIGQ0FMmcwlZsC71AV0pMjswZs3cajMaT_FDdVEbFb-6U8lrAJfZA_MDiuOE5EnL-H8n9-9A"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512371_307836059637427_3585248813901676544_a.jpg",
+                            "id": "544052720",
+                            "username": "alessiavanzetto_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessia Vanzetto"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326150_1637597493176400_778431267_a.jpg",
+                            "id": "5857995",
+                            "username": "nytimesfashion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "New York Times Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/12317902_1646372848985207_675140038_a.jpg",
+                            "id": "193525054",
+                            "username": "stuartweitzman",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Stuart Weitzman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12716946_555200617972208_501158448_a.jpg",
+                            "id": "23674562",
+                            "username": "modaoperandi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Moda Operandi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230084_1792922771033212_1346780746206937088_a.jpg",
+                            "id": "193154362",
+                            "username": "calvinklein",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Calvin Klein"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624164_1286579344695548_2956416987032453120_a.jpg",
+                            "id": "145525690",
+                            "username": "harveynichols",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Harvey Nichols"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13744108_1068387099915511_1008815380_a.jpg",
+                            "id": "549162909",
+                            "username": "sergiorossi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Sergio Rossi Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012174_1819891191597020_5085877487674589184_a.jpg",
+                            "id": "9213261",
+                            "username": "versace_official",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Versace"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881831_1681683735396040_2013586194_a.jpg",
+                            "id": "4886940",
+                            "username": "saks",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Saks Fifth Avenue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/929317_933776766713278_937006941_a.jpg",
+                            "id": "22619435",
+                            "username": "voguerunway",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue Runway"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12598961_615926791880142_46568749_a.jpg",
+                            "id": "287889724",
+                            "username": "bottegaveneta",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Bottega Veneta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325772_1004310252944889_1494751944_a.jpg",
+                            "id": "337719479",
+                            "username": "realmrvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino Garavani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15623755_348154792227751_6692157658234880000_a.jpg",
+                            "id": "1511054548",
+                            "username": "louboutinhomme",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Louboutin Homme"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10598339_1462523197342576_1653216185_a.jpg",
+                            "id": "1378927",
+                            "username": "manrepeller",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Man Repeller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13745135_1414518615230569_1876297088_a.jpg",
+                            "id": "581421543",
+                            "username": "valentinafrugiuele",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fwstreetstyle"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14269004_951448994982471_1114983591_a.jpg",
+                            "id": "1313105099",
+                            "username": "sugar.it",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sugar"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547622_567973593371040_609245289_a.jpg",
+                            "id": "662240996",
+                            "username": "cicerchiashowroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Cicerchia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437724_273853869719896_5830282864389783552_a.jpg",
+                            "id": "187198187",
+                            "username": "mikeamiri_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800MIKE AMIRI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14474193_1270177713021850_7268120430555168768_a.jpg",
+                            "id": "209474821",
+                            "username": "antoclerici",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12552302_1700586196855260_555586073_a.jpg",
+                            "id": "2325422990",
+                            "username": "the_attico",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ATTICO"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

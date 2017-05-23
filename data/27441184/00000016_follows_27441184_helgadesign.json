@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 484,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCbHMygUKHI7KCP16yt1DDUYk_0JhHOZKeTJrbbtpIBG6MDBYcE-LdQm9nK6e1szMD11hVHh5jLgRQ-FVniVQOW22AKRwtI1iuv2WWPqUZRwA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11032849_1599763600265817_1150882955_a.jpg",
+                            "id": "14559712",
+                            "username": "noanozik",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Noa Nozik"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012025_1652706448370305_8805046242313764864_a.jpg",
+                            "id": "230041578",
+                            "username": "sample_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sample"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122922_1287356337992579_3147342095954477056_n.jpg",
+                            "id": "175262163",
+                            "username": "ger_lar",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gerardo Larrea"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881770_417415015297998_8510071925693743104_a.jpg",
+                            "id": "190576246",
+                            "username": "avikoren",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Avi Koren"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13774419_273488996376591_1065778505_a.jpg",
+                            "id": "196789579",
+                            "username": "rotemleb",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rotem Lebel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13392770_281580055521291_1488884626_a.jpg",
+                            "id": "20910066",
+                            "username": "josephhaver",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Joseph Haver Eyewear"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125381_1658071834499661_9017284336168206336_a.jpg",
+                            "id": "11603728",
+                            "username": "gilialgabi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u05d2\u05d9\u05dc\u05d9 \u05d0\u05dc\u05d2\u05d1\u05d9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444999_1427393767354622_6372554066404311040_a.jpg",
+                            "id": "3370394",
+                            "username": "kedemstudio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2605 SHAY KEDEM CALABRESE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11311428_1489499301342705_849143779_a.jpg",
+                            "id": "435909874",
+                            "username": "mariotestino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "MARIO TESTINO"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11356953_828003670656409_53776818_a.jpg",
+                            "id": "7797530",
+                            "username": "oraclefox",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Amanda Shadforth"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926543_690214711058336_709326772_a.jpg",
+                            "id": "1444850530",
+                            "username": "clubsaintlaurentparis",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Saint Laurent Paris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237260_1701376110081590_352968721_a.jpg",
+                            "id": "1124213912",
+                            "username": "givenchyinternational",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "GIVENCHY COMMUNITY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12826041_1186116948072774_1323311116_a.jpg",
+                            "id": "441923551",
+                            "username": "desertmannequin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Desert Mannequin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11311240_1626249847659387_563884677_a.jpg",
+                            "id": "221698024",
+                            "username": "paris_cherie",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Susan Owens"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13706817_838483492948803_294921025_a.jpg",
+                            "id": "10877249",
+                            "username": "liyageldman",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Liya Geldman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10914478_942057122486007_1747189183_a.jpg",
+                            "id": "18622761",
+                            "username": "ninerooms",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "NINE ROOMS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11421981_672453386220343_758437984_a.jpg",
+                            "id": "1012008761",
+                            "username": "sacaiofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "sacaiofficial"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899675_1680314565534554_1951331615_a.jpg",
+                            "id": "1312937967",
+                            "username": "antoninovalentiofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonino Valenti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877539_217359975390975_4757853423481651200_a.jpg",
+                            "id": "263775001",
+                            "username": "drome_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "DROMe"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

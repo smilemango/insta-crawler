@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "3398986",
+                            "username": "miss_sashu",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10748023_717849088283687_825545252_a.jpg",
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800Alexandra Kozlova",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "3496426",
+                            "username": "yevtukhova",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229346_1905110643038192_2983364883157876736_a.jpg",
+                            "full_name": "Liza Yevtukhova",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4375752",
+                            "username": "golubitskaya",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881842_1890372504509447_847281981031972864_a.jpg",
+                            "full_name": "Lena Golubitskaya",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQB-yhELMoCXnVCXHqPMt88A_IJP86DuIj6UWRl0BFuZHdtnWk0vxa6T4JqyGXJlZ-w",
+                    "has_next_page": false
+                },
+                "count": 397
+            }
+        }
+    }
+}

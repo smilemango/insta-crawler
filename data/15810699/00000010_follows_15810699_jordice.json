@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDUD-48FDPYiGyq2kgEN0zvs5JzEXd60Ym1sy2-zswQ8thDE-ekBdPIHLtzjGhjzPE"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Megan Kary",
+                            "username": "schmegg3",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13083401",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482831_179638209166410_4217195290924417024_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Leezuh Kokolnut",
+                            "username": "lisaisyourfriend",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4024763",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15056729_317955245269805_8013257609568059392_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "J.HALL",
+                            "username": "j.hall",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5340485",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882324_405024916545965_1006421218112307200_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Emilie Boisvert",
+                            "username": "emilieajb",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11907054",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14712053_1307889022589018_7388135234283241472_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jordan Ettinger",
+                            "username": "jetti____",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12049726",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14716629_1861082830790801_287692912534224896_a.jpg"
+                        }
+                    }
+                ],
+                "count": 178
+            }
+        }
+    },
+    "status": "ok"
+}

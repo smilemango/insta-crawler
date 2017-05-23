@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBObc3iMlrypc1p_t7PWgeh3jtCNEKQlgO7UJLumuXuiC11F1aUteEj_R7y5NrU-Zv12a3qLHW7SLlMw14EiyM_RbRAMwxBZRlEHAHzajBuXg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Armory Show",
+                            "username": "thearmoryshow",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "489174325",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12798194_114575255602928_1701807157_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Blum & Poe",
+                            "username": "blumandpoe",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1160215294",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10598206_562145050578277_28904641_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "artnet",
+                            "username": "artnet",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1330400",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585663_1903300496559595_3825804400232759296_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Almine Rech Gallery",
+                            "username": "alminerechgallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "915490582",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881756_148085872197645_1636851031_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Phillips",
+                            "username": "phillipsauction",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "36311445",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10723732_349051445273545_2036136949_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Paula Cooper Gallery",
+                            "username": "paulacoopergallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "333712547",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820590_1482181835425601_498512395_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brooklyn Museum",
+                            "username": "brooklynmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4910438",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13556713_1036248779784046_851426193_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Michael Xufu Huang",
+                            "username": "michaelxufuhuang",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8014248",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122705_1296988097029168_1815208558321467392_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Kordansky Gallery",
+                            "username": "davidkordanskygallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1596154510",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10844196_1408775026079972_2082539940_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Artspace",
+                            "username": "artspace",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6076338",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13256848_243606346003559_1585207146_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rod Barton (Dealer\\Gallerist)",
+                            "username": "rodbarton",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "104841553",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10401537_704786056251408_1007427348_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jonathan LeVine Projects",
+                            "username": "jonathanlevineprojects",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "26981104",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585554_826576160816364_8441706216823980032_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lisson Gallery",
+                            "username": "lisson_gallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5814081",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11251006_972290309459769_1861314008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Fr\u00e9d\u00e9ric de G",
+                            "username": "frederic_net",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1491575807",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10655033_1538196923083276_1035039401_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Victoria and Albert Museum",
+                            "username": "vamuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "390861362",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13402658_1131085446942139_1954271409_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cooper Hewitt",
+                            "username": "cooperhewitt",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "486088132",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10735078_663045993817060_341785387_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SFMOMA",
+                            "username": "sfmoma",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5132676",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13584223_1718062808458384_266982065_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stedelijk Museum Amsterdam",
+                            "username": "stedelijkmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "289040683",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13731105_1011048115683236_294575312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jeff Koons",
+                            "username": "jeffkoons",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "566205355",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906191_876763519045901_2132969828_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Van Gogh Museum",
+                            "username": "vangoghmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "462291959",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910259_1657936817758039_847769725_a.jpg"
+                        }
+                    }
+                ],
+                "count": 862
+            }
+        }
+    },
+    "status": "ok"
+}

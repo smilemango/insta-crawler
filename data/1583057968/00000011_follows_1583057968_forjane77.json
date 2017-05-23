@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCyzwOg0Rcd69aE78ORi4UWexKd1yc6yaefJucycl6hed1CSN2PJlccg478CozxwYo"
+                },
+                "count": 198,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1415404668",
+                            "followed_by_viewer": false,
+                            "username": "hy.c__",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161223_839755816179505_2790210505820602368_a.jpg",
+                            "full_name": "\ud83c\udf80"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1030860420",
+                            "followed_by_viewer": false,
+                            "username": "hanna_0609",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12394096_1655696301345294_2007143256_a.jpg",
+                            "full_name": "\ud83d\udd12 Hanna\u2665"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "253467133",
+                            "followed_by_viewer": false,
+                            "username": "_jamiejang_",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13715019_1688411494812537_1922021846_a.jpg",
+                            "full_name": "Jamie\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "385759034",
+                            "followed_by_viewer": false,
+                            "username": "caroline22__",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12362291_1010408595673578_131286238_a.jpg",
+                            "full_name": "yun\u2728"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

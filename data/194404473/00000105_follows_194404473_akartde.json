@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBzJ6W5kXEmXxnakEMEuSk_ea1r7tCtgOdLo0-cpRTBDQZCl5VDNg5btZLAl3_PLRbFtJV3xPQlpKdld2Lph2gvRBUPPD6JVFgowvHri7pwmA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Meghan Plowman",
+                            "username": "meghan_plowman",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "15061400",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494316_1363875283682821_4184175977489760256_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stephanie Stamatis",
+                            "username": "stephanie_somebody",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3283671",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11287485_898991383519089_129760488_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Luisa Brimble - Photographer",
+                            "username": "luisabrimble",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25290385",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856626_864955280226608_1128999787_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Butterland_",
+                            "username": "butterland_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "312404000",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11429777_738425649601607_816418708_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "OPI",
+                            "username": "opi_products",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "270598518",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11335131_434717246699077_318641555_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sprinkles",
+                            "username": "sprinklescupcakes",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "21731623",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11950743_392906354239763_1675924827_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Wendy Nguyen",
+                            "username": "wendyslookbook",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "14454619",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17931931_1358475727573252_2313980829778313216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lucy Rose Laucht",
+                            "username": "lucylaucht",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1709710",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14310843_1131988926894893_1003679056_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Pink Diary",
+                            "username": "thepinkdiary",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "28657955",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094498_1045973082204301_639899064237817856_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "DARA Artisans",
+                            "username": "daraartisans",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1084350076",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363738_858695274221861_782686868_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "lemlem",
+                            "username": "lemlemnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "54468376",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802694_118981321940124_4931781203624722432_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cond\u00e9 Nast Traveler",
+                            "username": "cntraveler",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "104887415",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10838797_771008859614735_1103490377_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TRIBAL HOTEL",
+                            "username": "tribalhotel",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1184646032",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359987_154385421682251_8139914485730115584_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Liv Rahm\u00e9",
+                            "username": "livrah",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3434822",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538419_437868809935003_2599073040830562304_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Shanali Martin",
+                            "username": "shanalimartin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "430145890",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538297_354947948205549_5015345405890658304_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Abbie Weir",
+                            "username": "abbweir",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "181984201",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12716681_1671864703072958_975531634_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "DAJANA BOGOJEVI\u0106",
+                            "username": "dajanabogojevic",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "10377828",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160621_1876517039266128_4959713235671449600_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Captain Collins",
+                            "username": "jadiedaisy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25774793",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906632_277957409306170_5234430038392176640_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NAK Hair",
+                            "username": "nakhair",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "349364599",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11379156_1669128846653228_513380276_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jimmy Raper",
+                            "username": "jimmy_raper",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13760223",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714390_179418332515123_5766536092199157760_a.jpg"
+                        }
+                    }
+                ],
+                "count": 4520
+            }
+        }
+    },
+    "status": "ok"
+}

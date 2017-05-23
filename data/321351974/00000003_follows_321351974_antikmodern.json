@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQALzVff0yIHTz2fHNQn0kYTm_3KCfPprJvloFMER9btxhh5lsD_izzUHo8ga0BeWDs"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Serena Mitnik-Miller",
+                            "username": "maraserene",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6192890",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15306135_190553064682904_1046522717869703168_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "bonfirebeachkids",
+                            "username": "bonfirebeachkids",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11171061",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13269313_638648639618009_722618488_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brian Ferry",
+                            "username": "brianwferry",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7972972",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881582_1637672189578127_1660505537126596608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mohawk General Store",
+                            "username": "mohawkgeneralstore",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "19208988",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10643954_1486804671574286_1432699743_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ameliapmorris",
+                            "username": "ameliapmorris",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "230684117",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12960199_1735230676761114_1270877556_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Albam Clothing",
+                            "username": "albamclothing",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "286681301",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230569_675368039290668_4599494246951550976_a.jpg"
+                        }
+                    }
+                ],
+                "count": 45
+            }
+        }
+    },
+    "status": "ok"
+}

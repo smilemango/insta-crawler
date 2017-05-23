@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 539,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAzqQjD2YZ1juRAPTkRNA8QFn5RuPU67vDSHlQ6rTSnkeWezr3DIWsmaJEhKtsp1Ro"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908012_1839601052946760_7789144266147627008_a.jpg",
+                            "id": "11778358",
+                            "username": "lightpoem",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "M a r i n a"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11259912_984830811537469_2021771870_a.jpg",
+                            "id": "20369020",
+                            "username": "fashionforall",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2764\ufe0fFASHIONFORALL\u2764\ufe0f"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBrnWG8FlFEI336JH6VQh2gcMBTGbVymFpQIM_UNDUp1b9hp1dBT2YOR27Pgf7kWIE"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "rachel wynne",
+                            "username": "rachel_wynne",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "48605103",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18162195_1903366393280129_8041686857093742592_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "jaded_palmer",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "21556344",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513737_1058439660955519_1722748495238004736_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bobuq Sayed",
+                            "username": "haram_snack_pack",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20360624",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16790026_678485322359762_7161910832832446464_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "kebabsayed",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "27667542",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252853_215174652310025_4456980441726976000_a.jpg"
+                        }
+                    }
+                ],
+                "count": 319
+            }
+        }
+    },
+    "status": "ok"
+}

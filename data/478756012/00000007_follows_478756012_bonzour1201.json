@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDwf8QFrcjadmzlaKqK8gpVEUWs-0QJ9dzZwJ1y2jt7oumUPjPND-rurscbOoYZHrE"
+                },
+                "count": 113,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "5213415",
+                            "followed_by_viewer": false,
+                            "username": "leeoliveira",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583322_689820374537168_6183065516668616704_a.jpg",
+                            "full_name": "Lee Oliveira"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

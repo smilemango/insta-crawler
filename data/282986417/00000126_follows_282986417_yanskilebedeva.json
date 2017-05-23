@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCBuwhcowC28zPr9zNC9eOTmy8aViIndP_LDLIVM935vK1QzYlxHSShAOyYbrOrm0o"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Julie Lebedev",
+                            "username": "thisisresearch",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12508205",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326482_873412392749880_2074398963_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2447
+            }
+        }
+    },
+    "status": "ok"
+}

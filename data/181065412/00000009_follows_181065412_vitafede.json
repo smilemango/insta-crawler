@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBqkd9iYPEXUtxtVPYPLT1UmFsTazHTuvGMUZtxl3ZwvZRppyndUL5MFymx4Zpfjl2dap_KU5FqdqW8HkIW7zTeeo91qiQep84LUtf8DFMeCw"
+                },
+                "count": 519,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "18133069",
+                            "followed_by_viewer": false,
+                            "username": "wsj",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10890842_787238098004078_1650622038_a.jpg",
+                            "full_name": "Wall Street Journal"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "187655900",
+                            "followed_by_viewer": false,
+                            "username": "leica_camera",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624606_224438967990845_1439412650931912704_a.jpg",
+                            "full_name": "Leica Camera"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "42725516",
+                            "followed_by_viewer": false,
+                            "username": "cosmopolitan",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727684_209810572792048_591514896143745024_a.jpg",
+                            "full_name": "Cosmopolitan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2045241924",
+                            "followed_by_viewer": false,
+                            "username": "leorong1",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011493_1732044340155698_3208218142069227520_a.jpg",
+                            "full_name": "Leo RongOne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "6494184",
+                            "followed_by_viewer": false,
+                            "username": "canditaaa",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17439362_1872101286398109_7529039509103575040_a.jpg",
+                            "full_name": "candy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "238174270",
+                            "followed_by_viewer": false,
+                            "username": "jchristopherburch",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10654895_675699415859259_1767494338_a.jpg",
+                            "full_name": "Chris Burch"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "389685618",
+                            "followed_by_viewer": false,
+                            "username": "emmanuellealt",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809803_174266526237816_339877514_a.jpg",
+                            "full_name": "Emmanuelle Alt Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "242238988",
+                            "followed_by_viewer": false,
+                            "username": "shayjewelry",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/914513_1611774672412185_80806823_a.jpg",
+                            "full_name": "S H \u0245 Y   J E W E L R Y"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "54822072",
+                            "followed_by_viewer": false,
+                            "username": "ceylanatalik",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803587_400010913665222_6419614160505536512_n.jpg",
+                            "full_name": "Ceylan Atalik"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "241997151",
+                            "followed_by_viewer": false,
+                            "username": "carineroitfeld",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599311_870347059757448_25865058_a.jpg",
+                            "full_name": "Carine Roitfeld"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "628176",
+                            "followed_by_viewer": false,
+                            "username": "nboles2978",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876597_356886344698660_4722347165068820480_a.jpg",
+                            "full_name": "Nicholas Boles"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1809619321",
+                            "followed_by_viewer": false,
+                            "username": "aki_newnail.ny",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161871_123017201583982_5396997900620267520_a.jpg",
+                            "full_name": "Aki Nail"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1212663818",
+                            "followed_by_viewer": false,
+                            "username": "biffiboutiques",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229394_248093412305026_7476284112274194432_a.jpg",
+                            "full_name": "Biffi Boutiques"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "302106528",
+                            "followed_by_viewer": false,
+                            "username": "sarahrutson",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15403412_381597415512182_6061960766204936192_a.jpg",
+                            "full_name": "Sarah."
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "44173959",
+                            "followed_by_viewer": false,
+                            "username": "amyelizco",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719859_1703728073273979_4007261266635653120_a.jpg",
+                            "full_name": "Amy Courtney (Robertshaw)"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1437347901",
+                            "followed_by_viewer": false,
+                            "username": "tsukihair",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375201_972245689487370_1116006481_a.jpg",
+                            "full_name": "Takayoshi Tsukisawa"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "314432213",
+                            "followed_by_viewer": false,
+                            "username": "tmg1105",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723621_564349100437286_3834381338253721600_a.jpg",
+                            "full_name": "Tina"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "239180867",
+                            "followed_by_viewer": false,
+                            "username": "archdigest",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/17076670_417970161870063_1804390643804405760_a.jpg",
+                            "full_name": "Architectural Digest"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "48376318",
+                            "followed_by_viewer": false,
+                            "username": "elledecor",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1171167_873676409324942_1347454713_a.jpg",
+                            "full_name": "ELLE DECOR"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "20230193",
+                            "followed_by_viewer": false,
+                            "username": "1stdibs",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374047_1656144424606827_2134508392_a.jpg",
+                            "full_name": "1stdibs"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

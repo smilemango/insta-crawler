@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDrHFIARy7nhHTyeqLzL_CojDX-hzw-_aJ6_7IpUXrXnlSNZ6Vdek7ihGABjLlulPg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "coolishdong",
+                            "username": "coolishdong",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "36675090",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899652_1628483470766853_1826278065_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JH Kim",
+                            "username": "soboroo_jahye",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "278053434",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789857_123134641541537_2526789295289663488_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Katie Mccurdy",
+                            "username": "katiemccurdy_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "23329876",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513755_1877931965865834_298427483210907648_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alejandra Ramos",
+                            "username": "alwaysalejandra",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "273951935",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662543_747740645389090_6391671854897037312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "munsookwon",
+                            "username": "munsookwon",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "19789369",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10624164_217157591954721_249298968_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Communication Director. Beauty",
+                            "username": "claire_sunshine_life",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "140365",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464262_1081913728585175_6712525136181854208_a.jpg"
+                        }
+                    }
+                ],
+                "count": 637
+            }
+        }
+    },
+    "status": "ok"
+}

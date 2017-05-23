@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBlVGZU2Ub1b8uI_PebIpiztFccSffdxIW2LUqz0o8-Fsf3px2A4RTZrZlY-FA5-xAEb68RHl1mZWsYyWEqj3OIQ5s6YjB13OZ1OlcVC86nkg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "GW Travel Boutique",
+                            "username": "gwtravelboutique",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "211842471",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14474481_1597537707214520_7546089176353996800_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MORRO DOIS IRM\u00c3OS",
+                            "username": "morrodoisirmaos",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1438181054",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13391154_1292635464098970_1175145963_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "4Travel Friends \ud83d\ude4b\ud83c\udffb\ud83d\udc81\ud83c\udffb\u2708\ufe0f",
+                            "username": "4travelfriends",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3205359210",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13266732_131741403899202_949179083_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\udde7\ud83c\uddf7 Caio Ramon, SP \u2022 Travel",
+                            "username": "caiotravels",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1397980486",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110175_229068074218168_2053967465343352832_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Castello di Amorosa",
+                            "username": "thecastello",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1276090",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12934932_681452755329444_1874172151_a.jpg"
+                        }
+                    }
+                ],
+                "count": 3039
+            }
+        }
+    },
+    "status": "ok"
+}

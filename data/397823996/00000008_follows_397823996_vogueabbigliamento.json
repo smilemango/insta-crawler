@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 3002,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAtmAX0Fo2weoaidSqBTEJvhyG1cgFALBOdFmt-41QfaLBayjo3OIwFUi44gr-StQOcRMZydiltHEtEUd0jQsCYeSitc4OS2xIgQUiuUrEO3Q"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11939315_1648086965468919_56838679_a.jpg",
+                            "id": "866637204",
+                            "username": "sbossi66",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stefano Bossi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076209_1457336097644659_2494260870847135744_a.jpg",
+                            "id": "244200428",
+                            "username": "cotone_clothes",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Cotone\u00ae"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123243_1057392087706536_6455128098319892480_a.jpg",
+                            "id": "908277924",
+                            "username": "annaferriani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "annaferriani\ud83d\udda8storyteller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11017602_802059259842573_627859114_a.jpg",
+                            "id": "1774501892",
+                            "username": "elodiecavallaro",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Elodiecavallaro"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12081101_1469782446663959_1941984637_a.jpg",
+                            "id": "1472527687",
+                            "username": "annalisa.panini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Annalisa Panini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381771_1639996732707663_4396521479886340096_a.jpg",
+                            "id": "33113997",
+                            "username": "lauravalentini.norma",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "laura valentini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378866_445497772299389_1424073037_a.jpg",
+                            "id": "177268713",
+                            "username": "barbaracarboni",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udf38Barbara Carboni\ud83c\udf38"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624936_184081942059281_8088777995218583552_a.jpg",
+                            "id": "2077248359",
+                            "username": "_raffaella.raimondi_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "raffaella raimondi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583877_753962561424805_1712892932568121344_a.jpg",
+                            "id": "4014377413",
+                            "username": "rinaldosergio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "rinaldo sergio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095270_185900498596913_2046855605091565568_a.jpg",
+                            "id": "1024574012",
+                            "username": "sabrycosti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sabrina Costi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743665_1281242555222352_796410477_a.jpg",
+                            "id": "3148157752",
+                            "username": "ylefiandri",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ylenia fiandri"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14272123_1777918242479894_227957312_a.jpg",
+                            "id": "2200342651",
+                            "username": "chiccamenghi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Chicca Menghi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10817919_718781111550798_1772755814_a.jpg",
+                            "id": "644359045",
+                            "username": "spaziofshowroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fiorenza Cucco"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14334505_182745552129035_922515343_a.jpg",
+                            "id": "487301957",
+                            "username": "vally_toni",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2022Vally\u2022"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881774_1069535599856740_6014127543630692352_a.jpg",
+                            "id": "197161408",
+                            "username": "stefy_ortonovi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "stefy_ortonovi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14276664_1048340338548601_352503768_a.jpg",
+                            "id": "3955733923",
+                            "username": "chiara.alfarano",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Chiara"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850224_812483092204001_1954813763_a.jpg",
+                            "id": "26289286",
+                            "username": "mompernirighizcaica",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Monica Cavani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251891_484686591910072_5031490389819785216_a.jpg",
+                            "id": "52627527",
+                            "username": "missandrejagveric",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Andreja Gveri\u0107"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596834_1879686368914909_2485961057001013248_a.jpg",
+                            "id": "261649916",
+                            "username": "mongeau10",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tatiana Mongeau"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228835_447592728964256_6905580656256876544_a.jpg",
+                            "id": "4559127865",
+                            "username": "giacobino_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Designed by Alessia Giacobino"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

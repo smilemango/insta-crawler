@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 488,
+                "page_info": {
+                    "end_cursor": "AQCYn9UaKlAyX_KUriZKdQ7HuZ-zTt83UfiOG7qsWo2BEryZNLpf0jInKDZP_qAWuuiIGbQgC-e8XBjVfVjzQwXVU1T06UEGadPFwSJoryqGwg",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "8300815",
+                            "username": "themuseumofmodernart",
+                            "full_name": "MoMA The Museum of Modern Art",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026726_658075717692791_83491682_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "370541345",
+                            "username": "designandlive",
+                            "full_name": "Design&Live",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13774853_273184573049380_1338965544_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "20230193",
+                            "username": "1stdibs",
+                            "full_name": "1stdibs",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374047_1656144424606827_2134508392_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "9620227",
+                            "username": "homepolish",
+                            "full_name": "Homepolish",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10488761_594422487340901_1099999974_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "27922322",
+                            "username": "vogueliving",
+                            "full_name": "vogueliving",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095303_1455081597898204_5179321544945434624_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "239180867",
+                            "username": "archdigest",
+                            "full_name": "Architectural Digest",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/17076670_417970161870063_1804390643804405760_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "343176259",
+                            "username": "verandamag",
+                            "full_name": "Veranda Magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348250_467328650114280_310036393_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "622130287",
+                            "username": "home_designing",
+                            "full_name": "Interior Design Ideas",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374105_472751789571509_1207699389_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "706029761",
+                            "username": "myhouseidea",
+                            "full_name": "Architecture & Interior Design",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15253339_166651487139505_2653679834852491264_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1526355613",
+                            "username": "kitchen_design_ideas",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17587029_425201027826124_2598327520407322624_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "9657960",
+                            "username": "testkitchen",
+                            "full_name": "America's Test Kitchen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11353437_368369173359541_1229518266_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "48376318",
+                            "username": "elledecor",
+                            "full_name": "ELLE DECOR",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1171167_873676409324942_1347454713_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3010403342",
+                            "username": "womensfashioncenter",
+                            "full_name": "Women's Fashion \u2022 Outfit Style",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585013_1351683814852932_5884040818255200256_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1586523229",
+                            "username": "milano_streetstyle",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11312193_1057894827556410_937015388_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "4107047456",
+                            "username": "vixnfashion",
+                            "full_name": "VIXN FASHION",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16584882_608304876046637_5612217341728260096_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1951208828",
+                            "username": "fashion.voyage",
+                            "full_name": "Women's FASHION VOYAGE\u00ae",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11093085_804743636242114_1025778596_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2902525432",
+                            "username": "streetstyle_london",
+                            "full_name": "Streetstyle_London",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599266_944922398876662_645854672_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3993526750",
+                            "username": "vouge_magazine",
+                            "full_name": "Vouge Magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251990_265538847182917_662729963627085824_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3227887888",
+                            "username": "zara__worldwide__",
+                            "full_name": "THE  MOST STYLISH",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011510_1617801258247600_8359782004870348800_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "4066787009",
+                            "username": "vogue__worldwide__",
+                            "full_name": "vogue worldwide",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230131_255860148183801_986763247287795712_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

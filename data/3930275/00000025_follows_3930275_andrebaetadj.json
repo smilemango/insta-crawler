@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876155_1799307863652885_6823795468099649536_a.jpg",
+                            "full_name": "Noah Aquino",
+                            "is_verified": false,
+                            "id": "12994948",
+                            "followed_by_viewer": false,
+                            "username": "djnoah_aquino",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 467,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA3dVdmqBBCx35dQM0GFBJiP11PNHhTZfM7F2_bv44GmcrO9UL_1hfncuj2dyScV7g"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

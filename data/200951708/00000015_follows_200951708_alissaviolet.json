@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQA8ld1GvPAGih_ZJu21hXgPLAZ2t76Y7gntLin61N0LaH2xITeab7QVxi3jfPepsO3MDnV8gJL6iSDeouJaK4J36u9D690Jv2q_RUpFeGycyA",
+                    "has_next_page": true
+                },
+                "count": 306,
+                "edges": [
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udd77 D'Alessio",
+                            "is_verified": true,
+                            "id": "31746358",
+                            "username": "charlottedalessio",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443446_611908675666872_5914481175627300864_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "MEREDITH MICKELSON",
+                            "is_verified": true,
+                            "id": "490819194",
+                            "username": "meredithmickelson",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374310_1111112475643490_4711857931514019840_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Tanner Zagarino",
+                            "is_verified": true,
+                            "id": "274431339",
+                            "username": "tannerzagarino",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751400_499525976914601_1296248099_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

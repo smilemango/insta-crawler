@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDozmpY--7Nxdr-VYmvuuLPcAFuiBFQtt7v4k0U8KqeEvY58XXxyklpZyDXc3gkwXo"
+                },
+                "count": 120,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "16264572",
+                            "followed_by_viewer": false,
+                            "username": "floydmayweather",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15253248_266567493746321_4227980121308397568_a.jpg",
+                            "full_name": "Floyd Mayweather"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

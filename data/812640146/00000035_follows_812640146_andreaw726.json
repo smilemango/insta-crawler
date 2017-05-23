@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD60XdYWMGzDj9LOgjLjjrkUz-T35q979BjzU2wtA3xIybAF2fr03traZ5aTqPkdPU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brian",
+                            "username": "briboxer",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "375667831",
+                            "profile_pic_url": "https://scontent-nrt1-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Eric Yang",
+                            "username": "3ric304",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "174671796",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15099337_245682432515108_4977046714360791040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "James Lee",
+                            "username": "jameslee1015",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "344392280",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11350683_959700960749344_1974961396_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Michelle CHan",
+                            "username": "mishshc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "284084090",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11008090_922583217773283_115913145_a.jpg"
+                        }
+                    }
+                ],
+                "count": 674
+            }
+        }
+    },
+    "status": "ok"
+}

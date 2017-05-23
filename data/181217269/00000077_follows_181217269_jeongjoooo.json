@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125753_1363463163724498_7284857664704610304_a.jpg",
+                            "full_name": "Chloe Grace Moretz",
+                            "is_verified": true,
+                            "id": "11305924",
+                            "followed_by_viewer": false,
+                            "username": "chloegmoretz",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1486,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC5BUl9MTXGpoWJslNlM97bcpQjZ_DtK9ZCLD2a6OIt1FT22na0X59ESebTP3V0U7k"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

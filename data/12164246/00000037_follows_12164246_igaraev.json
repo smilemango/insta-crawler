@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDIja95A-KHGGtGszcxofkcy1VuSQF194s6jcs49mfWy72SaDx7CZka1hQWtKBJkFg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u0422ania",
+                            "username": "tanialwan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "199856871",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161759_265010117295816_1087284590323695616_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sitora Banu | Theisaev",
+                            "username": "sitorabanu",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "307566556",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818628_1518390941527997_8242802123817877504_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Begel Artur",
+                            "username": "begelart",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "33980555",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821902_125726847777994_1736413935_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Azim",
+                            "username": "azim__________",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "177090819",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14052483_953328968108774_94898608_a.jpg"
+                        }
+                    }
+                ],
+                "count": 582
+            }
+        }
+    },
+    "status": "ok"
+}

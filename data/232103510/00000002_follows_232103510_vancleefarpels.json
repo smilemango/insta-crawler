@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5365014",
+                            "username": "jaclyncobourn",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10986267_1604337013136985_429567444_a.jpg",
+                            "full_name": "jaclyncobourn",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "3518632",
+                            "username": "pleasemagazine",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267521_710498752455729_8533041496692097024_a.jpg",
+                            "full_name": "Please Magazine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "387419867",
+                            "username": "stellenevolandes",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661969_767144613437932_7656539676324397056_a.jpg",
+                            "full_name": "Town & Country Editor in Chief",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "27879728",
+                            "username": "whowhatwear",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714536_1654542668169045_6949484580755734528_a.jpg",
+                            "full_name": "Who What Wear",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5094545",
+                            "username": "jamesbort",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662113_1035110269952930_3521375945766207488_a.jpg",
+                            "full_name": "James Bort",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBgQY4_qBgvSXJlMK30fdO8ZcA1beG4JqKrYA3lfj03_D6ANs3jxwP_sngJb9HKLOM",
+                    "has_next_page": false
+                },
+                "count": 24
+            }
+        }
+    }
+}

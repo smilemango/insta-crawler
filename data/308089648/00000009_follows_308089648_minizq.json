@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1177,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBEYx8D6iQ50UIxmorI51fRlyj6xkOWTEpnN-3ALKzijcLWjEY9QeoUoufksTL7ydScJxwDhSJFWwqXINKiInkCMOoNHawN16XJsJ2xGWDJvQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251443_755125108002065_6807075254905602048_a.jpg",
+                            "id": "2081666824",
+                            "username": "frkeinevoll",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Amalie + Matheo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438523_116416092184755_3266023990941974528_a.jpg",
+                            "id": "372948244",
+                            "username": "ahspirin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\uc544\uc2a4\ud53c\ub9b0"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380557_347964685606826_749625621700673536_a.jpg",
+                            "id": "11676849",
+                            "username": "xeniaoverdose",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "XENIA VAN DER WOODSEN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13556838_1769617963261397_669352570_a.jpg",
+                            "id": "1583019510",
+                            "username": "oraclefoxjournal",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Oracle Fox Journal"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743355_926771800766973_115447_a.jpg",
+                            "id": "1297179997",
+                            "username": "meongcheonghae",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BE AGAIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13355473_1743958535893907_1933912578_a.jpg",
+                            "id": "374168746",
+                            "username": "kweilz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u0198\u2221\ua4c4\u2107"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14540689_351016001906938_1816238624623034368_a.jpg",
+                            "id": "14620546",
+                            "username": "becjudd",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Rebecca Judd"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17595896_134804457052686_7270482044092678144_a.jpg",
+                            "id": "12345062",
+                            "username": "damselindior",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jacey Lenae Duprie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494625_1483509325045193_6462559933635231744_a.jpg",
+                            "id": "13775633",
+                            "username": "stevenalan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Steven Alan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12747843_153182585068850_1857102603_a.jpg",
+                            "id": "175908878",
+                            "username": "shopclarev",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Clare V"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15035769_182310585562908_2241445154340732928_a.jpg",
+                            "id": "6277389",
+                            "username": "hannamw",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hanna Mw"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13732134_1645991935720293_1717992228_a.jpg",
+                            "id": "202955742",
+                            "username": "sophiebuhai",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sophie Buhai"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11333440_1610068879276673_181907319_a.jpg",
+                            "id": "20274331",
+                            "username": "vtraina",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Vanessa Traina"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11931183_391931717672921_574721401_a.jpg",
+                            "id": "331953839",
+                            "username": "stylebymagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "STYLEBY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15043672_561070507417109_7012900726363914240_a.jpg",
+                            "id": "11329668",
+                            "username": "filippa_k",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Filippa K"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11311387_708519719271476_1416805516_a.jpg",
+                            "id": "1176564222",
+                            "username": "toteme",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "tot\u00eame"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677525_1159838347368031_935533689_a.jpg",
+                            "id": "203216118",
+                            "username": "rodebjerofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "RODEBJER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948809_803033053110771_1946788583_a.jpg",
+                            "id": "1320355",
+                            "username": "proenzaschouler",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Proenza Schouler"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10693593_779941032073207_405642957_a.jpg",
+                            "id": "193450452",
+                            "username": "weekday_stores",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "WEEKDAY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534505_222114438128907_2003602915_a.jpg",
+                            "id": "326747300",
+                            "username": "wiwenwen_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "WIWEN WEN"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

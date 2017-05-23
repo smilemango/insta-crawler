@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAKgSnyv64sAASF2gt71wIB6Ua8cQfBLCP0hhvHQw9rEYJBnHbV0qlOyunCBejIZ4ioj4976wgy79qBKlP4btf8nIWlbKUrqlS2FXBPXLw4wg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Noobba",
+                            "username": "nobnoobba",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2113118602",
+                            "profile_pic_url": "https://scontent-mxp1-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    }
+                ],
+                "count": 492
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCeE2czhe5W97QvxRmDhN5Yx4ueULKrCe1SVrTsYNc5B1HEHCdPIjFlD6NUUr0MFcxFUf2upaDruMXxeyU0sDN54fDn1ckYNnGoevObNlZucw"
+                },
+                "count": 884,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "353365911",
+                            "followed_by_viewer": false,
+                            "username": "angelinakraff",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14488362_979085358863583_761497877674459136_a.jpg",
+                            "full_name": "Angelina"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "10647711",
+                            "followed_by_viewer": false,
+                            "username": "altamiranyc",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11226780_908071435948081_1590120339_a.jpg",
+                            "full_name": "The Craigster"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "36935365",
+                            "followed_by_viewer": false,
+                            "username": "mrmatteobaldi",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10691775_747441148625147_453729838_a.jpg",
+                            "full_name": "Matteo Baldi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "198825381",
+                            "followed_by_viewer": false,
+                            "username": "zadigetvoltaire",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/13628084_1781446985420679_105344397_a.jpg",
+                            "full_name": "Compte Officiel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "18334046",
+                            "followed_by_viewer": false,
+                            "username": "vsmag",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14449158_350837975247288_7540429513264463872_a.jpg",
+                            "full_name": "Vs. Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "16841931",
+                            "followed_by_viewer": false,
+                            "username": "mel_joyhysteric",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723687_1099307063521788_7979794776335581184_a.jpg",
+                            "full_name": "Mel Tan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "353147800",
+                            "followed_by_viewer": false,
+                            "username": "melissacabrini",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10838646_378389492339723_1844641520_a.jpg",
+                            "full_name": "Melissa Cabrini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "19585963",
+                            "followed_by_viewer": false,
+                            "username": "stefneestonnell",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325070_1459947337650661_2093263834_a.jpg",
+                            "full_name": "www.stefneestonnell.com"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "235258491",
+                            "followed_by_viewer": false,
+                            "username": "natasupernova",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375250_792495190849520_1355176019_a.jpg",
+                            "full_name": "Natalia Vodianova"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "722877997",
+                            "followed_by_viewer": false,
+                            "username": "givenchyofficial",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821110_110528402629986_1242527498_a.jpg",
+                            "full_name": "GIVENCHY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "245296183",
+                            "followed_by_viewer": false,
+                            "username": "ericbuterbaugh",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907198_1715570148686559_328257808_a.jpg",
+                            "full_name": "Eric Buterbaugh"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "11015181",
+                            "followed_by_viewer": false,
+                            "username": "danigerous",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910391_1612206459061448_1165795273_a.jpg",
+                            "full_name": "Dani Michelle"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "217889406",
+                            "followed_by_viewer": false,
+                            "username": "karllagerfeld",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380840_1667709843258556_6165654969086115840_a.jpg",
+                            "full_name": "KARL LAGERFELD"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "241997151",
+                            "followed_by_viewer": false,
+                            "username": "carineroitfeld",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599311_870347059757448_25865058_a.jpg",
+                            "full_name": "Carine Roitfeld"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "218281445",
+                            "followed_by_viewer": false,
+                            "username": "feifeisun",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034978_660813780746226_7760132131430334464_a.jpg",
+                            "full_name": "FeiFei Sun\u2600\ufe0f\u5b59\u83f2\u83f2"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "216488289",
+                            "followed_by_viewer": false,
+                            "username": "jeanniesusanlee",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326440_1612116679026725_1172421151_a.jpg",
+                            "full_name": "Jeannie Lee"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "283447471",
+                            "followed_by_viewer": false,
+                            "username": "barbarabuiofficial",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13166828_268785523475157_973678582_a.jpg",
+                            "full_name": "Barbara Bui"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "23668248",
+                            "followed_by_viewer": false,
+                            "username": "blessed_are_the_meek",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378010_1419917175002205_693139202_a.jpg",
+                            "full_name": "Bless'ed Are The Meek"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

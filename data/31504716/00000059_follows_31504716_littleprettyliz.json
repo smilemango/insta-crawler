@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQButAP1jIKeGPih5YE83hP1WaM8x6y9T_VbNyfJ0DxwQCYc1UXkGQfWN4inaAqgf4HDfx6PbHNZAj0rpSUNeQnTGgDtsSZG2fVfUkleK8meQA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kimpton Surfcomber Hotel",
+                            "username": "surfcomberhotel",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3022805362",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126049_295431164207513_7560093080431362048_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "YouTube | Sewing | Blogger",
+                            "username": "sarahtyau",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "498953017",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14677343_235461246870688_3266701964414550016_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Over The Top Events",
+                            "username": "overthetopevents.ut",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2094900722",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14712157_1077830115669880_2962058387921043456_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Chantel Lauren",
+                            "username": "chantellaurendesigns",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "364332926",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12356535_806705412809235_845719166_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mariko Kay Photography",
+                            "username": "marikokay",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18693321",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12445841_637516703062136_468590393_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kelly Packer Nielson",
+                            "username": "_kellypacker",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18707581",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12501904_1180717635274337_1802339848_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1145
+            }
+        }
+    },
+    "status": "ok"
+}

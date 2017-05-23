@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA8lQsqb-tJKR0q0iQ9E-0O0RUpkEpmU-WRwc_jOmdnmkfbWL2Xxobih5TUbdUNahM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alexa Chung",
+                            "username": "alexachung_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "51535799",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11810011_626336000842432_1684901902_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MCMPR",
+                            "username": "mcm_pr",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9148200",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375807_845397852234994_26639657_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SurfStitch",
+                            "username": "surfstitch",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6207575",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547206_514767312038201_1426231195_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "babyboo123_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "283981966",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348210_115796832101804_564131828_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Glue Store",
+                            "username": "gluestore",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "104826551",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821834_1654227171458209_1622414450_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Le Specs Europe",
+                            "username": "lespecs_eyewear",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "34155893",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11918009_435314749991428_1837525687_a.jpg"
+                        }
+                    }
+                ],
+                "count": 889
+            }
+        }
+    },
+    "status": "ok"
+}

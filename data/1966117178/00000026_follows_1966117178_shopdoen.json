@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8682368",
+                            "username": "cookiewuu",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332435_263994520726360_3037311703915167744_a.jpg",
+                            "full_name": "Allie",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "25373258",
+                            "username": "courtney_santry1",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13380986_1113193812070822_1936573518_a.jpg",
+                            "full_name": "Courtney Santry",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "13925551",
+                            "username": "katherinekleveland",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534574_956234527802751_154966819_a.jpg",
+                            "full_name": "Katherine Kleveland",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "29610177",
+                            "username": "hilarybwalsh",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558468_755233334609331_952234838_a.jpg",
+                            "full_name": "Hilary Walsh",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "26110422",
+                            "username": "margaretkleveland",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11429568_513445925488409_1307662697_a.jpg",
+                            "full_name": "Margaret Kleveland I @shopdoen",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "16580667",
+                            "username": "phoebe_dean",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13277533_1752805508265882_1539659436_a.jpg",
+                            "full_name": "phoebe \ud83c\udf3b\ud83c\udf3b\ud83c\udf3b",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQAnIBbrCw79J_-93Z446vAb3fm-PI6wS36ep7dfGNIvGEaJQlkHEoXECNfYtS8wYuA",
+                    "has_next_page": false
+                },
+                "count": 502
+            }
+        }
+    }
+}

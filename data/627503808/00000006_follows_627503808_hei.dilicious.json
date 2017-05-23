@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAiCBSw4s3NXmhb9ZVJ4iFCEaHDrLcyfiF78hPNd3GeKutO_uSPopTTLNQdQJHmUfE"
+                },
+                "count": 103,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "9458588",
+                            "followed_by_viewer": false,
+                            "username": "barneysny",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802890_583504828501420_8124400539870953472_a.jpg",
+                            "full_name": "Barneys New York"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "23674562",
+                            "followed_by_viewer": false,
+                            "username": "modaoperandi",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12716946_555200617972208_501158448_a.jpg",
+                            "full_name": "Moda Operandi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "211839505",
+                            "followed_by_viewer": false,
+                            "username": "thombrowneny",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17817414_511122619277922_7560256860419260416_a.jpg",
+                            "full_name": "Thom Browne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "41748533",
+                            "followed_by_viewer": false,
+                            "username": "sonkeii",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11311216_1628653800710766_1022500323_a.jpg",
+                            "full_name": "Keii Son"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "415575593",
+                            "followed_by_viewer": false,
+                            "username": "eunxx1015",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276508_1147057522056362_3156695937724710912_a.jpg",
+                            "full_name": "\uc11c \uc740 \uc2e4 \u2728"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "214689736",
+                            "followed_by_viewer": false,
+                            "username": "miwanee",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15251864_1029773313815141_3689732925693100032_a.jpg",
+                            "full_name": "\ubbf8\uc644\uc131\ud560 \ub54c '\ubbf8\uc644'"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

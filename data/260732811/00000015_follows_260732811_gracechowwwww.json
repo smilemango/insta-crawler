@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "28806102",
+                            "username": "ataoego",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583481_289847211433250_7128803476863188992_a.jpg",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "6558093",
+                            "username": "joycehk",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363734_117044965309408_1445610700_a.jpg",
+                            "full_name": "JOYCE",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "222638942",
+                            "username": "labelsfashion",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10864855_704452633001632_414738092_a.jpg",
+                            "full_name": "LABELS",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "225324797",
+                            "username": "rickowensstorelondon",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363741_918178941574144_1712018572_a.jpg",
+                            "full_name": "RICK OWENS STORE LONDON",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBghFxZ3VnWDma1R9yg5mlg-7QmiOD16N-olrWo3EHkePsFuMUxaCYFPo-O6JeyL4Y",
+                    "has_next_page": false
+                },
+                "count": 264
+            }
+        }
+    }
+}

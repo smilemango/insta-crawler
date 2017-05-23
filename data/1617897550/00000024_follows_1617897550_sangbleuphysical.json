@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQARrg9KIEkTq1ni5SmChL9Lc3w2FI5sz48WB5HOQSZ7w3NXHh4Q_TJM-L7uWN4_w_c"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maxime Buchi",
+                            "username": "ridearoundshining",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1419617650",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914814_419957381493663_1365506398_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sang Bleu\u2122 Official",
+                            "username": "sangbleu",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "561783217",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14262867_568120533397604_2864886513785634816_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Steven Turner",
+                            "username": "turnermade",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9267908",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661738_414763942214114_1388952295646953472_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JAVIER RODRIGUEZ",
+                            "username": "javier_rodrigueztattoo",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14376307",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15403335_1740161626303541_3818081280235405312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SANG BLEU LONDON TATTOO",
+                            "username": "sbldnttt",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22173386",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11931180_919563354789131_1825217742_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Contemporary Tattoo /ing",
+                            "username": "tttism",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1391968541",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907152_569430546571375_1071621646_a.jpg"
+                        }
+                    }
+                ],
+                "count": 451
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 697,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBXXWEJYXQGLROOs8LVFkH5dMJMMJ4rpI-jPJYw3UdZ82QI933eIttY8PKbWsm8hAUz9ZCm9-EftQZ0skTsswEt6CKN3Zfk1pVYDpfqc7aWSg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788929_1358346717565917_8630939791531180032_n.jpg",
+                            "id": "1643950481",
+                            "username": "maximummasao",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Massimo Silvestro"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

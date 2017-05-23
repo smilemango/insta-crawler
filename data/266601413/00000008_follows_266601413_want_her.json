@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC-ocWs6hKmDDFkZxMMOq0iDUcwo-ceXKe8Tju6knzuhvuz7QvMFyrhkCIYZ7_exUg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Smirnov Alexander",
+                            "username": "smirnovalex",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "146207949",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12070855_194790197520672_1803856360_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "leyla_ismailova_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16493717",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13628301_1135415546531953_1917859518_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Katie",
+                            "username": "kisamarusia",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "312770",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126825_973071419489580_638726422201892864_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Elizaveta Sadovskaya",
+                            "username": "lisssababy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11188358",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13355511_1033487533402935_603709444_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Elizaveta Yelis",
+                            "username": "liza.yelis",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7659457",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230942_1863914410543443_4773354256805658624_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ANNA KOROTKIKH",
+                            "username": "anetasnake",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "198565852",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512603_469222456749200_6580874132177551360_a.jpg"
+                        }
+                    }
+                ],
+                "count": 141
+            }
+        }
+    },
+    "status": "ok"
+}

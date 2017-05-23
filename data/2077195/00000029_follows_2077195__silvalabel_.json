@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCs0EzvHmJwWuUDH4PD6vOopbqhm2qyb-ggFGrbGxz840Tq1fAM_rhXPq4dVtwuS0U"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Steffi Sosa",
+                            "username": "steffstagram23",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16093827",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444907_302970636792215_5613612639163777024_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Victoria Kolarik",
+                            "username": "torii__k",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3680485",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11246315_1678913608997380_383330757_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "B R I A N N A \u2764\ufe0f\u2693\ufe0f",
+                            "username": "briannalero",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "10415964",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12394146_484065888444701_1459009795_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\udd54\ud83c\udd5d\ud83c\udd61\ud83c\udd58\ud83c\udd60\ud83c\udd64\ud83c\udd54",
+                            "username": "esp._",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4717775",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276607_1780588445529135_3984138863521038336_a.jpg"
+                        }
+                    }
+                ],
+                "count": 544
+            }
+        }
+    },
+    "status": "ok"
+}

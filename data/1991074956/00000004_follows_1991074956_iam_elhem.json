@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAOCZnu6T5rOQeXt2QpVrlG-chACwfQYPjX3K1E0JVIM-h66EzTGZPipyfMzY39uz9VzQie4kYXhk4OloOON8nn0YIWdgABxQLTPMNx7txssQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gina LeVay",
+                            "username": "ginalevay",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1179452074",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/925302_677680092350365_1659557191_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Armando Espinoza",
+                            "username": "armando.nyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "32380298",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494805_439216469745240_1388371671903109120_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "C-Heads Magazine",
+                            "username": "cheadsmagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "259338356",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661923_405933339787155_6850110986125312000_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Daphna",
+                            "username": "daphnaeremina",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "200301619",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464463_1796903627225651_7075447519051776000_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Global Aesthetic \ud83c\udf0d",
+                            "username": "global.aesthetic",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4848670749",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17819056_1493748677322362_7092704959640109056_a.jpg"
+                        }
+                    }
+                ],
+                "count": 66
+            }
+        }
+    },
+    "status": "ok"
+}

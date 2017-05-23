@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 388,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCbqZFCJp-67M5ADMn5eudvVN1beNCNW5Xj5ACkSvTrqq4-35H0exU_gJEnx_EqoaWSMoDcXVEPwYxytQhitdXsb0rZq_JaAFEaST-7sYcQAQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11262115_1519543911704972_1761993434_a.jpg",
+                            "id": "1353322393",
+                            "username": "gizmodarling",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udc7cGIZMO\ud83d\udc7c"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096263_1966678260218520_8521764952682266624_a.jpg",
+                            "id": "7542402",
+                            "username": "andrewzenn",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Andrew Zenn"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252710_1424778427585857_2595671710199971840_a.jpg",
+                            "id": "230241730",
+                            "username": "asaprajy",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "asap rajy."
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624379_1644731935820631_4360424233973579776_a.jpg",
+                            "id": "15874903",
+                            "username": "ingridgaarseth",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ingrid Nilsen G\u00e5rseth"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096089_283494822099968_1218053283491348480_a.jpg",
+                            "id": "1069899",
+                            "username": "cescadarling",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francesca Giaimo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881678_1511277452250293_923413007952773120_a.jpg",
+                            "id": "6295680",
+                            "username": "csiriano",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christian Siriano"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14294776_630834203761564_369585069_a.jpg",
+                            "id": "10373508",
+                            "username": "jassnow",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jasmine Snow"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13628270_1333970856631559_841327896_a.jpg",
+                            "id": "244988416",
+                            "username": "vanessajsimmons",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vanessa Simmons"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553067_182942432154938_8138413905761271808_a.jpg",
+                            "id": "28648096",
+                            "username": "colleen",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Colleen Ballinger"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13532054_1064609916909653_353269689_a.jpg",
+                            "id": "144171248",
+                            "username": "mirandasingsofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Miranda Sings"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325148_363312320542117_1632389980_a.jpg",
+                            "id": "43153969",
+                            "username": "the1975",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "The1975"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18162119_1347136012032834_192069979699412992_a.jpg",
+                            "id": "7359104",
+                            "username": "ryancharch",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ryan Charchian"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11809997_759435404201910_1100594569_a.jpg",
+                            "id": "2339286",
+                            "username": "benefitcosmetics",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Benefit Cosmetics US"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12818918_571004699743731_1491039327_a.jpg",
+                            "id": "16111802",
+                            "username": "jouercosmetics",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jouer Cosmetics"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11313552_849977688425263_1055336419_a.jpg",
+                            "id": "28980833",
+                            "username": "amytkowicz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Amanda Manoogian"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11918020_1048425561865074_84158267_a.jpg",
+                            "id": "263484293",
+                            "username": "shopprivateparty",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "PRIVATE PARTY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821084_1485805171718137_1802381486_a.jpg",
+                            "id": "6056157",
+                            "username": "hilhabib",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Habib"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437993_1830638447263171_5844458146252193792_a.jpg",
+                            "id": "13151837",
+                            "username": "chrisellelim",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chriselle Lim \ud83c\udf1f \uc784\uc18c\uc815"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095025_1897455730541911_4655363434940989440_a.jpg",
+                            "id": "6312940",
+                            "username": "weylie",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "W E Y L I E"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17439377_604826256392726_7110847854981152768_a.jpg",
+                            "id": "953001703",
+                            "username": "carrierad",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u20ac \u2206 \u01a6 \u0159 \u00ef \u314c"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

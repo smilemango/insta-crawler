@@ -1,0 +1,203 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCMt5HKerhE-0I4k90knChhoAP6-B38z-4aY5DhruOxB_FH6K4-MGVog-Z5x7NUZ3PXPF9xYYt-mGA77eh9ZC3jvx-_de7KmTSEVc47rITjMw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nicole",
+                            "username": "nicole_mcglinn",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "31647616",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12301299_606925292772985_714701778_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maiden+John",
+                            "username": "maidenandjohn",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3439866547",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662288_695575703900892_4644267734824124416_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Grand Hyatt New York",
+                            "username": "grandhyattnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "342935308",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856617_767227580074601_809044715_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Turner Construction Company",
+                            "username": "turnerconstructioncommunity",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3089161370",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906347_1837980793123506_7033028893028122624_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "National Geographic Travel",
+                            "username": "natgeotravel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "23947096",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12132724_850743081710560_180824582_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vanity Fair",
+                            "username": "vanityfair",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11206038",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063275_605836459595888_676938676_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New York Times Video",
+                            "username": "nytvideo",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "489460047",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928328_806231206087461_396674748_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New York Times Travel",
+                            "username": "nytimestravel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1450084710",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10540458_860120367346419_447044165_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MoMA PS1",
+                            "username": "momaps1",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "280756342",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11379789_828119723945145_212135012_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MoMA The Museum of Modern Art",
+                            "username": "themuseumofmodernart",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "8300815",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026726_658075717692791_83491682_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Met",
+                            "username": "metmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "246171649",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15534612_1854288031483099_2600721792876150784_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Whitney Museum of American Art",
+                            "username": "whitneymuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "509323103",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926772_632336123516930_948197237_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "T: The NYTimes Style Magazine",
+                            "username": "tmagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "212660742",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586948_349600655435215_4199413022512381952_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gensler Architecture & Design",
+                            "username": "gensler_design",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1449809893",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10632535_349848698495917_1034927830_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gensler New York",
+                            "username": "gensler_nyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1679196969",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10895494_1006169489408254_1457206385_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Inhabitat",
+                            "username": "inhabitatdesign",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "506010398",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10349693_1438275883093927_661125302_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Curbed NY",
+                            "username": "curbedny",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1195828416",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14733546_333774790311334_4210030666999398400_a.jpg"
+                        }
+                    }
+                ],
+                "count": 157
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,214 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDguwJS5FbiDfcgeOoboen5aoOekrbtKAp8zHNPR1gwuQTkMiNDNtOscRtbIy-sWCc3uq0q4EHkyhRAbmnsxlkYw8Ea8R-jexp9Nk_o3aeyHw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MyDomaine",
+                            "username": "mydomaine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "201235485",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11186826_1591724544443050_1824290195_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "C Magazine",
+                            "username": "c.magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "23738956",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094715_138186400054729_8944827889992335360_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Malibu Magazine",
+                            "username": "malibumag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "303056715",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12568151_924964104256540_456504427_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Prada",
+                            "username": "prada",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "304662892",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359996_1495091150508318_322898428_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Baked by Melissa",
+                            "username": "bakedbymelissa",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "25409198",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13151057_1125332454185132_338657155_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brenna Egan Pierose",
+                            "username": "brenna.pierose",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "44363571",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850101_1645591992387681_1594030946_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Beyonc\u00e9",
+                            "username": "beyonce",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "247944034",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12918039_230227960666719_282379501_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Marais USA",
+                            "username": "maraisusa",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "231006007",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348372_1616434125295035_1897252219_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nine West",
+                            "username": "ninewest",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "13724407",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10995265_659276074194599_123416343_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83d\udcf1Need Nonstop Motivation? \ud83d\udd1d",
+                            "username": "muscleandhealth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "271482772",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13102309_1712170602384729_33786505_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "wfitnutrition",
+                            "username": "wfitnutrition",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "331295315",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849332_971268366227044_2111818430_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Swim Collective",
+                            "username": "swim_collective",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "206184827",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17931729_757452184423152_2180367158863724544_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brooke Burke-Charvet",
+                            "username": "brookeburke",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "30372347",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17334126_406869879674659_2419540092143009792_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Designer Protein",
+                            "username": "designerprotein",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "238540316",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13687349_170568406683423_1486718313_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Zooey Deschanel",
+                            "username": "zooeydeschanel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "14057957",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10954730_1047218721968622_1956579869_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "WindowsWear",
+                            "username": "windowswear",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "196449491",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419130_731557206954900_1713987195_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vogue Espa\u00f1a",
+                            "username": "voguespain",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1918282",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011849_294200941009515_6429295235834052608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Who What Wear",
+                            "username": "whowhatwear",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "27879728",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714536_1654542668169045_6949484580755734528_a.jpg"
+                        }
+                    }
+                ],
+                "count": 924
+            }
+        }
+    },
+    "status": "ok"
+}

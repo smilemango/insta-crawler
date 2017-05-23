@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBO6gc1cxNgPVR-__4qxHNu7-CSFXeEqLiNlMMNhLbVjK9h1U-5mR-SLLgiZl_dVkEtALNQmfSLeKDHdmvsofNo9kqeEGYhzJ99LGCSPoE4Tg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Chris Doyle",
+                            "username": "chrisdoylestudio",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "319924252",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10903420_374779522702523_246621559_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sara Greenberger Rafferty",
+                            "username": "saraspar",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "222378418",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15057206_336674626698043_8398998500846600192_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "tony oursler",
+                            "username": "tonyoursler",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "724895243",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325952_804359623014120_1168322828_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ARTBOOK",
+                            "username": "artbook",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25482841",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10362263_219509551592848_839895917_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rose D'Amora",
+                            "username": "rowsary",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "281362172",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/891464_1513203705581329_29116907_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Leggett",
+                            "username": "cocofunhouse",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "418791576",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12317569_1637346876518530_25606951_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "John Dombroski",
+                            "username": "john.dombroski",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1054152999",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12825714_1008775335856175_2002363565_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ortega y Gasset Projects",
+                            "username": "oygprojects",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "399057712",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357834_197838067224145_1514829911_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Thomas Erben Gallery",
+                            "username": "thomaserbengallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1576079131",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13734526_1154698164593926_966633494_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gallery Aferro",
+                            "username": "gallery_aferro",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "415809528",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252026_425561267809067_8021651934169530368_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kirsten Gillibrand",
+                            "username": "kirstengillibrand",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "976428693",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585115_1431280860277493_1744613220259201024_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Michelle Obama (archived)",
+                            "username": "michelleobama44",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "434598939",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110333_426034864394996_1394789929296330752_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "RISD Museum",
+                            "username": "risdmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "195182764",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11350755_442700439246995_1076246282_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Klaus Biesenbach",
+                            "username": "klausbiesenbach",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "391453744",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13739500_669368386562817_833563359_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "33 Orchard",
+                            "username": "33orchardgallery_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2272686979",
+                            "profile_pic_url": "https://scontent-sin6-2.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Martin Kersels",
+                            "username": "mikersels",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2318718745",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482932_623461641156830_3758927997042688000_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "General Sisters",
+                            "username": "generalsisters",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1053175802",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410492_1600843743516709_2052534654_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Herb Tam",
+                            "username": "herbtam",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "331546454",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363874_933758483336898_1928189391_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Josh MacPhee",
+                            "username": "jmacphee",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "335403678",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14607123_282392015495980_8862217664387350528_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MoMA PS1",
+                            "username": "momaps1",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "280756342",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11379789_828119723945145_212135012_a.jpg"
+                        }
+                    }
+                ],
+                "count": 753
+            }
+        }
+    },
+    "status": "ok"
+}

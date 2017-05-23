@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 614,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCMOWgBi03_IcIe6Qt9mYbG4IslxfA74xD1q2RdYstsP9QWAInwWfW1d0zD1p5gANM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13188136_1733571083580012_48688336_a.jpg",
+                            "id": "2219379",
+                            "username": "bof",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "The Business of Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10518223_1649292711961544_1142398452_a.jpg",
+                            "id": "4073479",
+                            "username": "teenvogue",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Teen Vogue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12338813_1632318950340175_320792613_a.jpg",
+                            "id": "6064449",
+                            "username": "rebeccaminkoff",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Rebecca Minkoff"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107411_179175139093473_392896005_a.jpg",
+                            "id": "1520952",
+                            "username": "oscardelarenta",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Oscar de la Renta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357496_167348673628665_971099270_a.jpg",
+                            "id": "1024067",
+                            "username": "marcjacobs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marc Jacobs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10598339_1462523197342576_1653216185_a.jpg",
+                            "id": "1378927",
+                            "username": "manrepeller",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Man Repeller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907259_602089639947088_213984254_a.jpg",
+                            "id": "2098900",
+                            "username": "evachen212",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Eva Chen"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

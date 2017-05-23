@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQABFPCuCdn8yFNwPhQ_WqIfc7UswzVvCdz0gH7yNZtHVahNBHOHXih7Mrv3tzSLLJuJ_zE6zCdNMWV-v1d6wJLWkQEq0fYqXRsQ_OVGVvjowA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pacific Foods",
+                            "username": "pacificfoods",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "217886004",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849307_823464584435763_403943048_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bob's Red Mill",
+                            "username": "bobsredmill",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "275494702",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10949062_1570964283147279_1601339323_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Driscoll's",
+                            "username": "driscollsberry",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "214286956",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/14033696_1633904963586203_451655847_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Simply Organic",
+                            "username": "simplyorganicfoods",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "192257731",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356576_888235261211638_2098041741_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Earthbound Farm",
+                            "username": "earthboundfarm",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "332060361",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14128913_282923435424771_1740759319_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "California Avocados",
+                            "username": "ca_avocados",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10886384",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11117008_1562738580658252_449994792_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Aveda",
+                            "username": "aveda",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4044759",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161440_1891495954402134_904040158532206592_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kullawit Laosuksri",
+                            "username": "kullawit",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "275971222",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11326048_860467643988739_906426639_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anon  Pairot",
+                            "username": "anonpairotstudio",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3183766",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264896_1476730075975123_1595894454_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Daniel Thaiger",
+                            "username": "danielthaiger",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1199210532",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373959_867247343353029_232585155_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Riverkeeper",
+                            "username": "riverkeeper",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "863295265",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382384_202176443632976_8442856550799769600_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maii Chootsana",
+                            "username": "maichootsana",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "234387128",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12345761_778967952231223_1654622524_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Capella Ixtapa",
+                            "username": "capellaixtapa",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "422268400",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11950616_1487366741577955_1110075073_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Italo\u2702\ufe0fCacciola Tailor",
+                            "username": "italocacciola",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "558973698",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877067_1081867495275242_1970518170632454144_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Plate In Progress",
+                            "username": "plateinprogress",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1092775953",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10514067_298083840369629_1129429851_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "#TheCreatorClass",
+                            "username": "thecreatorclass",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1469264876",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108990_602042849954892_1451732578_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Luxury Resorts",
+                            "username": "luxuryresorts",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "813226912",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789255_1921718998058387_7820117328313450496_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Curtis Newkirk",
+                            "username": "curtisanewkirk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "206529144",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382290_1508693852514936_6508884261183946752_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mee",
+                            "username": "saksoonthorn_rise",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "220759580",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15048245_202224160185458_190376328065712128_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Fullerton Heritage",
+                            "username": "thefullertonheritage",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "399496791",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11032950_604426172992837_902274743_a.jpg"
+                        }
+                    }
+                ],
+                "count": 3826
+            }
+        }
+    },
+    "status": "ok"
+}

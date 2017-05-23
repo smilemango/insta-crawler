@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 218,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCn4dcuVQCviVnZPlxIRhKDmme_-vXnOBuyE7rcFNOgLwpKZgGG7e-thlzcO7PGWTY"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494294_1877619502507187_5125444242528796672_a.jpg",
+                            "id": "48314277",
+                            "username": "nadiiashapoval",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nadiia Shapoval"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14726420_196325854106506_4371638316274024448_a.jpg",
+                            "id": "218661112",
+                            "username": "dimaievenko",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Dima Ievenko"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

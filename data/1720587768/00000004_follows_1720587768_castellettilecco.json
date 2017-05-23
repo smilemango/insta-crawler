@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 62,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBPcmW-l-foBHLgB4-unN44botbrZFejMYTxNKYhdYPfEBVJHXxMCKy7u75jR3SsrI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10522837_259938437537632_1458227573_a.jpg",
+                            "id": "268536303",
+                            "username": "giuliaferretti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Thumbs Up \ud83d\udc4d\ud83c\udffc"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875377_1496295303996174_1415549808_a.jpg",
+                            "id": "503779507",
+                            "username": "veronica_corti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Veronica Corti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10890671_568461296632111_1909359622_a.jpg",
+                            "id": "229282858",
+                            "username": "masha_e_pepino",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "sissi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877316_464884057234653_7235866772350435328_a.jpg",
+                            "id": "343723945",
+                            "username": "margherita_pavano",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udc51Emmepi"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

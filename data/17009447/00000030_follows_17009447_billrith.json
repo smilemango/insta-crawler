@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC5DWf2YND6pl_QuJOQSCobKPgTdw9Pfjxsdv3Jz4GyqXk_oYuWOXnVh-zP0K-fB8E"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kim",
+                            "username": "kimchattakulchai",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1372049",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12081128_1094126590619107_335482875_a.jpg"
+                        }
+                    }
+                ],
+                "count": 565
+            }
+        }
+    },
+    "status": "ok"
+}

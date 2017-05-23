@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 433,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDtAqIxt5viOhYfqNLaSlypHpatdBGbzPM7h0SoAQ4bfCo2PPbrmm4AXn1yVoOD3CE"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356933_1618239738432527_301881690_a.jpg",
+                            "id": "145286543",
+                            "username": "paigeyhcorwin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "paigeyhcorwin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251791_486002195064076_5421461136690118656_a.jpg",
+                            "id": "4134759",
+                            "username": "mackenziehoran",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mackenzie Horan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13183347_1743418322537665_920180427_a.jpg",
+                            "id": "15711682",
+                            "username": "jillianattaway",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "{Rhyme & Reason}"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12292848_186478588365375_702604502_a.jpg",
+                            "id": "6824981",
+                            "username": "allison_norton",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Allison Norton"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18514244_839492306208799_7802314504187936768_a.jpg",
+                            "id": "20106778",
+                            "username": "itssyds",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sydney"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

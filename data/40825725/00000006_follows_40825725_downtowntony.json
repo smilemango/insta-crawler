@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373721_911841185554894_480874655_a.jpg",
+                            "full_name": "Jennifer Taler",
+                            "is_verified": false,
+                            "id": "2327530",
+                            "followed_by_viewer": false,
+                            "username": "factorygirl_downtown",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14730498_325702837805145_1826209425560436736_a.jpg",
+                            "full_name": "Jenn Lim",
+                            "is_verified": false,
+                            "id": "771868",
+                            "followed_by_viewer": false,
+                            "username": "jennlim",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356620_735151736590271_1206535986_a.jpg",
+                            "full_name": "Cyan Banister",
+                            "is_verified": false,
+                            "id": "2005243",
+                            "followed_by_viewer": false,
+                            "username": "cyantist",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356032_1475751919403700_262479861_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "653004",
+                            "followed_by_viewer": false,
+                            "username": "crunchybugs",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10693470_595309113906538_1399914209_a.jpg",
+                            "full_name": "Christa Foley",
+                            "is_verified": false,
+                            "id": "3144339",
+                            "followed_by_viewer": false,
+                            "username": "christafoley",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723572_271466183254526_8588613472944652288_a.jpg",
+                            "full_name": "M E G A N  M O R R I S",
+                            "is_verified": false,
+                            "id": "2412175",
+                            "followed_by_viewer": false,
+                            "username": "megan___morris",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 105,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBWRCVR7Yre4o2ReBs2XD4S5OS8fT8TwSFrSSE4HhcISXQaEquDoTsb3_KdsYL_sg4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

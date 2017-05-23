@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "401420930",
+                            "username": "xmenmovies",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13707425_1262533527120346_12025496_a.jpg",
+                            "full_name": "X-Men Movies",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "38598305",
+                            "username": "mattie_ma",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535093_353818361664852_4360054145231618048_a.jpg",
+                            "full_name": "mattie_ma",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "44558813",
+                            "username": "jerseyc",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11950599_407916939403815_222921738_a.jpg",
+                            "full_name": "Jersey Chong",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "43930738",
+                            "username": "chopard",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849079_1104470909582157_1753063064_a.jpg",
+                            "full_name": "Chopard Official",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "488618987",
+                            "username": "mohiebdahabieh",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10597473_468518093290572_1085809272_a.jpg",
+                            "full_name": "Mohieb Dahabieh \u0645\u0647\u064a\u0628 \u062f\u0647\u0628\u064a\u0629",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBKNw6QhRqNpgaEq9tAyZ8SwFXMM_hA4ibNdWnMVZSZOUTw0eOBHMP5aoGOWEjSf70",
+                    "has_next_page": false
+                },
+                "count": 45
+            }
+        }
+    }
+}

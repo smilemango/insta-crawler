@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAVXG-pRbbgSeMV2q6eBbFnUByz7RRPDGWp0N4cUkBHy2HgwwZvcRqFHoqcFY9nX-jVaevEfezEBmVcJ2pMw3wRHdCezOC7ogoHbd3qy28WzA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Fedor Shmidt",
+                            "username": "fshmidt",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1334207971",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410376_462544323910280_1694197500_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dubaiseafun.com",
+                            "username": "dubaiseafun",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1158614847",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110477_1845337849089373_1143198325713928192_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alexandra Yakovleva",
+                            "username": "sasha_beba",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6589885",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299167_158332861366993_5258512761834438656_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anna\ud83c\udf0e",
+                            "username": "anna_garaeva",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "55580417",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373551_1448602132107633_734963884_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\uddee\ud83c\uddf9Yaroslav Shulzhenko\ud83c\uddfa\ud83c\uddf8",
+                            "username": "yaroseshulzhenko",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "263856268",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17933845_375665599494365_5225581959085817856_a.jpg"
+                        }
+                    }
+                ],
+                "count": 582
+            }
+        }
+    },
+    "status": "ok"
+}

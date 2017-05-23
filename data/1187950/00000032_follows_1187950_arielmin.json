@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDKy2ZSImYNTjORvuawSCGvMFjNYVLp4Oh_wHbF8kCJi51W3QGXyn-CyuNw46FV4fo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JiYoung Min",
+                            "username": "youngjii",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16687095",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519583_898423820274911_1754701018_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Justin Yu",
+                            "username": "justin.jyu",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "685116",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11909128_479202208907648_1268084583_a.jpg"
+                        }
+                    }
+                ],
+                "count": 618
+            }
+        }
+    },
+    "status": "ok"
+}

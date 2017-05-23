@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBz6GABSLkJ8fKHux0Sz30XHLXdxq2BV3xyjbs7Gcuq0nsSpig-Jzzi1pu2GmCAcxg-lT9oUKzgwvOHH6tlK5AozdYXdTREFLT_BfLt7fjg_w"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "DKNY",
+                            "username": "dkny",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1997498308",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11887181_875980805825994_1681595333_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Clinique",
+                            "username": "clinique",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "409035188",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10665272_494816057336468_247432538_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Victoria Bousis",
+                            "username": "vbousis",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "273803667",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535388_206715033123637_3101395759887548416_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Viola Arrivabene",
+                            "username": "lolaarrivabene",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "327598284",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11426504_827028950699190_536983848_a.jpg"
+                        }
+                    }
+                ],
+                "count": 935
+            }
+        }
+    },
+    "status": "ok"
+}

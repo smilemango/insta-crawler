@@ -1,0 +1,137 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 526,
+                "page_info": {
+                    "end_cursor": "AQC-UrFpOabw_fnAIUZSmjcl7vKVoy15_SqGYw-dJX4DYXRWhHuQVfpmImkGPAhr3m4",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "143678892",
+                            "username": "calanticus",
+                            "full_name": "calanticus",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355265_869490456421226_1883235791_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "37416959",
+                            "username": "bcmyers05",
+                            "full_name": "Brian Myers",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11925701_606737239467249_199395856_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "41474046",
+                            "username": "brettlaffel",
+                            "full_name": "Brett Laffel",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325740_1684031661829062_216741775_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "19032754",
+                            "username": "beripics",
+                            "full_name": "Beri Meric",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14156548_1742238086043673_1762377146_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "124235",
+                            "username": "ambarb",
+                            "full_name": "Ambar",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12145317_418698268328908_1454281396_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "8708105",
+                            "username": "alexnels",
+                            "full_name": "Alex Nelson",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906127_472690039605994_1435125537_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1015465",
+                            "username": "alexferrara",
+                            "full_name": "Alex Ferrara",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877579_307167923013871_7689643042269036544_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1920453",
+                            "username": "adamnkopec",
+                            "full_name": "Adam Kopec",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13394891_914706665323949_1171535956_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "352123",
+                            "username": "aludwin",
+                            "full_name": "Adam Ludwin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11312288_747572395386561_368245142_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1689274",
+                            "username": "alexavontobel",
+                            "full_name": "Alexa von Tobel, CFP \ud83d\ude18",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371143_486235861524865_2011540899_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2544653",
+                            "username": "mattsalz",
+                            "full_name": "Matt Salzberg",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407408_1496542963988041_26907471_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

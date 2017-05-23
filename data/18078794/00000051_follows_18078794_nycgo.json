@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1323,
+                "page_info": {
+                    "end_cursor": "AQDOSEQYo_x2Gj3G30C99U_Z7YAd8Vg1muEQRAOPJN3nypcBYuBDD6yBGBPQDvdQ_Tr5jItD5QlkzG53jHeeiDgRXEAQ2mRjx0FLFsADrFfR8w",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "28693947",
+                            "username": "radiocitymusichall",
+                            "full_name": "Radio City Music Hall",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10296980_458692460963203_1173325778_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "628826892",
+                            "username": "panynj",
+                            "full_name": "The Port Authority of NY & NJ",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849266_129538704054978_229274616_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "381459091",
+                            "username": "nysdps",
+                            "full_name": "NYS Dept Of Public Service",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10919376_652306621548138_1936496253_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "28486065",
+                            "username": "nyctaxi",
+                            "full_name": "NYC Taxi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10535121_835126196499292_1291072491_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "225524470",
+                            "username": "nycservice",
+                            "full_name": "NYC Service",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1740435_573096206123556_2009732002_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "268595234",
+                            "username": "nyc311",
+                            "full_name": "NYC 311",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444047_438137569897445_6044558323225722880_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "612105477",
+                            "username": "mtametronorth",
+                            "full_name": "MTA Metro-North Railroad",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849148_1011831675514730_172199813_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "24657590",
+                            "username": "mikebloomberg",
+                            "full_name": "Mike Bloomberg",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378266_496678690489786_673342688_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "406802783",
+                            "username": "milliontreesnyc",
+                            "full_name": "MillionTreesNYC",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325304_980636888664071_2046462758_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "676131729",
+                            "username": "grandcentralnyc",
+                            "full_name": "Grand Central Terminal",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375393_850618655015385_1276036013_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "299378256",
+                            "username": "designtrustnyc",
+                            "full_name": "Design Trust for Public Space",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12552334_988739524495443_476308060_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "327592944",
+                            "username": "bklynlibrary",
+                            "full_name": "Brooklyn Public Library",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802266_1210615345685766_685967248526934016_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "208623397",
+                            "username": "birdie_nyc",
+                            "full_name": "Birdie",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/15056654_233829800364443_3977511561479585792_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1006493201",
+                            "username": "astorplacenyc",
+                            "full_name": "Astor Place NYC",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14288148_198575277222751_972805915_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "501396710",
+                            "username": "nycoem",
+                            "full_name": "NYC Emergency Management",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10729460_821850487838518_845734758_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "296989068",
+                            "username": "nylandmarks",
+                            "full_name": "New York Landmarks Conservancy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373710_877350265687860_383797118_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "227337747",
+                            "username": "nyc_dot",
+                            "full_name": "NYC DOT",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11849794_622634924544615_852902708_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "193879965",
+                            "username": "usopen",
+                            "full_name": "US Open",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10683872_591085957663099_951804867_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "322531311",
+                            "username": "lmcc_nyc",
+                            "full_name": "LMCC",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125834_1339297439478306_6399990132807565312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "192587413",
+                            "username": "openhousenewyork",
+                            "full_name": "Open House New York",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10683762_1536164866595732_584387588_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA84QKmkVJ8ipecdjwF_LKSYvBbfLC8CQzXD78hJoM7CCXFwPzvpS9grwpBemmmlBY"
+                },
+                "count": 369,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "174969849",
+                            "followed_by_viewer": false,
+                            "username": "ssxch",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11137695_1542800152607225_1837494796_a.jpg",
+                            "full_name": "Chuhan Xu"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "16149283",
+                            "followed_by_viewer": false,
+                            "username": "poydtreechada",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125491_155221744996000_1085513680818274304_a.jpg",
+                            "full_name": "poydtreechada"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "11285087",
+                            "followed_by_viewer": false,
+                            "username": "louboutinworld",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803754_1755392841446417_6503141812599783424_n.jpg",
+                            "full_name": "Christian Louboutin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "9156600",
+                            "followed_by_viewer": false,
+                            "username": "angelababyct",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14262889_300464123659127_1298664126_a.jpg",
+                            "full_name": "Angelababy"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

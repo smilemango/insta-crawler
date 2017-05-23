@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13525544_268621020164763_215517328_a.jpg",
+                            "full_name": "BJM",
+                            "is_verified": false,
+                            "id": "29236482",
+                            "followed_by_viewer": false,
+                            "username": "bonnie_mooney",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802677_1862968353980728_6522030275608707072_n.jpg",
+                            "full_name": "Greta van der Star",
+                            "is_verified": false,
+                            "id": "144046116",
+                            "followed_by_viewer": false,
+                            "username": "gretavanderstar",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13694423_1819385758282718_2057527288_a.jpg",
+                            "full_name": "C U R I O N O I R",
+                            "is_verified": false,
+                            "id": "35316085",
+                            "followed_by_viewer": false,
+                            "username": "curionoir",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380211_428576327500518_4993716380084731904_a.jpg",
+                            "full_name": "SHERIE MUIJS",
+                            "is_verified": false,
+                            "id": "17241112",
+                            "followed_by_viewer": false,
+                            "username": "sheriemuijs",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 696,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB9js4LjtffmejgfZucc8T-B-4K8_rhf4lcfhMUfr38wsSNMsiD2j4cXE69f85_YZ0"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

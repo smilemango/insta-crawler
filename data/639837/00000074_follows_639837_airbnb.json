@@ -1,0 +1,126 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "6113104",
+                            "username": "anthonybourdain",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15253137_1709720832621837_8193366148297785344_a.jpg",
+                            "full_name": "anthonybourdain",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "4163308",
+                            "username": "anthropologie",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11243555_956453091083492_1979234124_a.jpg",
+                            "full_name": "Anthropologie",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "3363838",
+                            "username": "rapo4",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13707416_1594862154139911_311969014_a.jpg",
+                            "full_name": "Adam Rapoport",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2202502",
+                            "username": "acontinuouslean",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820711_383133001897755_683438147_a.jpg",
+                            "full_name": "A Continuous Lean.",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "10276268",
+                            "username": "7x7bayarea",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13671117_1544721662503774_496096600_a.jpg",
+                            "full_name": "7x7",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "1330400",
+                            "username": "artnet",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585663_1903300496559595_3825804400232759296_a.jpg",
+                            "full_name": "artnet",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "253956839",
+                            "username": "moleskine_world",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13259099_274894956185854_1599682369_a.jpg",
+                            "full_name": "Moleskine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "104887415",
+                            "username": "cntraveler",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10838797_771008859614735_1103490377_a.jpg",
+                            "full_name": "Cond\u00e9 Nast Traveler",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "13005392",
+                            "username": "theselby",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264734_643526575783279_86477592_a.jpg",
+                            "full_name": "The Selby \ud83c\udf0d Todd Selby \ud83c\udf35\ud83d\udc22\ud83c\udf7e\ud83d\udce1\ud83d\ude18",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "25025320",
+                            "username": "instagram",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719833_310540259320655_1605122788543168512_a.jpg",
+                            "full_name": "Instagram",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCvUyu1DhaqqWy2PUO_l0IHY18TcPZe8dLapxI2Vuu3I2DHuBX40VXmWWSFWfn6-44",
+                    "has_next_page": false
+                },
+                "count": 1461
+            }
+        }
+    }
+}

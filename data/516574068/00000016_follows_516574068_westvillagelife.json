@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13129387_1694788634128151_2093935733_a.jpg",
+                            "full_name": "VSCO",
+                            "is_verified": true,
+                            "id": "40238620",
+                            "followed_by_viewer": false,
+                            "username": "vsco",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 296,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAN_4QA-CH0HIj94Aedkh0XcCldlZ4VwVHE86wQ7CAYLuztcDYnzywuoYr-lt-2bj4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

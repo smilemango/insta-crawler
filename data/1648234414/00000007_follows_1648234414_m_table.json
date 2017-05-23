@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB9FBZTRseTHlMmX8sN8oZWiphpZ6dIinOh-2WbcTcjsf5h5S5FderMxHoHHLKLw5I"
+                },
+                "count": 122,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1175328654",
+                            "followed_by_viewer": false,
+                            "username": "ailyn70",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928587_264766153728690_1130688510_a.jpg",
+                            "full_name": "E.Y SUN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1688823375",
+                            "followed_by_viewer": false,
+                            "username": "estherkeum",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382508_1378240902269592_7975809935743123456_a.jpg",
+                            "full_name": "Esther Kim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1638900933",
+                            "followed_by_viewer": false,
+                            "username": "sunshinevegas",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14033439_946454582147936_592587943_a.jpg",
+                            "full_name": "\uc368\ub1cc\uc758 \ud589\ubcf5\ud55c \ud558\ub8e8"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1523440188",
+                            "followed_by_viewer": false,
+                            "username": "jaiyogashop",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585492_1097751247019671_7434934589509861376_a.jpg",
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

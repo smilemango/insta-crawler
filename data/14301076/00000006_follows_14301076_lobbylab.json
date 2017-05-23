@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14295528_295973800764686_1295796696_a.jpg",
+                            "full_name": "Sean Rosenthal",
+                            "is_verified": false,
+                            "id": "4051904",
+                            "followed_by_viewer": false,
+                            "username": "withinadream",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513581_130903587469330_7521558071210934272_a.jpg",
+                            "full_name": "Nesha Torres",
+                            "is_verified": false,
+                            "id": "195733131",
+                            "followed_by_viewer": false,
+                            "username": "neshatorres",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333210_1317724691648408_8138383626241835008_a.jpg",
+                            "full_name": "Kelly Angela",
+                            "is_verified": false,
+                            "id": "12437899",
+                            "followed_by_viewer": false,
+                            "username": "mskellyangela",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580394_259526941181395_2102150332615229440_a.jpg",
+                            "full_name": "Devlin Cyr",
+                            "is_verified": false,
+                            "id": "10095067",
+                            "followed_by_viewer": false,
+                            "username": "devcyr",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579959_823684487800508_242207585371947008_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "191845744",
+                            "followed_by_viewer": false,
+                            "username": "naatvidaa",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 225,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA_4vyKJVnUlkvuvIzLeb--8NdlPvBJuM_c33Hmlf7XuhPwP-sw_2u3t0MX4qXsi7Dw6ivHm3w6XQCDHKX-uip0czZG9kUIxiI_ibMZYaXmuA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

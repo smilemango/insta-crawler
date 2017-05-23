@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11357895_1649252325311092_239698897_a.jpg",
+                            "full_name": "Isabel Marant Official Account",
+                            "is_verified": true,
+                            "id": "404802190",
+                            "followed_by_viewer": false,
+                            "username": "isabelmarant",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906477_215783122230502_5529611797637627904_a.jpg",
+                            "full_name": "C E R E A L",
+                            "is_verified": false,
+                            "id": "254493152",
+                            "followed_by_viewer": false,
+                            "username": "cerealmag",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13392798_1737622813148160_51727167_a.jpg",
+                            "full_name": "Courtney Adamo",
+                            "is_verified": false,
+                            "id": "1976947",
+                            "followed_by_viewer": false,
+                            "username": "courtneyadamo",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13561527_480961225435516_511953810_a.jpg",
+                            "full_name": "Line Dahy Ernst",
+                            "is_verified": false,
+                            "id": "46790356",
+                            "followed_by_viewer": false,
+                            "username": "line.dahyernst",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 321,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBsFV3uxoweaMGnMET-E17Pt4v2iLjIpnv84QDZR6LqGyag5sh0J2-5PL81GBhD750"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

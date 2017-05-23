@@ -1,0 +1,104 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC5LQN8asjGPkaqBEB9W8tpZJY2FXwU4hUDxKSAXDdyJsiS2BCHl-BNORz0wE5XMak"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Esquire Magazine",
+                            "username": "ukesquire",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "23540385",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11242865_366163480252455_774779520_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Teen Vogue",
+                            "username": "teenvogue",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4073479",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10518223_1649292711961544_1142398452_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nylon Magazine",
+                            "username": "nylonmag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "3119358",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17075951_1855530908067906_2419007554853011456_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Glamour Magazine",
+                            "username": "glamourmag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10070230",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126522_1261268487297357_4756736822179004416_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Elle Magazine",
+                            "username": "elleusa",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "178598981",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11232704_690788074359060_178738687_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lucky Magazine",
+                            "username": "luckymagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6127933",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11023134_1583989198509655_41822865_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "instylemagazine",
+                            "username": "instylemagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "18464866",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10449126_1450947575153999_1259384029_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Natalie Joos",
+                            "username": "jxxsy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25775613",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15057332_1156435287783580_748353916244066304_a.jpg"
+                        }
+                    }
+                ],
+                "count": 386
+            }
+        }
+    },
+    "status": "ok"
+}

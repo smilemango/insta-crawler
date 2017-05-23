@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 19,
+                "edges": [
+                    {
+                        "node": {
+                            "id": "175694806",
+                            "full_name": "Y-3",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "username": "adidasy3",
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125890_1311088245646247_4485462384206413824_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "9538109",
+                            "full_name": "St\u00fcssy",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "username": "stussy",
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13628339_164869213918670_646599725_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "13336763",
+                            "full_name": "Supreme",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "username": "supremenewyork",
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875579_1644822549098531_928575766_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2034822427",
+                            "full_name": "\ubc15\uba85\uc218(G-park)",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "username": "dj_gpark",
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13408862_102623173499962_2131275689_a.jpg"
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDFm1W4UmeVsTqExUFmHwjSaB3_9ygDL0hKXIhrCbva8CEl_H-Q3uwbqP14K5RKXzY_wdM4Vsse51w7jXQk9yVMDQw-JraJYzUSRq_XN_2lSw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

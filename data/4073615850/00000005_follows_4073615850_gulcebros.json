@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA42syMZ7FMyiIB4SAAlbg9kpaxsNleufM-x8nA_Ssp0EWZCI8Vah-A4uLpxbk1WNDVj5TcIbDkjIeh_Sz4oS5GzVTeB4dgXN6qqRu888BymQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BookZone\ud83d\udce3\ud83d\udcda",
+                            "username": "findabookforyou",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3952246217",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14334352_1584421631863666_881993733_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Plaklar ve Duygum...",
+                            "username": "egedenakdenize",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2208731633",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512836_1722782131361516_5745137865050816512_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rabia S \ud83d\udc8d",
+                            "username": "wbhey",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "476296042",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580263_1923453211234721_4071008567107256320_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Yesim \ud83c\udf41",
+                            "username": "colorsandlines",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "550205699",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809894_667464450062728_1888793075_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83d\udd2ezeynep",
+                            "username": "zeynepoozkaya",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4303011475",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579987_262237214244327_3569334491191181312_a.jpg"
+                        }
+                    }
+                ],
+                "count": 82
+            }
+        }
+    },
+    "status": "ok"
+}

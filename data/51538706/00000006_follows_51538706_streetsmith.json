@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD697lCchtwL3iMvLqNxyTNCkDuOvcuM3GDEG2hFyUjkvcUbnC-7PgU1s5w4a_gOhM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "FAYE SUNSHINE",
+                            "username": "fayesun123",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1273465758",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324875_571545479651514_1694248994_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Loz",
+                            "username": "lolitasmolita",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "400893372",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10326370_671700762920543_1605280260_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "karunapurcell",
+                            "username": "karunapurcell",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "188551331",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/924066_1503672049899003_938297891_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vogue Australia",
+                            "username": "vogueaustralia",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "24770126",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18581249_427822760906605_6028803807658377216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "nofusshealthyliving",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "185448828",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15043671_349107158782334_8044103510637150208_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "KNOOP",
+                            "username": "knoopaustralia",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22675420",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/12135375_1634313303497705_1301789114_a.jpg"
+                        }
+                    }
+                ],
+                "count": 68
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBoXg_4FmviPcVEG_LUQfP3300rJu641gmZtL-lrIXk4CNju4NGYyFKJFPjM1bSmFPhmtsKwdxU2IZqLeJXa-W4B-Z5YYTtFvELo6s7wl0J7A"
+                },
+                "count": 440,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "344958793",
+                            "followed_by_viewer": false,
+                            "username": "by_couture",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10731929_729342700508862_1782981755_a.jpg",
+                            "full_name": "COUTURE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "241904585",
+                            "followed_by_viewer": false,
+                            "username": "10corsocomo",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15275688_1815890142002623_5360494857607446528_a.jpg",
+                            "full_name": "10 CORSO COMO"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "295609316",
+                            "followed_by_viewer": false,
+                            "username": "sandrasemburg",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585716_1869094740036773_2556212372477837312_a.jpg",
+                            "full_name": "Sandra Semburg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "175669251",
+                            "followed_by_viewer": false,
+                            "username": "pernilleteisbaek",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351620_1155822097778299_1437502815_a.jpg",
+                            "full_name": "Pernille Teisbaek"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "370415846",
+                            "followed_by_viewer": false,
+                            "username": "sarahharrisuk",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875417_492395447581632_1212327234_a.jpg",
+                            "full_name": "Sarah Harris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "183927279",
+                            "followed_by_viewer": false,
+                            "username": "rickiedesole",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519411_213009079071618_1958129467_a.jpg",
+                            "full_name": "Rickie De Sole"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "315710838",
+                            "followed_by_viewer": false,
+                            "username": "therow",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875438_1097335773629530_1874753446_a.jpg",
+                            "full_name": "THE ROW"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "22619435",
+                            "followed_by_viewer": false,
+                            "username": "voguerunway",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/929317_933776766713278_937006941_a.jpg",
+                            "full_name": "Vogue Runway"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "21723588",
+                            "followed_by_viewer": false,
+                            "username": "nymag",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899620_548948698586046_1027842781_a.jpg",
+                            "full_name": "New York Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4645728",
+                            "followed_by_viewer": false,
+                            "username": "tenoversix",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11084674_845403042187070_2045469809_a.jpg",
+                            "full_name": "TENOVERSIX"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "368314688",
+                            "followed_by_viewer": false,
+                            "username": "ym_studio",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13269318_1744322859184793_1880928130_a.jpg",
+                            "full_name": "KIM YOON MI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "28537641",
+                            "followed_by_viewer": false,
+                            "username": "alohayiu",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1170153_1054719404572166_1485850512_a.jpg",
+                            "full_name": "YIU"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "182472636",
+                            "followed_by_viewer": false,
+                            "username": "lovegoldlive",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11265798_1641339926077590_165561733_a.jpg",
+                            "full_name": "LoveGold"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "573906",
+                            "followed_by_viewer": false,
+                            "username": "andyheart",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351876_417730305083410_869822845_a.jpg",
+                            "full_name": "Ann Kim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "29606574",
+                            "followed_by_viewer": false,
+                            "username": "brownsfashion",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14677225_361113124225173_4734552890893402112_a.jpg",
+                            "full_name": "Browns Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "46493802",
+                            "followed_by_viewer": false,
+                            "username": "carolinedemaigret",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161299_522931184763698_625979208375468032_a.jpg",
+                            "full_name": "Caroline de Maigret \ud83c\uddeb\ud83c\uddf7"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "248146695",
+                            "followed_by_viewer": false,
+                            "username": "loudoillon",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10413091_863921960287849_130867112_a.jpg",
+                            "full_name": "Lou Doillon \u2615"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1925286",
+                            "followed_by_viewer": false,
+                            "username": "eggcanvas",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099668_1760158227591766_126196412_a.jpg",
+                            "full_name": "Erica Choi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "30657199",
+                            "followed_by_viewer": false,
+                            "username": "parkncube",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512713_257273138074976_7553877171832356864_a.jpg",
+                            "full_name": "Shini Park"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

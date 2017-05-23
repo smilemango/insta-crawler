@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 412,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAu-4gpseKgtjLqZcerhhAZR_I5CsNZmED0dP61LEPPgJdfY8XQQ883ItFaRnMTZliODFH08QDKhdkZMEUsD8emxJ4IINjpsMb7jUDNM2QopA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10903207_448866781956381_1767613575_a.jpg",
+                            "id": "1724515064",
+                            "username": "pinklipsandpugs",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Pink Lips And Pugs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363742_499334690232574_1023133848_a.jpg",
+                            "id": "5770788",
+                            "username": "superflynails",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mia at Sparkle SF Nail Studio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11881569_493815080785191_1411678257_a.jpg",
+                            "id": "354239583",
+                            "username": "angelnailedit",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nails by Angel Son"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252452_1874546522783617_4608204835764830208_a.jpg",
+                            "id": "1946978364",
+                            "username": "hairskinkale",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "HAIR SKIN KALE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14561880_1180089122081475_3975619186004066304_a.jpg",
+                            "id": "13291295",
+                            "username": "polishmewithglitter",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udc95"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818124_1695113447456192_6472151712298696704_a.jpg",
+                            "id": "38963288",
+                            "username": "stephaniekudlic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stephanie Kudlic"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881575_1901068193494765_5613157621738504192_a.jpg",
+                            "id": "10327053",
+                            "username": "bnbsocial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "YASMIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11273099_693154324145016_875425428_a.jpg",
+                            "id": "2120045418",
+                            "username": "anewstrength",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2207 \u2022 A \u2022 N \u2022 E \u2022 W \u2022 \u2207"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17495175_1407723659292527_5576032688936058880_a.jpg",
+                            "id": "369505955",
+                            "username": "beautyintact",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Neeta Gusain"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585630_1403947739697945_585919352620974080_a.jpg",
+                            "id": "229011821",
+                            "username": "hairandmakeupbysteph",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hair and Makeup by Steph"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13414236_491503204384213_330806153_a.jpg",
+                            "id": "252127636",
+                            "username": "trendsxtwo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "trudy & sydney"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465015_246259319164769_7483043630588887040_a.jpg",
+                            "id": "12940004",
+                            "username": "simplyxclassic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Miriam \ud83c\udf34\ud83c\udf3a"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10838606_684891351610249_1179236567_a.jpg",
+                            "id": "931605",
+                            "username": "leopardmartini1",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Adriana Lucia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333993_179977575842411_7753036467500220416_a.jpg",
+                            "id": "1173753427",
+                            "username": "laurenslist",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lauren Yavor"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12345955_200389156962003_728097656_a.jpg",
+                            "id": "306358299",
+                            "username": "killer_nails",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lexi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443773_122758864961647_1415005799192723456_a.jpg",
+                            "id": "8210933",
+                            "username": "heygorjess",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jessica Franklin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14716512_342972862746815_5142417373462003712_a.jpg",
+                            "id": "21655376",
+                            "username": "kastlescamponi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kassandra Camponi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908466_394086270953358_1409115015323058176_a.jpg",
+                            "id": "187005829",
+                            "username": "nailinghollywood",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nailing Hollywood"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821912_785673844877053_1304217922_a.jpg",
+                            "id": "205318216",
+                            "username": "glossnailspa",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "GLOSSNAILSPA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374016_878230615557517_1758125599_a.jpg",
+                            "id": "962162629",
+                            "username": "jinsoon",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "JINsoon"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

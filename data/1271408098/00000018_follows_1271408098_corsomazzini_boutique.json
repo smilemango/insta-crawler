@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 338,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCfilmzSweAfle8LaEAi1VNKXAvzWdw-23obGKcmeEVQCaKIPGppeXvcPxYr5Uwp3c"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443889_1884410321829727_8919347347968753664_a.jpg",
+                            "id": "48789579",
+                            "username": "sara_cath",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2702\ufe0fsara"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

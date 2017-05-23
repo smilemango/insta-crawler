@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC9Vh84caWFvqfiNCENJdgOiPFx031_wN41B7cldbZj_pGZBnqWlOINOgXYpquFVqQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "giampaolo sgura",
+                            "username": "giampaolosgura",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "195893661",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803321_357244234643308_9209667298724413440_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "giorgia_235",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "498225500",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512395_608881875974524_6302760306678431744_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "alice.lv",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1297885631",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17817580_785206151626826_535865902537637888_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alicia Robinson",
+                            "username": "aliciarobinson1",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "39558566",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10932479_1476252186030569_1989694312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Georgie Wagstaff",
+                            "username": "gfitpt.uk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1998437823",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14474062_554536351408389_9099116584282095616_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mattia Mabellini",
+                            "username": "mattia_mabe",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1733391821",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11370999_1655140568051099_1322358826_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "carmelin88",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1359737259",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10499215_565680563543252_697316016_a.jpg"
+                        }
+                    }
+                ],
+                "count": 47
+            }
+        }
+    },
+    "status": "ok"
+}

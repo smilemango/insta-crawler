@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDAnSOVFJwroaEPbsLKVkbFoci8m-nYjkdQJ4WMx_tbo7JVw5dyemrgjENzK0yujYi1R8MOjz3sR-awmFFlC6c0T9NPVDBenzVkGHSuC-xvXg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "galatuesday",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3444010708",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789295_1903688173198108_2891215943210369024_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "spoiled NYC",
+                            "username": "spoilednyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1677199404",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13774471_554028404779425_1854971113_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "INSIDER art",
+                            "username": "insiderart",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "3247476434",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15625119_771924032965659_1917771260658450432_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "epicurious",
+                            "username": "epicurious",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "312865729",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10964057_1556021874668232_171425007_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Merlin",
+                            "username": "nylrem_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1970132172",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908727_1653785011583678_3551167320694980608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kirk Araya",
+                            "username": "djkirkalert",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "539835356",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881646_1487024474947672_75685207_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stranded On Land",
+                            "username": "strandedonland",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1735735621",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11283224_355701831296342_916327975_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tastemade",
+                            "username": "tastemade",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "227921678",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11371092_1642434109372480_7261937_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tasty",
+                            "username": "buzzfeedtasty",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2125506698",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11909363_1620023844938643_450297140_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "INSIDER",
+                            "username": "thisisinsider",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1777779076",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13736966_1766289143614364_1013477406_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "INSIDER travel",
+                            "username": "insidertravel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2882153895",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538791_213339299123912_1578595176442494976_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "INSIDER food",
+                            "username": "thisisinsiderfood",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2578875412",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538330_1612314029077703_6359346797155975168_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Its the little things",
+                            "username": "terezy_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "695405823",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899666_1491564601159725_1512416700_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "@newyork_instagram \ud83d\uddfd",
+                            "username": "newyork_instagram",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1197166291",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14566542_565022873690629_5646716679418281984_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NYstateparks",
+                            "username": "nystateparks",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "399344461",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/924159_848887261839040_1731543506_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "I LOVE NEW YORK",
+                            "username": "iloveny",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "260398975",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13397592_513091648888491_747580723_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New York State Photos",
+                            "username": "newyorkstatephotos",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2281806121",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333158_1812933648958602_6740143300608524288_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "World Trade Gallery",
+                            "username": "worldtradegallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "605043713",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11380970_1647812818765565_580311501_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Charles Sturges",
+                            "username": "c_styger",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3686993445",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/14026642_1171617192879943_548037522_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2491
+            }
+        }
+    },
+    "status": "ok"
+}

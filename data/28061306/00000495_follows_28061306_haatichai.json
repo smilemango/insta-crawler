@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "24218045",
+                            "username": "vonstre",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624423_1594935877478862_7496666772930560000_a.jpg",
+                            "full_name": "vonstre",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "14509665",
+                            "username": "guyel",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375799_398426670353285_511103447_a.jpg",
+                            "full_name": "YEWGOBO$$",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "27365308",
+                            "username": "_ashleyestelle",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849817_411865235688627_146039253_a.jpg",
+                            "full_name": "Boone",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "17371309",
+                            "username": "itsvanessasymone",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230438_273472919739327_4846682018701901824_a.jpg",
+                            "full_name": "\ud83d\udc3c.",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "22076340",
+                            "username": "richhomiekorah",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438148_1829932207267720_7700106119473004544_a.jpg",
+                            "full_name": "K o r a h   L a w r e n c e",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8558205",
+                            "username": "sekmagazine",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821322_414702145401453_189933514_a.jpg",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQD5Pkilra7nsFzUGYPdmRuUw4pnIRLn9aWFQro6wwArbJ3X9tKi1eOOELlQ2jajaOSGJqDwZRHgY_D2hPw-H-0x1xJYnVAkoJ9ORWZstLSCFQ",
+                    "has_next_page": true
+                },
+                "count": 6943
+            }
+        }
+    }
+}

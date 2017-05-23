@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBhjDQ_32MMx7ldd-WXSt0f2Es9sRBmXMz6cetwumX6p1KwJP0FKUIY8Cy05qAqZGq1o2V13xYjrxTgieVjsMDoeCcCrXEH3GYUMdrlVanArg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Melt Cosmetics",
+                            "username": "meltcosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "295372316",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356776_1624499127789008_697097993_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Morphe Brushes",
+                            "username": "morphebrushes",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "201623086",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13724443_210531969343646_1237526162_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "DOSE of COLORS",
+                            "username": "doseofcolors",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "297893042",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10546620_301965023306646_505138830_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "House of Lashes\u00ae",
+                            "username": "houseoflashes",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "196122767",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125599_1813946182202044_876946151914340352_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Makeup Geek",
+                            "username": "makeupgeekcosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1295007465",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10890951_1521355531462027_1230929480_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sugarpill Cosmetics",
+                            "username": "sugarpill",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1589419",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553302_533922406803494_8443811055741698048_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Smashbox Cosmetics",
+                            "username": "smashboxcosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9962452",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821854_877732102342890_668984435_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maybelline New York",
+                            "username": "maybelline",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "192301204",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821124_684902168308251_1567796931_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bobbi Brown Cosmetics",
+                            "username": "bobbibrown",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "211239147",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11258231_1495150317466006_641717358_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hourglass Cosmetics",
+                            "username": "hourglasscosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "261443303",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363759_402832759900507_1362693421_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Benefit Cosmetics US",
+                            "username": "benefitcosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2339286",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11809997_759435404201910_1100594569_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Urban Decay Cosmetics",
+                            "username": "urbandecaycosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10855018",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821963_904206156282541_1384403866_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "narsissist",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "20055618",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11261133_1439628249700238_2096514261_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NYX Professional Makeup",
+                            "username": "nyxcosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9460276",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13392789_949538625144736_357281246_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MAKE UP FOR EVER OFFICIAL",
+                            "username": "makeupforeverofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "237776748",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378817_1721269068100833_545749385_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Too Faced Cosmetics",
+                            "username": "toofaced",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6434844",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13525494_1120597684649040_258658696_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tarte Cosmetics",
+                            "username": "tartecosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "189334003",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14272107_627461587416718_1686098064_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "CL",
+                            "username": "chaelincl",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "273852862",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11906180_695599267251777_2008549259_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "G-DRAGON",
+                            "username": "xxxibgdrgn",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "196378455",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18162043_172383386620119_6892177918751932416_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "i_am_kiko",
+                            "username": "i_am_kiko",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "272594213",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332492_228982820910577_967802783447121920_a.jpg"
+                        }
+                    }
+                ],
+                "count": 633
+            }
+        }
+    },
+    "status": "ok"
+}

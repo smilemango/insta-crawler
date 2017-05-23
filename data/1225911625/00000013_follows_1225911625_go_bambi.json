@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBJgkQFx72V6TzUgPNIS_WOZHZK4qo2Nvx41a5xd9TDI37SL9VcmH4b3q2JAOv1lys"
+                },
+                "count": 239,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "448519963",
+                            "followed_by_viewer": false,
+                            "username": "jinjaeyoung_con.t",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12328324_114655802237277_1962139310_a.jpg",
+                            "full_name": "jin jaeyoung \uc9c4\uc7ac\uc601 Actress \ud83c\udf39"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "331037905",
+                            "followed_by_viewer": false,
+                            "username": "sugar0903",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160726_292545987849187_4811046752356401152_a.jpg",
+                            "full_name": "\uc720\uc8fc\ubd80"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "402731746",
+                            "followed_by_viewer": false,
+                            "username": "heejaeholic",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14596809_776636515809541_8142540703612796928_a.jpg",
+                            "full_name": "\uac15\ud76c\uc7ac  \ud83c\udfaa \uc0ac\uc9c4\uc77c\uae30"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "286699640",
+                            "followed_by_viewer": false,
+                            "username": "shortbutstunning",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10549634_496401023836959_1671870163_a.jpg",
+                            "full_name": "\u24e8\u24de\u24dd\u24d0\ud83c\uddf0\ud83c\uddf7"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

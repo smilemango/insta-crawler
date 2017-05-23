@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 491,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAibqrrzRxeOhL1ve1pXEn0_oAQZlgtJvYPS58U00YOkukqVlvqSPbPYfwgZ1eGX_w"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063593_195824894167512_959615337_a.jpg",
+                            "id": "45021744",
+                            "username": "official_reshat",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Reshat mati\ud83d\udc4a\ud83d\udc50"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17334259_634552933412359_8499252636787146752_a.jpg",
+                            "id": "31309962",
+                            "username": "florentr",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Florent Rexha"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424654_1053957164662119_866523480_a.jpg",
+                            "id": "265066932",
+                            "username": "bukierex",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Bukie Rexha"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332790_397229983989455_8184986911916425216_a.jpg",
+                            "id": "16646697",
+                            "username": "nicholemaariee",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nichole Giordano"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16907972_1454034254627254_7467277028983570432_a.jpg",
+                            "id": "18776192",
+                            "username": "estelle.nicora",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800  Stella Nicora"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

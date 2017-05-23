@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAH2JYjJW72f4-gxk0sMYaQ6oGAdOUYyrYjNRNfHPMh5ZJAM3YeUwNmkWzitJ0Qr_wFW6w1RTv_KUREN46iv5gWfEglbXotquSuBOJ6lPSoFA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ashraf Abuissa",
+                            "username": "ashrafabuissa",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "203204321",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12960016_928503473929780_2030745329_a.jpg"
+                        }
+                    }
+                ],
+                "count": 66
+            }
+        }
+    },
+    "status": "ok"
+}

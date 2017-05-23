@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBp1Iz8u8ttme2SNO0c9_qDUy6Fede7ZoXVN8xvYV23HRiPMABCSFE--TvjdG0pkb4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "beatrizsilvaferreira",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2157313154",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11373798_1662283863986560_1685146201_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sara Santos",
+                            "username": "sassasantos_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1413198575",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553285_114984055664193_7019418407955070976_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "PhillBass",
+                            "username": "djphillbass",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "407936174",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443801_1611724892171424_1790625853441310720_a.jpg"
+                        }
+                    }
+                ],
+                "count": 627
+            }
+        }
+    },
+    "status": "ok"
+}

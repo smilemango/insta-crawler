@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBVab5qjOWh2qoR6msyokXZGmHCi08tKkt-RNUul-ZfAJVktDZETRxpgk0T9nmosBkvLsPXcDh8Pjx5SJSQIWz_PfmnLHgmNYpGg1VVwzl2wA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pace Gallery",
+                            "username": "pacegallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11473279",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821276_1054330904585763_1302064016_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "artnet",
+                            "username": "artnet",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1330400",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585663_1903300496559595_3825804400232759296_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lisson Gallery",
+                            "username": "lisson_gallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5814081",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11251006_972290309459769_1861314008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Artforum",
+                            "username": "artforum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "321268499",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161039_300005447101743_1219633496448827392_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Marian Goodman Gallery",
+                            "username": "mariangoodmangallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "409033416",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095800_1903823656507389_7539932289195573248_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Whitney Museum of American Art",
+                            "username": "whitneymuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "509323103",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926772_632336123516930_948197237_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Art Basel",
+                            "username": "artbasel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "373549121",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12331956_1515058755488075_119539722_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Serpentine Galleries",
+                            "username": "serpentineuk",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "185162165",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10655027_841636699193442_1144696770_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "hauserwirth",
+                            "username": "hauserwirth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "261318788",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099756_330557617285739_1686528470_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tate",
+                            "username": "tate",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "24722956",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13259124_1630330113957244_1011501073_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "White Cube",
+                            "username": "whitecubeofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "793961717",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10520410_642156839232780_528590135_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "frieze",
+                            "username": "frieze_magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "469454735",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299422_1843384732588014_4486154200358584320_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Zwirner",
+                            "username": "davidzwirner",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "409186601",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15043831_1211053962271939_9075405779237863424_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gagosian",
+                            "username": "gagosiangallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "198506807",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899536_1638711213064247_1571847978_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "brideshead_mitford",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3415244026",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696906_1215892565128697_1263572226_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Architectural Digest",
+                            "username": "admiddleeast",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1648477494",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125865_293128917773604_8869033373759176704_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nicolas Bellavance-Lecompte",
+                            "username": "nb_lecompte",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "326584065",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13562160_838926812908985_1082108574_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Carwan Gallery",
+                            "username": "carwangallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "501315804",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10735147_574356152664676_1025446719_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ocean",
+                            "username": "figuetreee",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "382620237",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14269221_1643916939253478_1369425551_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pascale Consigny",
+                            "username": "pascaleconsigny1",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1134592069",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821161_1482590272058894_430832285_a.jpg"
+                        }
+                    }
+                ],
+                "count": 563
+            }
+        }
+    },
+    "status": "ok"
+}

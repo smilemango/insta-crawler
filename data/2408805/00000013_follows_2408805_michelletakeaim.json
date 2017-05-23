@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQCvNgaALrOEJisgXNV-Lb6YgC-9R168DT__7jgxRow5ABL9l7tswZPvx7NO2HGJ9juOb1wXhSHbAWwl8Q2LtgCoF1rHjaVmYR3We5Nti0AfEA",
+                    "has_next_page": true
+                },
+                "count": 362,
+                "edges": [
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Rima Vaidila",
+                            "is_verified": false,
+                            "id": "181990791",
+                            "username": "rima_rama",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494249_284073832023886_1792518954766303232_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Jessi Malay",
+                            "is_verified": true,
+                            "id": "4455628",
+                            "username": "jessimalay",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13556941_1735532339997022_2045870156_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "SAZAN HENDRIX",
+                            "is_verified": true,
+                            "id": "6659887",
+                            "username": "sazanhendrix",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299636_1675322946102310_7379786311781056512_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Ashley Torres - pursuitofshoes",
+                            "is_verified": false,
+                            "id": "1273472",
+                            "username": "everydaypursuits",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13703068_271972896502072_618735217_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Lorna",
+                            "is_verified": true,
+                            "id": "183238952",
+                            "username": "lornaluxe",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094887_1008579165939505_7039596486434226176_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Sisilia | Photo Diary",
+                            "is_verified": false,
+                            "id": "1462764503",
+                            "username": "sisilia_diary",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13298104_1313975335280784_1794833152_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

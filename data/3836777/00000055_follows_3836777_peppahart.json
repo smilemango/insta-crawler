@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCiuWfwvJTwmCewzNVvM98PXeN2AtLP2xaLCxmZxoUWZh38GWUkoy3whtvsIcEHzjo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nicole Warne",
+                            "username": "garypeppergirl",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6913295",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108539_1701583913436862_84078897_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "R O X Y. S M I T H",
+                            "username": "roxy_fashionobsessed",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7087271",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558714_756620594483063_1331605618_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sarah Davies",
+                            "username": "sar.jane.davies",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4334476",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15253237_744349789049942_5571007976631697408_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dale Robinson",
+                            "username": "aroundthetwist",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4309774",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519226_1556065278046199_664837457_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alana Alegre",
+                            "username": "pony_town",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5010256",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378781_1608744329405714_1961436635_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1072
+            }
+        }
+    },
+    "status": "ok"
+}

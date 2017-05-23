@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQAwP0WnU6NlAmNbaboAw9_egbI2GQe3Jt3aOlUyfqw30stQGcAm-hPN57OZKqKTQvw",
+                    "has_next_page": false
+                },
+                "count": 555,
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hotels & Resorts \ud83c\udf0e",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13741108_1753467264932240_1847205908_a.jpg",
+                            "is_verified": false,
+                            "username": "hotelsandresorts",
+                            "id": "599175898"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BEAUTIFUL HOTELS",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095215_291334941309898_1473023514507214848_a.jpg",
+                            "is_verified": true,
+                            "username": "beautifulhotels",
+                            "id": "395364718"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BEAUTIFUL DESTINATIONS",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160425_639966976202738_4013560596384448512_a.jpg",
+                            "is_verified": true,
+                            "username": "beautifuldestinations",
+                            "id": "276192188"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TheYachtGuy\u00ae",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14718422_1791533701115637_1386848182578708480_a.jpg",
+                            "is_verified": false,
+                            "username": "theyachtguy",
+                            "id": "182798047"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Billionaires Club\u2122",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13714245_1336576066372091_2052521582_a.jpg",
+                            "is_verified": true,
+                            "username": "thebillionairesclub",
+                            "id": "281008686"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Luxury Travel Influencer",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464761_241807982935024_6957257178776338432_a.jpg",
+                            "is_verified": false,
+                            "username": "luxuryworldtraveler",
+                            "id": "264885670"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Luxury Life (Official)",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723560_1088168824612694_346101186404810752_a.jpg",
+                            "is_verified": false,
+                            "username": "the_luxury_life",
+                            "id": "217743332"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

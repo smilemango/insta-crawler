@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1323,
+                "page_info": {
+                    "end_cursor": "AQDzyalB2z681EeONJ-0kh_5bsGyAZV_Hf5m24ig8ttbSPSrfvYs3gCcAKg3U7tz86Xxc6SPdtFrOVLYItaleJtWCszZrKGUY12RDAfanyKNLA",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "185232992",
+                            "username": "atticusfinch_jackson",
+                            "full_name": "Jonathan Jackson",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12783314_530997253745387_1858690674_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "366377930",
+                            "username": "therealmattpinfield",
+                            "full_name": "Matt Pinfield",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10731953_1452614381714631_812661019_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5000761",
+                            "username": "katelindquist",
+                            "full_name": "katelindquist",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11350708_1653044745004360_1609681360_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "455092044",
+                            "username": "edskyler",
+                            "full_name": "Edward Skyler",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371176_1687920341442636_983695554_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2685314",
+                            "username": "the7line",
+                            "full_name": "The 7 Line",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14128799_319569015100976_1617853859_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "252392354",
+                            "username": "patkiernan",
+                            "full_name": "Pat Kiernan",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11247540_725171047628512_227191817_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "498514",
+                            "username": "danielkrieger",
+                            "full_name": "food photographer",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596647_736731193161618_3415679253037973504_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "268129329",
+                            "username": "cnnreliable",
+                            "full_name": "CNN Reliable Sources",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909188_1476968539265140_755990656_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "506706240",
+                            "username": "rogerclark41",
+                            "full_name": "Roger Clark",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13531820_600466740116304_519049631_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5482785",
+                            "username": "ryanpitchfork",
+                            "full_name": "Ryan Schreiber",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1515508_919569161432833_1114862061_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "14188037",
+                            "username": "raekwon",
+                            "full_name": "Raekwon Da Chef",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12071027_1209212282439125_544312829_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "7842406",
+                            "username": "pitchfork",
+                            "full_name": "Pitchfork",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076166_692680304249232_3494078619691515904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "4899223",
+                            "username": "leeranaldo",
+                            "full_name": "Lee Ranaldo",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909971_1461732610819861_1464079435_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "43293255",
+                            "username": "lprnyc",
+                            "full_name": "(le) poisson rouge",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849977_1010130045685550_1054755689_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "18919774",
+                            "username": "vans",
+                            "full_name": "vans",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12783850_234829843526600_1916857238_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2685565",
+                            "username": "livenation",
+                            "full_name": "Live Nation Concerts",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934209_194923097689803_540846037376434176_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "47996684",
+                            "username": "pianosnyc",
+                            "full_name": "PIANOS",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875299_537719906375589_1788897974_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "218336492",
+                            "username": "popgunpresents",
+                            "full_name": "popgun presents",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348285_894679180602846_2042312647_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "189469106",
+                            "username": "sobsnyc",
+                            "full_name": "SOBs",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324372_116897788658335_948128263_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "179601981",
+                            "username": "lincolncenter",
+                            "full_name": "Lincoln Center",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126266_342911026110487_6446303168887259136_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

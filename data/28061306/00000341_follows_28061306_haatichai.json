@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "26081450",
+                            "username": "inceptionaudio",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11313735_965974406757772_479351578_a.jpg",
+                            "full_name": "Inception:\u039budio",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQAOGj7TpPuykPeQtyCDzTvsE3OE4-BvpGvT0NWfkt-q0wxo8sp5oaS7LUPKk_rYNu4s9HK5lWXDhG-d9BIUCYjxqH6cOYQuAVUWUcIIWZ-nBw",
+                    "has_next_page": true
+                },
+                "count": 6944
+            }
+        }
+    }
+}

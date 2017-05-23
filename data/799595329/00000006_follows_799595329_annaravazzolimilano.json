@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 82,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA_-6wVrAJcPcfy6eIeY0beo5eJQH-DHKkO7q-jSI9SVMMDqoRcD_2_LCDo1OxxgKg6yHlVaftZUFrBVnR7kVgnR4yggVobH7msmexJCe04lA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580406_530299280427574_8279334157859946496_a.jpg",
+                            "id": "638430898",
+                            "username": "long.live.yamborghini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "503, tap in"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299264_1861548714113472_4732519236763648000_a.jpg",
+                            "id": "325578245",
+                            "username": "giovannipasotti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "giovanni pasotti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899494_460943934083091_756053200_a.jpg",
+                            "id": "7396049",
+                            "username": "elenacatalano",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Elena Catalano"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881822_885861838116525_1788094949_a.jpg",
+                            "id": "777179715",
+                            "username": "faustopuglisi_wow",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fausto Puglisi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579976_418067665247305_8711812024260100096_a.jpg",
+                            "id": "225828434",
+                            "username": "_miss_sea_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u0f3a\u20e1 SEA \u0f3b\u20e1"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

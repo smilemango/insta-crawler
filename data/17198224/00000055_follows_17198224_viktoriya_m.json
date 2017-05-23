@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDAqEiWyS5v_Sd_Lle1TjhxWRtNHuEqSG1Nl83q2fzuL8xmktfMCnrVchZRzAnBFPY"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dolce & Gabbana",
+                            "username": "dolcegabbana",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5123245",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531072_1560969467535937_984363712_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "evgeni_a",
+                            "username": "evgeni_a",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "17219634",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11417384_108610432825654_327705130_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lebed_Anna",
+                            "username": "lebed_anna",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "17374447",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803005_267009270382643_4499967845974671360_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nina Voitovych",
+                            "username": "ninysya",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5397359",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110180_251819821908903_3233899967735136256_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stanislava Lukyanets",
+                            "username": "lstanislava",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14693161",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14449224_1614091445557840_2224527922406883328_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dmitry",
+                            "username": "dimonkiev",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14925038",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887198_454827548030817_1952360059_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anastasiya \ud83c\udf6d\ud83c\udf08\ud83e\udd84",
+                            "username": "my__anastasiya",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13655754",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18514009_1789530858023900_2730733068561154048_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1045
+            }
+        }
+    },
+    "status": "ok"
+}

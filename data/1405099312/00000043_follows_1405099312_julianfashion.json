@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 815,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD1yJz75F8pGOhBeIWL9YTD53ubrP8kIy5n9YbmkxgY-OmAR5adK2Y01w7kGRNsABo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11910472_1080259085332758_1046196132_a.jpg",
+                            "id": "311970312",
+                            "username": "faustopuglisi_pr",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fausto Puglisi Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326316_1655999431282477_268133498_a.jpg",
+                            "id": "535065013",
+                            "username": "balmain",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "BALMAIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887295_1493744094251387_1716192534_a.jpg",
+                            "id": "1250282206",
+                            "username": "sabinazabberoni",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sabina Zabberoni"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909176_922467704505948_48600007_a.jpg",
+                            "id": "423793084",
+                            "username": "nastyaproutorova",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anastasiya Proutorova"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

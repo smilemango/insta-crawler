@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBnngZm9lo1Oh4w74w__Uh-DyGeepH18U9Qyt8rxok7BpM-63NfLGWoseiCGkjAuCM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Matt Lee",
+                            "username": "matt.lee.9275",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1497875520",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10683981_646120615502530_191338500_a.jpg"
+                        }
+                    }
+                ],
+                "count": 21
+            }
+        }
+    },
+    "status": "ok"
+}

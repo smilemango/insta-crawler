@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "18525593",
+                            "username": "jcbos",
+                            "profile_pic_url": "https://scontent.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "joel cutler",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "670745",
+                            "username": "jaime__johnson",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11934590_1479654679003897_2128475510_a.jpg",
+                            "full_name": "Jaime Johnson",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "14057957",
+                            "username": "zooeydeschanel",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10954730_1047218721968622_1956579869_a.jpg",
+                            "full_name": "Zooey Deschanel",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDz3U-8WaYUZOlP5f4t1M0uf-_ghbNmuMxdPhOaQgEPoHX79mbTgPtlB1r_Rge4lHM",
+                    "has_next_page": false
+                },
+                "count": 1075
+            }
+        }
+    }
+}

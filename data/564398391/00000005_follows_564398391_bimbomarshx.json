@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDty0Yb9Bqw7L_MZIfBRfFp6AOFIwUkAgMhrA3cStMMFc-I3hrYj5ymhu3LfZCcOdw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "18, Manchester",
+                            "username": "nayyb__",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "354047430",
+                            "profile_pic_url": "https://scontent.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    }
+                ],
+                "count": 78
+            }
+        }
+    },
+    "status": "ok"
+}

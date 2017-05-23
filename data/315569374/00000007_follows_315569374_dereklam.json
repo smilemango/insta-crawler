@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDyUNFi8UFqX7WRQORIhXeaD115ydiszRjGuNOG4hWne0TdPRA4W5YQpqt-iw-XPSnYYgQna6lmzE82VwPhVplCw-dfXJcWHQQ56q_lflRatw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Amelia Diamond",
+                            "username": "amilli0naire",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7087850",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/925335_1528032944087362_274908028_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Oprah",
+                            "username": "oprah",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "42349682",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14134821_284463538605470_1438798_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Shopbop",
+                            "username": "shopbop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10526532",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543085_1657266497894470_4143841_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sabine Engesnes",
+                            "username": "sabineeng",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "143845569",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10864815_1615264105395163_1409879950_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "7x7",
+                            "username": "7x7bayarea",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "10276268",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13671117_1544721662503774_496096600_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lauren Goodman",
+                            "username": "lauren_michael_goodman",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "197846309",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374103_866805346708197_1335292816_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hannah Bronfman",
+                            "username": "hannahbronfman",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "16009623",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464716_949189645214982_1784722712950734848_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "lesnouvelles",
+                            "username": "lesnouvelles",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6312545",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356734_1677182159181980_33049879_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brittany Adams",
+                            "username": "brittanychristadams",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22963617",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926832_1464346563813981_37030063_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83d\udc81\ud83c\udffb",
+                            "username": "paiktrish",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2631131",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877003_1204230766339857_8395092335465070592_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Zanna Roberts Rassi",
+                            "username": "zannarassi",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "37800774",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11255074_506990072793367_2010380546_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "T: The NYTimes Style Magazine",
+                            "username": "tmagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "212660742",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586948_349600655435215_4199413022512381952_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Into The Gloss",
+                            "username": "intothegloss",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "17646144",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11380802_964526756936769_2084179393_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "POPSUGAR Fashion",
+                            "username": "popsugarfashion",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "13203604",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12797798_242612282743469_424544829_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bag Snob",
+                            "username": "bagsnob",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2184764",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482284_1880465272172794_3537200121408126976_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Zoe Lister-Jones",
+                            "username": "zoelisterjones",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "46787868",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809950_919670491405028_1225236276_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Refinery29",
+                            "username": "refinery29",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2983181",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077031_395103094189740_7769977871510011904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "snoopdogg",
+                            "username": "snoopdogg",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1574083",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013375_1444219738933609_6801954494247600128_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tania Haddad",
+                            "username": "taniahaddad13",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "477781648",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375145_1486267798359877_842299391_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "goop",
+                            "username": "goop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "16168781",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325693_1662020507345873_1536688786_a.jpg"
+                        }
+                    }
+                ],
+                "count": 326
+            }
+        }
+    },
+    "status": "ok"
+}

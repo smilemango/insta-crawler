@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "247944034",
+                            "username": "beyonce",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12918039_230227960666719_282379501_a.jpg",
+                            "full_name": "Beyonc\u00e9",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "25945306",
+                            "username": "badgalriri",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11032926_1049846535031474_260957621_a.jpg",
+                            "full_name": "badgalriri",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "9910956",
+                            "username": "marzini",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13706971_1182741858464942_581529254_a.jpg",
+                            "full_name": "S I N A",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "298673013",
+                            "username": "aaabibaaa",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821651_1473248872975192_1765131810_a.jpg",
+                            "full_name": "\u303d\ufe0f",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "240482927",
+                            "username": "tiffanyclarac",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881307_1838163523102889_6290790151220101120_a.jpg",
+                            "full_name": "Tiffa NY",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "242080834",
+                            "username": "tonyellisnyc",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443720_1499281853464022_1954781431934746624_a.jpg",
+                            "full_name": "Tony Ellis NYC",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "257120",
+                            "username": "jacquesweyersstudio",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11192902_364673697057321_806065524_a.jpg",
+                            "full_name": "Jacques Weyers",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCSkxP390W7V6-6YMo8LzcjOvpWh_q3lr1MDngOqeJq22XtBTXuWUXhZI4lWx9SB9I",
+                    "has_next_page": false
+                },
+                "count": 758
+            }
+        }
+    }
+}

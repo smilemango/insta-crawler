@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAtEhi2XH3DcSoRQe9w5dn7Xh2Tsfj-RMBCt-2BvRNNn5qgSv_w2iQJ-5kb-ahC7bcR-uQUe6tXLC3X173OVl8XPQcGx0pk0M60NrnZ6lNvUA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Simplicio Michael Luis Herrera",
+                            "username": "hausofm_studio",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3158626586",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424779_444983352364069_1366622868_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2394
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB1wO24mlTWMv9ZrKXzMVeQsoGluXdzAeZQXJnU5k89BET7FCk_gxDQAtWtxe7f0v0"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Man of the World",
+                            "username": "manoftheworld",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "256183117",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1172381_1005358122891840_639328612_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Antonio K. Ciongoli",
+                            "username": "akciongoli",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "213213703",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12825966_1718374698376462_755086268_a.jpg"
+                        }
+                    }
+                ],
+                "count": 416
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA6dc5Ylvp_ae4k7WNbgez5dYtqMMy7rdL2uk_wqtI0Vk3t4Xm4w03BNNMptrpWLoQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JY",
+                            "username": "jy_hindog",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "480019300",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12502031_1681698932092607_672517222_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\uc5fc\ub514",
+                            "username": "yeam_d",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1466257146",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12132931_912420358839280_362719661_a.jpg"
+                        }
+                    }
+                ],
+                "count": 656
+            }
+        }
+    },
+    "status": "ok"
+}

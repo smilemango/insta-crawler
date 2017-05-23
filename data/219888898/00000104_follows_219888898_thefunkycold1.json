@@ -1,0 +1,203 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBiJnx_svMq5rEpWZvouu3g4yOF1G8cv5gfPG6E4T73lplPneQAtPynuqBoC1PGljjNm8Tc82oeNhv1ynqGp-dyEuxW5R4FovK2tms5Rd8Cew"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Scott Hasick",
+                            "username": "shasick",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "499637729",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11311172_1644566832454979_1344053608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Urban Outfitters",
+                            "username": "urbanoutfitters",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5413187",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14027233_178429059233503_959914736_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pat McGowan",
+                            "username": "patmacg22",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "200752784",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348212_900770859990221_1798520443_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "OBEY Clothing",
+                            "username": "obeyclothing",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20047044",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11190715_835925903128641_1482524647_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Johnny",
+                            "username": "thedenimguy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2190542",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583140_386548591713801_1048152048073179136_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Davion Jenkins",
+                            "username": "davionj68",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22096196",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228579_814979721973287_7723348541153738752_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Men's Fashion Post",
+                            "username": "mensfashionpost",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13422978",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13329060_1008754082576155_2020094438_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "jenny lozano",
+                            "username": "tinybubblesmia",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "45002358",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803538_252369795184280_2440054578230591488_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Wesley Mayeux",
+                            "username": "weezy_atl",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "55912355",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513307_820319391476582_3697574591082790912_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Strath Shepard",
+                            "username": "strathshepard",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7014838",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743120_1094150820664135_325420837_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maura Erwin",
+                            "username": "maura.erwin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8006162",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10724618_820672197953952_1628534448_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mazie Hail",
+                            "username": "maziehail",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "53423011",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877368_233097427145790_742566366208327680_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gina McGowan",
+                            "username": "laposer",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "200545201",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875262_1472725843050823_2111586946_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lizzie",
+                            "username": "lizecut",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "192502591",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373989_968333049897292_1138183573_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Doug Mccoy",
+                            "username": "dougmccoy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "110613",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13694792_289970098039848_1585094405_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SHEwears HEwears",
+                            "username": "shewearshewears",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "224066841",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11848820_426092484250059_458333718_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stephanie Murray",
+                            "username": "ice_and_crown",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "35007841",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14474176_1691571521098257_2145799282085593088_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2491
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBnyqu4-O-KwiM_NPIlOBOrIenmoTAm6DEuF0a9D8tdINCK0aDWlnurs4qXFPmjvEKDnbo1-dbpqivJx-51Z0pDn6pwBvXV7T2ZvsqtDFAFiQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Paper Magazine",
+                            "username": "papermagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10257497",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10593485_391163667697620_2047129171_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Skyscraper Museum",
+                            "username": "skyscrapermuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "506738705",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856717_124828281194325_557184504_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "GQ",
+                            "username": "gq",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12864526",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725199_567801390035808_1568225398_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Archtober",
+                            "username": "archtober",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1259098227",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11906169_427854320727629_1484937222_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mayor Bill de Blasio",
+                            "username": "nycmayor",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "294471017",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14712083_377656812624664_4622585842265751552_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sf for Art & Architecture",
+                            "username": "storefrontnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "40650774",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512498_423589421357618_557953544951431168_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NPR",
+                            "username": "npr",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1258618",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663560_284238082019464_2866070421520777216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "AIA National",
+                            "username": "aianational",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "408988735",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16124075_1223190014467965_2779940981317828608_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Departures Magazine",
+                            "username": "departuresmag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1296648326",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12080408_1649147971992422_115122912_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bloomberg Pursuits",
+                            "username": "bloombergpursuits",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1169778892",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13092240_604613909689640_175348498_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "CBRE",
+                            "username": "cbre",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "348339031",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13298171_1714990382095469_1253833033_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "designboom magazine",
+                            "username": "designboom",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "213577409",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558901_1122918674385894_748687674_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Olly Wainwright",
+                            "username": "ollywainwright",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1187689366",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14677220_208588182911479_1998112536645337088_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Architect's Newspaper",
+                            "username": "archpaper",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "174097109",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10268882_474731449324645_1928483238_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Curbed After Dark",
+                            "username": "curbedafterdark",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3053708619",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11199418_173739916346178_996291625_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ArchDaily \ud83c\udfe0",
+                            "username": "archdaily",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "10187013",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12628117_1111162535584459_2071298998_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ARCHITECT",
+                            "username": "architectmag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1294575200",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/917553_478117882391733_712419254_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Metropolis Magazine",
+                            "username": "metropolismag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22649498",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10899405_357182167788281_1803192889_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Wallpaper*",
+                            "username": "wallpapermag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10090681",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10570238_278630072329838_1946487821_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New York YIMBY",
+                            "username": "newyorkyimby",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "373878678",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11253263_1155977624415887_559967963_a.jpg"
+                        }
+                    }
+                ],
+                "count": 157
+            }
+        }
+    },
+    "status": "ok"
+}

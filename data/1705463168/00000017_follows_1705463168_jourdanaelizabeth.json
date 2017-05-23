@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 983,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDHpWe5V6thItykY-Ml2Ojnq5xIR0JMk2kD6Q1wyzwfzwtIqUVEsIJmTUtpND3NFDMbA7SgWEmklsrt3EAXpaBiiZBI4Db6I6xemCQgsL5VRg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802946_656520517861489_3304195250792169472_a.jpg",
+                            "id": "15965210",
+                            "username": "neefcastle",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hanif Castle"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18300203_444343559240307_6982009281461616640_a.jpg",
+                            "id": "235460331",
+                            "username": "daphnegikel",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2022 Parisian Image Maker \u2022"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583142_1208598419258502_7464615905901674496_a.jpg",
+                            "id": "4074775",
+                            "username": "austinmillz",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Austin Millz"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077558_1741976756113931_4128395102617862144_n.jpg",
+                            "id": "3407061793",
+                            "username": "keisonicles",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Beauty | Fashion | Flowers"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583983_1252322604852062_926677204572569600_a.jpg",
+                            "id": "211747328",
+                            "username": "clairehryyy",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "CLAIRE H"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14280329_147025495746772_423412568_a.jpg",
+                            "id": "567661610",
+                            "username": "babethdjian",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Babeth Djian"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17933861_281141679011569_7854040788198490112_a.jpg",
+                            "id": "33302407",
+                            "username": "lyndilou108",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lyndi Sliger"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662619_1273533482702204_6450874448609280000_a.jpg",
+                            "id": "143654510",
+                            "username": "kurtzphotos",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anthony Kurtz"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18514194_1330084253766134_5907240195773693952_a.jpg",
+                            "id": "1138313110",
+                            "username": "angel_alves25",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ang\u00e9lica Alves \u2651\ufe0f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10881994_1416676595310664_519609282_a.jpg",
+                            "id": "1725609989",
+                            "username": "amplifyyourvibration",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udf1eHigh Vibration Living\ud83c\udf1e"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351887_143005279375218_734232767_a.jpg",
+                            "id": "493358700",
+                            "username": "sarahfordphoto",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sarah Ford"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13092293_588204794688104_1149474474_a.jpg",
+                            "id": "1802150185",
+                            "username": "viktor_wang",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Photographer Bali / Singapore"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374337_553303568190870_7783825760900349952_a.jpg",
+                            "id": "13793341",
+                            "username": "daifrazier",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Dai\u2728"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849360_947712498618834_490926459_a.jpg",
+                            "id": "403737720",
+                            "username": "meaganksmith",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Meagan Kimberly Smith"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14705214_333176797042143_2334955800784535552_a.jpg",
+                            "id": "1629626090",
+                            "username": "artyeux",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2600"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251495_308499112903885_3521641641033072640_a.jpg",
+                            "id": "6150371",
+                            "username": "patriciaafortunato",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Patricia \u00c1lessandra Fortunato"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381947_775429362625492_6638654026562928640_a.jpg",
+                            "id": "24599822",
+                            "username": "arleenluciano",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Arleen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14073119_1747300512206378_608800969_a.jpg",
+                            "id": "3153067550",
+                            "username": "wickdjerk",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "WickdJerk"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13584111_497477777043683_1872493755_a.jpg",
+                            "id": "3117475041",
+                            "username": "exhumist",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "The exhumist"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123757_665775136941106_9073716560010412032_a.jpg",
+                            "id": "175467910",
+                            "username": "joepril",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Joe Prileszky"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

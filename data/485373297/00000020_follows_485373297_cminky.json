@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCHV6xPlMs5dBNFE2Ck9-0R0IrdqU9kDwbQSOVkp3f_-DGR6Y9Yk_9zQQharpfKcPo"
+                },
+                "count": 369,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "43203052",
+                            "followed_by_viewer": false,
+                            "username": "yangborambo",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11324438_1604886306441211_627414147_a.jpg",
+                            "full_name": "Ram"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "462155575",
+                            "followed_by_viewer": false,
+                            "username": "kye__young",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789325_1328489160547449_5016832044395659264_a.jpg",
+                            "full_name": "\uacc4\uc601\ud83c\udf80\u3052\u3088\u3093"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "499379675",
+                            "followed_by_viewer": false,
+                            "username": "voohee",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12383394_759014840902707_1671860206_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "434714032",
+                            "followed_by_viewer": false,
+                            "username": "reticella",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17932006_231303000683330_7431021509230985216_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "363135986",
+                            "followed_by_viewer": false,
+                            "username": "magnet_39",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438009_1688881788076498_7180368957298180096_a.jpg",
+                            "full_name": "M A G N E T (@magnet_seoul)"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

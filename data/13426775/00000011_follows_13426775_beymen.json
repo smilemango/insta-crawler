@@ -1,0 +1,126 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 200,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC84Khh_BWBHBqIqXFfz5P3VMTGi0-yBVPqasi-Sseso6sXNW1Su9ihy-3wu-nVPnM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419018_847108028700641_541989747_a.jpg",
+                            "id": "12236683",
+                            "username": "paulsmith",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Paul Smith"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357496_167348673628665_971099270_a.jpg",
+                            "id": "1024067",
+                            "username": "marcjacobs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marc Jacobs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531072_1560969467535937_984363712_a.jpg",
+                            "id": "5123245",
+                            "username": "dolcegabbana",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dolce & Gabbana"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725199_567801390035808_1568225398_a.jpg",
+                            "id": "12864526",
+                            "username": "gq",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "GQ"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076281_1822611564653982_7913974265085427712_a.jpg",
+                            "id": "18579470",
+                            "username": "muratturkili",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "muratturkili"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13649304_294248004258593_1649265587_a.jpg",
+                            "id": "9407405",
+                            "username": "cfda",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "cfda"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11881827_496433693878989_1013037259_a.jpg",
+                            "id": "11157525",
+                            "username": "toryburch",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Tory Burch"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026725_1238594409506055_747884444_a.jpg",
+                            "id": "5248998",
+                            "username": "netaporter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "NET-A-PORTER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494753_1877808002497170_3241444545941995520_a.jpg",
+                            "id": "8645415",
+                            "username": "asliabbasoglu",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Asli Abbasoglu"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10570238_278630072329838_1946487821_a.jpg",
+                            "id": "10090681",
+                            "username": "wallpapermag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Wallpaper*"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

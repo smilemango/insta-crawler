@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBSMESgoW2H2dajG7z8EJd940RlzRWt7u3SFP_WnJrEusHX8uuUDD1kBnqgwb_8AQ4LNWchunBOBNTpLGptOtwuk44U7eZde_vzXtaHdOg0hw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Federico AF",
+                            "username": "federicoal",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "312014513",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14031621_289452768093022_585232568_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83e\udd8b\u0950 \ud83e\udd8b",
+                            "username": "oceanminded.x",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "48543551",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443622_1839025903091397_4074339241230860288_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "alma_kop",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "713575961",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444457_182847098905968_2324690773112520704_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Daniel Janev",
+                            "username": "danijanev",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "49403",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11116729_354551771409777_2122160002_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u043e\u0440\u0442\u043d\u044f\u0433\u0438\u043d",
+                            "username": "katanzhek",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "144094924",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230086_371803063187039_7738878082039152640_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dubai Watch Club",
+                            "username": "dubaiwatchclub",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "218749827",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10013176_1619549014936751_94278074_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cipriani Dubai",
+                            "username": "ciprianidxb",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2314127702",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12530706_457385701136659_2036384544_a.jpg"
+                        }
+                    }
+                ],
+                "count": 582
+            }
+        }
+    },
+    "status": "ok"
+}

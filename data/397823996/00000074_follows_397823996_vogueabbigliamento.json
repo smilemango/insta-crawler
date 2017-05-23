@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 3002,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDzXHS1MXZfblUkZmxWgUXy4tCrg6POvP_AcyD4XeQbGrlcNJfEJKgMz0m1YkC3ScKoLVbdmnkQstbtqOSdn9hM7deP08S0UTSILGIoo30kGQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444639_2245404929018554_4487779669386461184_a.jpg",
+                            "id": "1637802481",
+                            "username": "vogliadifuggire",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Frasi."
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252558_1546745245349957_2229932460144066560_a.jpg",
+                            "id": "399964880",
+                            "username": "danytilda",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Daniela Volterra"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558954_175065996185512_43965340_a.jpg",
+                            "id": "426028985",
+                            "username": "veronicacozzani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Veronica Cozzani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1597653_1588369614774287_1603357509_a.jpg",
+                            "id": "2116900081",
+                            "username": "qjclnaanna.cremonini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anna Cremonini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407450_1505535339741473_951117439_a.jpg",
+                            "id": "2461831300",
+                            "username": "grano_scarpa",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udf3e_g_r_a_n_o_\ud83c\udf3e"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372526_472331336278879_1251476636_a.jpg",
+                            "id": "537567922",
+                            "username": "jkplacefirenze",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "J.K. Place Firenze"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849223_1650189738552360_274692216_a.jpg",
+                            "id": "104943508",
+                            "username": "aandhmag",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Art & Hustle"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10254341_1025478597523512_296883042_a.jpg",
+                            "id": "1730852957",
+                            "username": "biancas_showroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Branding \ud83d\udd3b Strategy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026725_1238594409506055_747884444_a.jpg",
+                            "id": "5248998",
+                            "username": "netaporter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "NET-A-PORTER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11899676_877282455693101_1212829941_a.jpg",
+                            "id": "205897583",
+                            "username": "bottegayooop",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Bottega Yooop"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12106065_1543703562587497_1236500510_a.jpg",
+                            "id": "317668025",
+                            "username": "spazioboncaldoshowroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Spazio Boncaldo Showroom"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912266_527096214137305_1255390075_a.jpg",
+                            "id": "10176096",
+                            "username": "nubian_tokyo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "NUBIAN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012116_446436805702134_2460796925218127872_a.jpg",
+                            "id": "198040330",
+                            "username": "acnestudios",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Acne Studios"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13651755_1749365682008670_1776905999_a.jpg",
+                            "id": "2513471926",
+                            "username": "tiziana.capoferri",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tiziana Capoferri"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17880995_760681334095564_1109675345759436800_a.jpg",
+                            "id": "2373915369",
+                            "username": "giusy_bresciani_atelier",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giusy Bresciani Atelier"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13652058_849098778525723_637743684_a.jpg",
+                            "id": "193840482",
+                            "username": "rasentihomedesign",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rasenti Home & Design"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788669_1013247748820059_9096275635214483456_a.jpg",
+                            "id": "1585976876",
+                            "username": "clarina_80",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Clara"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373900_454069528091750_371901847_a.jpg",
+                            "id": "3960848",
+                            "username": "space.fashionstore",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "SPACE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482684_570650269792821_8356923077069635584_a.jpg",
+                            "id": "1544220497",
+                            "username": "marcello_ghelli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Newport Showroom \u2708\ufe0f\ud83d\udcf7\ud83c\udf34"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18253298_347936178942214_664772796101951488_n.jpg",
+                            "id": "1976912304",
+                            "username": "doyouspeakprada",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "DO YOU SPEAK PRADA \u265b"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

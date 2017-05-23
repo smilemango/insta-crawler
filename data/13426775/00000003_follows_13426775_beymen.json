@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 200,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB1mYWXCa8FZUXtTlY5VcUecvGI7vc2LEBq-YfCoxj0sQAYuZlOS0nJOT0S-9QEbXCTss_WUBnozXSCtv_Sqzzjbwee1I9Ks8jvNS0VvaObBA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821879_1600309286901790_1650214531_a.jpg",
+                            "id": "50927953",
+                            "username": "amiparis",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "AMI Alexandre MattiussI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948642_334243656783474_1969215488_a.jpg",
+                            "id": "293854861",
+                            "username": "atelye79_jewellery",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Atelye79 Jewellery"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1173116_894085834038970_1845749204_a.jpg",
+                            "id": "18341135",
+                            "username": "jenniferfisherjewelry",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "JENNIFER FISHER JEWELRY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14033664_342850846046596_844468633_a.jpg",
+                            "id": "230911402",
+                            "username": "josephfashion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "JOSEPH"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258562_337754869938646_875723353250332672_a.jpg",
+                            "id": "489037508",
+                            "username": "bluemint",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BLUEMINT"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719605_210861802682386_3150444810393878528_a.jpg",
+                            "id": "285055468",
+                            "username": "moeva_london",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Moeva London"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375826_525458717609122_1230594686_a.jpg",
+                            "id": "331237450",
+                            "username": "cultofcuddle",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Cult of Cuddle"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13167177_220512955001382_673023650_a.jpg",
+                            "id": "36030672",
+                            "username": "jonathanadler",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jonathan Adler"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14350538_245462262517766_536383963_a.jpg",
+                            "id": "639170885",
+                            "username": "mcq",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "McQ Alexander McQueen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12383471_485608398315991_653313002_a.jpg",
+                            "id": "553226134",
+                            "username": "kitsune",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Maison Kitsun\u00e9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809986_1484808125172922_462399025_a.jpg",
+                            "id": "413249221",
+                            "username": "magojewelry",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "M\u1d00\u0262\u1d0f J\u1d07\u1d21\u1d07\u029f\u0280\u028f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374262_1459778927661830_1485641127_a.jpg",
+                            "id": "409619631",
+                            "username": "paulandrew",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Paul Andrew"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095372_123890231494677_6959927617642299392_a.jpg",
+                            "id": "29450850",
+                            "username": "allmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ALL Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374683_1583584265227532_1292601503_a.jpg",
+                            "id": "23669208",
+                            "username": "melisgoral",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "MELIS GORAL"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13652105_246682225730851_336392319_a.jpg",
+                            "id": "220343662",
+                            "username": "koncaaykan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "koncaaykan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10514077_686677021413287_866392365_a.jpg",
+                            "id": "1037377",
+                            "username": "magazat",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "melis agazat"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934553_1888288531392971_5519956852890140672_a.jpg",
+                            "id": "9187952",
+                            "username": "adidasoriginals",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "adidas Originals"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11084865_1462301214061025_862086930_a.jpg",
+                            "id": "19024138",
+                            "username": "reeceasolomon",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Reece Solomon"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410476_386150758262748_1333930378_a.jpg",
+                            "id": "54820589",
+                            "username": "eachxother",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Each x Other"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4797152",
+                            "username": "tiffanythurtell",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13584100_950135168429183_1952402782_a.jpg",
+                            "full_name": "Tiffany Thurtell",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8061795",
+                            "username": "elsie_xx",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012159_106073703290818_8137274223304376320_a.jpg",
+                            "full_name": "ELLIE BULLEN",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "3366872",
+                            "username": "kiarabergan",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882515_437269343301834_7688381700568514560_a.jpg",
+                            "full_name": "Kiara Bergan",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDy5sGGbShnHKXXht4cO2LSIE0CKsmg3upt-TPqoDzgOtBJ2kVzaVQtrFIjzaHHwzs",
+                    "has_next_page": false
+                },
+                "count": 114
+            }
+        }
+    }
+}

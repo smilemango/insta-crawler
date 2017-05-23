@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBXm_QmuZGT4-1Z6Sj4_DSIJuUyCPZoOcw3MBvc20xhnmp9qg1hBE7kitmagxJPXKJVCqn4xecwFbFvVlXsBVsdJvPqbaR7JYbZOfmztB276Q"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lynda McKeen",
+                            "username": "themckeens",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "261537923",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011765_286827811771604_7809999553595179008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "loom goods",
+                            "username": "loomgoods",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1551785556",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14052725_1575511136091324_521072757_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1145
+            }
+        }
+    },
+    "status": "ok"
+}

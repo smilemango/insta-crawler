@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBtzXEiZjRZByBl8YxWTPKb8NrMhhXXYfnYUYYBSpiwvUpXxWRiIAGq1q33ijdwdco"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jessica Marie Alba - Fan Page",
+                            "username": "jessicaa.alba",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1736420453",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18298984_217231912100151_5854465901088210944_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jessica Maria Alba",
+                            "username": "jessicaalba_officialfan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1428696623",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094860_423609928016733_3733268835919200256_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2
+            }
+        }
+    },
+    "status": "ok"
+}

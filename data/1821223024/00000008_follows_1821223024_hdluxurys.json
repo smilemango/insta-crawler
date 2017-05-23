@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAtAtMg-dPgP--Qel0jnO1jvk2FPb3cac35AIX-wJ1LhgtxMPmayX8JKaSlv5RJ_kM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Fashion Luxury Lifestyle  \ud83e\udd8b",
+                            "username": "billionwomanofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2236167192",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18645073_1824951397521634_7055450009587679232_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ZENGER Jewelry",
+                            "username": "shopzenger",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "500200531",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14709435_1759815430935874_1778064396950437888_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Clasique Lifestyle\u2122",
+                            "username": "clasique_lifestyle",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1631921268",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10898954_389802867857748_1210432178_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mont\u00eeere\u00ae",
+                            "username": "montiere",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1510426349",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446122_1672950186327545_952073679_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "fashionairy",
+                            "username": "fashionairy",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "234982209",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12346212_743319659137488_1630594468_a.jpg"
+                        }
+                    }
+                ],
+                "count": 145
+            }
+        }
+    },
+    "status": "ok"
+}

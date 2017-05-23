@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1668,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCFe5OyPPtC_XKnRgSd_OLMOHNvLghxv5UQtKJS0o6I248oOji18bG6hZOBjvtw4BuVYIm3wXDbAWRVlgqYutzxQJamnBUDK7UmwHS91Y2V9g"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11246737_945399668835588_121150588_a.jpg",
+                            "id": "183284994",
+                            "username": "lucalanzoni_hearst",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Luca Lanzoni"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820670_1474731006160924_101762653_a.jpg",
+                            "id": "298577751",
+                            "username": "anto_miele",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonio Miele"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849822_382655461908244_219803994_a.jpg",
+                            "id": "367717324",
+                            "username": "broccoli_and_the_city",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessandra"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899696_737732939703451_1884203112_a.jpg",
+                            "id": "434070376",
+                            "username": "dianorasalviati",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326996_887917631301621_48947807_a.jpg",
+                            "id": "546082006",
+                            "username": "paolabottelli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Paola Bottelli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17587443_1694487954180816_4605933008518643712_a.jpg",
+                            "id": "272319585",
+                            "username": "vannyzoppas",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Vanessa Zoppas"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10903314_1523583924569693_703210042_a.jpg",
+                            "id": "204669655",
+                            "username": "itsjeremyscott",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jeremy Scott"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12917903_1361361080556677_1163791640_a.jpg",
+                            "id": "821240334",
+                            "username": "formas_de_pensar",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11917896_1686229191661706_1976854113_a.jpg",
+                            "id": "625224578",
+                            "username": "visit_florence",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "VisitFlorence.com"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743199_174940396251269_1829716394_a.jpg",
+                            "id": "191890028",
+                            "username": "_marcosuper_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "M@rco"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14272273_901809569922927_358547313_a.jpg",
+                            "id": "52871048",
+                            "username": "chiccaforever",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "chiccaforever"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437618_1877012655889000_6538501629807689728_a.jpg",
+                            "id": "13924342",
+                            "username": "marellimanuel",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Manuel Marelli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11385569_376315012574464_1742398404_a.jpg",
+                            "id": "205383245",
+                            "username": "michelefatigato",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Michele Fatigato"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10299778_779562105423363_1425440428_a.jpg",
+                            "id": "1320423146",
+                            "username": "lucacerrri",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Luca Cerrri"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719604_1285039488214420_1668383735508107264_a.jpg",
+                            "id": "202496995",
+                            "username": "tedwellslivingsimple",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ted Wells Living:Simple"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438191_217404442074698_7162761107508035584_a.jpg",
+                            "id": "513504258",
+                            "username": "aiocipolla",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Valerio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11886995_485551964956173_2096697278_a.jpg",
+                            "id": "478170904",
+                            "username": "streetstylevogue",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "SSV"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849450_1619329335008183_883484916_a.jpg",
+                            "id": "255660523",
+                            "username": "iamantoniogallo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonio Gallo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14718018_126797117791946_7627232318440079360_a.jpg",
+                            "id": "364553863",
+                            "username": "afefjnifen",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Afef Jnifen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906560_236239590172009_909317706971348992_a.jpg",
+                            "id": "5774188",
+                            "username": "maxkukai",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Massimiliano Neri"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

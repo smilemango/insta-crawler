@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1148,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDVRFGVrMLarOQGZVsg4eJVdwTQzCwJcYyBKIBK09OTA1yD6HMeuclMBg3RxMrcMD_MsURUWSwR4UlANzMq_gPPILHCYzI4xRpgzzX0n3uuig"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543142_404743279805454_1038409011_a.jpg",
+                            "id": "2881883944",
+                            "username": "biancastelladandrea",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Biancastella D'Andrea"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/12547198_864984046952032_878070803_a.jpg",
+                            "id": "2880565628",
+                            "username": "gianluigilucia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gianluigi Lucia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677182_481121382093314_1749705981_a.jpg",
+                            "id": "2879123077",
+                            "username": "maele_08",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Eleana Morlino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912787_1078210662257948_1021761608_a.jpg",
+                            "id": "2320857846",
+                            "username": "kevinart99",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kevin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789319_1835494236705220_4418393072560242688_a.jpg",
+                            "id": "1508611450",
+                            "username": "leah_snyder_9405",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2764\ufe0f~Leah Snyder~\u2764\ufe0f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12383573_1215289305167483_119408768_a.jpg",
+                            "id": "2761836315",
+                            "username": "leobella_inc",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sara Kazimi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381978_310773989353244_6860636696837357568_a.jpg",
+                            "id": "30577673",
+                            "username": "alessiamelpi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udf80Alessia Melpignano\ud83c\udf80"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809901_1658609194385826_2045570981_a.jpg",
+                            "id": "322652487",
+                            "username": "lisadallavia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lisa Dalla Via"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095376_1266476280068636_1114939803138260992_a.jpg",
+                            "id": "2243429011",
+                            "username": "amaliaco",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Amalia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515838_557824237761861_7849449734447038464_a.jpg",
+                            "id": "29093846",
+                            "username": "aquazzura",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "AQUAZZURA by Edgardo Osorio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201601_426835530853938_685691697_a.jpg",
+                            "id": "51644779",
+                            "username": "giusabo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giuseppe Sabia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12383331_1086001758098563_1310142546_a.jpg",
+                            "id": "1627952426",
+                            "username": "simonam.saronno",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Simona M. Saronno"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13715330_1768806053356213_1766283746_a.jpg",
+                            "id": "1028504238",
+                            "username": "larmerr",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BGLS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849466_1617516161840813_1128263934_a.jpg",
+                            "id": "186933326",
+                            "username": "31philliplim",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "3.1 Phillip Lim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547303_519818041512755_1043269442_a.jpg",
+                            "id": "322429466",
+                            "username": "delfinadelettrez",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Delfina Delettrez"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13694354_1141229652615984_1317706134_a.jpg",
+                            "id": "791036814",
+                            "username": "chiaraferragnicollection",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chiara Ferragni Collection"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424360_936088453106633_39601683_a.jpg",
+                            "id": "236465392",
+                            "username": "thedailydeb",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Deborah Reyner Sebag"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419142_923151247731639_1502546656_a.jpg",
+                            "id": "367612936",
+                            "username": "jobopobo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Joban Sawhney"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

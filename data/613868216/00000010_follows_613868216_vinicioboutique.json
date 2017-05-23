@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 456,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBB1sD5IVQQ6VVM6AwEFDoqi7z6SXwTDQ8Rnwqw9_5fR7ykHlWe3h6fEFr9WE97yitC9eLoOkiL1iwSFwZNGZI2Xvw0vPdw3la1Bt1pdCU7Bw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10362131_444631439026660_1290915534_a.jpg",
+                            "id": "12339576",
+                            "username": "robertocavalli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Roberto Cavalli Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10362256_1423765971220830_1508473396_a.jpg",
+                            "id": "1255876454",
+                            "username": "suzymenkesvogue",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Suzy Menkes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17265543_1142895459153692_4930526652267495424_a.jpg",
+                            "id": "45894968",
+                            "username": "daria_shapovalova",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Daria Shapovalova"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12356430_640477036094074_514728081_a.jpg",
+                            "id": "9926994",
+                            "username": "kellytalamas",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Kelly Talamas de Rilliet"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18300253_1762667347357639_5673266303226347520_a.jpg",
+                            "id": "208475967",
+                            "username": "britishvogue",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "British Vogue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13188001_225500824500990_2118351704_a.jpg",
+                            "id": "558555652",
+                            "username": "ashish_uk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "ASHISH"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11428365_145547859114676_1491599889_a.jpg",
+                            "id": "892771467",
+                            "username": "philipppleininternational",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "PHILIPP PLEIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11008218_884317294953679_1747075533_a.jpg",
+                            "id": "29512298",
+                            "username": "lespetitsjoueurs",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Maria Sole Cecchi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13722047_304074759938035_170687065_a.jpg",
+                            "id": "253265132",
+                            "username": "alexandreplokhov",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexandre Plokhov"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17495383_1864771007103197_7468666167435984896_a.jpg",
+                            "id": "311575001",
+                            "username": "hespokestyle",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Brian Sacawa"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357512_1057460270952752_1788088749_a.jpg",
+                            "id": "184037768",
+                            "username": "journelles",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jessie Wei\u00df | Journelles.de"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789796_789222421242311_7887260788275019776_a.jpg",
+                            "id": "21581845",
+                            "username": "zoebassetto",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Zo\u00e9 Bassetto | ex zoemacaron"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1168535_902098453240300_1188929749_a.jpg",
+                            "id": "4507990",
+                            "username": "9to5chic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anh"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139736_1628450377403785_2094622059_a.jpg",
+                            "id": "2631337",
+                            "username": "paulineprivez",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Pauline Privez"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17595896_134804457052686_7270482044092678144_a.jpg",
+                            "id": "12345062",
+                            "username": "damselindior",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jacey Lenae Duprie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374382_190351558061097_3418661553774264320_a.jpg",
+                            "id": "20449356",
+                            "username": "coveteur",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "COVETEUR"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374520_1301442276567394_3227435277450477568_a.jpg",
+                            "id": "248984368",
+                            "username": "ninasuess",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "N I N A  S U E S S"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438695_160886011100353_4870945190900137984_a.jpg",
+                            "id": "282421897",
+                            "username": "louiseroe",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Louise Roe"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493721_1630697713612194_5301571505488920576_a.jpg",
+                            "id": "192755116",
+                            "username": "isaaclikes_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Isaac Hindin-Miller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586689_375689296164277_7294082605916356608_a.jpg",
+                            "id": "30865031",
+                            "username": "natalieoffduty",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Natalie Lim Suarez"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

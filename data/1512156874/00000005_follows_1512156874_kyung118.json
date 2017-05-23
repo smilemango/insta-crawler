@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAFr31s8mUtKf_9q0NrAYXXGgitqbOH0Min9ggajzPe3-WU5Rsq8cn0_ki70nR0pvg"
+                },
+                "count": 83,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1426989066",
+                            "followed_by_viewer": false,
+                            "username": "lovelys2ul",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11202519_915132858559834_845996854_a.jpg",
+                            "full_name": "30 , \uc7a1\uc2a4\ud0c0\uadf8\ub7a8"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1646468968",
+                            "followed_by_viewer": false,
+                            "username": "yummysmell",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230828_1773546096199360_488656536848039936_a.jpg",
+                            "full_name": "\ud83c\udf73\uc694\ub9ac\uc870\ub9ac\ud83c\udd72\ud83c\udd7e\ud83c\udd7e\ud83c\udd7a\ud83c\udf73"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1699870795",
+                            "followed_by_viewer": false,
+                            "username": "rojin_ydsh",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446032_587281968104890_1092653400_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1485278729",
+                            "followed_by_viewer": false,
+                            "username": "rara88.k",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161097_1855973244727570_8415941605663440896_a.jpg",
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

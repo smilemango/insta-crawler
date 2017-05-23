@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 676,
+                "page_info": {
+                    "end_cursor": "AQB9j7I-JZSNHvKR99t_n6Ggil_JqfSOZCSUBJFEBSXBhMp784B-FYbVE187R02Sn9_McHhs8jl1AzsuwpAU6g_1bDsfCMywRhOmX0D6uvIwXQ",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "211511476",
+                            "username": "rails",
+                            "full_name": "RAILS",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809632_1492951897668709_564072337_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "174159456",
+                            "username": "otteny",
+                            "full_name": "OTTE New York",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378916_1446466839005345_721591978_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "27736919",
+                            "username": "stilacosmetics",
+                            "full_name": "Stila Cosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14499120_178983915874461_4116038915498967040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "19262530",
+                            "username": "tresemme",
+                            "full_name": "TRESemm\u00e9",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10898980_766763740064320_1883034531_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "18464866",
+                            "username": "instylemagazine",
+                            "full_name": "instylemagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10449126_1450947575153999_1259384029_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "8881739",
+                            "username": "theory__",
+                            "full_name": "Theory",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10956601_1545535172381170_468117718_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "42725516",
+                            "username": "cosmopolitan",
+                            "full_name": "Cosmopolitan",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727684_209810572792048_591514896143745024_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "318221330",
+                            "username": "giambattistavalliparis",
+                            "full_name": "Giambattista Valli Official",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10543558_1527890904096355_1888424682_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "212142179",
+                            "username": "iroparis",
+                            "full_name": "IRO",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18445011_1848886478767612_557710037485617152_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5536264",
+                            "username": "stone_cold_fox",
+                            "full_name": "Cydney Morris & Dallas Wand",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15403334_1832578793624766_213471612756819968_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "550072490",
+                            "username": "dior",
+                            "full_name": "Dior Official",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875594_1618073208467400_1381465762_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "8539008",
+                            "username": "bloomingdales",
+                            "full_name": "Bloomingdale's",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14711856_229860610765955_858675270842843136_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "193154362",
+                            "username": "calvinklein",
+                            "full_name": "Calvin Klein",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230084_1792922771033212_1346780746206937088_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1228652019",
+                            "username": "vince",
+                            "full_name": "Vince",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14606904_350034158672513_3730069927097270272_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "221174293",
+                            "username": "arizona_muse",
+                            "full_name": "Arizona Muse",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10349316_679006715496080_718128510_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "241997151",
+                            "username": "carineroitfeld",
+                            "full_name": "Carine Roitfeld",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599311_870347059757448_25865058_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6942978",
+                            "username": "express",
+                            "full_name": "EXPRESS",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14262806_166984480373042_1362973227_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "576170846",
+                            "username": "tonigarrn",
+                            "full_name": "TONI GARRN",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095882_1180696028708079_3444526332162080768_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "703964615",
+                            "username": "girlwithnojob",
+                            "full_name": "Claudia Oshry",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583103_368232603575765_6594258001891164160_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

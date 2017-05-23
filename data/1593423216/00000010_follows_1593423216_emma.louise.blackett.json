@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCHdz4vRYadBPIq-5Lkzv1yMMul9ualcWgAjESZ2-QZc9HK-5bZgyOCjhdlxDidW4k"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Stephen McLaughlin",
+                            "username": "steve_931",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "242896294",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12093247_1661213250757312_1578743702_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Emma Louise Blackett",
+                            "username": "emmalouiseblackett",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18871747",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14590911_367411076938643_224974222370275328_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Andy May",
+                            "username": "andrewjamesmay",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "827215829",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11909998_1653000258317454_1597891959_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Noumenon",
+                            "username": "noumenon_amsterdam",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "53975226",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13267462_1112230152152140_1205111628_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ekh",
+                            "username": "emilykate____",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "33594430",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10729231_290848274445445_563485249_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Luca.",
+                            "username": "luchitopres",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "515681291",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876752_365196973843551_2211058668743426048_a.jpg"
+                        }
+                    }
+                ],
+                "count": 181
+            }
+        }
+    },
+    "status": "ok"
+}

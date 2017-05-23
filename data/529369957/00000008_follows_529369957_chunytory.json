@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 142,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAABExBniQstvQvc-tc1GyHOf9JHgJRXHcgmdep5K5UdBC906I10SrgO3WDXJBQquo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908697_1254648991296353_3965991698982502400_a.jpg",
+                            "id": "1286219579",
+                            "username": "__leezzy",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\uc774\uc9c0\ud61c\ub124\ud83d\udc68\ud83c\udffb\ud83d\udc69\ud83c\udffb\ud83d\udc66\ud83c\udffb\ud83d\udc67\ud83c\udffb"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10844030_1585830984985581_1670021950_a.jpg",
+                            "id": "516853148",
+                            "username": "e.doong",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\uc740\ub3d9 \ud83c\udf3f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875666_1837302126486484_6393563745041252352_a.jpg",
+                            "id": "554969117",
+                            "username": "sujan______",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u0280\u1d07\u1d18\u1d07\u029f\u029f\u1d07\u0280 \ud83d\udd2e wholesale market \ud83c\udf35"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125491_155221744996000_1085513680818274304_a.jpg",
+                            "id": "16149283",
+                            "username": "poydtreechada",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "poydtreechada"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14607030_157268334737185_7423188889042419712_a.jpg",
+                            "id": "15421696",
+                            "username": "alexachung",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexa"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQANpss5A_i-BlXcSqs9YesFdemhoGq4rryaAULiotLLjK9v3RUnVoxn8_wXYl4SIts"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cee Fardoe",
+                            "username": "cocoandvera",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "37386427",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789527_1629868397027369_2421514862271135744_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alicia Winnett (Quan)",
+                            "username": "aliciafashionista",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12164131",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818668_400674870301317_7309738629293670400_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alexandra Grant",
+                            "username": "tovogueorbust",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7180220",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267622_1845290912394388_2262612217759268864_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alison",
+                            "username": "alison_elle",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3200284",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14350720_1744668122450798_3386641971287162880_a.jpg"
+                        }
+                    }
+                ],
+                "count": 579
+            }
+        }
+    },
+    "status": "ok"
+}

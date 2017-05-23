@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5718590",
+                            "username": "stellasimona",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110442_1724190934562342_4864656980821671936_a.jpg",
+                            "full_name": "Stella Simona",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "239841895",
+                            "username": "giizeleoliveira",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624280_100234263795441_1837109958068404224_a.jpg",
+                            "full_name": "Gizele Oliveira",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCP54tDSsYoeB77sn-6t52TZZ5bd_rSmOJ7R2TVVhoIeaB3Cm2suLcW71ib0HNdZh0JNJo8knyZktc3IeKUYICQ2x_yqkcEMJXplr4sAInA6g",
+                    "has_next_page": true
+                },
+                "count": 6944
+            }
+        }
+    }
+}

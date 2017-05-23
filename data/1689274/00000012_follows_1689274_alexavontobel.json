@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCj_9wUEx6UhgtcyJZTZr40_GaltN2X6R5-NA5MxiVWhAltu6Et6DEbyzsR_wSiSYoXC3e3eWoQEgSp9uDGQGIG1MTy3lW7NEY_7VBATNqdGA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Veranda Magazine",
+                            "username": "verandamag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "343176259",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348250_467328650114280_310036393_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Real Simple",
+                            "username": "real_simple",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "30590462",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357361_1580517408855563_696369952_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Coastal Interiors",
+                            "username": "coastalinteriors",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "906949653",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11335065_350997815024651_1040890002_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Better Homes & Gardens",
+                            "username": "betterhomesandgardens",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "54105378",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538490_1600195116955961_1450098825917104128_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TOWN&COUNTRY",
+                            "username": "townandcountrymag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "218322598",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906406_1476324742690980_228651968_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Southern Living",
+                            "username": "southernlivingmag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "188051097",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13722177_1569131180059092_283338559_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Coastal Living",
+                            "username": "coastal_living",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "181328801",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11420918_1129258470485035_1084744684103794688_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "KRB",
+                            "username": "krbnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1430214464",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10684101_549011541895074_1210033121_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "kate platt",
+                            "username": "the_k_p",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1214426910",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17819044_1873778276198821_1004745502262034432_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jennifer Kivitz Roth",
+                            "username": "jenkroth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "213805494",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13774444_277233929301190_986272918_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "jamesaroth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "213664131",
+                            "profile_pic_url": "https://instagram.fcgk1-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Apartment Therapy",
+                            "username": "apartmenttherapy",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "456751973",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15623685_1555261857824190_20202143180914688_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "getinthecarr",
+                            "username": "getinthecarr",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "222677836",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876030_590715317799736_1607942357263581184_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ashley Harmeling Wayman",
+                            "username": "aharm",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7394003",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887021_1481977295448029_1752169315_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Good Morning America",
+                            "username": "goodmorningamerica",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5812210",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11950485_1628771247372455_1408981217_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bryce Dallas Howard",
+                            "username": "brycedhoward",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2164943411",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437627_214238245724958_7671282645489156096_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Saturday Night Live - SNL",
+                            "username": "nbcsnl",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "218738123",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11375920_1683402398570816_833036140_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Petit Bateau Official",
+                            "username": "petitbateau",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1186564772",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419123_1498834407074584_1278451466_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MSNBC",
+                            "username": "msnbc",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "177517445",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802549_228227450965742_6127018109011230720_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "traviskal",
+                            "username": "traviskal",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1162736",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444504_1320000118118822_4197477529860177920_a.jpg"
+                        }
+                    }
+                ],
+                "count": 876
+            }
+        }
+    },
+    "status": "ok"
+}

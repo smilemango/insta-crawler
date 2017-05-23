@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1666,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAYH8uZEWt8LcpaBPHPAxRk7B8VIC-eHA2hiSglUg4H-Lt7l7hOsRvOxe4SLb1eCDiTM0j5w3TsENDK3rxU8Re9HbRAFjjtb9Nrx6E2vo_S2w"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/18513947_239888299824612_5328667045410111488_n.jpg",
+                            "id": "4003720787",
+                            "username": "reportercanapi.com.br",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Reporter Canapi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437561_751395235027001_53973191856488448_a.jpg",
+                            "id": "1583423951",
+                            "username": "iamprincesssymphony",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

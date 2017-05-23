@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 545,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA8ae5Vp5kFcXCjQTAM3U9n57-InLC0mhAtbfOLyQNp0tb4Mkn6MexgwDUq-9ZR6pNCmPI4Fe6uxLvamJXYi2FV6tksidJD5Aol7yKi1npICw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493863_666359310216412_7758171702198009856_a.jpg",
+                            "id": "679670206",
+                            "username": "georgettebassil",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "GB"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12501807_1526247791013232_591352709_a.jpg",
+                            "id": "271194895",
+                            "username": "stellajeanltd",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stella Jean"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13557013_135197930241178_1514053482_a.jpg",
+                            "id": "174960263",
+                            "username": "fashionschool_portugal",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fashion School\u00aeRaquelGuimar\u00e3es"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464802_1761553910841961_138821069652885504_a.jpg",
+                            "id": "195820487",
+                            "username": "crfashionbook",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "CR Fashion Book"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661725_1269775049805487_5528673626456326144_a.jpg",
+                            "id": "180522852",
+                            "username": "whichclothestoday",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Manon \u2b50\ufe0f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11327121_723266837818984_1162546964_a.jpg",
+                            "id": "348870973",
+                            "username": "moliera2",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Salon Moliera 2"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/927973_1442635735984144_1197379198_a.jpg",
+                            "id": "1308064419",
+                            "username": "chicbychoiceworld",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Chic by Choice"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743105_1042887372473937_327616110_a.jpg",
+                            "id": "258316532",
+                            "username": "fadelamecheri",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fadela  \u0641\u0636\u064a\u0644\u0629"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13671207_635105359996262_404370295_a.jpg",
+                            "id": "227715074",
+                            "username": "armazemdearquitectura",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Armazem De Arquitectura"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299891_214115242424351_8566342456902156288_a.jpg",
+                            "id": "21282385",
+                            "username": "joanaalmeidafreitas",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Joana Almeida Couto Alves"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10727669_307239392793637_1930299266_a.jpg",
+                            "id": "1100667306",
+                            "username": "madalenappp",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Madalena Pereira"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374004_1162842873729411_807540594_a.jpg",
+                            "id": "257742839",
+                            "username": "_franciscaflores_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francisca Flores"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333625_262355247545551_4287178239664717824_a.jpg",
+                            "id": "16409378",
+                            "username": "ivalamarao_oficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Iva Lamarao"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14156599_364157673972806_968321083_a.jpg",
+                            "id": "265957665",
+                            "username": "midearaujo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Milena Ara\u00fajo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15338555_380590042282773_9211814997120778240_a.jpg",
+                            "id": "44242458",
+                            "username": "tomendes79",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonio M. Mendes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16584989_665352200315505_8025676004993269760_a.jpg",
+                            "id": "1116379172",
+                            "username": "mafaldamotalves",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mafalda Mota Alves"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15251777_368173230181852_8931762307420127232_a.jpg",
+                            "id": "22003558",
+                            "username": "harperandharley",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "SARA DONALDSON"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11356953_828003670656409_53776818_a.jpg",
+                            "id": "7797530",
+                            "username": "oraclefox",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Amanda Shadforth"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10554157_812431708820457_886033217_a.jpg",
+                            "id": "1502149530",
+                            "username": "_styleby_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Style By"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382605_149179312287974_2320785870451376128_a.jpg",
+                            "id": "6124792",
+                            "username": "raquelstrada",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Raquel Strada"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

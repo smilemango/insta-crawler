@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCO8iYeh9D-QaKnARCe6kfkRndAHgPeUr23-FpWQXF2QMix999117KRalB883RE6GUZ6SKrD9qgtf7qfMAGvRCVgNqLG-AUdJ0vLqsAyd8UlA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Chris Apple",
+                            "username": "chris_apple_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1173683260",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10748328_1503712513236970_1423132180_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Michael Ariano",
+                            "username": "michael_ariano",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12977980",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374077_1469528653369115_89774834_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Deenathe1st",
+                            "username": "deenathe1st",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "34263968",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13267307_633458726808101_1011630727_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MORDECHAI RUBINSTEIN",
+                            "username": "mistermort",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2309564",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513002_639112862945931_7555225241807486976_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New York Times Fashion",
+                            "username": "nytimesfashion",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5857995",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326150_1637597493176400_778431267_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Geordon Nicol",
+                            "username": "geordonnicol",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "292946626",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15275645_568318633359263_986003317249277952_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Karla Otto",
+                            "username": "karla_otto",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "312612580",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326315_1031900283522124_1944329332_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alexander Werz",
+                            "username": "alexanderwerz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "263860025",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095024_1453105781426739_5810511639572643840_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "HAIDER ACKERMANN",
+                            "username": "h.a",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2894906668",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912749_219794728389921_1092890369_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Supreme Saint",
+                            "username": "thesupremesaint",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "622194986",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229338_1782398265420006_804977132986957824_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "John Galliano",
+                            "username": "jgalliano",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "234539835",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12292752_943892072371395_1819728106_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Carla Wachtveitl",
+                            "username": "khuncarla",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1598524516",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11363676_1670554756507392_1546687245_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Leigh Lezark",
+                            "username": "leighlezark",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "15444995",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624468_233702723723875_6928073885317332992_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "lalamichmich",
+                            "username": "lalamichmich",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "297697031",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821914_515154061975808_1785980375_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Halpern",
+                            "username": "halpernstudio",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "235947001",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818856_1243980219033735_7354965618468061184_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pee-wee Herman",
+                            "username": "peeweeherman",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1746684962",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11005274_365875626949526_89363497_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anna Sui",
+                            "username": "annasui",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "378847869",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12556091_172662019775339_574662670_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Yana Kamps",
+                            "username": "yanakamps",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "375792355",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252199_435342093492340_2124005505629159424_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gabby Sidibe \ud83d\udc78\ud83c\udfff",
+                            "username": "gabby3shabby",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "504409872",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15337272_1241759725904738_2767992987890745344_a.jpg"
+                        }
+                    }
+                ],
+                "count": 385
+            }
+        }
+    },
+    "status": "ok"
+}

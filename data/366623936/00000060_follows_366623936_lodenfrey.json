@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1159,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA4lmVy81CmSDoAslw06rU8vWIBWc-b4WFVwEFDsWiEbeYhuLL3x8UjUIB6KxeKXAw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11417258_1659604117591619_549408410_a.jpg",
+                            "id": "247782032",
+                            "username": "bymariealix",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marie-Alix"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "id": "2570096",
+                            "username": "levannmuc",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udd95 @levann \ud83c\udd95"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10413271_663567053709616_928096093_a.jpg",
+                            "id": "280048343",
+                            "username": "bettysummers",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "bettysummers"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375417_414245475435309_245520250_a.jpg",
+                            "id": "27127162",
+                            "username": "vangermaier",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Verena Angermaier"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11192899_1622259511380050_664239846_a.jpg",
+                            "id": "47731212",
+                            "username": "ralfmager",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ralfmager"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

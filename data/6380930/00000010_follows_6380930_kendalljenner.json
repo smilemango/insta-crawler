@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "6424395",
+                            "username": "joycebonelli",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11376205_445441448992950_1049975749_a.jpg",
+                            "full_name": "CEO: jOYCEBONELLi COSM\u00c9TIQUES\u00ae",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "16054120",
+                            "username": "hannahlogann",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13732347_923187784477514_727102652_a.jpg",
+                            "full_name": "hannahlogann",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "13001295",
+                            "username": "zoeegordon",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13181455_783703915063847_1358803077_a.jpg",
+                            "full_name": "Zoe Gordon",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "12675834",
+                            "username": "robscheppy",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663192_137900766745096_3397880144059170816_a.jpg",
+                            "full_name": "Artist",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "12281817",
+                            "username": "kyliejenner",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17883193_940000882769400_8455736118338387968_a.jpg",
+                            "full_name": "Kylie",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "11212260",
+                            "username": "stassiebaby",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381869_250169525389994_2554850090455924736_a.jpg",
+                            "full_name": "Anastasia Karanikolaou",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCXRACRJrvLWZtuMMDZBmC9NciUGWJOr15V05jW2kdrAFOFKQWopHsQ3v6P4R1py2Q",
+                    "has_next_page": false
+                },
+                "count": 184
+            }
+        }
+    }
+}

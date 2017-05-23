@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQARKRLa_VhJtcvAe2zDlEdiCv2CYktlNOPHCgG_gdvt8S_drYJraIsyVxjiprPtuo6QfCdMHu7qQYqezSxU22FJxrCu-Mw2F8oKz1dtsyDyoQ",
+                    "has_next_page": true
+                },
+                "count": 306,
+                "edges": [
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Anwar Jibawi",
+                            "is_verified": true,
+                            "id": "25713646",
+                            "username": "anwar",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14717610_1269513963093364_2576788371087032320_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Curtis",
+                            "is_verified": true,
+                            "id": "8834090",
+                            "username": "curtislepore",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876989_1211518872266785_3827775068667117568_n.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Piques",
+                            "is_verified": true,
+                            "id": "17962024",
+                            "username": "piques",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444578_1661529850554248_1848851187474890752_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Lucas Dobre",
+                            "is_verified": true,
+                            "id": "189945404",
+                            "username": "lucas_dobre",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14736368_883354925128228_4962491383727259648_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "requested_by_viewer": false,
+                            "full_name": "Marcus Dobre",
+                            "is_verified": true,
+                            "id": "189927962",
+                            "username": "marcusdobre",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719170_1808243479454604_5771515239195475968_a.jpg",
+                            "followed_by_viewer": false
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

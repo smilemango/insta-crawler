@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDPwmwozPHj1H6JNrVjJFLUUaQnIsBRCMcwdTXvtdc-aGyY-0-TsTqB2eqn5K7qdc4"
+                },
+                "count": 473,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "917315571",
+                            "followed_by_viewer": false,
+                            "username": "jeenie_ny",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10522257_1513589665571954_262131737_a.jpg",
+                            "full_name": "Jeenie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "319492385",
+                            "followed_by_viewer": false,
+                            "username": "j_w_choi7",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382691_131690320713148_6196583698599510016_a.jpg",
+                            "full_name": "Jasmine Choi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "323418633",
+                            "followed_by_viewer": false,
+                            "username": "chocolive_01",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10756002_561693067296317_197824669_a.jpg",
+                            "full_name": "Lee Olivia"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

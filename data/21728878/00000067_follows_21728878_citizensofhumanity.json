@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBbD4aqdsIsqSYphCec_VhIQqFeX76lqx1ouocduwbxLEhi6al4W1ZasQwxk27IkN0yBbeWS1u1kSLnROkR-tehwJV3TOTyJaQr5p5r7s0-LA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lena Dunham",
+                            "username": "lenadunham",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "13875723",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580233_340193533062907_2563670278244663296_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MoMA The Museum of Modern Art",
+                            "username": "themuseumofmodernart",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "8300815",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026726_658075717692791_83491682_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Oscar de la Renta",
+                            "username": "oscardelarenta",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1520952",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107411_179175139093473_392896005_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The New Yorker",
+                            "username": "newyorkermag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "13787113",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907425_223220841376662_84375917_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TIME",
+                            "username": "time",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5087794",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909345_862890997099197_1328679693_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vanity Fair Social Club",
+                            "username": "vfsocialclub",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8375124",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12393663_990086474385073_2079475873_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Time Out New York",
+                            "username": "timeoutnewyork",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9179228",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11378783_139179836475969_129992314_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "VF Fashion",
+                            "username": "vffashion",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "212288970",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12145399_937106659688025_1381337055_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Olivia Lopez",
+                            "username": "lusttforlife",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11908084",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096064_1305460562901743_469391628545556480_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jasmin Howell",
+                            "username": "friendinfashion",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2890516",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252977_429602840752166_1013119168070811648_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SARA DONALDSON",
+                            "username": "harperandharley",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22003558",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15251777_368173230181852_8931762307420127232_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nicole Warne",
+                            "username": "garypeppergirl",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6913295",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108539_1701583913436862_84078897_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Christel Crigler",
+                            "username": "christelcrig",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "51170902",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10448988_295265730633109_164826457_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Figure It Out \ud83d\ude48",
+                            "username": "redjr",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "398708",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324367_492012727639269_1163814364_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sunny Levine",
+                            "username": "sunnylevine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "21310123",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1390284_292116574310315_63051026_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "KASSIA+SURF",
+                            "username": "kassiasurf",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11521707",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444334_1820845548242531_1196767773464723456_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tricia Rosas-Naylor",
+                            "username": "patriciaparisienne",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "243199559",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11282778_1603478466582153_1221152110_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "jklincoln",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11978486",
+                            "profile_pic_url": "https://instagram.fupg2-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lindsay Kate Grosswendt",
+                            "username": "likate",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1680862",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465651_1648136848824307_5792028763210383360_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hans Eric Olson",
+                            "username": "hansericolson",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11998422",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013675_119643731924528_2184221286421495808_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1661
+            }
+        }
+    },
+    "status": "ok"
+}

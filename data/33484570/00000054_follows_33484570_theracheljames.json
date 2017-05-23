@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQACk2wMwf8nGjkdwhAqlyc41J1cWPghn9_gJC8HqwTzfWSu8PZOc3mrmL896Vu0JlA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jessica Cook",
+                            "username": "jessicamcook",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11975762",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12904979_476526265873291_1617568187_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cailin Russo",
+                            "username": "cailinrusso",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "21179549",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126908_400778986947476_2422959538945654784_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1026
+            }
+        }
+    },
+    "status": "ok"
+}

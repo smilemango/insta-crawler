@@ -1,0 +1,104 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDH983lFGeIuRlcSkvG6Ze059m8FbyDcro_eMvJO4YYd1X1SNmJQgShptUXwz4FQRI"
+                },
+                "count": 1179,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "4027658",
+                            "followed_by_viewer": false,
+                            "username": "tamumcpherson",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547220_924653734277087_538020896_a.jpg",
+                            "full_name": "All The Pretty Birds"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "20061001",
+                            "followed_by_viewer": false,
+                            "username": "ngoldenberg",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348200_462782093892739_1603004181_a.jpg",
+                            "full_name": "Natasha Goldenberg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "45508502",
+                            "followed_by_viewer": false,
+                            "username": "ida_kekhman",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624633_219997181752189_5673790692963385344_a.jpg",
+                            "full_name": "IDA KEKHMAN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "11419168",
+                            "followed_by_viewer": false,
+                            "username": "hannelim",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13129385_236184340092443_1864139802_a.jpg",
+                            "full_name": "Hanneli Mustaparta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "28492674",
+                            "followed_by_viewer": false,
+                            "username": "bat_gio",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333174_1842727786003365_5379055137870315520_a.jpg",
+                            "full_name": "Giovanna Engelbert"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "24031556",
+                            "followed_by_viewer": false,
+                            "username": "germanlarkin",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11909302_1045718808796112_860993924_a.jpg",
+                            "full_name": "German Larkin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8804637",
+                            "followed_by_viewer": false,
+                            "username": "frolburimskiy",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160817_249621795513740_3634529543533887488_a.jpg",
+                            "full_name": "Frol Burimskiy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "19847734",
+                            "followed_by_viewer": false,
+                            "username": "evelinakhromtchenko",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14730607_791575337612831_2765802064943513600_a.jpg",
+                            "full_name": "Evelina Khromtchenko"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

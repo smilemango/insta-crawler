@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDF2_7yHmj4r3_1H07s6voMIcAUdioFnuT2pcV2S467FPKvOldao-CdKGP3OAsfo48CnzuA7o0uc74MbrNw233qe5AVcF_USMVhcoORTzY-pQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513832_817430445083537_1830462843342815232_a.jpg",
+                            "id": "43185155",
+                            "username": "alvaspangberg",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alva Sp\u00e5ngberg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580050_182845792239905_1904722883725230080_a.jpg",
+                            "id": "10773014",
+                            "username": "stephili",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "St\u00e9phanie Dellal"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108741_1590620841251152_1325828596_a.jpg",
+                            "id": "5940946",
+                            "username": "rebeccawi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14294735_114070532388563_9087014758011371520_a.jpg",
+                            "id": "8290495",
+                            "username": "fridajosefin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Frida Josefin Bengtsson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17933742_380841005643360_3529029942559899648_a.jpg",
+                            "id": "15726394",
+                            "username": "d.nceswithwolves",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2022Jade\u2022"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743500_920888154704697_1180445496_a.jpg",
+                            "id": "24460319",
+                            "username": "emanuelabate95",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Emanuela Abate"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "id": "11946052",
+                            "username": "piaahti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u13e2. \u13aa"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17127069_404129146646719_9062357118836801536_a.jpg",
+                            "id": "1686107",
+                            "username": "manneholm",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Emanuel Holmgren"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076580_1508209069189079_4011402439742717952_a.jpg",
+                            "id": "21951376",
+                            "username": "sofiepahlin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hej alla fans \ud83d\udc4b\ud83c\udffb"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727605_933927330045293_6066647202590097408_n.jpg",
+                            "id": "7998044",
+                            "username": "majsd95",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Maj Disayabuttra"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14145459_184496058639371_303734657_a.jpg",
+                            "id": "32090791",
+                            "username": "josefinewesenlund",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Josefine Petersson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1168366_1311168058908725_1372690228_a.jpg",
+                            "id": "7337502",
+                            "username": "jmatildap",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "23 , Dalarna \ud83e\udd89"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881157_1967642180138233_5505551704378048512_a.jpg",
+                            "id": "13441194",
+                            "username": "majaailijeviic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719728_998596213603404_2964423549101539328_a.jpg",
+                            "id": "26938285",
+                            "username": "jennielindgrenn",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udc51JENNIE LINDGREN\ud83d\udc51"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821175_1608212316114200_933653499_a.jpg",
+                            "id": "12321844",
+                            "username": "mathildabengtson",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mathilda Bengtson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12784091_993977000693518_16543952_a.jpg",
+                            "id": "12393023",
+                            "username": "tantrut",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Emma Matsson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586962_1077667725710335_3791231889184915456_a.jpg",
+                            "id": "10488142",
+                            "username": "mandaaoo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Amanda Karlsson"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881164_206119376550582_8834217015943102464_a.jpg",
+                            "id": "9774009",
+                            "username": "s.aga.saga",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "id": "22314820",
+                            "username": "saradyran",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

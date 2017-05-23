@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBwLmL5ZugAmgyA2wLrO528AKcFscW_V38A8hvVD8tHpeyZTK6R9K58XgnRVOn0U88zRH8lGnHNhi7gOUK78M1fGCnModLYK_x7chYRVodCvw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Barneys New York",
+                            "username": "barneysny",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9458588",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802890_583504828501420_8124400539870953472_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NET-A-PORTER",
+                            "username": "netaporter",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5248998",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026725_1238594409506055_747884444_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "YelpNYC",
+                            "username": "yelpnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "201356904",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15056814_328749290851504_8951959348179894272_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Yelp",
+                            "username": "yelp",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2321425",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13584256_1722430174697456_546751287_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "trulia",
+                            "username": "trulia",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11963506",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13129254_120840608321158_271123158_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "CNN Travel",
+                            "username": "cnntravel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1116746293",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10684023_337562213087815_1474572630_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cond\u00e9 Nast Traveller",
+                            "username": "condenasttraveller",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "648539754",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/915593_1477464855826999_254008950_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cond\u00e9 Nast Traveler",
+                            "username": "cntraveler",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "104887415",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10838797_771008859614735_1103490377_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Travel Channel",
+                            "username": "travelchannel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6850173",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10643938_1489192378003496_2007065454_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Travel + Leisure",
+                            "username": "travelandleisure",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "178377460",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373935_757237097721904_738780315_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Equipment",
+                            "username": "equipmentfr",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "176187402",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13531908_1307080902655341_912477193_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Current/Elliott",
+                            "username": "currentelliott",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "19950436",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10963815_820187631389532_1465116322_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "J BRAND",
+                            "username": "jbrandjeans",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "188303142",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11249578_502145349949010_874571186_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "uniqlousa",
+                            "username": "uniqlousa",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10897672",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12292852_1655651881318149_1037905896_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Spotify",
+                            "username": "spotify",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "224223453",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267416_1465037986871089_903118325406498816_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TZELL TRAVEL GROUP",
+                            "username": "tzelltravel",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "467181061",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077184_155180791665669_809915645297688576_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bam!PRODUCED.",
+                            "username": "bamproduced",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "298245898",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11265047_874111836016783_871456409_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Magellan Luxury Hotels",
+                            "username": "magellanluxuryhotels",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "30473279",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493760_1325562790842978_2103465979882242048_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Food & Wine",
+                            "username": "foodandwine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "181415118",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13249749_640157059481480_2141546368_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mario Batali",
+                            "username": "mariobatali",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "40145323",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371241_1450616695268000_387847654_a.jpg"
+                        }
+                    }
+                ],
+                "count": 274
+            }
+        }
+    },
+    "status": "ok"
+}

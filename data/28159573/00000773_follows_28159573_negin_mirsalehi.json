@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBOdstCRcuwGaS-KY6AA4DI2DjUv8PxjaS0GeAaumjBNzw5FyIBABPlEb87wqCqgZGtubgJd9jA50Yo-gyzfftAlBFMKZNIxAu925oTRp9HGg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11260651_106552016414713_1522741146_a.jpg",
+                            "id": "26334751",
+                            "username": "chu_31",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jesus"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC8i6q8Or5CDAsDBKridi-4ZfcU5O9wB4sYHk5Ejix_NcA_0tdSOpv28Gf0bvrIBvU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Betony Vernon",
+                            "username": "betonyvernon",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "305496840",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10919600_414370645396044_1348992482_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Artecnica",
+                            "username": "artecnica",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "377433698",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14693788_1761426610787614_468568687041839104_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Antoine Ricardou",
+                            "username": "antoinericardou",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1428792146",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12905167_497238167131465_586206824_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anda Andrei",
+                            "username": "andaandrei",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "322792542",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906387_671303293000083_1731658706_a.jpg"
+                        }
+                    }
+                ],
+                "count": 563
+            }
+        }
+    },
+    "status": "ok"
+}

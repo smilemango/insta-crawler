@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCKIsrzeLQQ8nIVZ0j5wR4dJ3ruKdAH83bApnd6CJXz0OLLx8J4UCjo22ZDVixTFIs"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "saarahstromberg",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9253661",
+                            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Snapchat: Hau24",
+                            "username": "riszartist24",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12618930",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077090_972061562928117_6581531442562465792_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Frida Sj\u00f6holm",
+                            "username": "sjoholms",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20414171",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534179_521091631396187_1886654844_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gullp",
+                            "username": "gullp",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11419903",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11190962_1579196959006995_1280667234_a.jpg"
+                        }
+                    }
+                ],
+                "count": 4446
+            }
+        }
+    },
+    "status": "ok"
+}

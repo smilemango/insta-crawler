@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAPH5FlEU283XeD42va2CKxvOr--AqvZUV7alDv5JCF-fa57S6TlymEAZb1DLqtFK8Xj4haQcHhdhOKPVRFhZa-zG_tcMPiGVJ-v9IT2tUYvA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lauren Bradshaw",
+                            "username": "laurenabradshaw",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13718890",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161244_1451593544915448_3448173042864226304_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sarah Donato",
+                            "username": "signesugar",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "304360258",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11258048_1473890632931434_79057958_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Paul Ferney",
+                            "username": "paulferney",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3816113",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876228_1211004515620368_4041130811796226048_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Olive Juice",
+                            "username": "loveolivejuice",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "360095428",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076544_210378389438776_78471157031895040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Proper Bad Ass Aprons",
+                            "username": "hedleyandbennett",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4956055",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11205689_1602948706658594_1128929946_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Susie",
+                            "username": "sjaflower",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "406315717",
+                            "profile_pic_url": "https://scontent-amt2-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Outfitter Bicycle Tours",
+                            "username": "outfitterbicycletours",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "495930015",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850369_1616157848658621_1561056296_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "PRINT SHOP",
+                            "username": "maxwangerprintshop",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "488030135",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11248906_849025795181544_156479008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "What Possessed Me",
+                            "username": "whatpossessedme",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "415045272",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14276669_144557692663579_527690757_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Davia Hayward",
+                            "username": "sunandseagal",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "180003636",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419219_1167778393239520_1414695544_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Farm Burger",
+                            "username": "farmburger",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "463200563",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10963941_426944947473202_109754391_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sara Laughlin",
+                            "username": "srlghln",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6859480",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438713_1825489477717064_7142696802712551424_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "jenna wilson",
+                            "username": "jenna_aceandjig",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7706974",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201635_1668309800064678_1646999971_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cary Vaughan",
+                            "username": "cary_aceandjig",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "42087395",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10954841_1548341132080709_1376261182_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Olin Silander",
+                            "username": "osilander",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4288870",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11377919_455606561266710_616111642_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Liz Stanley",
+                            "username": "sayyesblog",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7225673",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380724_391210448000009_5953323481167822848_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Shanna Murray",
+                            "username": "heidibraids",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11464526",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372084_1603086336620791_1855209345_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Heather Rome",
+                            "username": "heather_rome",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14120524",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18645900_429839097396211_6860740252793831424_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "shopsweetlulu",
+                            "username": "shopsweetlulu",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18934607",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10448892_572890639496824_1549129383_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jenny Komenda",
+                            "username": "jennykomenda",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5989186",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751564_1698744183701359_1279002088_a.jpg"
+                        }
+                    }
+                ],
+                "count": 679
+            }
+        }
+    },
+    "status": "ok"
+}

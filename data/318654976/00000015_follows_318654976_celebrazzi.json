@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 247,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCHzsPgNSA4mM1rTuT2nvOACxFoa0g3GaTrx4i82OCCktSvXqy59VASjY1pvKZxHi8"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276596_341682029535586_5293615709933273088_a.jpg",
+                            "id": "6380930",
+                            "username": "kendalljenner",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Kendall"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877470_1793699214215757_155858904268406784_a.jpg",
+                            "id": "18428658",
+                            "username": "kimkardashian",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Kim Kardashian West"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

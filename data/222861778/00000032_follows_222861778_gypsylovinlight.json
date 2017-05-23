@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "179901739",
+                            "username": "sugarhighlovestoned",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122785_1641052512577851_4733740794182107136_a.jpg",
+                            "full_name": "SUGARHIGH LOVESTONED",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "21599404",
+                            "username": "mrluciano",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13712743_1700997650160346_1514101137_a.jpg",
+                            "full_name": "Luciano S. Aldana II",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "6268620",
+                            "username": "silverpolarbear",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11282837_404634329661160_691177325_a.jpg",
+                            "full_name": "Brandon Martin",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "19624679",
+                            "username": "real_life_wanderer",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410534_722152844597528_926210326_a.jpg",
+                            "full_name": "real_life_wanderer",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "12169328",
+                            "username": "alushiasanchia",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444762_237841933363734_5575588194180661248_a.jpg",
+                            "full_name": "Alushia-Sanchia",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQC_gQTUjPhaNHs_YHVoTx6qSNweLvCR59Ji4LK_ih20kgHxEVmVAlGnkk-dL46oCug",
+                    "has_next_page": false
+                },
+                "count": 609
+            }
+        }
+    }
+}

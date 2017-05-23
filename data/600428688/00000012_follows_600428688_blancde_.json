@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 212,
+                "page_info": {
+                    "end_cursor": "AQAkkQPtU1LqbNJ0BvBatx729KHEexLFnJPar756LGYPyeAXLg4dNujt_H1gj9OODOM",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "230807697",
+                            "username": "k_h_one",
+                            "full_name": "hyewon kong",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13557097_624252951083052_2043206889_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2144910",
+                            "username": "nemonannet",
+                            "full_name": "\uc0c1\ud638 \ub178",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13597663_1287557524602715_1439616144_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

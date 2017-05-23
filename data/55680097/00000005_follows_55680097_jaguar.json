@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 74,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBCamfYP1whfp3veY9_HAKUdtIEFNk83Ogzt3yCdp_teCbi6xfBk6QLRmEXXvsYsnS4KxPFVqNQIrxJtNFtvJaHAJcnPePeiHXZGSA8nOpEbw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11375140_995674243830634_475335637_a.jpg",
+                            "id": "187862194",
+                            "username": "landroverusa",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Land Rover USA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12080642_519940101504474_1205404315_a.jpg",
+                            "id": "189697174",
+                            "username": "fasterpiece",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800    FASTERPIECE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14288212_250134085381310_1316132225_a.jpg",
+                            "id": "19922246",
+                            "username": "motortrend",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Earth's Automotive Authority"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139696_1645551395722660_1937094469_a.jpg",
+                            "id": "28894576",
+                            "username": "speedsociety",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Speed Society"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12353207_930482200377701_48418708_a.jpg",
+                            "id": "182911819",
+                            "username": "rob_zom_b",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "rob"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

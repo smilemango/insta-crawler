@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1517,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC3-Oc4063OxQhYHNHIyimSNcyQUeayMkwpZm1XzOwLbhmjU8mGMUYbtmlsCoBoUKg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11296727_1617557878526735_1065182013_a.jpg",
+                            "id": "192948797",
+                            "username": "ghidayo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ghida Younes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482725_1260527820653660_1413269734756974592_a.jpg",
+                            "id": "272158248",
+                            "username": "ranamou",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rana Musallam Jabara"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465342_412477795769774_3903351181518307328_a.jpg",
+                            "id": "502494823",
+                            "username": "roobaz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rouba"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15403520_1273524262708661_7492006857968451584_a.jpg",
+                            "id": "196765129",
+                            "username": "sarahsbag",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sarah Beydoun"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

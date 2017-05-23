@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 412,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBkiMlD5ig75_O9iRZHcKtkiTOEL5B1nYpMRRgTp03_qCJSYzFmzuZrsMaGH3nu5_M"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948785_334423480094797_1430706796_a.jpg",
+                            "id": "14420103",
+                            "username": "bcbgeneration",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BCBGeneration"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11848984_1472823536374438_286041773_a.jpg",
+                            "id": "200806887",
+                            "username": "loyda117",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Loyda's Gel Nails"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663471_1582207708486803_3561286740385726464_a.jpg",
+                            "id": "18715282",
+                            "username": "lillianaire",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lils"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11429568_506520299499648_58795641_a.jpg",
+                            "id": "32151099",
+                            "username": "lisa_logan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "lisa logan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355218_901155513297620_382253816_a.jpg",
+                            "id": "198131186",
+                            "username": "okmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "OK! Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910152_1660844254161925_1545565731_a.jpg",
+                            "id": "209088426",
+                            "username": "gelpolishlove",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "gelpolishlove"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325704_136593056684180_1800797339_a.jpg",
+                            "id": "196107076",
+                            "username": "fifty_shades_of_nails",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

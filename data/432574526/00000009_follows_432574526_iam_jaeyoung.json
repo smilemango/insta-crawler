@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "328948814",
+                            "username": "luv_eon",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13385854_517803408406153_89026476_a.jpg",
+                            "full_name": "\ud83d\udd12michaela",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "31851396",
+                            "username": "somagee",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095054_1446088975698856_1757161091768516608_a.jpg",
+                            "full_name": "Rocking Ag",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "45558116",
+                            "username": "francescachiarella",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17268047_1863157060626618_6219105098350460928_a.jpg",
+                            "full_name": "Francesca Chiarella \ud83c\udf35",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBLZv-wk7r9cXtZWgYQpFfeWwnCelK6NT_Hu3r-kQGt2x0_VkxoEpr0HP9SNbAm4oQ",
+                    "has_next_page": false
+                },
+                "count": 157
+            }
+        }
+    }
+}

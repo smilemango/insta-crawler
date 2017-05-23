@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDmDAexddG6hzSOthicF2opMua7bVqrQ72IwBXQPlLE12HpzBqCIfjisCKscLajSyk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "jane851",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "19723849",
+                            "profile_pic_url": "https://scontent-hkg3-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "dada_kwan_323",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3594757",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15057313_157558308045217_7610067211058675712_a.jpg"
+                        }
+                    }
+                ],
+                "count": 831
+            }
+        }
+    },
+    "status": "ok"
+}

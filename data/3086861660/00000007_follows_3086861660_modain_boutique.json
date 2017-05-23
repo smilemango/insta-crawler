@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 144,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCMvhuYcV-u3A7e9SjjKLYL5-CBE1bhHSqljmOnRN19phB7inKBce_wfgA3BDo3_b56eDTA543xgTERT9lO9xDUKqdMMLDSzvrry6jz70_6cQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012174_1819891191597020_5085877487674589184_a.jpg",
+                            "id": "9213261",
+                            "username": "versace_official",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Versace"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12142086_1682254505345231_1973793553_a.jpg",
+                            "id": "215863002",
+                            "username": "roberto_cavalli",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Roberto Cavalli Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107411_179175139093473_392896005_a.jpg",
+                            "id": "1520952",
+                            "username": "oscardelarenta",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Oscar de la Renta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12729431_924296017683831_1546882456_a.jpg",
+                            "id": "314834803",
+                            "username": "vogueitalia",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue Italia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258888_1862506560647666_1499620417315274752_a.jpg",
+                            "id": "1889387",
+                            "username": "burberry",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Burberry"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11381471_959271494118022_463484986_a.jpg",
+                            "id": "2421050",
+                            "username": "gucci",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Gucci"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249330_280804642114028_289742460_a.jpg",
+                            "id": "248150720",
+                            "username": "hermes",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Herm\u00e8s official account"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821110_110528402629986_1242527498_a.jpg",
+                            "id": "722877997",
+                            "username": "givenchyofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "GIVENCHY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11116987_815337488543248_767362508_a.jpg",
+                            "id": "20158039",
+                            "username": "fendi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Fendi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359996_1495091150508318_322898428_a.jpg",
+                            "id": "304662892",
+                            "username": "prada",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Prada"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373673_129992014007974_2124456227_a.jpg",
+                            "id": "42034979",
+                            "username": "armani",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Armani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914335_653223868059486_1434031198_a.jpg",
+                            "id": "187619120",
+                            "username": "louisvuitton",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Louis Vuitton Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875594_1618073208467400_1381465762_a.jpg",
+                            "id": "550072490",
+                            "username": "dior",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dior Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/927739_1625975354339556_554852729_a.jpg",
+                            "id": "560379617",
+                            "username": "chloe",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chlo\u00e9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850052_1654448704768135_1464111520_a.jpg",
+                            "id": "695995017",
+                            "username": "chanelofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "CHANEL"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531072_1560969467535937_984363712_a.jpg",
+                            "id": "5123245",
+                            "username": "dolcegabbana",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dolce & Gabbana"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326150_1637597493176400_778431267_a.jpg",
+                            "id": "5857995",
+                            "username": "nytimesfashion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "New York Times Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11244025_718498864918178_1407017431_a.jpg",
+                            "id": "39939022",
+                            "username": "maisonvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719833_310540259320655_1605122788543168512_a.jpg",
+                            "id": "25025320",
+                            "username": "instagram",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Instagram"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464097_388031631570279_6897921411013148672_a.jpg",
+                            "id": "198154074",
+                            "username": "voguemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

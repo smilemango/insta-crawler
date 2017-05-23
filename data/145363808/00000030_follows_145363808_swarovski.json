@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA8BURtEq46Q1xOsGgtn5QdmVO8A0rhV4AoKJPIHoLydSm697bwAREcAqy9QevEk2NS-pmKE9_5S6I6yY1lW77nU2-mjiWH9ckcMvIlXYKFLw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Todd Snyder",
+                            "username": "toddsnyderny",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "183462387",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821259_146236829045995_1820745231_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Geneva Vanderzeil",
+                            "username": "apairandaspare",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2998870",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16584003_1872942652975363_7041971113722642432_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "GASOLINE GLAMOUR",
+                            "username": "gasolineglamour",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "256216204",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11939595_414016302126279_156089998_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "WWD",
+                            "username": "wwd",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "614085353",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110291_387677088254140_4065679272902131712_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Roxanne Robinson",
+                            "username": "roxierobinsonlic",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "307560774",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849102_1918144888410603_1210044591_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Daily Front Row",
+                            "username": "dailyfrontrow",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "208964024",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16111053_379872842365697_2669648574798626816_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TOWN&COUNTRY",
+                            "username": "townandcountrymag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "218322598",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906406_1476324742690980_228651968_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Joe Schildhorn",
+                            "username": "joejoegrams",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "419780542",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856709_108928146126225_1323629785_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Town & Country Editor in Chief",
+                            "username": "stellenevolandes",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "387419867",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661969_767144613437932_7656539676324397056_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Charlotte Olympia OFFICIAL",
+                            "username": "charlotte_olympia",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "237502164",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849258_1643120752637922_1155671821_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Elana Zajdman",
+                            "username": "elanazajdman",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "52238748",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11015522_202241756808748_1352522670_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Veronica Beard",
+                            "username": "veronicabeard",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "42904816",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14032929_673103892859119_1521192991_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MADISO",
+                            "username": "madiso_me",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "318046267",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14659250_190303208086234_7555295485997613056_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Savoir Flair",
+                            "username": "savoirflair",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "14206213",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12230974_445171498999451_64586451_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mayo Wo \ud83d\udc8c mayo@mellowmayo.com",
+                            "username": "mellowmayo",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "342868931",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802025_1706378386342921_8155490738679840768_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Matthew Campbell Laurenza",
+                            "username": "mcldesign",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "355062638",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373569_411535739037059_1723257476_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "AMBER RENAE",
+                            "username": "theamberrenae",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "301587645",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10844049_375603999278622_1550497651_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pineda Covalin",
+                            "username": "pinedacovalin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "391220201",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13113870_1545908182378658_1835228151_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tina Huynh",
+                            "username": "tina__huynh",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7167960",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579923_1101057016704470_513621008486236160_a.jpg"
+                        }
+                    }
+                ],
+                "count": 994
+            }
+        }
+    },
+    "status": "ok"
+}

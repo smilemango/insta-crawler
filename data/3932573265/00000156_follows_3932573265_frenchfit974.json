@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCqJ7hO1i49ZUc1OCwZtwedDsjei3ntKdI6zyshBGO-DLufxKXBAHnjHy8AGRTcRQdJ2SDwknBOFm8pyqz-u5ORqUgrPqadQ5OJpAQvfyXPhQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Fendi",
+                            "username": "fendi",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "20158039",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11116987_815337488543248_767362508_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Emilio Pucci",
+                            "username": "emiliopucci",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1047833",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11917937_1641095856162286_27310027_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Donna Karan New York",
+                            "username": "donnakaran",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1466449784",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/917210_1540035189549527_1196016705_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "EDUN",
+                            "username": "edun",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11149454",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11349143_872906682765152_272468210_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dior Official",
+                            "username": "dior",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "550072490",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875594_1618073208467400_1381465762_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dom P\u00e9rignon",
+                            "username": "domperignonofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "302822720",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355263_1675596502659300_840883647_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "DFS & T Galleria",
+                            "username": "dfsofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "414052373",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11142157_1566968190235075_1439862918_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cheval Blanc St-Barth",
+                            "username": "chevalblancstbarth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2216337024",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139734_690046501096799_1523768125_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "De Beers",
+                            "username": "debeersofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "317529755",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662629_1750154298331719_7529047519217582080_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cheval Blanc Randheli",
+                            "username": "chevalblancrandheli",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2224097470",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12106247_1492794104381393_2113747467_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cheval Blanc Courchevel",
+                            "username": "chevalblanccourchevel",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2216329673",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12093313_784914104987429_1148087933_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Chaumet",
+                            "username": "chaumetofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1591427468",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1391157_1287131714635722_210031839_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BVLGARI",
+                            "username": "bulgariofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "303385986",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11008309_1563516513924603_998414822_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BERLUTI",
+                            "username": "berluti",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "398866878",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237473_118332061866535_1898387893_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Benefit Cosmetics US",
+                            "username": "benefitcosmetics",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2339286",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11809997_759435404201910_1100594569_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Acqua di Parma",
+                            "username": "acquadiparma_official",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1317054190",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10950513_1602984089989505_1082677750_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\udd96",
+                            "username": "nicolasghesquiere",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1236712784",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099684_1671997756393354_5683041_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "UNICEF",
+                            "username": "unicef",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "249074882",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276540_225056914564448_5200372536872796160_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "mrkimjones",
+                            "username": "mrkimjones",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "51152850",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13767609_1039433602837693_756341214_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "LVMH",
+                            "username": "lvmh",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "342885079",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12256613_456383987879971_1345701054_a.jpg"
+                        }
+                    }
+                ],
+                "count": 6149
+            }
+        }
+    },
+    "status": "ok"
+}

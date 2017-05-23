@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB5JoT4GCygMsVubrxwMm2EH6pqR1rTFTIuQ6Eg_CKohhJp2FDmXAS8LEUDSgKL1RU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "jaasmineexo__",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16299288",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095869_1311282745634717_8187823540246937600_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kristine \ud83e\udd84",
+                            "username": "krstnyabut",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "367722796",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18253061_206063503242949_6278312833138556928_a.jpg"
+                        }
+                    }
+                ],
+                "count": 417
+            }
+        }
+    },
+    "status": "ok"
+}

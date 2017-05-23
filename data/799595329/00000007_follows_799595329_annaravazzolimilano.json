@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 82,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBdSAR3QQvDsJbBXvAxdpKVijp161h9qo_nn7bnFDaNseooSKe9scA-tp2Inj3MWxgEBbO-wcHVRtKC_Jv8zj8UxhKATkg-y4f7wDMq63VPZA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11137967_466696803507090_1076324759_a.jpg",
+                            "id": "396881",
+                            "username": "mattiaboschetti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mattia Boschetti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444648_1914241992188097_8273030619043201024_a.jpg",
+                            "id": "294591069",
+                            "username": "chiara_galiazzo",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chiara"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

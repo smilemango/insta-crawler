@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAzUJWxPEs_gwQJMuYMn1GBOD4NymHR25yWSJzDjMFVPuaO9MgtHhaIE1GEc9dutTw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Daniel Egneus",
+                            "username": "danielegneus",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1652169214",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12135311_1666965790218437_1061432986_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ingo Brack",
+                            "username": "ingo_brack",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1608619802",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10817933_744663772283085_1767367780_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bil Donovan",
+                            "username": "bildonovan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "429572566",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410504_1117937971566570_764676320_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Olivia Palermo",
+                            "username": "oliviapalermo",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "413237141",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12299035_530332173789374_711151648_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cecilia Carlstedt Illustrator",
+                            "username": "cecilia_carlstedt",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "291918439",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821855_1320048691354668_732037581_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Downton",
+                            "username": "daviddownton",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "444068369",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10727489_1008977692461569_1395902887_a.jpg"
+                        }
+                    }
+                ],
+                "count": 244
+            }
+        }
+    },
+    "status": "ok"
+}

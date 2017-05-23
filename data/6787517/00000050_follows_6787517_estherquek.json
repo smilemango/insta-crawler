@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBD8UcBAzdqCjipR6DJuWEkv9Ga5G19-clpQV6GwzD0QiWAEOvHAku_OamhF4RiiSY"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JOSIAH CHUA \u2022 \u30b8\u30e7\u30b5\u30a4\u30a2",
+                            "username": "josiahchua",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12682394",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381921_1834392843554067_1615482911086084096_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MR PORTER",
+                            "username": "mrporterlive",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "3193855",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126837_1929144387308988_5007615276506677248_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "GQ",
+                            "username": "gq",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12864526",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725199_567801390035808_1568225398_a.jpg"
+                        }
+                    }
+                ],
+                "count": 971
+            }
+        }
+    },
+    "status": "ok"
+}

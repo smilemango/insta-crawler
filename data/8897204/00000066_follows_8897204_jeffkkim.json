@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 3292,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCYsrgqQvy80SRi8GwYllqSOc6oTnHmEmOd2kMVU50Zuwvi825zsYWAVpJvZDOAaFa376aTQ9sDD8aoT6bbWBAJJo3xESmNHGYREqJSKJewUg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11380043_498808660295424_992430490_a.jpg",
+                            "id": "6634379",
+                            "username": "angelalevinmakeup",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Angela Levin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11015560_407072966138137_1061739969_a.jpg",
+                            "id": "391011952",
+                            "username": "anndraneen",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ANNDRA NEEN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802094_1374426432609069_3859209083903016960_a.jpg",
+                            "id": "1095261660",
+                            "username": "__nitch",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "NITCH"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579894_1513472878677108_356555205522751488_a.jpg",
+                            "id": "14676972",
+                            "username": "clintonbespoke",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "George Clinton"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10979570_1639431012944542_613318812_a.jpg",
+                            "id": "13228654",
+                            "username": "mocalosangeles",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "MOCA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881839_745830438875776_1705820440_a.jpg",
+                            "id": "1128966228",
+                            "username": "stvincentofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Annie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14564998_1675127719470589_4368069864170979328_a.jpg",
+                            "id": "221206695",
+                            "username": "lorenzarose",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lorenza Ros\u00e9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909158_528591247306004_2027999142_a.jpg",
+                            "id": "23490012",
+                            "username": "farmert",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tucker Taylor"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10831844_901399963203520_2006837139_a.jpg",
+                            "id": "178805392",
+                            "username": "danielarsham",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Daniel Arsham"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11243069_1624479481123363_1153074988_a.jpg",
+                            "id": "244608651",
+                            "username": "plumcollective",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Melissa Sutton"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13129570_877383019037170_586751505_a.jpg",
+                            "id": "9956605",
+                            "username": "kaciecorbelle",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kacie Corbelle"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887213_1643340579243407_957521909_a.jpg",
+                            "id": "295073980",
+                            "username": "zady",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Zady"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11934891_401743776688185_970715085_a.jpg",
+                            "id": "198284357",
+                            "username": "catfarber",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Cat Farber"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356743_671107606322596_392599605_a.jpg",
+                            "id": "26613188",
+                            "username": "archivefashionlibrary",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11352128_398656493662111_942910902_a.jpg",
+                            "id": "224814208",
+                            "username": "we.are.industry",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "INDUSTRY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373800_773570929438321_550417322_a.jpg",
+                            "id": "267216807",
+                            "username": "streetersusa",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Streeters USA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10986023_1405687913069452_4920912_a.jpg",
+                            "id": "303096180",
+                            "username": "sageandstonela",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sage & Stone"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11850039_1629814157259548_1861762313_a.jpg",
+                            "id": "179785023",
+                            "username": "ps_arts",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "P.S. ARTS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820474_947261531980017_1836555994_a.jpg",
+                            "id": "35735677",
+                            "username": "robsalty",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "rob talty"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11918007_895440260531913_945979678_a.jpg",
+                            "id": "1293741621",
+                            "username": "soraya_dayani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Soraya Dayani"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

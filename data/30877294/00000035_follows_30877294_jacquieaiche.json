@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "7891737",
+                            "username": "stylemint",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419281_1659015171001629_2095829383_a.jpg",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQASUbQYT_v2Beuml1vRWFX3pPIZrnL4nWDbvmW6ZrTXLBRa4Jl9nCx6uYYz2O32QZDP-JLr8QOTOImmq497lp_kLu_5cNTEJcE2nrfTrFvciw",
+                    "has_next_page": true
+                },
+                "count": 641
+            }
+        }
+    }
+}

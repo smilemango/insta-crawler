@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBuutvqcCNhYXVhsuqgf543y4nuibkSD1StCu9NefdjPQZX8KYa4f5qlBKgRTmbSrw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "As If .",
+                            "username": "joethepapi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "41626519",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18581134_1838377849821795_1514820791907123200_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83d\udc30 Lisa \ud83d\udc30",
+                            "username": "cameo203",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "30184572",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438397_936495863153474_3756946294837346304_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Barun Kwak",
+                            "username": "baroonyk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20863546",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789254_1091948287580173_3029041448033976320_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "lbcake",
+                            "username": "lbcake",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "28897071",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464657_162364490928570_4271403486211473408_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mirie",
+                            "username": "mimimirie",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "497664123",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12346186_441432749373812_157460541_a.jpg"
+                        }
+                    }
+                ],
+                "count": 317
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 547,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA_VY1D7Q6ggnq-APXbMJPV14DrlKca4rzgjl0nFbFIc34Q-T74QnGdeNVeIa7SPn27jOmGuw0Pcb2b7HdJbOt_JFP0EPMDvPDEpQ8Ei5uB9Q"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494580_268421613584375_6524392361592619008_a.jpg",
+                            "id": "13622784",
+                            "username": "selfmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "SELF Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876751_765473526934122_1140104355827941376_n.jpg",
+                            "id": "23649219",
+                            "username": "lizplosser",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Liz Baker Plosser"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11325053_1664318430466115_832420189_a.jpg",
+                            "id": "2133880689",
+                            "username": "mahtay_live",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Live Every Drop"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229403_1102123139898424_4065264997536628736_a.jpg",
+                            "id": "211484966",
+                            "username": "theashleygraham",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "A S H L E Y  G R A H A M"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788462_408526352833316_3315633208262918144_a.jpg",
+                            "id": "380850774",
+                            "username": "devinbrugman",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Devin Brugman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12093716_582514881902618_525578871_a.jpg",
+                            "id": "301044163",
+                            "username": "jourdandunn",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jourdan Dunn"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877115_1004005403037892_6872272944358227968_a.jpg",
+                            "id": "18100010",
+                            "username": "abbychampion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Abby Champion \u2661"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751303_1757799554443348_1051304559_a.jpg",
+                            "id": "182513518",
+                            "username": "tanecoffin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tane Coffin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13561575_1644657682526847_694609762_a.jpg",
+                            "id": "1323766664",
+                            "username": "lorealmakeup",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "L'Or\u00e9al Paris Makeup"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464898_255539811550885_1132890064901111808_a.jpg",
+                            "id": "227711598",
+                            "username": "alexsteinherr",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessandra Steinherr"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725141_1704349146455165_1656317587_a.jpg",
+                            "id": "1534478733",
+                            "username": "roccotheminilop",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ROCCO THE MINI LOP"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908956_1816382018686377_1477013758168530944_a.jpg",
+                            "id": "211216336",
+                            "username": "mishytran",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Michelle Tran"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094510_794259314080583_1366034685162946560_a.jpg",
+                            "id": "306091751",
+                            "username": "tatleruk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Tatler UK"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908706_970788119718172_1673495858986876928_a.jpg",
+                            "id": "175475230",
+                            "username": "kitty.spencer",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kitty Spencer"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580554_729763030517691_4361195292272361472_a.jpg",
+                            "id": "195218938",
+                            "username": "sarahhashcroft",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Sarah Ashcroft"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110391_1847788008840265_8421043300961615872_n.jpg",
+                            "id": "18909768",
+                            "username": "daisylowe",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "daisylowe"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/12519141_1706565549620389_801764768_a.jpg",
+                            "id": "11479590",
+                            "username": "thezoereport",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "The Zoe Report"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13556760_1050227871681099_820744166_a.jpg",
+                            "id": "528705478",
+                            "username": "lamer",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "La Mer"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10597488_355569771263224_300593915_a.jpg",
+                            "id": "33945015",
+                            "username": "jeannedamas",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jeanne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10957390_161482107539026_249522438_a.jpg",
+                            "id": "2229355944",
+                            "username": "refinery29uk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Refinery29 UK"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

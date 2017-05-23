@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11351823_879926472063323_268212488_a.jpg",
+                            "full_name": "\ud0c0\ud22c\uc774\uc2a4\ud2b8 \uae40\uc138\uc724 / Seyoon Gim",
+                            "is_verified": false,
+                            "id": "1720871",
+                            "followed_by_viewer": false,
+                            "username": "sey8n",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513665_242938929520053_3229624684274253824_a.jpg",
+                            "full_name": "\uae40\uc9c4\ud601",
+                            "is_verified": false,
+                            "id": "332466696",
+                            "followed_by_viewer": false,
+                            "username": "songpasounds",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 372,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDDF1DUO2eqt9p_F10IefkSAEsFC6YZpWelII7VpmvdiZGn8aYkvRAaG3S2wq0RI30"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

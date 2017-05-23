@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDyUrr5wJOh4p6p0Mn_tOygWRhbwgKteIBz4Pm6WKSlVuR0iEsH-WXfz5jKREq45BsWDpTuAyoPbGsfBXu_fnwpjYLhJSMMQxaIvs1Gr7_ugw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Adi Barak \u05e2\u05d5\u05d2\u05d5\u05ea Cakes",
+                            "username": "ab_cake",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "260285134",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12950192_1785598035004724_1837740110_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SONYA MEFADDI \ud83d\udd4a",
+                            "username": "sonyamefaddi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16155792",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513706_1538702696191181_3814995780024926208_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jo Casamento",
+                            "username": "jo.casamento",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4543593",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14717575_209373349495679_8649917723003846656_a.jpg"
+                        }
+                    }
+                ],
+                "count": 5540
+            }
+        }
+    },
+    "status": "ok"
+}

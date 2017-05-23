@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAiZkP_SnaM2oOFTFBlL0Wd6eHQo430EC1fyClXobw2SHboPePTKJCdFqYV4jCSg-o"
+                },
+                "count": 483,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "344930797",
+                            "followed_by_viewer": false,
+                            "username": "bella_be_active",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13774191_969506756480261_1120641642_a.jpg",
+                            "full_name": "Elena Arathimos | \ud83c\udf3a"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1041084286",
+                            "followed_by_viewer": false,
+                            "username": "eric_ryu",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095749_601234720087125_2054336845415710720_a.jpg",
+                            "full_name": "Ryu Fitness - NASM FMS PN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "15404271",
+                            "followed_by_viewer": false,
+                            "username": "dannibelle",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696757_123343641441442_1134201837_a.jpg",
+                            "full_name": "Danielle Robertson \ud83d\udc28\ud83c\udde6\ud83c\uddfa"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "1011593",
+                            "followed_by_viewer": false,
+                            "username": "nikkiblackketter",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585033_966992290098572_7105433838251147264_a.jpg",
+                            "full_name": "Nikki Blackketter"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8943057",
+                            "followed_by_viewer": false,
+                            "username": "idamariaberg",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13687093_114892305626607_1483815723_a.jpg",
+                            "full_name": "I D A  B E R G"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "189527501",
+                            "followed_by_viewer": false,
+                            "username": "motivationforfitness",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099854_1581936615434528_2046218045_a.jpg",
+                            "full_name": "Motivation For Fitness \ud83d\udcaa\ud83c\udffc"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

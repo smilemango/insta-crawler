@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580145_1893052970916723_7610528679524827136_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "5740089",
+                            "followed_by_viewer": false,
+                            "username": "shitjimmyshoots",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 225,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQATmaEVL-qGrhyQWCtFOdxcXbPfTYgnLEN8CScEQvCOYhwKKATxgoIMK1dN3VH2fup9IxECG02haSEd1e0NDNnuEvZtCSbSNlDoRSeEb0mUyw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

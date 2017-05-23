@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1388423",
+                            "username": "lizsung",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14582438_535087403359500_3341551300079779840_a.jpg",
+                            "full_name": "Liz Sung",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "10225126",
+                            "username": "karlaticas",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14504709_1839122509642433_8477820509461938176_a.jpg",
+                            "full_name": "KARLA TICAS",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "10602124",
+                            "username": "kirstenkuehn",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821735_947511128628878_2015097129_a.jpg",
+                            "full_name": "Kirsten Kuehn",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2632736",
+                            "username": "karenrobinovitz",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13329059_935104586606412_1562479684_a.jpg",
+                            "full_name": "Karen Robinovitz",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "9696557",
+                            "username": "realslimjadey",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230346_1841248692829972_4254871036102705152_a.jpg",
+                            "full_name": "Jade \ud83c\udf39 \u30b8\u30a7\u30a4\u30c9",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "10451191",
+                            "username": "thejeanniemai",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719270_226913737732004_3472784146068144128_a.jpg",
+                            "full_name": "Jeannie Mai",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQD48dNlvVoiyhoQqSAMklLdqvEk-VPZ-mQ_LRd8dFvesdY2Ot7aol3tqqf2EM4PeaY",
+                    "has_next_page": false
+                },
+                "count": 1505
+            }
+        }
+    }
+}

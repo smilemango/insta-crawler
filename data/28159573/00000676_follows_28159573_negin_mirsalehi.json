@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBW9bhTM7XpkN4TGIWQ6tH0pmGJQBrQDjjGOOC_-5E782gZEDeUBIre6E7mdtR-_4kdRinBu2TT8GtzeIqYy94bAWq_LYwwG2I2zoxlBumVvA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906264_1119009951542147_2515094777947488256_a.jpg",
+                            "id": "32267086",
+                            "username": "alberto_junior",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alberto Junior"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

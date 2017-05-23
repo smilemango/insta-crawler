@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "228170420",
+                            "username": "alicetemperley",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126581_422489901426233_3513789856700432384_a.jpg",
+                            "full_name": "ALICE TEMPERLEY MBE",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "187619120",
+                            "username": "louisvuitton",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914335_653223868059486_1434031198_a.jpg",
+                            "full_name": "Louis Vuitton Official",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "209212866",
+                            "username": "britishfashioncouncil",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906396_1678102129072022_360625123_a.jpg",
+                            "full_name": "British Fashion Council",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "306091751",
+                            "username": "tatleruk",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094510_794259314080583_1366034685162946560_a.jpg",
+                            "full_name": "Tatler UK",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "326471679",
+                            "username": "bridesmagazine",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438795_1359196977461625_8923533570987786240_a.jpg",
+                            "full_name": "Brides Magazine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "509017480",
+                            "username": "somoglobal",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1389158_525159014277681_1035168696_a.jpg",
+                            "full_name": "Somo",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "363220417",
+                            "username": "precieuxwebzine",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821881_138860879786387_947908226_a.jpg",
+                            "full_name": "Jewels & jewelry webzine \ud83d\udc8e",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "25467768",
+                            "username": "galagonzalez",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095818_1914003012166620_1250557961059696640_a.jpg",
+                            "full_name": "Amlul.com",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "22074148",
+                            "username": "hedvigso",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096391_180167902505379_5938943247761014784_a.jpg",
+                            "full_name": "Hedvig Sagfjord Opshaug",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "4560806",
+                            "username": "peonylim",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252251_1397469570291336_2782914945522597888_a.jpg",
+                            "full_name": "Peony Lim",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "49845582",
+                            "username": "fashionfoiegras",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908388_263952020712333_6617885553289330688_a.jpg",
+                            "full_name": "Emily Johnston",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCE8vLtGXITUTKyFuMX1RMVsEchpr5QP81LCUy1k_umv9bAinPh_D0ttbu1Vk2S7E4",
+                    "has_next_page": false
+                },
+                "count": 171
+            }
+        }
+    }
+}

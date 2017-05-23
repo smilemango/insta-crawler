@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 826,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBWiOGXxwb0yTJs975ufuk-ZOGUMwcYH6bwzvfsrdZ_hD2yY3dntGjm0K7jx2dfFQ8ir7y1L4VSz1MSoHonL-FvGIs5YCvEA23CRZM4x3a-AA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727679_261125527623417_5154614925963821056_a.jpg",
+                            "id": "17372994",
+                            "username": "marieclairemag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marie Claire"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928274_261363794051825_231849978_a.jpg",
+                            "id": "8873610",
+                            "username": "loewe",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LOEWE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906345_387560321454104_1399688723_a.jpg",
+                            "id": "9008792",
+                            "username": "bitton",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anita Bitton"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875438_1097335773629530_1874753446_a.jpg",
+                            "id": "315710838",
+                            "username": "therow",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "THE ROW"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123451_708320359348842_8545113627558936576_a.jpg",
+                            "id": "16926557",
+                            "username": "mertalas",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mert Alas"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11930930_1084247808328211_1533097446_a.jpg",
+                            "id": "286737945",
+                            "username": "guidopalau",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Guido Palau"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026725_1238594409506055_747884444_a.jpg",
+                            "id": "5248998",
+                            "username": "netaporter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "NET-A-PORTER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948809_803033053110771_1946788583_a.jpg",
+                            "id": "1320355",
+                            "username": "proenzaschouler",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Proenza Schouler"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11007970_996146877063691_1678950503_a.jpg",
+                            "id": "182144062",
+                            "username": "lilyaldridge",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Lily Aldridge"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15035028_1034810126628379_1930133327587573760_a.jpg",
+                            "id": "298124568",
+                            "username": "samsmithworld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Sam Smith"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599311_870347059757448_25865058_a.jpg",
+                            "id": "241997151",
+                            "username": "carineroitfeld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Carine Roitfeld"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586948_349600655435215_4199413022512381952_a.jpg",
+                            "id": "212660742",
+                            "username": "tmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "T: The NYTimes Style Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725199_567801390035808_1568225398_a.jpg",
+                            "id": "12864526",
+                            "username": "gq",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "GQ"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13391110_970551186377534_1916207811_a.jpg",
+                            "id": "490846367",
+                            "username": "anna_vrc",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Anna Cleveland"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11257213_630299017107200_1910210889_a.jpg",
+                            "id": "215973237",
+                            "username": "jamiebochert",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jamie Bochert"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14145342_1738901639681937_1937107038_a.jpg",
+                            "id": "6894374",
+                            "username": "dazed",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dazed"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10802424_1590446254510200_696605099_a.jpg",
+                            "id": "23911457",
+                            "username": "patmcgrathreal",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Pat McGrath"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095959_400652586987859_555602995249676288_a.jpg",
+                            "id": "181726134",
+                            "username": "thelovemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LOVE MAGAZINE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16790332_1366249880085518_6838700692538916864_a.jpg",
+                            "id": "227840451",
+                            "username": "selfservicemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Self Service Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099684_1671997756393354_5683041_a.jpg",
+                            "id": "1236712784",
+                            "username": "nicolasghesquiere",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udd96"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

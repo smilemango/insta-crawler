@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQC6r8fiVT-B5DlZ2Df3Ev_3JzVRyfDFjueYeEzSlu2v1_Riu8zXEJCGnlpmUyudXBpg9QwWnHzOrAXc5TvDfiFE-Dko4oriGnawCQEr4w6Y2g"
+                },
+                "count": 884,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "17558028",
+                            "followed_by_viewer": false,
+                            "username": "_streetstyle",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11917834_113128789041216_532893678_a.jpg",
+                            "full_name": "Daniel & Caroline"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "389685618",
+                            "followed_by_viewer": false,
+                            "username": "emmanuellealt",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809803_174266526237816_339877514_a.jpg",
+                            "full_name": "Emmanuelle Alt Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "305506437",
+                            "followed_by_viewer": false,
+                            "username": "lanadelrey",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662413_131883597346050_6214302852467130368_a.jpg",
+                            "full_name": "Lana Del Rey"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "666908117",
+                            "followed_by_viewer": false,
+                            "username": "lilyjcollins",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11296893_478580908977658_2053429590_a.jpg",
+                            "full_name": "Lily Collins"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "181076827",
+                            "followed_by_viewer": false,
+                            "username": "emilywweiss",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14032855_1588147844819839_1460605922_a.jpg",
+                            "full_name": "Emily Weiss"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "304662892",
+                            "followed_by_viewer": false,
+                            "username": "prada",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359996_1495091150508318_322898428_a.jpg",
+                            "full_name": "Prada"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "629566976",
+                            "followed_by_viewer": false,
+                            "username": "lupitanyongo",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14709468_1291912117519957_1831221901502971904_a.jpg",
+                            "full_name": "Lupita Nyong'o"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "31957180",
+                            "followed_by_viewer": false,
+                            "username": "alexperry007",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11939434_865768010186028_1002401560_a.jpg",
+                            "full_name": "ALEX PERRY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "30484604",
+                            "followed_by_viewer": false,
+                            "username": "linda_lomelino",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624502_1322489604476399_8690432974140735488_a.jpg",
+                            "full_name": "Linda Lomelino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "7655209",
+                            "followed_by_viewer": false,
+                            "username": "eleonoracarisi",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18514189_1289603587827211_3250223785512534016_a.jpg",
+                            "full_name": "Eleonora Carisi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "37551480",
+                            "followed_by_viewer": false,
+                            "username": "anna_dello_russo",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326469_309361052521233_1492388484_a.jpg",
+                            "full_name": "Anna Dello Russo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "30176821",
+                            "followed_by_viewer": false,
+                            "username": "monicarosestyle",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139878_146114849075553_1508981810_a.jpg",
+                            "full_name": "M O N I C A  R O S E"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "6114855",
+                            "followed_by_viewer": false,
+                            "username": "judystylexo",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324496_120825078261554_1862032645_a.jpg",
+                            "full_name": "JUDY KAUFMAN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "1378927",
+                            "followed_by_viewer": false,
+                            "username": "manrepeller",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10598339_1462523197342576_1653216185_a.jpg",
+                            "full_name": "Man Repeller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "177012824",
+                            "followed_by_viewer": false,
+                            "username": "poppydelevingne",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11380174_516033288547198_527004642_a.jpg",
+                            "full_name": "Poppy Delevingne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "14440602",
+                            "followed_by_viewer": false,
+                            "username": "laurenmoffatt",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12748158_216414958709532_21357482_a.jpg",
+                            "full_name": "Lauren Moffatt"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "21153958",
+                            "followed_by_viewer": false,
+                            "username": "chaneliman",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12298981_215294058802746_594403515_a.jpg",
+                            "full_name": "Chanel Iman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "215863002",
+                            "followed_by_viewer": false,
+                            "username": "roberto_cavalli",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12142086_1682254505345231_1973793553_a.jpg",
+                            "full_name": "Roberto Cavalli Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "359067786",
+                            "followed_by_viewer": false,
+                            "username": "diana_corp",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887271_410953369100962_2090592436_a.jpg",
+                            "full_name": "Diana Corp."
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

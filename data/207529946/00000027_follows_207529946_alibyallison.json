@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBiPrCt-OyxxKvMaF_c7VSpPb3ZufNdEUmrNJISGka4I4Uf_ONBmkSDRwB-Hj4Ar6I"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vanesa",
+                            "username": "vanerz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "197010572",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14032970_112419852541677_187515628_a.jpg"
+                        }
+                    }
+                ],
+                "count": 506
+            }
+        }
+    },
+    "status": "ok"
+}

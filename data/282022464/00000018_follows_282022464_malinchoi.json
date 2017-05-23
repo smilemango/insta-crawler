@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "end_cursor": "AQAgCF09P-OBOR09sqFOpt1aoijHdaO4vFc7-ox0hJJK8nI_QTuQdHfFQUReOWb_AE8",
+                    "has_next_page": false
+                },
+                "count": 334,
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83d\udc51\u6c5f\u55ac\u6797\ud83d\udc95\ud83d\udc9e\ud83d\udc96",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877069_1049618065149867_7761146920533229568_n.jpg",
+                            "is_verified": false,
+                            "username": "jolenejiang",
+                            "id": "256617778"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alexa Chung",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11810011_626336000842432_1684901902_a.jpg",
+                            "is_verified": false,
+                            "username": "alexachung_",
+                            "id": "51535799"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Eva Zhang",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11261330_1022915837732849_1949820794_a.jpg",
+                            "is_verified": false,
+                            "username": "evavaaaa_",
+                            "id": "21973472"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Angelababy",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14262889_300464123659127_1298664126_a.jpg",
+                            "is_verified": true,
+                            "username": "angelababyct",
+                            "id": "9156600"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

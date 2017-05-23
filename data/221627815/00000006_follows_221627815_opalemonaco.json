@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB1H-DR7KvMMHM6NVmhWnS14UrRPrPEEnvtE_7mLxohM592C6GGs7LJyZ0K6Luuxw4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Magali Bertin",
+                            "username": "magalibertin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "188326947",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326354_515738395246090_383631342_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "visitmonaco",
+                            "username": "visitmonaco",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "194169053",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11352423_826222020804595_675818196_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Victoria Bonya \u2650\ufe0f",
+                            "username": "victoriabonya",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5510916",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382402_289744008116608_3928120455482834944_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Goncharenko Oksana",
+                            "username": "polarnaya_zvezda",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "339169745",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12784037_550677518433786_1946094913_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hadi Boumoula",
+                            "username": "hadiboum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "232772692",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363888_915836351822325_1178723871_a.jpg"
+                        }
+                    }
+                ],
+                "count": 101
+            }
+        }
+    },
+    "status": "ok"
+}

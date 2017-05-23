@@ -1,0 +1,203 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 536,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB3jiaknY3vrfejF9mQ0P974m3PJkclzNRBflx0KpBowFDs5pbEdMKewjYh2yL3QIbxo-FjoR2LPRGPAB71dgVYoZPg-K9IZbn-ir0ZqslhQQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324955_1622470184701472_1302564374_a.jpg",
+                            "id": "3907894",
+                            "username": "neimanmarcus",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Neiman Marcus"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13731126_1124400684301062_1935223298_a.jpg",
+                            "id": "1906837",
+                            "username": "michaelkors",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Michael Kors"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907259_602089639947088_213984254_a.jpg",
+                            "id": "2098900",
+                            "username": "evachen212",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Eva Chen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13649304_294248004258593_1649265587_a.jpg",
+                            "id": "9407405",
+                            "username": "cfda",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "cfda"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258888_1862506560647666_1499620417315274752_a.jpg",
+                            "id": "1889387",
+                            "username": "burberry",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Burberry"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821661_373552819520913_989994150_a.jpg",
+                            "id": "1392487",
+                            "username": "bergdorfs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Bergdorf Goodman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373923_529690717196189_399228389_a.jpg",
+                            "id": "2169340",
+                            "username": "alexwhiteedits",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alex White"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14309790_539811196213663_1781634776_a.jpg",
+                            "id": "52394535",
+                            "username": "sammcknight1",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Sam McKnight\u00a9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493598_348911308838092_7670981130195042304_a.jpg",
+                            "id": "3825462",
+                            "username": "cocorocha",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Coco Rocha"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326150_1637597493176400_778431267_a.jpg",
+                            "id": "5857995",
+                            "username": "nytimesfashion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "New York Times Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11254085_735872399873263_439243576_a.jpg",
+                            "id": "24457708",
+                            "username": "nick_knight",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Nick Knight"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11950606_1635927629998284_68331775_a.jpg",
+                            "id": "181822263",
+                            "username": "kcdworldwide",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "KCD"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12716973_1689135281369191_1234381782_a.jpg",
+                            "id": "40067563",
+                            "username": "jasonwu",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jason Wu"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107411_179175139093473_392896005_a.jpg",
+                            "id": "1520952",
+                            "username": "oscardelarenta",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Oscar de la Renta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15801964_549980738531775_1308050496363167744_a.jpg",
+                            "id": "29942149",
+                            "username": "declanchan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "declanchan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14448302_179164235861218_1450564782624079872_a.jpg",
+                            "id": "3605237",
+                            "username": "hubertchen",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hubert Chen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11374058_1797311503828767_1132310716_a.jpg",
+                            "id": "8646646",
+                            "username": "damianbao",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "DAMIAN BAO"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

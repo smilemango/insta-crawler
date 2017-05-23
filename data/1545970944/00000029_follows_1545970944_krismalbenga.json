@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 690,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQASqObmkzw0ojFrQrnnZ_DhchlPotoRhtwMAqNWwACVNmKNJceQ8UNXSH8Y_DLfX1lQXcK9WxJwowkyWi_iME4K2ZschEVe5h1rjVsI4JOdow"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875594_1618073208467400_1381465762_a.jpg",
+                            "id": "550072490",
+                            "username": "dior",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dior Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258888_1862506560647666_1499620417315274752_a.jpg",
+                            "id": "1889387",
+                            "username": "burberry",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Burberry"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125655_404955776527133_2614745161745301504_a.jpg",
+                            "id": "1599314638",
+                            "username": "viviennewestwoodjapan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Vivienne Westwood Japan"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264601_116883675325342_163295204_a.jpg",
+                            "id": "178733366",
+                            "username": "alexanderwangny",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "ALEXANDER WANG"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11352405_768888506567615_720467989_a.jpg",
+                            "id": "235393849",
+                            "username": "maisonmargiela",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Maison Margiela"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464097_388031631570279_6897921411013148672_a.jpg",
+                            "id": "198154074",
+                            "username": "voguemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13737067_1565651790408991_1522946206_a.jpg",
+                            "id": "199175210",
+                            "username": "i_d",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "i-D"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410440_1667855663437765_1626379686_a.jpg",
+                            "id": "45909486",
+                            "username": "lanvinofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LANVIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356966_1540151089538938_1289521224_a.jpg",
+                            "id": "4404556",
+                            "username": "moschino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Moschino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11244025_718498864918178_1407017431_a.jpg",
+                            "id": "39939022",
+                            "username": "maisonvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357496_167348673628665_971099270_a.jpg",
+                            "id": "1024067",
+                            "username": "marcjacobs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marc Jacobs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821110_110528402629986_1242527498_a.jpg",
+                            "id": "722877997",
+                            "username": "givenchyofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "GIVENCHY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10899291_712545645509457_1095324652_a.jpg",
+                            "id": "10480357",
+                            "username": "alexandermcqueen",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexander McQueen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267924_272033029904370_5728716701839654912_a.jpg",
+                            "id": "186541074",
+                            "username": "viviennewestwoodofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vivienne Westwood"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12070610_1478131135824289_1047472961_a.jpg",
+                            "id": "2218120676",
+                            "username": "roparen",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Roberto Parenti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11349171_497646520389895_1165484845_a.jpg",
+                            "id": "2109804831",
+                            "username": "giuseppevittoriopiccini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giuseppe Vittorio Piccini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11378216_1865603216998152_1359987129_a.jpg",
+                            "id": "1959417296",
+                            "username": "delfino_gilberto",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11242010_886071024794791_1302638861_a.jpg",
+                            "id": "2134277822",
+                            "username": "barbaramontagna.salon",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Barbara Montagna Salon"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11351948_1597980083795245_864679074_a.jpg",
+                            "id": "1955492068",
+                            "username": "depiazza88",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Deborah Piazza"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

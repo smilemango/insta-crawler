@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQC8OCwLXb-FCWoHNIGZSEtxoBVKyJ_Euj49MzDcjucwB8pKKHIX7zE3kjAmNYPKvpa6Bn-31Tlo4-vWWD7G6LRnO_DZ99wOflDjWuEEGmZhxA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jose J. Martinez",
+                            "username": "j2martinez",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1602205",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11934810_440842486099420_398598973_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "sarah aguas",
+                            "username": "waterisblue",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "16234243",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11094499_1568922620044643_1313887883_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MASSIMO BONINI",
+                            "username": "massimobonini_showroom",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "430844054",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10724587_1528170960733480_847710469_a.jpg"
+                        }
+                    }
+                ],
+                "count": 935
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 375,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBAq3xDPX16Nd8mFEFOgZMRZs8xPWZfbx2swt4kLvjy9Mq6UGK8uCrJFKe3o28yctWx-addLCuOQfkxojF4DR7Nl5pkcMCqZgSqV-hJJEnHbQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850309_1674349799447611_206178162_a.jpg",
+                            "id": "232192182",
+                            "username": "therock",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "therock"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13671726_618498881664261_778596244_a.jpg",
+                            "id": "1561818087",
+                            "username": "blacktapnyc",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Black Tap"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818885_242984436176134_7876770025711861760_a.jpg",
+                            "id": "1304376717",
+                            "username": "anoukvkleef",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anouk van Kleef"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17266040_260881731036381_1076338243399581696_a.jpg",
+                            "id": "348308648",
+                            "username": "fredvanleer",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Fred van Leer"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515880_1818300361746025_1039052352402751488_a.jpg",
+                            "id": "176182694",
+                            "username": "aniekarisse",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Aniek Arisse"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444977_1924624384483064_2912808745262120960_a.jpg",
+                            "id": "39410665",
+                            "username": "lucettevanbeek",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lucette Van Beek"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723476_121503154990072_4042554095238643712_a.jpg",
+                            "id": "177687254",
+                            "username": "marleineo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marleine Oranje"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11203181_408652432654166_388181638_a.jpg",
+                            "id": "11902069",
+                            "username": "fulviafarolfi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13394971_1078800682176366_1419432667_a.jpg",
+                            "id": "2290471891",
+                            "username": "daily.robinmarjolein",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Robin Marjolein"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11347825_440206166162402_2111324054_a.jpg",
+                            "id": "255766658",
+                            "username": "alexislouison",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexis Louison"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12105198_1634295366839776_87619275_a.jpg",
+                            "id": "1670540547",
+                            "username": "bobsburgersbtw",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Bobs Burgers"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125946_448917445440370_8481284164362960896_a.jpg",
+                            "id": "208132801",
+                            "username": "evaneboulanger",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Evane Boulanger"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512498_438919109798439_3446770748926984192_a.jpg",
+                            "id": "469376871",
+                            "username": "monikakielczewska",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Monika"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788985_348962235503286_653831233771405312_a.jpg",
+                            "id": "262036904",
+                            "username": "sergehodonou",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Serge Hodonou"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928858_788353577940727_126635930_a.jpg",
+                            "id": "49123335",
+                            "username": "italogregorio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Italo Gregorio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15253136_1080966958692595_8277947978639998976_a.jpg",
+                            "id": "54240558",
+                            "username": "anariz1",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ana Marie Rizzieri"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10809658_338482009657384_2076116775_a.jpg",
+                            "id": "1546145288",
+                            "username": "paolaandmurray",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Paola + Murray"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11337151_412950035566949_1084051259_a.jpg",
+                            "id": "1954209254",
+                            "username": "babyanimalstagram",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Animal Lovers"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11015550_724550620997047_673194404_a.jpg",
+                            "id": "209232325",
+                            "username": "elite_copenhagen",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Elite Copenhagen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585380_624012347807679_586734421449637888_a.jpg",
+                            "id": "193991545",
+                            "username": "elite_london",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Elite Model Management London"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

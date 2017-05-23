@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 990,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBLsMVH5BFyFUEa00ReushwA1R0HolmVJ5Jz0H3ZGsYnkw_YGdJVWnNUm5immxokZA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410537_1617897025151691_147255097_a.jpg",
+                            "id": "301122648",
+                            "username": "closedofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Closed Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351652_1711417529082040_8916033_a.jpg",
+                            "id": "21728878",
+                            "username": "citizensofhumanity",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Citizens of Humanity"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887277_815779355204529_1365095967_a.jpg",
+                            "id": "218183876",
+                            "username": "mrcharlesphilip",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Charles Philip Pozzi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258888_1862506560647666_1499620417315274752_a.jpg",
+                            "id": "1889387",
+                            "username": "burberry",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Burberry"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077484_1116828938426694_7382783962730463232_a.jpg",
+                            "id": "9445148",
+                            "username": "balenciaga",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Balenciaga"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10691895_351106391716180_1734763235_a.jpg",
+                            "id": "176527031",
+                            "username": "alexandrebirman",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexandre Birman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821237_840559382727001_652124613_a.jpg",
+                            "id": "10832450",
+                            "username": "albertaferretti",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alberta Ferretti"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

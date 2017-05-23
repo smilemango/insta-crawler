@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 6049,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAnVOe2acamKjvrnuO4s_EP27g8viEQdkuiWWur40rC6wK6mtOTAUNeUUass-wXRqF4bVZyaQQPPTu1h4gITDKsIdPOwsEXGBcZrvr0IVkEJg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912294_874696115974037_490025157_a.jpg",
+                            "id": "1485598263",
+                            "username": "lamartiel2",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessandra Martiello"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11931120_1488189964808343_485549584_a.jpg",
+                            "id": "210724615",
+                            "username": "fralas",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francesco Lasagna"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513090_290060904780611_2195854304126959616_a.jpg",
+                            "id": "1708075128",
+                            "username": "emmacarrera_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "EMMACARRERA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513469_1886355198359614_4863987202146697216_a.jpg",
+                            "id": "195135800",
+                            "username": "fraacolombo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francesca Colombo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1598007_1534899690156736_1633716495_a.jpg",
+                            "id": "1771812115",
+                            "username": "carli_cucciola",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258788_227962774308200_5144029936113156096_a.jpg",
+                            "id": "245418192",
+                            "username": "gaetanopupy",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gaetano Palladino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160322_653410431513796_9169948918639755264_a.jpg",
+                            "id": "304305100",
+                            "username": "its.renene",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Irene Ignarra\u2728\ud83d\udc98\u2744\ufe0f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535514_1183183221748762_3266533902344257536_a.jpg",
+                            "id": "430867446",
+                            "username": "tonio929",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonio Maiolo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249330_1479451585709481_1163689598_a.jpg",
+                            "id": "211638935",
+                            "username": "natyy86",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Natascia Kumar"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13739571_1746953642259323_847631234_a.jpg",
+                            "id": "1498547913",
+                            "username": "melissa_coglietti1",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Melissa Coglietti \ud83c\udf39"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13743086_511942885677733_1919681427_a.jpg",
+                            "id": "1293056110",
+                            "username": "alessiaalbanoo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessia\ud83e\udd18\ud83c\udffc"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789803_180563899104988_2522416623445344256_a.jpg",
+                            "id": "702585021",
+                            "username": "eleonora_reggiani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Eleonora Reggiani \ud83e\udd84"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13381319_1060909190625364_626663936_a.jpg",
+                            "id": "358471330",
+                            "username": "albertogadda",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alberto"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803161_1823542954559323_4991991997960028160_a.jpg",
+                            "id": "27078830",
+                            "username": "filippo_il_bello",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "filippo_il_bello"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15801851_312639505797677_7203436702658985984_a.jpg",
+                            "id": "34753152",
+                            "username": "s_eleonora_s",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Eleonora\ud83c\udf4b"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13473339_1166407916755289_1531608728_a.jpg",
+                            "id": "228987640",
+                            "username": "ilariatalamazzi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ilaria \ud83c\uddee\ud83c\uddf9\ud83c\udf0e\u2708\ufe0f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333731_1037591793051540_7980243570353242112_a.jpg",
+                            "id": "291384991",
+                            "username": "russkajalau",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lau ~\u041b\u0430\u0443\u0440\u0430~"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161541_1255372087833740_3606406436982095872_a.jpg",
+                            "id": "368718782",
+                            "username": "giuliadicerbo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giulia Di Cerbo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355243_1626571740894549_130089954_a.jpg",
+                            "id": "1370203546",
+                            "username": "sofiaciarro",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ciarry"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11419214_1669506129945571_1365646052_a.jpg",
+                            "id": "2852577",
+                            "username": "emmors",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "EM"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

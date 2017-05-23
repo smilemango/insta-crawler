@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAGgqpOtvipratlRaQ5HR7NoTrlMdByUZ-QAmVS_ElwmyZjdHJEpf2m304pdp30I3I"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kiley Hodgson King",
+                            "username": "kileyhking",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "10352683",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11208013_1016158285101546_231201989_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BuckheadNWOffice",
+                            "username": "buckheadnw",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "487417133",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906372_884614061592161_1259260509_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Harry Norman, REALTORS",
+                            "username": "hnrealtors",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "400183784",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12555836_907336062719078_461745732_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "hannahbeaver",
+                            "username": "hannahbeaver",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11834945",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351795_880776971969690_702864288_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ansley Atlanta Real Estate",
+                            "username": "ansleyatlanta",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "510412961",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10950632_890047854360586_1876116470_a.jpg"
+                        }
+                    }
+                ],
+                "count": 914
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 305,
+                "page_info": {
+                    "end_cursor": "AQAIlZN91dw_9DLSuKaJqH6u4RERLYPvPBj_h_8BYTnpcOApriTAexo5rYJmZWyHk6A",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "342022751",
+                            "username": "joanneeyu",
+                            "full_name": "Joanne Joowon Yu",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125677_1813598502226316_1863684569996197888_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "217763558",
+                            "username": "mathildebouvier",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17127053_1720032614953360_3868210433412300800_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "320908998",
+                            "username": "bbbom___",
+                            "full_name": "BOM\ud83d\udc2f",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299143_268160766982326_4128768923686404096_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "428668064",
+                            "username": "eunsolar",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14564873_147644335695348_1355154077008265216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "234697463",
+                            "username": "ssongjjida",
+                            "full_name": "\uc3ed\uc9c0",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12627824_1088904597827981_1089287653_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "761362458",
+                            "username": "j_apostrophe_style",
+                            "full_name": "Jiseon Lee",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14134788_872242696240472_399495295_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDNXbwy5fHbuiKzHcEG6GzL3Or2pmcAX0wSl8u65wx220EVTCxzleDvhjBDTBAyNXDqxOi3FIGhIq9Oh0AkSw4sdTdHTr1XCwkvWP2pJQnH1g"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "svet.banana",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "196295149",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16124093_1769462316710801_623185770236084224_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "georgiagazelle",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "259196776",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881817_328378667578770_3412605886110105600_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Josh Fisher",
+                            "username": "cc01010",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "886502530",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12976498_1589177514706172_932226517_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Baixiang Chen",
+                            "username": "baixchen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "201582357",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10448840_459874160816727_2063143465_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "moy_moi",
+                            "username": "moy_moi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "205340091",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10520241_831078210324450_732664358_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jordan Mould",
+                            "username": "sk8erfag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "35152061",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13397504_196305544102829_663261767_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Joko Ono",
+                            "username": "brandonthejoko",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "204886244",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299337_1524360370947428_3922309424860889088_a.jpg"
+                        }
+                    }
+                ],
+                "count": 319
+            }
+        }
+    },
+    "status": "ok"
+}

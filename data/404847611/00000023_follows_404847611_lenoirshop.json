@@ -1,0 +1,115 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 447,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD4H31Ccezb4b9dH0YBqOgo1Qu4HE9H3d-BriYVDhDUpCkeWf44WknplQVX43FbXYU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11024170_1701106360116666_1468623078_a.jpg",
+                            "id": "8831830",
+                            "username": "massimogiorgetti",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Massimo Giorgetti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11244025_718498864918178_1407017431_a.jpg",
+                            "id": "39939022",
+                            "username": "maisonvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11357895_1649252325311092_239698897_a.jpg",
+                            "id": "404802190",
+                            "username": "isabelmarant",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Isabel Marant Official Account"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803754_1755392841446417_6503141812599783424_n.jpg",
+                            "id": "11285087",
+                            "username": "louboutinworld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christian Louboutin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11381471_959271494118022_463484986_a.jpg",
+                            "id": "2421050",
+                            "username": "gucci",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Gucci"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519154_1192070127473154_605131758_a.jpg",
+                            "id": "350378022",
+                            "username": "msgm",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "MSGM"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357496_167348673628665_971099270_a.jpg",
+                            "id": "1024067",
+                            "username": "marcjacobs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marc Jacobs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410440_1667855663437765_1626379686_a.jpg",
+                            "id": "45909486",
+                            "username": "lanvinofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LANVIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077484_1116828938426694_7382783962730463232_a.jpg",
+                            "id": "9445148",
+                            "username": "balenciaga",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Balenciaga"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

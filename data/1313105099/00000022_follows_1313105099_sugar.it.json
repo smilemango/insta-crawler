@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 410,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBfX9FfXFjCvmcU3ItlxnmsIOOfWxjo_94p8JrBzGHp2xfVjw2Lfrlxog8UWDVx5exQIOmFJL3QgJ4E2y1XonmesDrHDYDpUb6Iih2kmVZaFQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11378749_1024151394332505_1123346872_a.jpg",
+                            "id": "21922111",
+                            "username": "openingceremony",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "openingceremony"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849466_1617516161840813_1128263934_a.jpg",
+                            "id": "186933326",
+                            "username": "31philliplim",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "3.1 Phillip Lim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11116987_815337488543248_767362508_a.jpg",
+                            "id": "20158039",
+                            "username": "fendi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Fendi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850395_781528011955623_1449583618_a.jpg",
+                            "id": "305083839",
+                            "username": "miumiu",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Miu Miu"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914335_653223868059486_1434031198_a.jpg",
+                            "id": "187619120",
+                            "username": "louisvuitton",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Louis Vuitton Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359996_1495091150508318_322898428_a.jpg",
+                            "id": "304662892",
+                            "username": "prada",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Prada"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11910414_689779501158989_1173672478_a.jpg",
+                            "id": "1277941729",
+                            "username": "chiaraclaire85",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10914205_1396343520663762_1906441751_a.jpg",
+                            "id": "361317906",
+                            "username": "p3_studio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "PROJ3CT STUDIO"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534162_1040948462595176_1054950585_a.jpg",
+                            "id": "559015117",
+                            "username": "cameramoda",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Milano Fashion Week"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325357_1146325922051319_1081853859_a.jpg",
+                            "id": "241442150",
+                            "username": "eugeniosacchetti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gino Eugenio Sacchetti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11257039_1454830538153251_1950720319_a.jpg",
+                            "id": "1711001",
+                            "username": "fr4ncesco",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francesco Landini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14280457_765110933592668_1877540355_a.jpg",
+                            "id": "198411470",
+                            "username": "riccardofalsetti87",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Riccardo Falsetti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12256785_992173164177938_1230750018_a.jpg",
+                            "id": "366503182",
+                            "username": "antonio_maz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonio Mazzeo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12301352_698729043597405_985715248_a.jpg",
+                            "id": "421872139",
+                            "username": "sugarmarghe",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Margherita Soldi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11417266_1807898672769709_889710993_a.jpg",
+                            "id": "221664",
+                            "username": "virgilabloh",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14350411_1776734342595246_933194890_a.jpg",
+                            "id": "17670934",
+                            "username": "pigalle_ashpool",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "St\u00e9phane Ashpool PPP"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17265668_1429722990402047_668094824456388608_a.jpg",
+                            "id": "350781937",
+                            "username": "riccardotisci17",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "riccardotisci17"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348355_1646409375580052_430285101_a.jpg",
+                            "id": "1216849",
+                            "username": "marceloburlon",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marcelo Burlon"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875594_1618073208467400_1381465762_a.jpg",
+                            "id": "550072490",
+                            "username": "dior",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dior Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11381471_959271494118022_463484986_a.jpg",
+                            "id": "2421050",
+                            "username": "gucci",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Gucci"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

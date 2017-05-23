@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 929,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAD05MLUDoFViIN8GagXWKK_hNNWbs95cIde6dSFPBGrD7DYbm7dS1qnnrChXXLM-4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580545_178697392656305_3598238319718170624_a.jpg",
+                            "id": "3998349",
+                            "username": "makoa_ho",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Makoa Ho"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126997_691967194309702_115996402261164032_a.jpg",
+                            "id": "2118188",
+                            "username": "mahinabeams",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mahina Means Moon"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11350968_1223332334361044_808394709_a.jpg",
+                            "id": "3520394",
+                            "username": "brandonwasserman",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Brandon Wasserman"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

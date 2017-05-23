@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 417,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCbvBtmvd-3mYgG-eIhro4ixQba1yOJqfENRqNu_9nSO4SiGbHHplYKFpiNm9ujhL0Yp8eKReH0zmzuLTJxk80m_K-46mp9ayGzDUFkFufwDQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444198_1844671082521847_3090306021185290240_a.jpg",
+                            "id": "400925563",
+                            "username": "morenogalata",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Moreno Galat\u00e0"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372149_837925136289507_1203151228_a.jpg",
+                            "id": "192972811",
+                            "username": "giacomopiazza",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udd96\ud83c\udffbgiacomo piazza\ud83d\ude43"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12976332_613922002098116_1073330512_a.jpg",
+                            "id": "227509894",
+                            "username": "veronicapirazzini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Veronica Pirazzini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324440_1661040604126988_457217847_a.jpg",
+                            "id": "290827790",
+                            "username": "poostdooz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "mina Poostdooz"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13597582_1049925305044322_1728364153_a.jpg",
+                            "id": "537387488",
+                            "username": "philosophyofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Philosophy di Lorenzo Serafini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325772_1004310252944889_1494751944_a.jpg",
+                            "id": "337719479",
+                            "username": "realmrvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino Garavani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107411_179175139093473_392896005_a.jpg",
+                            "id": "1520952",
+                            "username": "oscardelarenta",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Oscar de la Renta"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1323,
+                "page_info": {
+                    "end_cursor": "AQBixt_QEuszQxba33ZbY-9hZM2JK7Vd4wHW8KOJoc7dKaiEOiqtw0qyPddNCBYooztkMwqbiVuaIL_h4WeQ4Orxsq7241upQD8SnILUeILDbw",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "411917224",
+                            "username": "eatupnyc",
+                            "full_name": "Anna Mandelbaum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12383565_105364929846225_1112257125_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "12389353",
+                            "username": "bkflea",
+                            "full_name": "Brooklyn Flea",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850155_1645328559059054_1280782199_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "255791731",
+                            "username": "vinegarhillhouse",
+                            "full_name": "Vinegar Hill House",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123583_1769260880062436_5353364056549883904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1238101684",
+                            "username": "wd50nyc",
+                            "full_name": "wd~50",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928850_1639033889716904_130119900_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "196152284",
+                            "username": "saveurmag",
+                            "full_name": "Saveur Magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11195741_909674835722494_2031825103_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "181829437",
+                            "username": "beardfoundation",
+                            "full_name": "James Beard Foundation",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11333418_699905083448758_16616060_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "207281335",
+                            "username": "dominiqueansel",
+                            "full_name": "dominiqueansel",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910381_106495269702834_1095969018_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "7021541",
+                            "username": "zioandsons",
+                            "full_name": "Zio & Sons |  Hudson & NYC",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877279_1916376461925118_4015274816616529920_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "422870249",
+                            "username": "martamanhattan",
+                            "full_name": "Marta",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10570217_404698819668548_563543508_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1522291175",
+                            "username": "upland_nyc",
+                            "full_name": "Upland",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11358036_950314795020715_468377867_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "40487178",
+                            "username": "wdurney",
+                            "full_name": "Billy Durney",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696612_956394854458425_2144812210_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "311670010",
+                            "username": "oddfellowsnyc",
+                            "full_name": "OddFellows Ice Cream Co.",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910326_1708934185993282_1956208838_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "299882606",
+                            "username": "briankoppelman",
+                            "full_name": "Brian Koppelman",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14052337_938495662940525_449625484_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "9435755",
+                            "username": "paololucchesi",
+                            "full_name": "Paolo Lucchesi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11917948_866971150060609_671532364_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "313797368",
+                            "username": "paulbocuse",
+                            "full_name": "Paul Bocuse",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373864_844247772291147_1927818289_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1447445081",
+                            "username": "pastaflyer",
+                            "full_name": "Pasta Flyer",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14591889_345021245869744_5469498142577655808_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "18106438",
+                            "username": "frankies.pm",
+                            "full_name": "Frankies Spuntino Group.",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10448867_652428814826062_508068965_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "27727968",
+                            "username": "frankcastronovo",
+                            "full_name": "frank castronovo\ud83c\udf44",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11312054_1482662048715198_602119528_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "206944213",
+                            "username": "frankfalcinelli",
+                            "full_name": "Frank Falcinelli",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363742_1004327266265704_419963568_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "431694948",
+                            "username": "fd_54_931",
+                            "full_name": "2ndAccount Kellyphotography54",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251967_1787655454879328_7990243388089696256_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

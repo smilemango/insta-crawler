@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 127,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQC9-GJF8vtgQ03TqvREoAEVr-lwuvZddy-MG1D81eo99iNvkh9CFF50h6wyh5XF95CuKNDXXnuWNbRjYgRXejy9ptvJZyFzUeb6lQBG0VTM0g"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850209_1152449768115827_673158304_a.jpg",
+                            "id": "399014591",
+                            "username": "rosie_assoulin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "rosie_assoulin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788709_575340899339680_8694319056255188992_a.jpg",
+                            "id": "403119328",
+                            "username": "mansurgavriel",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mansur Gavriel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351732_763532553745385_1421179300_a.jpg",
+                            "id": "1506997851",
+                            "username": "lahssanparis",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lahssan Paris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928859_977802982239926_1640567476_a.jpg",
+                            "id": "194213062",
+                            "username": "ancientgreeksandals",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ancient Greek Sandals"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1209457_1533515383530927_161443869_a.jpg",
+                            "id": "381497878",
+                            "username": "michaelabuerger",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Michaela Buerger"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11357895_1649252325311092_239698897_a.jpg",
+                            "id": "404802190",
+                            "username": "isabelmarant",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Isabel Marant Official Account"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012116_446436805702134_2460796925218127872_a.jpg",
+                            "id": "198040330",
+                            "username": "acnestudios",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Acne Studios"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410476_386150758262748_1333930378_a.jpg",
+                            "id": "54820589",
+                            "username": "eachxother",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Each x Other"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821641_932539860137765_271440395_a.jpg",
+                            "id": "336813571",
+                            "username": "carven_paris",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Carven"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849466_1617516161840813_1128263934_a.jpg",
+                            "id": "186933326",
+                            "username": "31philliplim",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "3.1 Phillip Lim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356580_969089169815022_175335523_a.jpg",
+                            "id": "233215642",
+                            "username": "valerydemure",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Valerie Desmurs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875948_189981408143555_8766639540946337792_n.jpg",
+                            "id": "7037558",
+                            "username": "styleandthecity",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kamel Lahmadi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696734_1641878379462988_2038480317_a.jpg",
+                            "id": "22198190",
+                            "username": "sophiawebster",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "SOPHIA WEBSTER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12627920_969253176473031_887257976_a.jpg",
+                            "id": "1188002609",
+                            "username": "christopherkane",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christopher Kane"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10593311_388019131380166_870179224_a.jpg",
+                            "id": "27585471",
+                            "username": "lahssan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Dryce"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11376455_861757023917760_416705327_a.jpg",
+                            "id": "30302239",
+                            "username": "illesteva",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "illesteva"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10865170_395504583950447_1920787386_a.jpg",
+                            "id": "25618160",
+                            "username": "blkdnm",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BLK DNM"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094859_664252073765919_8327109381195825152_a.jpg",
+                            "id": "24742160",
+                            "username": "gilleskhoury",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "GILLES KHOURY"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

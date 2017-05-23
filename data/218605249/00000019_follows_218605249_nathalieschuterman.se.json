@@ -1,0 +1,192 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 367,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDs5ahxcJ21Itd3ESCHYag-N7Mi-OC0I9XkNXm-jChRwa4hYRTW9hMia4dIhhQJAz4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10693251_1620180158258548_1230078531_a.jpg",
+                            "id": "37572151",
+                            "username": "emiliadeporet",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Emilia de Poret"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714461_1272891939449964_5567702956347752448_a.jpg",
+                            "id": "39486181",
+                            "username": "oliviertheyskens",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Olivier Theyskens"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11380802_964526756936769_2084179393_a.jpg",
+                            "id": "17646144",
+                            "username": "intothegloss",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Into The Gloss"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662260_268973026887008_5417978596817895424_a.jpg",
+                            "id": "12488328",
+                            "username": "garancedore",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Garance Dor\u00e9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11244025_718498864918178_1407017431_a.jpg",
+                            "id": "39939022",
+                            "username": "maisonvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531072_1560969467535937_984363712_a.jpg",
+                            "id": "5123245",
+                            "username": "dolcegabbana",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dolce & Gabbana"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446024_561541840661779_784657660_a.jpg",
+                            "id": "9097967",
+                            "username": "stellamccartney",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Stella McCartney"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357496_167348673628665_971099270_a.jpg",
+                            "id": "1024067",
+                            "username": "marcjacobs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marc Jacobs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464616_163230254173668_7307150310202408960_a.jpg",
+                            "id": "44121372",
+                            "username": "ellesverige",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "ELLE Sverige"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12501789_470211849855742_1008136771_a.jpg",
+                            "id": "144949489",
+                            "username": "emmaeelwin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Emma Elwin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14597245_805709966234400_5988194685716267008_a.jpg",
+                            "id": "5725932",
+                            "username": "elinkling",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Elin Kling"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11410440_1667855663437765_1626379686_a.jpg",
+                            "id": "45909486",
+                            "username": "lanvinofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LANVIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077484_1116828938426694_7382783962730463232_a.jpg",
+                            "id": "9445148",
+                            "username": "balenciaga",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Balenciaga"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10547385_871695326218668_1070163949_a.jpg",
+                            "id": "19805552",
+                            "username": "carolineblomst",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Caroline Blomst"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373831_511860452294501_1997966835_a.jpg",
+                            "id": "2288380",
+                            "username": "hannalilja",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hanna Lilja"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407354_237522166579285_1851740109_a.jpg",
+                            "id": "207179739",
+                            "username": "blenderagency",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BLENDERAGENCY"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

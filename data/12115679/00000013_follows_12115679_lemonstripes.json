@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDfSRBuiD-qf9EBGwGyXlpScxYjoAl3j89xTsFfoCtKV6PjvQjOSEeXDcEnnqsEbqOO0BTlMQM-HiG6HQdXtUfuBeyDMieICJ6mlt3PKQnoOg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Robert Rufino",
+                            "username": "therobertrufino",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1076324892",
+                            "profile_pic_url": "https://scontent-ams3-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Well+Good",
+                            "username": "wellandgoodnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2466792",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624278_363488287333080_7421091364454006784_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "THE SWEETEST THING / Emily",
+                            "username": "emilyanngemma",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "24313717",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10598781_600543050102975_1262935440_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "LaurenConrad.com",
+                            "username": "laurenconrad_com",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "248393750",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10362167_845189252293895_1490643561_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Serena & Lily",
+                            "username": "serenaandlily",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "287017734",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12393985_1678276882451576_1293120609_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "goop",
+                            "username": "goop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "16168781",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325693_1662020507345873_1536688786_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Chassity Aull Evans",
+                            "username": "looklingerlove",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2345699",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714520_158865907914651_7172478840382423040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Meg Hall",
+                            "username": "meghall",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "50996302",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10727717_966522550028321_1863499395_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nourish Snacks",
+                            "username": "nourishsnacks",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "561011906",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13713955_1740679092875193_593261679_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Julie Lee",
+                            "username": "julieskitchen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1357551",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11330773_902185013204971_701800317_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Joss & Main",
+                            "username": "jossandmain",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "210780357",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12345750_1015345785205351_1343696496_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Style Me Pretty Living",
+                            "username": "smpliving",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "319847866",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11350745_1734539153445280_1960457032_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sue De Chiara | The Zhush",
+                            "username": "zhush",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6177633",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17883174_1869192436690227_2280793669021728768_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Natalie Trento",
+                            "username": "natalietrento",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "55162143",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11426660_674995729311683_160938064_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Talun Zeitoun",
+                            "username": "talunzeitoun",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7276224",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882484_1395173550520418_7347379499337515008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Philip Case Cohen",
+                            "username": "philipcasecohen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1876454",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10632365_299641353566545_1537673017_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Theodore & Hamilton",
+                            "username": "theodoreandhamilton",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "641151498",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934713_1703551252993512_7261284062390648832_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "POPSUGAR Celebrity",
+                            "username": "popsugarcelebrity",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12411705",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446062_832705676857684_853634253_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ah-cah-bah-cah-bah",
+                            "username": "acabacabah",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "187352301",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494565_311460775950794_3292237713947754496_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Missy Finnegan McCloskey",
+                            "username": "missymccloskey10",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4116038",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482765_1569494849746609_4814417910841737216_a.jpg"
+                        }
+                    }
+                ],
+                "count": 405
+            }
+        }
+    },
+    "status": "ok"
+}

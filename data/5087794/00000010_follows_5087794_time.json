@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAXCL-vPvuO1OM7PVo0NAWbyRVNV9QJyFmfH28Udi-fz3Y4GC_1SYEGf3rV9hxJx-s"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Guttenfelder",
+                            "username": "dguttenfelder",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "29440194",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237301_181979202143615_30902706_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brooks Kraft",
+                            "username": "bkraft",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8102396",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11084912_1565674537008000_1948335405_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Christopher Morris",
+                            "username": "christopher_vii",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7930046",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11417445_508122792697060_197548368_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Benjamin Lowy",
+                            "username": "benlowy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4928907",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14488171_1782964451951527_3006779795020185600_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brendan Hoffman",
+                            "username": "hoffmanbrendan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2006539",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10553969_678782948857383_1611591825_a.jpg"
+                        }
+                    }
+                ],
+                "count": 180
+            }
+        }
+    },
+    "status": "ok"
+}

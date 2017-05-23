@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 697,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBI2AF3UhooHtB0eNSq8dh1WYhR7xg5J7GAqCpOJJLiv9K6aM_AE37LNEoV7LfZecg5XfTXhtYWv-_RrzeAS76ceV9_PWJZSuu4Y4AkMTG8Ow"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663730_405480533156020_2183467957747712000_a.jpg",
+                            "id": "173947370",
+                            "username": "hannahzaenorris",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Hannah Zae Norris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10802987_355177977988411_1067318189_a.jpg",
+                            "id": "342106073",
+                            "username": "monica_achilli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Monica Achilli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063428_1035766539876202_1313294938_a.jpg",
+                            "id": "44677103",
+                            "username": "quattromani_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Quattromani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11313313_1472192783078099_204945075_a.jpg",
+                            "id": "1954280461",
+                            "username": "alessia.massimo_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessia Massimo Official \u00a9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809815_1622055514731055_972366633_a.jpg",
+                            "id": "291321908",
+                            "username": "flaviapadovan1",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Flavia Padovan"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

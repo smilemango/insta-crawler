@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 488,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDRO6AHHiLLwg8xskks92aUQ86bCetV72DspeuCJAI9qpNOaWidvOrH9Q4G0bkiuKI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11232490_104801129853659_2098617570_a.jpg",
+                            "id": "6727167",
+                            "username": "jonnytee86",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "jt86\ud83d\udc68\ud83c\udffe"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267898_1405524319478333_9181884460956647424_a.jpg",
+                            "id": "3468323",
+                            "username": "stevenperkins",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Steven Perkins"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11312539_442648065918638_391562304_a.jpg",
+                            "id": "4018913",
+                            "username": "bluecrazy",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Reggie Q"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380105_1692719921022074_2875251743044665344_a.jpg",
+                            "id": "4115912",
+                            "username": "brittanynicholelucas",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Brittany Nichole Lucas"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

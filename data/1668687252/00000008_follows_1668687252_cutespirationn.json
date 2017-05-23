@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBFPBYe9FhR83HZ4n3O1CRkOj0D6wplkA2u1GkWyq0iHxGiU-s81-T9DcRyoKxwUiU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ximena Fern\u00e1ndez",
+                            "username": "ximechollet_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1529728215",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11193126_623220287813857_1021273392_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "elizabeth.90",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1498053112",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10693804_545325335612859_1492466547_a.jpg"
+                        }
+                    }
+                ],
+                "count": 130
+            }
+        }
+    },
+    "status": "ok"
+}

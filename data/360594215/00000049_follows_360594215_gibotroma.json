@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 697,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB_tBBxdmufo_IghBK4gkWU38SqaBdwNW5shi62aQ4Xdc5n9p2w_06BIVyWY4p_3lwf3GcS_fVldZK9c4Qf52uPNQ2KY1SV5jnEqUiDyuyxUA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13627961_322261528164044_1335617189_a.jpg",
+                            "id": "502648721",
+                            "username": "valentinapulazza",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentina"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13712190_334517213602410_1123617309_a.jpg",
+                            "id": "223405988",
+                            "username": "brano_mirkovic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Branislav Mirkovic"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

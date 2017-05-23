@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAztkcOlQEGNE9w4PUMxqGizlYt8-5LjYCHWglksGOBmGkkNFseDcxxVFRvNEEM4sreDxgIlvoFVnMGHJDwiRgfneW5IPcxXhDdM1D8ZwTVZg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Yves Behar",
+                            "username": "yvesbehar",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "300268686",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906116_433256860218031_2024292743_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Frieze Art Fair",
+                            "username": "friezeartfair",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "365071579",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17266037_1648273718811442_5360395635272974336_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Yurman",
+                            "username": "davidyurman",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "48465360",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11247849_1125969674084604_1769087550_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ASSOULINE",
+                            "username": "assouline",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2087328",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789863_1743977822529619_5646882070018916352_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Blue Medium Inc.",
+                            "username": "blue_medium",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "330740958",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126989_1849011338707012_4268003993826885632_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sarah Goulet",
+                            "username": "sarah_goulet",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "215643608",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821147_1193298564020969_1868833493_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ai Weiwei",
+                            "username": "aiww",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "7747574",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11327998_1650575248524250_1074611287_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Surface Magazine",
+                            "username": "surfacemag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "143832425",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908265_1427843310607987_1995848032318390272_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Camron PR",
+                            "username": "camronpr",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1601893",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10684140_1554446918110063_1398315422_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jerry Saltz",
+                            "username": "jerrysaltz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "303625902",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034529_1769322453285375_1016164278408839168_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "James Cohan",
+                            "username": "jamescohangallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "320577496",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543246_833274086795015_663586539_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dallas Museum Of Art",
+                            "username": "dallasmuseumart",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "353969842",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374130_556612077810418_497941061_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Aspen Art Museum",
+                            "username": "aspenartmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "270086851",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123474_1198566240219297_499107961805733888_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sean Kelly Gallery",
+                            "username": "seankellyny",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "371253335",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375177_153861918281101_802372868_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Paula Cooper Gallery",
+                            "username": "paulacoopergallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "333712547",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820590_1482181835425601_498512395_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Palais de Tokyo",
+                            "username": "palaisdetokyo",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "260823360",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15623636_712826625549091_969256286279434240_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vogue",
+                            "username": "voguemagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "198154074",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464097_388031631570279_6897921411013148672_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "KARL LAGERFELD",
+                            "username": "karllagerfeld",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "217889406",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380840_1667709843258556_6165654969086115840_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Karl Lagerfeld",
+                            "username": "karlagerfeld",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "190534753",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821085_119578948390928_1534869072_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tiffany & Co.",
+                            "username": "tiffanyandco",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "8873242",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907267_266509983689490_1439339335_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1417
+            }
+        }
+    },
+    "status": "ok"
+}

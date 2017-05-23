@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 160,
+                "page_info": {
+                    "end_cursor": "AQAszHAIYjpTKJLH-OgguBP71s6mCjd3-LAYLuf7XVb8Ng2VOTRx-41rH6akIYlF8kA",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "13191255",
+                            "username": "anothermagazine",
+                            "full_name": "AnOther Magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11821949_767246046735419_190324017_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "40268558",
+                            "username": "kegrand",
+                            "full_name": "Katie Eleanor Grand",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13643511_705893552907612_1359669151_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

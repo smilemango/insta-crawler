@@ -1,0 +1,104 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "208947718",
+                            "username": "medvedev_official",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719709_1287372538030527_8156043273337569280_a.jpg",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "18566874",
+                            "username": "kate_polaroid",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11296814_988683341171374_1003878855_a.jpg",
+                            "full_name": "Kate",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "13846961",
+                            "username": "rada_avetisian",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725081_231547000512712_1568773960_a.jpg",
+                            "full_name": "\ud83c\udf7f\ud83d\udcfd\u2764\ufe0f",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "19939635",
+                            "username": "samarova_m",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110481_1316274305100819_6852314093894762496_n.jpg",
+                            "full_name": "Samarova Maria",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "11632172",
+                            "username": "rummys",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10507797_744918692237625_1915779234_a.jpg",
+                            "full_name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u0420\u0443\u043c\u044f\u043d\u0446\u0435\u0432\u0430",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "23910709",
+                            "username": "rakhmant",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17495244_441344849539287_3711121021013590016_a.jpg",
+                            "full_name": "Rakhman Tatarov",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "23059208",
+                            "username": "katyakrebs",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125683_1700137163620105_3639431763370967040_a.jpg",
+                            "full_name": "Katharina Krebs",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "55482054",
+                            "username": "irada24",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849123_722252977906130_1034131660_a.jpg",
+                            "full_name": "Irada Ramadanova",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQBPV4kKKteOqhmRLdR0gzQm4kUpFb-J91Xz3sEB4J7FFRW_ArIOZxP9hiMu-_nea7A",
+                    "has_next_page": false
+                },
+                "count": 384
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 604,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCbRl9k2vEiIAXPxRQHM1E73eBwo8m-Q0wUTtA9kDuslvlMGSd2AGIhSOuh06PDuPM"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12356331_800465936766730_1832193920_a.jpg",
+                            "id": "281333814",
+                            "username": "tosha_tonik",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Antonina Samoilova"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13636037_1089536724453790_609137466_a.jpg",
+                            "id": "22187936",
+                            "username": "katerina_tsivun",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "katerina_tsivun"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465286_1760247684302828_6070578360386322432_a.jpg",
+                            "id": "144445241",
+                            "username": "dandy_sophia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Dog RESIDENTofWORLD/NYC/LONDON"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934288_289177244855685_3406581193750085632_a.jpg",
+                            "id": "18611341",
+                            "username": "mrstorner",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u041e\u043b\u044c\u0433\u0430 \u0422\u043e\u0440\u043d\u0435\u0440 \ud83d\udc51 Mrs.UNIVERSE"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

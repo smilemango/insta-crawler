@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAT539-BvHQMTQSiH8yiiZAvxjTM3uYnZKeaXoY_-DWVK9Ved-rKgCl7pULO3f0w_4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u674e\u6668nic",
+                            "username": "mlgb828",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "189683392",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850244_976948279035985_1517932816_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "evensoso1990",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "218153602",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326154_874865152561947_2020217549_a.jpg"
+                        }
+                    }
+                ],
+                "count": 233
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAGeuKw8uwDAjzJnV9PgsGU3W09hTJ-OqVOR_pLgdhhrQK2p-D_vpIYr8iIZ8eHzvrhg7j619iZ98GF-fi_Q8dTXCmi3uCkpXdBIKNZAMn0wg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kelly Wearstler",
+                            "username": "kellywearstler",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "14444429",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076223_414974175509833_8487339660228427776_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Roller Rabbit",
+                            "username": "robertarollerrabbit",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "285731200",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11267092_922045797830582_269453578_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kate Hudson",
+                            "username": "katehudson",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "981577417",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1941297_406597182870756_1467764721_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ThePerfext",
+                            "username": "theperfext",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1339038894",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10311203_141039406066317_1578874398_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "CURVE",
+                            "username": "shopcurve",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9224035",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881589_1484276348556920_1638878537_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "FORWARD by elyse walker",
+                            "username": "fwrd",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "19112939",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899495_644240629045816_1774334160_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "elysewalker",
+                            "username": "elysewalker",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "54938593",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13151269_1535616356745260_1737004216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tootsies",
+                            "username": "shoptootsies",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "195704160",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229427_282682955468493_5480384656312369152_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Saks Fifth Avenue M\u00e9xico",
+                            "username": "saksmexico",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "29746582",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850379_700545320089064_984350316_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gallery Couture",
+                            "username": "gallerycouture",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "257200950",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11055572_652355971577199_936427518_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MARIS COLLECTIVE",
+                            "username": "mariscollective",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "797667302",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110878_1213732235385388_4705478801272864768_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Splurge Boutique",
+                            "username": "splurge516",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "576781407",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356856_897596283645426_1983256207_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Katherine Tess Boutique",
+                            "username": "katherine_tess",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "336458657",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10899025_1608286076119082_1822751238_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maddy Cohen",
+                            "username": "maddys390",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "504359182",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11848881_390493937809193_181465202_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rebecca Taylor",
+                            "username": "rebeccataylornyc",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "39377715",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14591085_787067808102585_2477875832605900800_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Olivia Palermo",
+                            "username": "oliviapalermo",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "413237141",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12299035_530332173789374_711151648_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gwyneth Paltrow",
+                            "username": "gwynethpaltrow",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "584705572",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803065_1543576342325733_645589427753582592_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "hamptonsmag",
+                            "username": "hamptonsmag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "282416058",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14072939_326746161009172_1040362410_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "goop",
+                            "username": "goop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "16168781",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325693_1662020507345873_1536688786_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "One Kings Lane",
+                            "username": "onekingslane",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6426429",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928843_1657089727841483_382053502_a.jpg"
+                        }
+                    }
+                ],
+                "count": 493
+            }
+        }
+    },
+    "status": "ok"
+}

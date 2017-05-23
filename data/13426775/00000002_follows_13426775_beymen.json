@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 200,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDFyCOTuNiMm-RsavdjDjT6pLISZDi0x9oJCFtUIX-ErfP7WdgP6L7sujkfN0ChEWXcQJoISgXzXBAetKFzH1TSD1of3o19B8PNXdjY-r3nJg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12299035_530332173789374_711151648_a.jpg",
+                            "id": "413237141",
+                            "username": "oliviapalermo",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Olivia Palermo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464626_138624633318343_2722123235385671680_a.jpg",
+                            "id": "579738790",
+                            "username": "francescorusso_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francesco Russo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802115_256895451409334_2808769394514067456_a.jpg",
+                            "id": "337783903",
+                            "username": "barneysman",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Barneys New York"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13737067_1565651790408991_1522946206_a.jpg",
+                            "id": "199175210",
+                            "username": "i_d",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "i-D"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13534448_564476157066098_66850142_a.jpg",
+                            "id": "1442994800",
+                            "username": "ayseboyner",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ayse Boyner"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850209_1152449768115827_673158304_a.jpg",
+                            "id": "399014591",
+                            "username": "rosie_assoulin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "rosie_assoulin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519154_1192070127473154_605131758_a.jpg",
+                            "id": "350378022",
+                            "username": "msgm",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "MSGM"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12747662_453007484908120_232329900_a.jpg",
+                            "id": "187022560",
+                            "username": "clovercanyon",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Clover Canyon"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13561953_283436958713460_1120593734_a.jpg",
+                            "id": "223115322",
+                            "username": "fillingpieces",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Filling Pieces Footwear"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034994_716264171873292_5650755890001739776_a.jpg",
+                            "id": "179795373",
+                            "username": "sophie_hulme",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Sophie Hulme"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13707182_569354756581540_565829135_a.jpg",
+                            "id": "1328440285",
+                            "username": "redvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "REDValentino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237473_118332061866535_1898387893_a.jpg",
+                            "id": "398866878",
+                            "username": "berluti",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "BERLUTI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914759_886551534692813_872846037_a.jpg",
+                            "id": "13408359",
+                            "username": "woouf",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Woouf!"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13437299_1045785948834050_198900363_a.jpg",
+                            "id": "541303653",
+                            "username": "vistaalegreofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Vista Alegre"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906246_1293883807373284_2042241869617823744_a.jpg",
+                            "id": "239128739",
+                            "username": "m2malletier",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Official Page of M2MALLETIER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788709_575340899339680_8694319056255188992_a.jpg",
+                            "id": "403119328",
+                            "username": "mansurgavriel",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mansur Gavriel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908216_1881266712160656_4374044498687164416_a.jpg",
+                            "id": "189357425",
+                            "username": "lulu_guinness",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Lulu Guinness"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380436_1079245625540195_8869098910665146368_a.jpg",
+                            "id": "7937229",
+                            "username": "baharkongelfransez",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "bahar kongel fransez"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325772_1004310252944889_1494751944_a.jpg",
+                            "id": "337719479",
+                            "username": "realmrvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino Garavani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/929317_933776766713278_937006941_a.jpg",
+                            "id": "22619435",
+                            "username": "voguerunway",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue Runway"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

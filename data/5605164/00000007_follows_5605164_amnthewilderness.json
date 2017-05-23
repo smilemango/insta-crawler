@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQACCMM0ZYQRfR_zsivBlxqW4pKeA81vgs-N9yLOPsXQBVld11azEoEvh_DmtSc1I1w"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Patrick Waters",
+                            "username": "patrickrwaters",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2922646",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820636_402998896570813_957243794_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sean Casper Johnson",
+                            "username": "iamcasper",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1246489",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14701090_142281606237191_5996795289007030272_a.jpg"
+                        }
+                    }
+                ],
+                "count": 120
+            }
+        }
+    },
+    "status": "ok"
+}

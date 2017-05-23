@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB7TiWZyvOWg3qgH3fmgaM-EmIaUVKsr7wpGuljrBm48bV9ulIscYvCGEwgaCUUjsI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Rimanelli",
+                            "username": "davidrimanelli",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "259306405",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11810011_689268027884609_1270324453_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Maryam Nassirzadeh",
+                            "username": "maryam_nassir_zadeh",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "277297989",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849024_1039315742746222_496141671_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Forty Five Ten",
+                            "username": "fortyfiveten",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "176984677",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15101588_956479644457406_4781247405968326656_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dawn Klohs",
+                            "username": "amareesgirl",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "363476010",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881759_1890581177833148_1224969404_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ezra Woods",
+                            "username": "ezrawoodsofficial",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "29922925",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10520181_1522810591272048_1418567300_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alia Raza",
+                            "username": "aliaraza",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "29073699",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948387_323941841143192_479383898_a.jpg"
+                        }
+                    }
+                ],
+                "count": 143
+            }
+        }
+    },
+    "status": "ok"
+}

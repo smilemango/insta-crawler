@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1023,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBvZQ4Ks6jaqNipJQ7wTe2gyzLhzwRY14KnM1tPmxUXzOFQ9nmgnmSYq9zt1GHAlo8pIZyLC_qmDHacic5LnwplUVlnboLacr0WrnzcCoxJvw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13573633_911170482338912_1255094822_a.jpg",
+                            "id": "201697666",
+                            "username": "ciropetronepato",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ciro Petrone"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881712_859471857493484_951002175_a.jpg",
+                            "id": "509541619",
+                            "username": "napolimagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Napoli Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818047_811292099020798_4040599885118963712_a.jpg",
+                            "id": "393454543",
+                            "username": "lorenzo_decaro",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lorenzo de Caro"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13649308_306330609716285_192653877_a.jpg",
+                            "id": "645426835",
+                            "username": "luigidefazio6",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Luigi De Fazio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://instagram.flis1-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "id": "284580291",
+                            "username": "zuhairmuraddress",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ZuhairMurad"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876582_1850332775211433_5274460121433374720_a.jpg",
+                            "id": "14715451",
+                            "username": "giannisepe",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gianni  Sepe"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380395_303484890073682_3039073104362995712_a.jpg",
+                            "id": "213660192",
+                            "username": "mimmogravino",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u270c\ud83c\udffb\ufe0f\ud83c\uddee\ud83c\uddf9\ud83d\ude0a17"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10731824_750007108406896_2043022528_a.jpg",
+                            "id": "1136289423",
+                            "username": "royaumscollection",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Royaums... Out Shine Them !"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802890_583504828501420_8124400539870953472_a.jpg",
+                            "id": "9458588",
+                            "username": "barneysny",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Barneys New York"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076715_1832275413657312_930773121609236480_a.jpg",
+                            "id": "8907858",
+                            "username": "farfetch",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Farfetch"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026725_1238594409506055_747884444_a.jpg",
+                            "id": "5248998",
+                            "username": "netaporter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "NET-A-PORTER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11370999_417567035117616_284509028_a.jpg",
+                            "id": "304809076",
+                            "username": "reveillereofficiel",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "reveillereofficiel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11184578_1435357346759987_1888928387_a.jpg",
+                            "id": "265634195",
+                            "username": "rafaelcabral90",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rafael Cabral"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14310845_175946026176757_980103173_a.jpg",
+                            "id": "1423160598",
+                            "username": "ghoulam.faouzi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ghoulam Faouzi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13707416_317942731875914_1409866415_a.jpg",
+                            "id": "773980886",
+                            "username": "raulalbiol33",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926543_690214711058336_709326772_a.jpg",
+                            "id": "1444850530",
+                            "username": "clubsaintlaurentparis",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Saint Laurent Paris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355174_1667439223476276_746519339_a.jpg",
+                            "id": "281383630",
+                            "username": "driesvannoten",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dries Van Noten"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14449300_1212160988840128_5171049833070329856_a.jpg",
+                            "id": "417423377",
+                            "username": "boutique_malibu_ostuni",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Boutique Malib\u00f9 OSTUNI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013734_422376114791623_4280314813206233088_a.jpg",
+                            "id": "186442869",
+                            "username": "foreveruniqueofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "F O R E V E R   U N I Q U E"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881578_1618440671744734_194240362_a.jpg",
+                            "id": "438146217",
+                            "username": "panterinaa",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Panterinaa"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

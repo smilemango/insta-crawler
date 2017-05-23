@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDfzqPIxomGBhujQJP0mFZv10beTd53YSQq_4JqN_uEOTijm0dYt1ypZNC4LSa1sb8"
+                },
+                "count": 346,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "273221790",
+                            "followed_by_viewer": false,
+                            "username": "goeun0706",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13704196_1068384593230138_1555312569_a.jpg",
+                            "full_name": "Goeun Lee"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "878545",
+                            "followed_by_viewer": false,
+                            "username": "zinpyo",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324470_406543339540321_1768086222_a.jpg",
+                            "full_name": "Jin Pyo Jun"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "298192221",
+                            "followed_by_viewer": false,
+                            "username": "alicemilano",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821838_651608241641038_2086208575_a.jpg",
+                            "full_name": "Alice Kwak"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1039309",
+                            "followed_by_viewer": false,
+                            "username": "leegan83",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10735441_737289403012853_1780916251_a.jpg",
+                            "full_name": "Gaeun Lee"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "73066",
+                            "followed_by_viewer": false,
+                            "username": "yewon",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14718412_1844129189133971_4950015839467208704_a.jpg",
+                            "full_name": "Amy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "369409823",
+                            "followed_by_viewer": false,
+                            "username": "bborangee",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11246919_1873271922996959_5529457818765099008_a.jpg",
+                            "full_name": "\ud83d\udcac"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

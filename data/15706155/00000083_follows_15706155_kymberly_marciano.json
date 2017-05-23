@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBiz1XEjHHw4sju5WYl6SnEViZ-3qkhNiWH1g19yzMAhUNnDQVe4zhLOHASxkAu0nk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alessandra",
+                            "username": "_alibreezy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "30081848",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249420_786745774771323_1424820759_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1612
+            }
+        }
+    },
+    "status": "ok"
+}

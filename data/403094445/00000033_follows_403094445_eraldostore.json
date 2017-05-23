@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1275,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDEVCL2LiJCgHkdWVBEmU_UKh9PesgOj9JZIYo1srY69RZescV-XRg-9_eDhrCW064ZUWJHfFwRs27RqY7RxMtWM5PVaOvz-FwzI4r5wrqWaw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11426421_1104314379583548_1802325319_a.jpg",
+                            "id": "13056850",
+                            "username": "zoekarssen",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Zoe Karssen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11386504_436371326545128_1905695513_a.jpg",
+                            "id": "228378951",
+                            "username": "odd_nyc",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ODD. New York"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13259551_106118506475375_277395478_a.jpg",
+                            "id": "7501971",
+                            "username": "fashion_week",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Fashion Week"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11232704_690788074359060_178738687_a.jpg",
+                            "id": "178598981",
+                            "username": "elleusa",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Elle Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11426452_806363416147136_2138936018_a.jpg",
+                            "id": "199487138",
+                            "username": "j_mendel",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "J. Mendel"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12728443_1740044226243561_1401235321_a.jpg",
+                            "id": "310037546",
+                            "username": "muglerofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mugler"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12277451_564362663711431_613566672_a.jpg",
+                            "id": "28461607",
+                            "username": "thedereklam",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Derek Lam"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12627920_969253176473031_887257976_a.jpg",
+                            "id": "1188002609",
+                            "username": "christopherkane",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christopher Kane"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424457_447786412082467_1513372492_a.jpg",
+                            "id": "34207036",
+                            "username": "tibi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Tibi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/926338_898343043596688_258567694_a.jpg",
+                            "id": "208437972",
+                            "username": "houseofherrera",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Carolina Herrera"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714536_1654542668169045_6949484580755734528_a.jpg",
+                            "id": "27879728",
+                            "username": "whowhatwear",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Who What Wear"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11378944_132905150377391_2063636701_a.jpg",
+                            "id": "265475941",
+                            "username": "erdemlondon",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "ERDEM"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11282209_863644490383627_1916055385_a.jpg",
+                            "id": "539702217",
+                            "username": "portermagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "PORTER magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464802_1761553910841961_138821069652885504_a.jpg",
+                            "id": "195820487",
+                            "username": "crfashionbook",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "CR Fashion Book"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696389_561975227323641_811489984_a.jpg",
+                            "id": "11626528",
+                            "username": "thakoonny",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "THAKOON"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1799649_1516783698645273_1199845452_a.jpg",
+                            "id": "23551779",
+                            "username": "zacposen",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Zac Posen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107411_179175139093473_392896005_a.jpg",
+                            "id": "1520952",
+                            "username": "oscardelarenta",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Oscar de la Renta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599311_870347059757448_25865058_a.jpg",
+                            "id": "241997151",
+                            "username": "carineroitfeld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Carine Roitfeld"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099684_1671997756393354_5683041_a.jpg",
+                            "id": "1236712784",
+                            "username": "nicolasghesquiere",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83c\udd96"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13649304_294248004258593_1649265587_a.jpg",
+                            "id": "9407405",
+                            "username": "cfda",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "cfda"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

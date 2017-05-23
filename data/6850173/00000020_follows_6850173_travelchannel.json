@@ -1,0 +1,104 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11111227_736695646444216_1899679903_a.jpg",
+                            "full_name": "GE",
+                            "is_verified": true,
+                            "id": "3839414",
+                            "followed_by_viewer": false,
+                            "username": "generalelectric",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11330632_1623586584592698_1234253003_a.jpg",
+                            "full_name": "CNN iReport",
+                            "is_verified": true,
+                            "id": "1321522",
+                            "followed_by_viewer": false,
+                            "username": "cnnireport",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013418_171124196744524_1676516406406938624_a.jpg",
+                            "full_name": "TODAY",
+                            "is_verified": true,
+                            "id": "5814140",
+                            "followed_by_viewer": false,
+                            "username": "todayshow",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375286_1590730717815945_1868162861_a.jpg",
+                            "full_name": "NBC News",
+                            "is_verified": true,
+                            "id": "1269598",
+                            "followed_by_viewer": false,
+                            "username": "nbcnews",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444844_1336284036449920_122032325960663040_a.jpg",
+                            "full_name": "MTV",
+                            "is_verified": true,
+                            "id": "1907035",
+                            "followed_by_viewer": false,
+                            "username": "mtv",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096202_272297769847149_1214375417096437760_a.jpg",
+                            "full_name": "BravoTV",
+                            "is_verified": true,
+                            "id": "2554414",
+                            "followed_by_viewer": false,
+                            "username": "bravotv",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543385_932925473494538_410371224_a.jpg",
+                            "full_name": "Billboard",
+                            "is_verified": true,
+                            "id": "1022625",
+                            "followed_by_viewer": false,
+                            "username": "billboard",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802968_114918552344599_6806775758246117376_a.jpg",
+                            "full_name": "kate spade new york",
+                            "is_verified": true,
+                            "id": "1795119",
+                            "followed_by_viewer": false,
+                            "username": "katespadeny",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 386,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCcVEaSjR07bodc693GRIMhPM2mePKmGb9PP7I8WXTvGV5fn1gx9LC3Bk61_ma8ws0"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

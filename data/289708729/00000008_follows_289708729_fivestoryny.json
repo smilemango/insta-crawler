@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 504,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCC9BMmPk-Tjs5pZCxPBssfh9LjMOVhdL5-HSsZkB4u6lrwJtd9rdXzTr17GGBWDy1Kh-9y-eXzYhLHXVha-lfcN9rERX7edWM3gI7OOvftsQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15534612_1854288031483099_2600721792876150784_a.jpg",
+                            "id": "246171649",
+                            "username": "metmuseum",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "The Met"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12063223_949491268439404_875148832_a.jpg",
+                            "id": "1312424812",
+                            "username": "caviarkaspia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Caviar Kaspia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373867_448931331963610_1620811992_a.jpg",
+                            "id": "812128916",
+                            "username": "laurencedacadeparis",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Laurence Dacade"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10838797_771008859614735_1103490377_a.jpg",
+                            "id": "104887415",
+                            "username": "cntraveler",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Cond\u00e9 Nast Traveler"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10632369_836824473017564_8915524_a.jpg",
+                            "id": "1495135026",
+                            "username": "giambaparis",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "GIAMBA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856613_1172800982737319_2102021726_a.jpg",
+                            "id": "188480307",
+                            "username": "fionakotur",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Fiona Kotur"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/927739_1625975354339556_554852729_a.jpg",
+                            "id": "560379617",
+                            "username": "chloe",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chlo\u00e9"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849037_1048049181953455_415918643_a.jpg",
+                            "id": "261816351",
+                            "username": "narciso_rodriguez",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Narciso Rodriguez"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583278_1655860308053341_2639703710623596544_a.jpg",
+                            "id": "281366096",
+                            "username": "mykitaofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "MYKITA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10691664_844962485543914_1781540517_a.jpg",
+                            "id": "276282615",
+                            "username": "wsjmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "WSJ. Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906406_1476324742690980_228651968_a.jpg",
+                            "id": "218322598",
+                            "username": "townandcountrymag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "TOWN&COUNTRY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875713_1321993167822688_3681896444328935424_n.jpg",
+                            "id": "298796525",
+                            "username": "sothebys",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Sotheby's"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15101800_120484235104921_5713444030063312896_a.jpg",
+                            "id": "253621548",
+                            "username": "pascaldangin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Pascal Dangin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15338295_401746570171081_8359454212966318080_a.jpg",
+                            "id": "182548034",
+                            "username": "melzy917",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mel Ottenberg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333261_146564859200445_1896861856622968832_a.jpg",
+                            "id": "240114902",
+                            "username": "giancarlogiammetti",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Privategg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12940297_1710701585864883_938723136_a.jpg",
+                            "id": "25736453",
+                            "username": "fsparis",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Four Seasons Hotel George V Paris"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599311_870347059757448_25865058_a.jpg",
+                            "id": "241997151",
+                            "username": "carineroitfeld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Carine Roitfeld"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13118209_1755280134758982_1680210116_a.jpg",
+                            "id": "242076400",
+                            "username": "amytastley",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Amy Astley"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374047_1656144424606827_2134508392_a.jpg",
+                            "id": "20230193",
+                            "username": "1stdibs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "1stdibs"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15253137_1640856232606444_2940586081176780800_a.jpg",
+                            "id": "1038799841",
+                            "username": "ryankorban",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "RYAN KORBAN"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

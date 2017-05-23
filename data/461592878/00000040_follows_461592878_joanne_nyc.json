@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 759,
+                "page_info": {
+                    "end_cursor": "AQCRNIDWE5y7vFUo-LEFrTObf0BWs7BSqpaSvGACOOs3Aj_0oaNJl1_uqvYVXclODIE",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "24798150",
+                            "username": "tanachung",
+                            "full_name": "Tana Chung",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12270000_842308079218956_365743944_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "207066840",
+                            "username": "hyoni_kang",
+                            "full_name": "HYONIKANG \uac15\uc2b9\ud604",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12479052_1588095941506733_616393922_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

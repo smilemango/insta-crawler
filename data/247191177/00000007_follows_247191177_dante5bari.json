@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 201,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCj0mGSSoKWTFPqKI6j8LXJ36vjCtNgl4b65VFD5Gp8FKntz-mlLn6oazU5Z5edKV77fZM8Z67rkPIy2Y1dOzYmGkAx-pI3mdPfnCkrPqrPwQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333715_264773843979111_4952766894869315584_a.jpg",
+                            "id": "23070614",
+                            "username": "maximsap",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Maxim Sapozhnikov"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12627943_233469766989390_889833538_a.jpg",
+                            "id": "1737017920",
+                            "username": "monica_legrottaglie",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Monica Legrottaglie"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10362256_1423765971220830_1508473396_a.jpg",
+                            "id": "1255876454",
+                            "username": "suzymenkesvogue",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Suzy Menkes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877470_1793699214215757_155858904268406784_a.jpg",
+                            "id": "18428658",
+                            "username": "kimkardashian",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Kim Kardashian West"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13702978_319420001735995_1389053592_a.jpg",
+                            "id": "2102290331",
+                            "username": "franco_chimenti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Franco Chimenti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18162196_704913873013738_4777447545322340352_a.jpg",
+                            "id": "368539867",
+                            "username": "mccr4",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "La Moda La Inventa Chi La Ama"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11246307_1636534496561690_1900125479_a.jpg",
+                            "id": "439813089",
+                            "username": "faithconnexion",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Faith Connexion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10533015_549160288580415_1294462106_a.jpg",
+                            "id": "539508265",
+                            "username": "baltimorastudio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "BaltimoraStudio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13181393_1732087503735637_1096248387_a.jpg",
+                            "id": "16203169",
+                            "username": "mrselfportrait",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "SELF-PORTRAIT"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076516_1321239327951748_8023316096557776896_a.jpg",
+                            "id": "321734165",
+                            "username": "katmaconie",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "K A T  M A C O N I E"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513381_211826212666859_3159565023123079168_a.jpg",
+                            "id": "3650454",
+                            "username": "vivianavolpicella",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Viviana Volpicella"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12292881_150145248677624_574421292_a.jpg",
+                            "id": "9476293",
+                            "username": "oneteaspoon_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ONETEASPOON"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11426454_1586206061632383_1263929718_a.jpg",
+                            "id": "1505798556",
+                            "username": "therealphilliplim",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "phillip lim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662941_244269279371057_5820457997851164672_a.jpg",
+                            "id": "175337356",
+                            "username": "nicolotriggiani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "nicolotriggiani"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465040_1336634226418337_3943427663091204096_a.jpg",
+                            "id": "7924174",
+                            "username": "marcodevincenzo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marco de Vincenzo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11244025_718498864918178_1407017431_a.jpg",
+                            "id": "39939022",
+                            "username": "maisonvalentino",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Valentino"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10903314_1523583924569693_703210042_a.jpg",
+                            "id": "204669655",
+                            "username": "itsjeremyscott",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jeremy Scott"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11421981_672453386220343_758437984_a.jpg",
+                            "id": "1012008761",
+                            "username": "sacaiofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "sacaiofficial"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201533_492721027569957_654260270_a.jpg",
+                            "id": "199224234",
+                            "username": "jw_anderson",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "JW ANDERSON"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14717553_1108996255880478_2152133482673864704_a.jpg",
+                            "id": "219986012",
+                            "username": "anthonyvaccarello",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Anthony Vaccarello"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

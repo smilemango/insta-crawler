@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAxrHffkmgRgnCR5pyGO6fRoMv9MJYYbmw0ao2g6yAyPXv2wzu5XwjahMjVesVGjMk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tasha Brumby \ud83c\udf3a",
+                            "username": "tash_brumby99",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "232069727",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11376566_694282117366961_47108878_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tristen Grobler",
+                            "username": "tristen_grobler",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "199207999",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076162_143803522807823_8113459286778052608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ashley Hunter",
+                            "username": "ashleyhunter17",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "232858334",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160952_1543792255630992_7326033889833517056_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "A. \u2728",
+                            "username": "ashleighgreeeen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "224240709",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18298702_1979885595574757_3529837044224229376_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Keanie Milner",
+                            "username": "keaniemilner",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "21664679",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910357_1489888117995242_1657829347_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1306
+            }
+        }
+    },
+    "status": "ok"
+}

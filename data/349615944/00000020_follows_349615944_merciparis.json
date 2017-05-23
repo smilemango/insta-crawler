@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAw5zZl47rfg5DLPvT7mgrYmmWLo77F-kb4PpSX4QBygusjQAD0bj0_diexQQ8i6ts"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Monsieur Paris \ud83c\uddeb\ud83c\uddf7",
+                            "username": "monsieur.paris",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "280824225",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11282217_1444551762507837_1479169812_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bonton",
+                            "username": "bonton",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20965030",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10584812_1510624252485457_791393464_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "OMY",
+                            "username": "omy_studio",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "355092401",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110380_170643613418503_1139239353709494272_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vahram Muratyan",
+                            "username": "vahrammuratyan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18359113",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543126_935882849798317_1407148800_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Agnes @Gag&Lou",
+                            "username": "agnes.joffo_vidrequin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "243172300",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547495_202555283426678_1942376945_a.jpg"
+                        }
+                    }
+                ],
+                "count": 379
+            }
+        }
+    },
+    "status": "ok"
+}

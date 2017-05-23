@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC0iyflA9G_gXkUnr5CozCYzgfoWEGgmgC7y6RmliJi8sA38BBSyZ6bQHfc9tvsA-o"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "BCBGMAXAZRIA",
+                            "username": "bcbgmaxazria",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11933052",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10326424_1506233796267017_547725488_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Brad Goreski",
+                            "username": "bradgoreski",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9199827",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535030_1206883189380989_7721815955088605184_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hayden Williams",
+                            "username": "hayden_williams",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "37504940",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013676_399852433719209_9118988792370298880_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "High Fashion Men",
+                            "username": "highfashionmen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25059302",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11098233_871327406261612_1398283423_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "badgalriri",
+                            "username": "badgalriri",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "25945306",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11032926_1049846535031474_260957621_a.jpg"
+                        }
+                    }
+                ],
+                "count": 294
+            }
+        }
+    },
+    "status": "ok"
+}

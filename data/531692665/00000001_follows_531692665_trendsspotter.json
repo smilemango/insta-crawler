@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAy_kDcPKye5ts8meipqu5khcU6PydMjP834VUPWC1-8BGUcEMrBISIVb0fL7TMY_3xUo6jooNrNRQAsiSqvMT90oCYutKzUrHinbd8VczGhw"
+                },
+                "count": 23,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "11676849",
+                            "followed_by_viewer": false,
+                            "username": "xeniaoverdose",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380557_347964685606826_749625621700673536_a.jpg",
+                            "full_name": "XENIA VAN DER WOODSEN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "2538483398",
+                            "followed_by_viewer": false,
+                            "username": "london_fashion_and_style",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14709467_369111896774259_1478657042720751616_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "201254867",
+                            "followed_by_viewer": false,
+                            "username": "mjsicilia",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333179_1201729213258363_882499170965913600_a.jpg",
+                            "full_name": "Mar\u00eda Sicilia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "10540511",
+                            "followed_by_viewer": false,
+                            "username": "sandrakubicka",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267961_1803938573199958_975152232699789312_a.jpg",
+                            "full_name": "SANDRA KUBICKA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1586523229",
+                            "followed_by_viewer": false,
+                            "username": "milano_streetstyle",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11312193_1057894827556410_937015388_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1772362856",
+                            "followed_by_viewer": false,
+                            "username": "style_by_mjsicilia",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11252411_432184786991997_1280062358_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "600918512",
+                            "followed_by_viewer": false,
+                            "username": "chanel_worldwide",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887126_1155937561102980_2138266858_a.jpg",
+                            "full_name": "CHANEL LOVERS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "738795952",
+                            "followed_by_viewer": false,
+                            "username": "mjsicilia_private",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10914526_342298139289723_457810429_a.jpg",
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "181730719",
+                            "followed_by_viewer": false,
+                            "username": "s.olgaaa",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13423502_262308667459157_2004003830_a.jpg",
+                            "full_name": "Olya Prister"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1750310344",
+                            "followed_by_viewer": false,
+                            "username": "zara__europe",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11022900_656292287808506_1824660744_a.jpg",
+                            "full_name": "Zara Community"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "205563879",
+                            "followed_by_viewer": false,
+                            "username": "manolocostanewyork",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11934781_737294976398939_1712948858_a.jpg",
+                            "full_name": "MANOLO COSTA NEW YORK"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "329116641",
+                            "followed_by_viewer": false,
+                            "username": "houseofreza",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663049_113556255866703_2280229898729553920_a.jpg",
+                            "full_name": "Reza Benjamin Eslahy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "290825035",
+                            "followed_by_viewer": false,
+                            "username": "thisisamans.world",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12479337_525795757586860_285692592_a.jpg",
+                            "full_name": "Thisis MansWorld"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "204397687",
+                            "followed_by_viewer": false,
+                            "username": "saraborucmannei_real",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161591_202797636899756_6846954374141313024_a.jpg",
+                            "full_name": "Sara Boruc Mannei"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "9708470",
+                            "followed_by_viewer": false,
+                            "username": "annaegiaz",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077205_369879836732545_5241673225858973696_a.jpg",
+                            "full_name": "Anna"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "300598540",
+                            "followed_by_viewer": false,
+                            "username": "lifestylebyac",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12345828_1023127384404747_1056799043_a.jpg",
+                            "full_name": "Fashion And Style"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "264999007",
+                            "followed_by_viewer": false,
+                            "username": "senstylable",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10932290_902320806508588_1682964715_a.jpg",
+                            "full_name": "SENSTYLABLE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1471503648",
+                            "followed_by_viewer": false,
+                            "username": "fashion.resort",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11191316_1424071767901001_1671278366_a.jpg",
+                            "full_name": "FASHION RESORT"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "967024427",
+                            "followed_by_viewer": false,
+                            "username": "styleclassified",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751178_1574886169497735_1618438561_a.jpg",
+                            "full_name": "Rachel(e)"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

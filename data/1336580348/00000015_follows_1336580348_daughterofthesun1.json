@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBNHenmXIg5WJ_NcIxxeNkvEvGLs6hOQWkkSCizSRjPvqPd_b-9EYOx9ZZBEe9Ovtc"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alissa Anderson",
+                            "username": "mittenmaker",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "25698193",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11355051_518431121657101_981296384_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "sweetmedicinenation",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "713909514",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348190_464444567062823_1299476849_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "S H E L B Y  S A N C H E Z",
+                            "username": "thebeautyway",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "31332813",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324485_1479463049040390_380336378_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JacksonMelissaStellarVervain",
+                            "username": "stellargardens",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "185783124",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10727519_751067171686911_1761572879_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MyBeadingHeart",
+                            "username": "hildelove",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "185389185",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12106084_1500286036965039_10537904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Prism of Threads",
+                            "username": "prismofthreads",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18827316",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849118_447907592048692_1916100673_a.jpg"
+                        }
+                    }
+                ],
+                "count": 284
+            }
+        }
+    },
+    "status": "ok"
+}

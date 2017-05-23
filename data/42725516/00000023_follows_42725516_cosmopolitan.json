@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 438,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAxFc7cJQ7Brualq_OdTwy_7dmaf-AxWQcEGM3hUbg4GcHuD7HZ6bk5Nhn8oWgjiZs"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12328336_1530542590593582_406320937_a.jpg",
+                            "id": "19156428",
+                            "username": "cosmopolitanuk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Cosmopolitan UK"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252634_1695376544098323_642258117974818816_a.jpg",
+                            "id": "12144671",
+                            "username": "cosmoaustralia",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Cosmopolitan Australia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14031744_295618964133460_719978535_a.jpg",
+                            "id": "22492633",
+                            "username": "seventeen",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Seventeen"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110699_358887167829751_542835247184609280_n.jpg",
+                            "id": "11486811",
+                            "username": "stevenbrown",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Steven Brown"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDjHZWm4IC3GoM9zu0hJDsaT-TVM7rjaPjOaIyJNKc0HYQ6N83KLGi8iBu-4c2Ywb108DmHebZTkxtmdTwPZoXIHQNHcZyc075ATe3R5u1yLg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374376_511644018990911_1452145550_a.jpg",
+                            "id": "43801090",
+                            "username": "jcl1973",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "jason lees"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

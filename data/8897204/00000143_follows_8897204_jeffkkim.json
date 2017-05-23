@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 3292,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDv88knF42dP1MAqoYRy3HWJQ6zSXNUIIL0xN6y7rmizgRhqe90Fm4E4SmlRd_hJv64FHzXhuLDLKBAndBlucAyOx1MtUigv3GE2ZG9H0M_Bw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14583333_1250595138296224_8073239714074722304_a.jpg",
+                            "id": "488335382",
+                            "username": "kristaburditt",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Krista Burditt"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13113877_229881980714777_1615218359_a.jpg",
+                            "id": "3993738",
+                            "username": "analeighctipton",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Analeigh Tipton"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15337112_1328617567189975_181791156592443392_a.jpg",
+                            "id": "323920688",
+                            "username": "iamconstantin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Constantin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10817657_1026187390788487_1190199793_a.jpg",
+                            "id": "24077791",
+                            "username": "soojmooj",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Soo Joo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11111483_831620693588879_1913949260_a.jpg",
+                            "id": "225762239",
+                            "username": "rydizzledaly",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ryan Daly \ud83c\udf0a\u2693\ufe0f\ud83c\udf0a"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14712109_1157202427696712_6850332361624649728_a.jpg",
+                            "id": "1226340416",
+                            "username": "ebbyantigua",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "#Ebsession"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

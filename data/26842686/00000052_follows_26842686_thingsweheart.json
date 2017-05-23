@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBk8FR5YhR2Lc_gBLRO6dVCylMwEu7LMes65tNo_RkPULlij7gTw239SdBUJSzDZmg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "katherinepower",
+                            "username": "katherinepower",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "13502998",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10949064_1550181568601209_1629894568_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "kellyoxford",
+                            "username": "kellyoxford",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "8679952",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382242_225078864658839_481644032074711040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gavin Rossdale",
+                            "username": "gavinrossdale",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2775900",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325290_130448920628533_1506296104_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gray Malin",
+                            "username": "graymalin",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "23510996",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583489_343669369360255_5292978096268378112_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Emily Bryan",
+                            "username": "emilyb33",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3266310",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15251602_1461464737216194_5093401462923329536_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Con Ganas",
+                            "username": "catrodriguez",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5366300",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494737_1878085572431298_1226009379694706688_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Alli Webb",
+                            "username": "alliwebb",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2243375",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444122_234418740375026_123574047421235200_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1025
+            }
+        }
+    },
+    "status": "ok"
+}

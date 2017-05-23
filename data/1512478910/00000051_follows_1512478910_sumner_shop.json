@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBgOmHzy9QVrnq6sc1osQIBbhdShsm-E10VZHqfuCcG-Cayyp5DqD-ZByBTFsdNWhVbxz37UHd_cs44E4Mu5KME_ZEvZufmDFqhE9pADQJOFg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Guggenheim Museum",
+                            "username": "guggenheim",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "104944069",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11350798_601991956623325_1913817118_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tate",
+                            "username": "tate",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "24722956",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13259124_1630330113957244_1011501073_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sotheby's",
+                            "username": "sothebys",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "298796525",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875713_1321993167822688_3681896444328935424_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Getty",
+                            "username": "thegetty",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "253229545",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12269730_900249040088649_1133153948_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Whitney Museum of American Art",
+                            "username": "whitneymuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "509323103",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926772_632336123516930_948197237_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jean Prouv\u00e9",
+                            "username": "jeanprouve",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1556553178",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11084677_422155007965134_1007203989_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Herman Miller",
+                            "username": "hermanmiller",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "400259854",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531070_1599473383703331_1741314186_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mill Mercantile",
+                            "username": "millmercantile",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "54124047",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789470_389059971471184_4740801119121309696_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Krista Schrock",
+                            "username": "kristaschrock",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2999551",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13767507_1038481992913782_1510376230_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "brendanravenhill",
+                            "username": "brendanravenhill",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12906444",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11330821_452668751606965_1504407882_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Steve Werndorf",
+                            "username": "visualmeditation",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1281638433",
+                            "profile_pic_url": "https://ig-s-a-a.akamaihd.net/hphotos-ak-xta1/t51.2885-19/11906329_960233084022564_1448528159_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Raquel Allegra",
+                            "username": "raquelallegra",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "330751385",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17268152_425447111134060_6388240974891450368_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "by Hillary Justin",
+                            "username": "blissandmischief",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "760229911",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/15338312_558673460996335_8661430644833779712_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jake Rodehuth-Harrison",
+                            "username": "studiojake",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "21156882",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12107428_1645776725694871_607385520_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "W Y E T H",
+                            "username": "wyethnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1495087830",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10787962_561902880606816_1289645872_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Benjamin Critton",
+                            "username": "benjamincritton",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1052060483",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881677_413609572161111_388550470_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "pardonleinterior",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1041568018",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850377_689495187818431_1182635185_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "contact@galerieriviera.com",
+                            "username": "galerie_riviera",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1480125280",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534112_231984287137321_148115395_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "spoonsingh",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9003687",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371023_719883384782376_251711670_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1461
+            }
+        }
+    },
+    "status": "ok"
+}

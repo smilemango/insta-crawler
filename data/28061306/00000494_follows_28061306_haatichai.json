@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1940499",
+                            "username": "rokarte",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928962_545592432259504_1974488258_a.jpg",
+                            "full_name": "RokArte",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1402282",
+                            "username": "inbetween_thedays",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11417315_1001804556507230_1899370137_a.jpg",
+                            "full_name": "Victoria Ana\u00efs",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "20158252",
+                            "username": "elizabethmwright",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13722053_1663319793993167_6447885_a.jpg",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "29355121",
+                            "username": "bellableuboutique",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371010_397895633738870_518293212_a.jpg",
+                            "full_name": "Bella Bleu",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "185581",
+                            "username": "siramar5555",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788807_1235274926579662_705448391252901888_a.jpg",
+                            "full_name": "Amar M",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "7081810",
+                            "username": "ballerianna",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11848854_1042383539107510_1316403409_a.jpg",
+                            "full_name": "Arrianna Aguilar",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQAZHzxTw0iosBtF7XWDsWkn608oRM7gJYv_7bza_YL2kJK5scRjY6cxKNZZOAgWOXOIygu3r_ra0LbhbmkwcwynUmAjIZXRGP2Jj_8vQPFuhw",
+                    "has_next_page": true
+                },
+                "count": 6942
+            }
+        }
+    }
+}

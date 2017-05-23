@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "179801071",
+                            "username": "mirandakerr",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11428694_1601769410084895_603684605_a.jpg",
+                            "full_name": "Miranda",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDc6BAgNmm417EX7c1KinxgRcrjeGc2IiJ7PrQ3QzB5SrLAhVuhLXQ1N_wH9loQbDw",
+                    "has_next_page": false
+                },
+                "count": 338
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCyWXqIDY-UxKavt97xL_VOCi1xu3d_1nEyf5qXESIoqJnrHVLZ5NSZXgZtFcKYlPs"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jill Roberts Freeman",
+                            "username": "iamjillroberts",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "17213869",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11931092_1484276421871614_1935567319_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Charlotte Ronson",
+                            "username": "cjronson",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22959024",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375400_113599442323440_880949292_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ann Eysenring",
+                            "username": "anneysenring",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "15781139",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849447_867120400034103_514789292_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Marjorie Gubelmann",
+                            "username": "marjoriegubelmann",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11208083",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10954418_778563008901433_1951153668_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SK",
+                            "username": "suzikaltman",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6005897",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094784_1872269386346864_773324207562948608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Fortunedushey",
+                            "username": "fortunedushey",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22049288",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11296907_900687053302152_1296672420_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anita Ko",
+                            "username": "anitakojewelry",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12487364",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13745184_918982141561165_1883520770_a.jpg"
+                        }
+                    }
+                ],
+                "count": 419
+            }
+        }
+    },
+    "status": "ok"
+}

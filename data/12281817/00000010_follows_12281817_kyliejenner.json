@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "13001295",
+                            "username": "zoeegordon",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13181455_783703915063847_1358803077_a.jpg",
+                            "full_name": "Zoe Gordon",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8003255",
+                            "username": "justinschwartz2",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13707292_1750298241907634_1575641055_a.jpg",
+                            "full_name": "JWS",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "11212260",
+                            "username": "stassiebaby",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381869_250169525389994_2554850090455924736_a.jpg",
+                            "full_name": "Anastasia Karanikolaou",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQA0F67RTgGPe3I0ayjH43YoHTUUFvJ8bf0bBPT3CGyOQ8BQuTFv08ZFPSbW2-bEFsc",
+                    "has_next_page": false
+                },
+                "count": 179
+            }
+        }
+    }
+}

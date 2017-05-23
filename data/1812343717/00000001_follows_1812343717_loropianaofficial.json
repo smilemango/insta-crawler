@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "222194635",
+                            "username": "rydercupteameurope",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/917460_860782277367594_1683700614_a.jpg",
+                            "full_name": "Ryder Cup Team Europe",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "310630760",
+                            "username": "claridgeshotel",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899524_1487015781619237_2037992381_a.jpg",
+                            "full_name": "Claridge's",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1937736544",
+                            "username": "yccs_portocervo",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15876363_400407803630877_6098843480031756288_a.jpg",
+                            "full_name": "Yacht Club Costa Smeralda",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "1166197590",
+                            "username": "fondationlv",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13534629_370197553104473_2113367091_a.jpg",
+                            "full_name": "Fondation Louis Vuitton",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "342885079",
+                            "username": "lvmh",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12256613_456383987879971_1345701054_a.jpg",
+                            "full_name": "LVMH",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "181415118",
+                            "username": "foodandwine",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13249749_640157059481480_2141546368_a.jpg",
+                            "full_name": "Food & Wine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "276282615",
+                            "username": "wsjmag",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10691664_844962485543914_1781540517_a.jpg",
+                            "full_name": "WSJ. Magazine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "212660742",
+                            "username": "tmagazine",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586948_349600655435215_4199413022512381952_a.jpg",
+                            "full_name": "T: The NYTimes Style Magazine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "48376318",
+                            "username": "elledecor",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1171167_873676409324942_1347454713_a.jpg",
+                            "full_name": "ELLE DECOR",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "239180867",
+                            "username": "archdigest",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/17076670_417970161870063_1804390643804405760_a.jpg",
+                            "full_name": "Architectural Digest",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "25004361",
+                            "username": "financialtimes",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14052608_186860771747799_8549870887954808832_a.jpg",
+                            "full_name": "Financial Times",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCA0BW4Yp-ua4IRd8qs6tKxzoFH8E0kigCXArtMF5RFim7pLcQKy-z7kJhtTkC5af0",
+                    "has_next_page": false
+                },
+                "count": 11
+            }
+        }
+    }
+}

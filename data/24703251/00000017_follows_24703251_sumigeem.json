@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 320,
+                "page_info": {
+                    "end_cursor": "AQCmqk7uLoJVGRQ8ulncK9LwOTSckpFdezhcaF9Uyjdfx5XmDPHNVB59YehEhl8vQjk",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "23475761",
+                            "username": "nampurple",
+                            "full_name": "Nam Bora",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12224088_1068963073161638_2075513022_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6827769",
+                            "username": "junjino",
+                            "full_name": "JUNJINO(\uc804\uc9c4\uc624)",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407465_563099013866276_938001985_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1743145",
+                            "username": "djfriz",
+                            "full_name": "djfriz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374767_906176142788956_1293922624_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "906387",
+                            "username": "kimokim",
+                            "full_name": "kimo kim",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13549585_1626610414319784_1475010807_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

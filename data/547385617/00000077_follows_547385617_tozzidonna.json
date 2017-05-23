@@ -1,0 +1,104 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1666,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBAG0CVKcekqlRxFba7cYdsXp6DQdpqZCRPzXsK76I3fS38n0i2I1bip9eUAx3R9sUlURgfMxbttOGZYUosM8vMGXCrcbZ9bNk93NfNhL35lQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444830_257198388085980_4829223852816990208_a.jpg",
+                            "id": "216169270",
+                            "username": "sonia.vee",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sonia Vee"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443432_1875001006085326_8344235795216859136_a.jpg",
+                            "id": "872474515",
+                            "username": "olyagarkusha",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Olya Garkusha"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094576_711262209079230_9164263502926315520_a.jpg",
+                            "id": "522520628",
+                            "username": "luk_geeva",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161367_1451507611567115_7856883347878838272_a.jpg",
+                            "id": "4092276972",
+                            "username": "linalinaaaaaaaaa",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83e\udd40"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13584164_133942843698646_444824876_a.jpg",
+                            "id": "550084387",
+                            "username": "zheniiya",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Zhenya Gracheva"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077432_629163960609268_8895901971903414272_a.jpg",
+                            "id": "220353756",
+                            "username": "martinazoev",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Martina Maccari"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264274_422800717845005_2071548244_a.jpg",
+                            "id": "290830643",
+                            "username": "veronicazimbaro",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Veronica Zimbaro"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821237_840559382727001_652124613_a.jpg",
+                            "id": "10832450",
+                            "username": "albertaferretti",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alberta Ferretti"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

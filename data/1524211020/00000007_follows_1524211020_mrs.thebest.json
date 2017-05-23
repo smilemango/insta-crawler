@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "210451881",
+                            "username": "hewadpal",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10949093_885538048170559_773082914_a.jpg",
+                            "full_name": "HM",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "55998036",
+                            "username": "qorz",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12747746_1104439116243251_129585134_a.jpg",
+                            "full_name": "JB Qorz",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "182859708",
+                            "username": "traceyburfield",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14278958_1142729432486406_320115393_a.jpg",
+                            "full_name": "tnbiskitt",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "19882967",
+                            "username": "bu_khaled",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662892_356029558124368_7167043795492536320_a.jpg",
+                            "full_name": "Hazem Aljarallah",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "25025320",
+                            "username": "instagram",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719833_310540259320655_1605122788543168512_a.jpg",
+                            "full_name": "Instagram",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1815564",
+                            "username": "mattscutt",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13715058_1601480443482690_1205830453_a.jpg",
+                            "full_name": "Matt Scutt",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCEgx9FkkL1fpS_0uAYaS8JQFYysVO26iIPm9cKP-D-OM5zSRZksizCFmRLRt-FG6A",
+                    "has_next_page": false
+                },
+                "count": 122
+            }
+        }
+    }
+}

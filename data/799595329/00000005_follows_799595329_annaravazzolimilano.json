@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 82,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQA6_IBQM9Ar_hyeykAOOWiPN5hXdHX1SB6F636A_NEd7iMk7nuklgfzBAt82vqHVCoVQGlEJ-X96B23UfdpuPyU-F-QUMRdF2Y_yJRBkmvnZQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10963889_697023997077312_1158514747_a.jpg",
+                            "id": "1561589661",
+                            "username": "lil_yuki_big_world",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Yuki Rose\ud83d\udc36\ud83c\udf39"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10724587_1528170960733480_847710469_a.jpg",
+                            "id": "430844054",
+                            "username": "massimobonini_showroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "MASSIMO BONINI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373963_1656403374581406_688910199_a.jpg",
+                            "id": "259532603",
+                            "username": "sabrinascarpellini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sabrina"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14726242_1241080482581843_7396780200291205120_a.jpg",
+                            "id": "228847155",
+                            "username": "manuela__ia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Manuela Fossa"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

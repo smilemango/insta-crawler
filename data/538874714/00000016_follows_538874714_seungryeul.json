@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDIVuvRoiWdiukqNLu_WitNXkLMTwoV6CHc85JCsfVOYzo22Iz0ndCwEczTk-EzM74"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\udf1fI am the Goddess of fortune\ud83c\udf1f",
+                            "username": "_brilliant_jh",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20938992",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380604_285322041918069_2415488421859426304_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\uc784 \ubcf4 \ub78c  \u1d2e\u1d3c\u1d3f\u1d2c\u1d39 \u1d38\u1d35\u1d39",
+                            "username": "boramfulday",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "560648789",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13573533_1715130282082010_312710417_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jungmin Lim",
+                            "username": "min0707",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5597410",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624762_1057517741041145_3338886844103262208_a.jpg"
+                        }
+                    }
+                ],
+                "count": 284
+            }
+        }
+    },
+    "status": "ok"
+}

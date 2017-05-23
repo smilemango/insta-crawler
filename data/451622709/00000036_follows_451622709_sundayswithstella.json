@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAURJKjN9CbHDkQ4uTyJsXNNcngfqcYP0brQSmhUj0XyeQlZxwJOEYMvp0uH4yRL6Y"
+                },
+                "count": 692,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "336828038",
+                            "followed_by_viewer": false,
+                            "username": "my_miyeon",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11084885_1382635402061398_688405196_a.jpg",
+                            "full_name": "miyeon"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4445582",
+                            "followed_by_viewer": false,
+                            "username": "sojsteph",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15306563_1531429160206522_3410974279573962752_a.jpg",
+                            "full_name": "Sojung Stephanie Choo"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

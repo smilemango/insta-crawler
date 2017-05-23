@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 195,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCY7NxvGxQ5BAJ6blULghFR3rVlCGJpCb-j2g4-BrJY81nQmeOrNVQhSl8A9DR8bOYi5GGdJk0Egwh4zzR9WHJRlYfKQgQssCMDnB7U9wu8bQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012174_1819891191597020_5085877487674589184_a.jpg",
+                            "id": "9213261",
+                            "username": "versace_official",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Versace"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513066_182428835615370_541898970083885056_a.jpg",
+                            "id": "2224940302",
+                            "username": "bossboysclub",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Boss Boys Club"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15035760_1203247886399501_8367154857399812096_a.jpg",
+                            "id": "2292614779",
+                            "username": "fashionmen.fm",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "FashionMen \u25abFM\u25ab"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095122_784428151722266_253693667951247360_a.jpg",
+                            "id": "14876102",
+                            "username": "nicolettareggio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nicoletta Reggio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/929317_933776766713278_937006941_a.jpg",
+                            "id": "22619435",
+                            "username": "voguerunway",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue Runway"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464097_388031631570279_6897921411013148672_a.jpg",
+                            "id": "198154074",
+                            "username": "voguemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515838_557824237761861_7849449734447038464_a.jpg",
+                            "id": "29093846",
+                            "username": "aquazzura",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "AQUAZZURA by Edgardo Osorio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12298898_1147580291938561_502955436_a.jpg",
+                            "id": "2024255319",
+                            "username": "the_most_stylish_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Only The Most stylish\u203c\ufe0f\ufe0f"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877539_217359975390975_4757853423481651200_a.jpg",
+                            "id": "263775001",
+                            "username": "drome_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "DROMe"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11350926_465864803591468_438523757_a.jpg",
+                            "id": "13404263",
+                            "username": "vivaluxuryblog",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Annabelle Fleur"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333357_1886772591607273_6513864799749668864_a.jpg",
+                            "id": "45278284",
+                            "username": "miraduma",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Miroslava Duma"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12627920_969253176473031_887257976_a.jpg",
+                            "id": "1188002609",
+                            "username": "christopherkane",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christopher Kane"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161135_298026993967694_4091787756324257792_a.jpg",
+                            "id": "13376120",
+                            "username": "lovelypepa",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexandra Pereira"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10598339_1462523197342576_1653216185_a.jpg",
+                            "id": "1378927",
+                            "username": "manrepeller",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Man Repeller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908367_631493863704011_8124592812671893504_a.jpg",
+                            "id": "5359127",
+                            "username": "kenzas",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Kenza Zouiten"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14733742_155259918268691_7742497846116483072_a.jpg",
+                            "id": "2121100564",
+                            "username": "seezona",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "SEEZONA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803321_357244234643308_9209667298724413440_a.jpg",
+                            "id": "195893661",
+                            "username": "giampaolosgura",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "giampaolo sgura"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11015512_1552544361675693_99273046_a.jpg",
+                            "id": "188099712",
+                            "username": "marchettisimone",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Simone Marchetti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696638_560540390773504_147699952_a.jpg",
+                            "id": "145502315",
+                            "username": "styledumonde",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "*STYLE DU MONDE *\u2764\ufe0f"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

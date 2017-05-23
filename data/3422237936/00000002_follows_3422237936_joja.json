@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 25,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAsqKvqTPuxwyiQTRKN2emF7CvXy1ljjh53BV_pVyIF0yb7MFxBhsXRtHD3XZh6iSU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15043987_311420629257093_3146422831219212288_a.jpg",
+                            "id": "4971811",
+                            "username": "jastookes",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jasmine Tookes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122679_752766804876290_4880958413229522944_n.jpg",
+                            "id": "53652325",
+                            "username": "josephineskriver",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Josephine Skriver"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373751_810224469095258_1164651624_a.jpg",
+                            "id": "3416684",
+                            "username": "victoriassecret",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Victoria's Secret"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13385813_1646075055715616_208842336_a.jpg",
+                            "id": "361602582",
+                            "username": "victoriasport",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Victoria Sport"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818038_431079410559516_2246294438705889280_a.jpg",
+                            "id": "15561680",
+                            "username": "jenselter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jen Selter"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

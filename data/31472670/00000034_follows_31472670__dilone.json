@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 647,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBlpONYM4ISeTald4w7hMOw1OWN-oYJipGf7YlesEcjd_oYKBLwSpLQ7zQwUitGcFY"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11350924_883712238379820_1065378788_a.jpg",
+                            "id": "228103377",
+                            "username": "marilinperalta",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "marilinperalta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438781_1733997176891934_1943920408830935040_a.jpg",
+                            "id": "27304318",
+                            "username": "lesab93",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Brandon Lesassier"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17334168_1408950802496730_8815098643334823936_a.jpg",
+                            "id": "43432615",
+                            "username": "rosanna0606",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rosie \ud83c\udf39"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493891_635843903267789_5698733397707325440_a.jpg",
+                            "id": "5747350",
+                            "username": "jetdilone",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "JeT  Dilone"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011964_1852444048350028_308800632389632000_a.jpg",
+                            "id": "14860300",
+                            "username": "marmercedes",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Maria Batista"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229278_265420907211657_7822188709435932672_a.jpg",
+                            "id": "22702076",
+                            "username": "luminous_dee",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Diana Lopez \u2728"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17932444_1415905058471113_3357349907781386240_a.jpg",
+                            "id": "14527988",
+                            "username": "anaisedelia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anaise DeJesus"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

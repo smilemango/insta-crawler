@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCpV72RKQXqrm0FfEgfBlEfwVhM2Yndv0YzE6JTC_kqVViR9I9Ry6HdnODIPw2i-uk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sierra Reeves",
+                            "username": "81meowcat18",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "236434446",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10666054_1604441716472316_1747349657_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Zoe",
+                            "username": "zoecjohns",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "208329310",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15337262_130108947474619_4186977447217987584_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "OMGA13",
+                            "username": "ohsogreasy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "232379859",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12523626_991554104251070_399681489_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hannah Downie",
+                            "username": "hdowniee",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "410980987",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444601_951919124947402_536590373326159872_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Riz",
+                            "username": "duh_riz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "30781043",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583231_255488931529412_2955132070256443392_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Anastasya Artiana",
+                            "username": "artiana1510",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "568314080",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/925027_817820934919128_420569860_a.jpg"
+                        }
+                    }
+                ],
+                "count": 678
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,93 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "8852719",
+                            "username": "helmutlang",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14716639_1435147299876122_3817456512817692672_a.jpg",
+                            "full_name": "HELMUT LANG",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "188303142",
+                            "username": "jbrandjeans",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11249578_502145349949010_874571186_a.jpg",
+                            "full_name": "J BRAND",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "9237212",
+                            "username": "tonybianco",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11023167_1426499290984483_1355848409_a.jpg",
+                            "full_name": "Tony Bianco",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "241773266",
+                            "username": "huntnomorethelabel",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10932527_457679611080433_894815912_a.jpg",
+                            "full_name": "Hunt No More",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "219389051",
+                            "username": "eskaalikai",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356632_475872059250688_2133582097_a.jpg",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "7522782",
+                            "username": "tuulavintage",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230057_103230576859290_3654277167505735680_a.jpg",
+                            "full_name": "Jessica Stein",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "9675477",
+                            "username": "sincerelyjules",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15306584_1817826551828727_8387062713716572160_a.jpg",
+                            "full_name": "JULIE SARI\u00d1ANA",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQA4r8iPlMNZ7QTSJ6_0yeaFu8QcnR-2nIHKDgqZ2xJ90gUPB6H0ib7fngJtE9e4dRs",
+                    "has_next_page": false
+                },
+                "count": 727
+            }
+        }
+    }
+}

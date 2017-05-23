@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 65,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCpgFVY9U-Qwcyy5b5i3JD5_XSV7xXnBWnZZcd4ZjmEk8yCuaznV5Amy01WEcekPp4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553132_370169126662270_1871357447466123264_a.jpg",
+                            "id": "227770967",
+                            "username": "adamlippes",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "adamlippes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/926533_545828482190539_1714486920_a.jpg",
+                            "id": "144062642",
+                            "username": "dimaayad",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Dima Ayad"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662357_1844777945786864_6137058213540921344_a.jpg",
+                            "id": "197495767",
+                            "username": "sashanatalia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sasha Sarokin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909423_612343825574953_1977912518_a.jpg",
+                            "id": "6952411",
+                            "username": "lisa_bridgett",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "lisa bridgett"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12445786_252911728387835_1815353290_a.jpg",
+                            "id": "188528609",
+                            "username": "mrssallymatthews",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sally Matthews"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBcLPfiP04vN0rTVLRfjgmqipl72hUVq-BHownVAZa64NSOFjDU7_BirG6UH2h92yw"
+                },
+                "count": 242,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1068967475",
+                            "followed_by_viewer": false,
+                            "username": "hannah.0116",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908816_391845807857967_232981841001316352_a.jpg",
+                            "full_name": "Hannahkim"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "4976037",
+                            "followed_by_viewer": false,
+                            "username": "radiant04",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363648_715640278580504_1354655869_a.jpg",
+                            "full_name": "Radiant Chung"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "501978137",
+                            "followed_by_viewer": false,
+                            "username": "s_u_n_n_y_k",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10453999_1502603230037514_988456706_a.jpg",
+                            "full_name": "chacha\ud83d\udc8b"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1190580460",
+                            "followed_by_viewer": false,
+                            "username": "tritri2013",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13584072_1021033261343893_1888419168_a.jpg",
+                            "full_name": "EOJIN"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "323425114",
+                            "followed_by_viewer": false,
+                            "username": "edito_ar",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/929129_1468725683366410_1538703898_a.jpg",
+                            "full_name": "Aran"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

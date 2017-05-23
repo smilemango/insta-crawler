@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB3eJWwuKCri7hMZURsOJvfXGJ1QORWDnWgQKu7V3pNrr438khO-hJCX8JqlEpCzvQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lisabel Link",
+                            "username": "lzr_d",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "19840207",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802881_1731516967163250_7886269758931206144_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JORDI MAGNUS",
+                            "username": "jordxx__",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "144905491",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579476_217015848800455_8405273143123378176_a.jpg"
+                        }
+                    }
+                ],
+                "count": 634
+            }
+        }
+    },
+    "status": "ok"
+}

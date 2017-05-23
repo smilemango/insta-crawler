@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCyAjDCdybrtrabR5yaFmdivZiLDIuNCs6CNBbG_M0FS21J80NYeTfmwIuORIbBhLKWsI6HeZ2vpgzP6icvPyoLDx13sLBHoG6FWiuSsWmXGA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Joe Grant",
+                            "username": "alpineworks",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "29177028",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14733344_130579980748995_3195629515615240192_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Louisa + Jeff",
+                            "username": "thedrivingidea",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1584793651",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11111262_839395666121607_802176128_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Our Open Road",
+                            "username": "ouropenroad",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "175873507",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122433_1882255698673401_3305991333100912640_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ELIZABETH\ud83d\udd3a",
+                            "username": "elizabethconsecrated",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7329378",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13249010_1762974073915606_1736451161_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Thriller Jackson & Co.",
+                            "username": "thisisryandom",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9724667",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230070_372767663091393_5572936545796620288_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hydro Flask",
+                            "username": "hydroflask",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "235438807",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809944_716997921665792_1997254923_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "GOAL ZERO",
+                            "username": "goalzero",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "24683899",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809900_1458029387836457_728080687_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "evanneholloway",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "7933690",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877035_1565502876797412_5951122061320519680_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Individual Medley",
+                            "username": "individualmedleystore",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "27977635",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12135299_1713597835537307_2036171677_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Walter Banks",
+                            "username": "davidwalterbanks",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "46186371",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11887278_1483015492002598_1384692553_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MyBhutan",
+                            "username": "mybhutan",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1538198397",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1740948_1506589136259236_288963682_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Impossible Project",
+                            "username": "impossible_hq",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20572756",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374422_1074662669212325_1623713826_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "hannah honaker",
+                            "username": "hghonaker",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4388171",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13380955_468590033351037_1594871418_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lomography",
+                            "username": "lomography",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "184399584",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373833_662390453862092_1081974152_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jesse Lenz",
+                            "username": "jesselenz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "871440",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677435_774813845996010_174571232_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Edgevale",
+                            "username": "edgevaleusa",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "314954560",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249033_958721430858636_389319050_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Outbound Collective",
+                            "username": "theoutbound",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "222071461",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324285_1061679157194949_1607464984_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "S T \u039b C E Y  R \u039b E",
+                            "username": "hernamefreedom",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18239935",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/928837_706969719408136_1802945490_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "maisy",
+                            "username": "maisymoon",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5731979",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17661789_401639600228916_1248248939396726784_a.jpg"
+                        }
+                    }
+                ],
+                "count": 645
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1316,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDLRS8Xlv1zhSLsTqT36E3bhd1m5018gHt1o0I5-rmncRIea8tKoXVrv3K77Xr9sgS8fRxt8Hi7vimON9LP11rpOSsTrmDoB_UZkkGzHQipsA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11117109_385147708342479_821088486_a.jpg",
+                            "id": "12480891",
+                            "username": "tugno",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Filippo Antoniacci"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12797798_242612282743469_424544829_a.jpg",
+                            "id": "13203604",
+                            "username": "popsugarfashion",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "POPSUGAR Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887254_844081675687209_1080268931_a.jpg",
+                            "id": "13042071",
+                            "username": "ro_trin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ro"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12783486_1696898607261129_710702887_a.jpg",
+                            "id": "12655416",
+                            "username": "mariavicini_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Maria Vicini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10808478_814984495224251_117596954_a.jpg",
+                            "id": "2877365",
+                            "username": "alicolli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alice Collinelli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11248096_1679219815640610_1400409720_a.jpg",
+                            "id": "11437225",
+                            "username": "betti2488",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Elisabetta"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123379_1813993118874890_2317627914142613504_n.jpg",
+                            "id": "1575263",
+                            "username": "lindabeil",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Linda \ud83c\udf80 Balestri"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13694521_1737119983234921_382724598_a.jpg",
+                            "id": "3048888",
+                            "username": "checchino",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Francesca"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821113_881594651877170_1595140695_a.jpg",
+                            "id": "3542026",
+                            "username": "macho76",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Massimo Santarelli"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881831_1681683735396040_2013586194_a.jpg",
+                            "id": "4886940",
+                            "username": "saks",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Saks Fifth Avenue"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10608023_114915608848231_2132057258_a.jpg",
+                            "id": "2308460",
+                            "username": "thenotvanilla",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sonia Evers | The Not Vanilla"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802265_449064692149062_4625985515038965760_a.jpg",
+                            "id": "2877012",
+                            "username": "onlinestylist",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Amanda Start"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17075951_1855530908067906_2419007554853011456_a.jpg",
+                            "id": "3119358",
+                            "username": "nylonmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Nylon Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324955_1622470184701472_1302564374_a.jpg",
+                            "id": "3907894",
+                            "username": "neimanmarcus",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Neiman Marcus"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11376497_1604879693108204_944686253_a.jpg",
+                            "id": "7225530",
+                            "username": "modelinia",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Modelinia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493598_348911308838092_7670981130195042304_a.jpg",
+                            "id": "3825462",
+                            "username": "cocorocha",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Coco Rocha"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821661_373552819520913_989994150_a.jpg",
+                            "id": "1392487",
+                            "username": "bergdorfs",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Bergdorf Goodman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1799835_803172219721881_1339766144_a.jpg",
+                            "id": "7656917",
+                            "username": "fraeside",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "fraeside"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17595944_1944402949114520_4946014020869029888_a.jpg",
+                            "id": "5261973",
+                            "username": "fezerina",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Federica\ud83d\udc12"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

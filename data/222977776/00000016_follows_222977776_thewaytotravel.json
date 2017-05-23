@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAk6-5nylQwG3Pm847eSO6ockmEqFiaYYmuR3eCL3IGSqk2rRRD-g_dy_Bx6S3O3pXwMQ4l66C3cknkgqS_q9MSvB8hzRs8l8QKyUww2HRJIw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "#travelologists",
+                            "username": "travelologists",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2289039018",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15337285_346327879074674_2095603969232470016_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\udf34D E S I G N S  W O L F \u00a9",
+                            "username": "designswolf",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1992602822",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12331777_1096464370378214_12624882_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TOUR WOLF",
+                            "username": "tourwolf",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2502934659",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12783909_1749067811995694_306167144_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "J A C O B   R I G L I N",
+                            "username": "jacob",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "927378976",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515731_1860820994152776_4329187327671795712_a.jpg"
+                        }
+                    }
+                ],
+                "count": 306
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 484,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQARuz-avO5p0E3pH4xNwFMaPAn3kgJ7o2_22CeZ1vDLI1NLr1nzTdJ_wYxoXA_5_S8"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15306072_382096242128719_786832824601673728_a.jpg",
+                            "id": "998379",
+                            "username": "yaaronet",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Yaara Keydar"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11899671_1457429197899732_278461326_a.jpg",
+                            "id": "2281021",
+                            "username": "valeriealmighty",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Valerie Mazor"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378567_522854601196689_1504609906_a.jpg",
+                            "id": "19338574",
+                            "username": "talshiry",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tal Shiry"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

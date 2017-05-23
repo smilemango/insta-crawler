@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDuU9cMcyd7witDo32NTl0NBE9LVLqyWOIG9sDFKBrgEqNgQXKY9FxwHCbc3tKBjG0uVnhbXY5Y6ljGKYSeYtsBb8uy7_51Hd2gzBo76k-c4Q"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "San Antonio Spurs",
+                            "username": "spurs",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "19012555",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882874_2044642992429577_551613382948552704_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NBA India",
+                            "username": "nbaindia",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "466620696",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18253152_1900421726914236_7676567740185837568_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Denver Nuggets",
+                            "username": "nuggets",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "15640770",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10401775_1496921650521533_1295276849_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Orlando Magic",
+                            "username": "orlandomagic",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "195178788",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012074_113354759222267_3789396520810315776_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "2k",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "481802025",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850127_711658385606953_1716291820_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Basketball Videos",
+                            "username": "basketballvines",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "258378990",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15046988_1171398909647292_1202084680984166400_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Wardell Curry",
+                            "username": "stephencurry30",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "324599988",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13320117_1224086350959353_838783914_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Isiah Thomas",
+                            "username": "imisiahthomas",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1468357093",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15403379_586383094882888_439362269478912_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Utah Jazz",
+                            "username": "utahjazz",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "26613761",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881931_273606849733983_5823228578174599168_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NBA All-Star Weekend",
+                            "username": "nbaallstar",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1084800366",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126248_1888661594752941_5861799317227962368_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "NBA Development League",
+                            "username": "nbadleague",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "696549315",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719651_186108515172276_900997376066453504_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Adam Silver",
+                            "username": "adamsilvernba",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "392682248",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372039_741172469327742_1886863983_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New Orleans Pelicans",
+                            "username": "pelicansnba",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "15490863",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11917827_1463760130598389_397046118_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "DR. SHAQUILLE O'NEAL Ed.D.",
+                            "username": "shaq",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "206034174",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10818077_1772497556311865_1111187484_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Oklahoma City Thunder",
+                            "username": "okcthunder",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "5665679",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877619_235325903587381_1977016391726792704_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Los Angeles Lakers",
+                            "username": "lakers",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "16917874",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108805_117044752036225_277035561_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Chicago Bulls",
+                            "username": "chicagobulls",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11957137",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14701316_1807742072777767_3881561446626099200_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Charlotte Hornets",
+                            "username": "hornets",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "29983007",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15539001_751703288314617_1866225657332105216_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "LA Clippers",
+                            "username": "laclippers",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "26987708",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438334_1320698631348644_4420223841024868352_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Dwight Howard",
+                            "username": "dwighthoward",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "215872698",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15801915_1695528334071339_9212899450593214464_a.jpg"
+                        }
+                    }
+                ],
+                "count": 6168
+            }
+        }
+    },
+    "status": "ok"
+}

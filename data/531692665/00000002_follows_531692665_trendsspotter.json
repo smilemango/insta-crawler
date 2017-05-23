@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB4QtybxQqvR7UahLSPR4ptDEW1cPVYS4NpQ3DN6NDy34-uQ9rNAou11mkTsp6oVMM"
+                },
+                "count": 23,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "333792681",
+                            "followed_by_viewer": false,
+                            "username": "itgirlstagram",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10864772_828653950533075_1875526636_a.jpg",
+                            "full_name": "It Girls"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "20053326",
+                            "followed_by_viewer": false,
+                            "username": "bycamelia",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161885_1307895645984755_6075578621441867776_a.jpg",
+                            "full_name": "Camelia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "519813345",
+                            "followed_by_viewer": false,
+                            "username": "zara.world",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10561139_508165749283766_157728435_a.jpg",
+                            "full_name": "All About Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "229936111",
+                            "followed_by_viewer": false,
+                            "username": "vitacouture",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14474110_575120226007751_3555693258447257600_a.jpg",
+                            "full_name": "Vita Couture"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

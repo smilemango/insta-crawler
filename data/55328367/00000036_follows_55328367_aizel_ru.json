@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 670,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQC-cRkNO4ZE64Wo0Aqu9M9O9WgMTmnb6iCyBWtwXi29aODsaanEp8fCyXkmZ7GGbfi-DKnpnIT8NmvzCWM00Kv_bGwFLYDrepk3QG6J-YDMxw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12479444_1550329495293202_1285647491_a.jpg",
+                            "id": "13698154",
+                            "username": "ozimkova",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kristina Ozimkova"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

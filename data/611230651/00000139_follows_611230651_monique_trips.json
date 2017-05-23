@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCKvFRGWOfCflDRkzSLGjMhkYyOqQ6E_XnqWoNJeue_ZG61pIUUnhGlGZ9PbP-lyorV3mieadc-KncyskiwyQPrZol62lLtlNKy4hlTjVoVWQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bagaggio",
+                            "username": "bagaggio",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "364914439",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13643577_1086186564797243_938826851_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Carol Sampaio",
+                            "username": "sampaio_carol",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "7445679",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332697_128692640993975_5180094243921723392_a.jpg"
+                        }
+                    }
+                ],
+                "count": 3039
+            }
+        }
+    },
+    "status": "ok"
+}

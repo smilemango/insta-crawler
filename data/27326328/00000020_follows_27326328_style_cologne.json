@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 385,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBbxadOPUdlq_6NYO8R726HHMhBnScLwZj9vCPT5TSxLjv9tre3PTsOZc37flTMpzg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14026725_1238594409506055_747884444_a.jpg",
+                            "id": "5248998",
+                            "username": "netaporter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "NET-A-PORTER"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251834_1328556720558732_6106451473430740992_a.jpg",
+                            "id": "9326920",
+                            "username": "anoukyve",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Anouk Yve"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719129_362320577437454_1117625901454983168_a.jpg",
+                            "id": "556481260",
+                            "username": "schlitziberta",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Inga"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013392_284639505314039_5877652282035666944_a.jpg",
+                            "id": "199017422",
+                            "username": "niconiebaum",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Nico Niebaum"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538512_370739836639761_1245441259145789440_a.jpg",
+                            "id": "2111746",
+                            "username": "mahshidfh",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "mahshidfh"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513209_1387187481396497_2463139645194502144_a.jpg",
+                            "id": "2510852",
+                            "username": "sachnasty",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\ud83d\udc9c@angelaa.pineda\ud83d\udc9c"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

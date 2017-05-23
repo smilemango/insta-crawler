@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "11751097",
+                            "username": "stylelogistics",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230463_108786459635973_2328683327466242048_n.jpg",
+                            "full_name": "Y A M I N A H   M A Y T A",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "847541350",
+                            "username": "lombardandfifth",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13355489_555346421318131_1218375706_a.jpg",
+                            "full_name": "Veronica Levy | LOMBARD&FIFTH",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "284086798",
+                            "username": "buddingfashionista",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14676682_1212540505450741_2952783002318405632_a.jpg",
+                            "full_name": "Vanessa",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "376999500",
+                            "username": "nikewomen",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465750_1749737878385726_1342340170929668096_a.jpg",
+                            "full_name": "NikeWomen",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "27879728",
+                            "username": "whowhatwear",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714536_1654542668169045_6949484580755734528_a.jpg",
+                            "full_name": "Who What Wear",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDon3cUYmpw4IKPrxzPA9dvUh_GPZ8e19pVxXbiPrGYeeMNdCsOpMS-AH-1AgL2j_0",
+                    "has_next_page": false
+                },
+                "count": 144
+            }
+        }
+    }
+}

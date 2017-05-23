@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1666,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDtwJ9C9eetcMQM5aA4NqtfavtFoHIi4WIvwm3R_BVLOtQ9Fr7ZFEuNoFPvqNbPNsOEomRrmZE5f5k-XV5WEkEwK432Fkh042jS733Hg2BtMA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14733339_225130771241115_1500272105587998720_a.jpg",
+                            "id": "15921416",
+                            "username": "lizzyvdligt",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lizzy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12070750_996580443770199_545961961_a.jpg",
+                            "id": "30438681",
+                            "username": "candela_________",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Candela Pelizza"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14711841_1233019200090724_8566036616575975424_a.jpg",
+                            "id": "3581684",
+                            "username": "lindatol_",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Linda Tol"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252407_310950262672718_8976415282805342208_a.jpg",
+                            "id": "5404540901",
+                            "username": "balenciagafrancia",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Balenciaga"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161887_1393791094010897_7375254558643060736_a.jpg",
+                            "id": "2222800801",
+                            "username": "createcuratestyling",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437986_1810935675836990_8619173453745881088_a.jpg",
+                            "id": "2099672610",
+                            "username": "chloe.chunk",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Chloe Chunk"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513019_1904045683213943_1948726872372150272_a.jpg",
+                            "id": "5347457945",
+                            "username": "style._.luxury",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "STYLE\ud83d\ude0e"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12912726_237434679945083_651222810_a.jpg",
+                            "id": "51284079",
+                            "username": "martaspedicato",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marta Spedicato"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126105_1100227106772611_1188313246306664448_a.jpg",
+                            "id": "475391024",
+                            "username": "isha__ray",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "S H A R O V A \ud83d\udd4aI R I N A"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17818897_219746255174589_5250216212163461120_a.jpg",
+                            "id": "2958078658",
+                            "username": "travel.on.earth_",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Travel on Earth"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12317552_536058779893720_579277249_a.jpg",
+                            "id": "1562473533",
+                            "username": "histoiresdeparfums",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Histoires de Parfums"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465759_790030667795288_4938821685815017472_a.jpg",
+                            "id": "1325473445",
+                            "username": "alessandrosquarzishowroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessandro Squarzi Showroom"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12826242_244373632563890_1965959813_a.jpg",
+                            "id": "235553656",
+                            "username": "alessandrosquarzi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alessandro Squarzi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11925882_744786625630948_2075134943_a.jpg",
+                            "id": "563983145",
+                            "username": "raf_showroom",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Raffaela Labanti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13739459_333804580342120_17501520_a.jpg",
+                            "id": "36918103",
+                            "username": "raffaela2311",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "raffaela2311"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802870_1066601693467854_2459976938651910144_n.jpg",
+                            "id": "461140952",
+                            "username": "tomorrowcrew",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tomorrow London Ltd"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108805_1184722658229386_1185229963_a.jpg",
+                            "id": "12534698",
+                            "username": "giuliatordini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giulia Tordini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12530700_1820725061498298_467371826_a.jpg",
+                            "id": "286055721",
+                            "username": "marcona3",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "SHOWROOM MARCONA3"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380840_1667709843258556_6165654969086115840_a.jpg",
+                            "id": "217889406",
+                            "username": "karllagerfeld",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "KARL LAGERFELD"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

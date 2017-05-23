@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1027,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDNIvIhqYxTC9uTfrNfOCVcCW1hMDfuDyjaaX4BUyKIuQwajmgavu4CXgnWoHmunWTwY78D6nBGUR251Aud1oH5LuLP6g7gv6dBacr9kyG5lw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535341_1166078336775431_515744504741888000_a.jpg",
+                            "id": "22951031",
+                            "username": "lennyniemeyer",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lenny Niemeyer"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583213_1710818592543272_3250025173339865088_a.jpg",
+                            "id": "28475693",
+                            "username": "thelastmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "The Last Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11349387_1645336689011283_781421027_a.jpg",
+                            "id": "200357427",
+                            "username": "bastasurf",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "bastasurf"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914335_653223868059486_1434031198_a.jpg",
+                            "id": "187619120",
+                            "username": "louisvuitton",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Louis Vuitton Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/923838_664446557009685_1812774700_a.jpg",
+                            "id": "198448739",
+                            "username": "danimorla",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Dani Morla"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662233_439232269759077_3667316327439138816_a.jpg",
+                            "id": "300748556",
+                            "username": "nramsaylevi",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Natacha Ramsay-Levi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10299653_1407252476241684_914511485_a.jpg",
+                            "id": "225502498",
+                            "username": "lofficielparis",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "L'Officiel de la Mode"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063275_605836459595888_676938676_a.jpg",
+                            "id": "11206038",
+                            "username": "vanityfair",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vanity Fair"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677513_676939725779743_1411222252_a.jpg",
+                            "id": "301077962",
+                            "username": "karlaotto",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Karla Otto"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095959_400652586987859_555602995249676288_a.jpg",
+                            "id": "181726134",
+                            "username": "thelovemagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "LOVE MAGAZINE"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/929317_933776766713278_937006941_a.jpg",
+                            "id": "22619435",
+                            "username": "voguerunway",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vogue Runway"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821759_142993046044700_159415270_a.jpg",
+                            "id": "35145963",
+                            "username": "marykatrantzou",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Mary Katrantzou"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355174_1667439223476276_746519339_a.jpg",
+                            "id": "281383630",
+                            "username": "driesvannoten",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dries Van Noten"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580219_210400716140135_116186506103619584_a.jpg",
+                            "id": "4206102",
+                            "username": "sorayabakhtiar",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "S O R A Y A  B A K H T I A R"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11379067_957662004280035_1542890849_a.jpg",
+                            "id": "2875238",
+                            "username": "mrstreetpeeper",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Phil Oh"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11848973_1624238887845049_752319781_a.jpg",
+                            "id": "40895536",
+                            "username": "fabienbaron",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Fabien Baron"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12717054_1667374353529637_455841936_a.jpg",
+                            "id": "176547811",
+                            "username": "ellenvonunwerth",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Ellen von Unwerth"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/916457_105291906515041_1513674637_a.jpg",
+                            "id": "4572086",
+                            "username": "facehunter",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Yvan Rodic"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11312124_163372110661035_617158268_a.jpg",
+                            "id": "281905367",
+                            "username": "samtraina",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Samantha Traina"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

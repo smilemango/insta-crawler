@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDi8QNB6rCaOlPYCj_bMDEUlzeVeYTFEQPtodvyaotSWJ1jljMsrgXF-zSSdrJvd7mHHBBpd-4N0OI_7E8xz1hCJUvU3c2UTrslonKMkKf7qw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mike Madrid & Gabriel Garc\u00eda",
+                            "username": "cupofcouple",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14236589",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877521_1842614009323429_6587736119821991936_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "AUBREY\u2693\ufe0fAROUNDTHEWORLD",
+                            "username": "aubreyaroundtheworld",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1367809622",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/915452_892006217492731_1893388149_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bucketlist Travel \u2708\ufe0f\u270c\ud83c\udffc\ufe0f\ud83d\ude0e",
+                            "username": "passportprovocateur",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1163892353",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12552387_179513639079702_1422829285_a.jpg"
+                        }
+                    }
+                ],
+                "count": 306
+            }
+        }
+    },
+    "status": "ok"
+}

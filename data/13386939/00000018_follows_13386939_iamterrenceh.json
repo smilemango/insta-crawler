@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAa8hclbPdx1JQthRt16Flb-n8stliPFSH2WemD2YkrcSLzPdLv_4SKJS8TZFmjZ9k"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MJ",
+                            "username": "eazzybabyy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6855911",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13712573_521809098023619_562576490_a.jpg"
+                        }
+                    }
+                ],
+                "count": 332
+            }
+        }
+    },
+    "status": "ok"
+}

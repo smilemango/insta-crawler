@@ -1,0 +1,15 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [],
+                "page_info": {
+                    "end_cursor": null,
+                    "has_next_page": false
+                },
+                "count": 128
+            }
+        }
+    }
+}

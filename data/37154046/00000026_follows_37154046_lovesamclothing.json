@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC45-u0Tdh_9VQxpsx9WJ4WOBOD_Q3H4fzpmAMXWpyt-fyYHSeDFGmpPKy9xhxGCMo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Saks Fifth Avenue",
+                            "username": "saks",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "4886940",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881831_1681683735396040_2013586194_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "INTERMIX",
+                            "username": "intermixonline",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "6696686",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809631_711168325680639_1117097099_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Calypso St. Barth",
+                            "username": "calypsostbarth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13435824",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909916_734531606658744_911132629_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SINGER22",
+                            "username": "singer22online",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "23418760",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10946566_1377098925922917_985670694_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Shopbop",
+                            "username": "shopbop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10526532",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543085_1657266497894470_4143841_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Burberry",
+                            "username": "burberry",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1889387",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258888_1862506560647666_1499620417315274752_a.jpg"
+                        }
+                    }
+                ],
+                "count": 493
+            }
+        }
+    },
+    "status": "ok"
+}

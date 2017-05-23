@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCanuPREaAXcu04tjbIO7ALs5l4YwAM9NTCrhTG_ocVtHvv84HZh7SEgXyO7B7rcGQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "vaydre",
+                            "username": "vaydre",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2291192",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264640_1631718313754263_839175351_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "FWA",
+                            "username": "fwa",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1747316",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15534915_272965029772778_7198941465332940800_a.jpg"
+                        }
+                    }
+                ],
+                "count": 158
+            }
+        }
+    },
+    "status": "ok"
+}

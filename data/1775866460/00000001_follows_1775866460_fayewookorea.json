@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBabgttQvPoTlxIw9ZGbEcq1z8Oeu7l4Ybwg21K1FOV2tpQ2rhEyYqnyJEcy1zzvZQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Fayewoo",
+                            "username": "fayewoo_uk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4090685997",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14712139_214072125682335_1345827551230033920_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1
+            }
+        }
+    },
+    "status": "ok"
+}

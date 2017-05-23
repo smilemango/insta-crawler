@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 235,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDVme8uuP_Z4tILe1NzHXr7AZEDIjTDAiUiK83lJg8n_7BYZlFRixxfplBPIi8uZPg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11324411_162099007455741_147725241_a.jpg",
+                            "id": "16167804",
+                            "username": "oliviapalermodaily",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Olivia Palermo Daily."
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12383546_227034560961004_1218343020_a.jpg",
+                            "id": "1232690",
+                            "username": "rigeldavis",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Rigel Davis \u7a0b\u9896\u5a55"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10932533_1605873406342796_495036975_a.jpg",
+                            "id": "224602084",
+                            "username": "wendy_zzz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

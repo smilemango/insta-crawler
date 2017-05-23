@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBn8uUdr1D-1Ibi-fB2n3Rc-F8I7KoG_VADQwRQTvM0EgiX5kDPhRHRCzRcGh19rHRx7AWPhCjf0gSJ8-EDctjXTQUgzsL0xZhwJTOZuu4ymQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mavie",
+                            "username": "m.h_________",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "202272673",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251998_458572741157443_3546721926464405504_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "juergentellerfashionpage",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2292512103",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11311476_1669289713316614_93213568_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "CHRISTIE'S",
+                            "username": "christiesinc",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "186555959",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13734234_1742302829360687_1277558144_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sotheby's",
+                            "username": "sothebys",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "298796525",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875713_1321993167822688_3681896444328935424_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MOCA",
+                            "username": "mocalosangeles",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13228654",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10979570_1639431012944542_613318812_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MoMA PS1",
+                            "username": "momaps1",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "280756342",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11379789_828119723945145_212135012_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Blouin Artinfo",
+                            "username": "blouin_artinfo",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "178953948",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11189108_459807467519440_1238275364_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Armory Show",
+                            "username": "thearmoryshow",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "489174325",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12798194_114575255602928_1701807157_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lisson Gallery",
+                            "username": "lisson_gallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5814081",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11251006_972290309459769_1861314008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Perrotin",
+                            "username": "galerieperrotin",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "293286474",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17817814_433980063622266_4277238164923351040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Artsy",
+                            "username": "artsy",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "298824444",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599183_1599275403726431_627841935_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Centre Pompidou",
+                            "username": "centrepompidou",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "691349469",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237401_1507749806220680_1060760306_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Serpentine Galleries",
+                            "username": "serpentineuk",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "185162165",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10655027_841636699193442_1144696770_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Met",
+                            "username": "metmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "246171649",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15534612_1854288031483099_2600721792876150784_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New Museum",
+                            "username": "newmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "22055279",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258630_1613353298973186_1243854998874357760_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Art Observed",
+                            "username": "artobserved",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "223483135",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596781_1687130091303087_9201592403725647872_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Saatchi Gallery",
+                            "username": "saatchi_gallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "438289306",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875398_1693602940869219_1796180059_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Frieze Art Fair",
+                            "username": "friezeartfair",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "365071579",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17266037_1648273718811442_5360395635272974336_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "hauserwirth",
+                            "username": "hauserwirth",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "261318788",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14099756_330557617285739_1686528470_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ARTnews",
+                            "username": "artnewsmag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1267686871",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10665952_1520915561475723_154594471_a.jpg"
+                        }
+                    }
+                ],
+                "count": 506
+            }
+        }
+    },
+    "status": "ok"
+}

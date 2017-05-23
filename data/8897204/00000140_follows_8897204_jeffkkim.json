@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 3292,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDKALvNP90C0-DlRVKeoI9q1U4vfee9aFb5fLjprPaM4HI9Cgolud1RbtOHhTw6Zvhxet-V_kB1dRyxMpvu2UrQHP5RaQLnFHGVXgfXN5QH0g"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10413220_295645663945798_758754982_a.jpg",
+                            "id": "195418253",
+                            "username": "alisoncerrilla",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alison Lee Cerrilla"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126773_1939561329609766_5071350989156515840_a.jpg",
+                            "id": "13931531",
+                            "username": "michaeltkinnane",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Michael Kinnane"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095711_1273206319467203_528192088764841984_a.jpg",
+                            "id": "5670095",
+                            "username": "jamesmcginn",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "James McGinn"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13269586_286176091722112_370881401_a.jpg",
+                            "id": "52252377",
+                            "username": "andremorales77",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Andre Morales"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17075804_922662451170484_3742399627152850944_a.jpg",
+                            "id": "27419969",
+                            "username": "nicolashoyet",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "nicolashoyet"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14733133_1268256936581116_7598764635252064256_a.jpg",
+                            "id": "357748236",
+                            "username": "miguelreveriego",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Miguel Reveriego"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15875688_430089813989036_7978816249641566208_a.jpg",
+                            "id": "5597496",
+                            "username": "alynazimm",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Alyna Zimmerman"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12317640_1528421134141969_1178974604_a.jpg",
+                            "id": "17318164",
+                            "username": "gemmalagden",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gemma Lagden"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10903314_1523583924569693_703210042_a.jpg",
+                            "id": "204669655",
+                            "username": "itsjeremyscott",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jeremy Scott"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14288011_1027663864027279_1619130557_a.jpg",
+                            "id": "177925226",
+                            "username": "michaelstephenshank",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Michael Stephen Shank"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326015_921151894617543_1746826564_a.jpg",
+                            "id": "19014342",
+                            "username": "steph.c.rowe",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stephanie"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

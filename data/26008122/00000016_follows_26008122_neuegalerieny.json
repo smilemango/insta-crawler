@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB8OdW1ImyhXxIceElE0Vhot7-doM0oxLXb7iHZnauuwY2k0pnWECaqXcWoCKbLT_4gwzDCoZ9dzLjSXCkFL9hK72Dupn92g4bQ3d3GhcgAfg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "CBS This Morning",
+                            "username": "cbsthismorning",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "18099218",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788486_1440443809312630_4237011518408884224_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Yale University Art Gallery",
+                            "username": "yaleartgallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "297649925",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14676581_1785334901723816_1952548302343897088_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The New York Times",
+                            "username": "nytimes",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "1624593034",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10995130_343353749194642_863133008_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The New York Public Library",
+                            "username": "nypl",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "228829949",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11373934_499381713570630_89310629_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Getty",
+                            "username": "thegetty",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "253229545",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12269730_900249040088649_1133153948_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Drawing Center",
+                            "username": "drawingcenter",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "220859566",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139896_1484670311862623_807907100_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Storm King Art Center",
+                            "username": "stormkingartcenter",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "178614034",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11349140_1634860933467641_1876637203_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Nasher Museum",
+                            "username": "nashermuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "264351756",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14334717_150820072039941_2984373015061463040_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mus\u00e9e du Louvre",
+                            "username": "museelouvre",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "268193584",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11268089_1038006169544532_2103317544_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Museum of Arts & Design | MAD",
+                            "username": "madmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "590257799",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15305932_928266047308438_3720715973657886720_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "MoMA Store",
+                            "username": "momastore",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "50795017",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585586_1797903917116892_5584709493536587776_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ICA London",
+                            "username": "icalondon",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "504949209",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10349616_1424886131122843_1116012567_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cooper Hewitt",
+                            "username": "cooperhewitt",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "486088132",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10735078_663045993817060_341785387_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Centre Pompidou",
+                            "username": "centrepompidou",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "691349469",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237401_1507749806220680_1060760306_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Babes At The Museum",
+                            "username": "museumbabes",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "308575058",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14711852_1330494893640921_2646911516149809152_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Art in America",
+                            "username": "aianews",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "298317254",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251733_218843788616648_514632499054247936_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Aperture Foundation",
+                            "username": "aperturefnd",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "26624199",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856726_528511093968196_956481243_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Architizer",
+                            "username": "architizer",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12250810",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13285275_234338466947006_97966710_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "VENUS",
+                            "username": "v_over_m",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1332734442",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10413922_597646887001350_1168215722_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kelly Crow",
+                            "username": "kellycrowwsj",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1311184398",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17931862_429000934130266_4137678240636469248_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1417
+            }
+        }
+    },
+    "status": "ok"
+}

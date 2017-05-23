@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCQh2fYoq81bUc4_75rVeCf-nQybExFyLCTJiwp3LPKV4xHB1pyJEchljqPFLpRcIsw7YyzrWEb-K-2au-2BCXD_B8vrQ8I-6ZPHGzBJUjFAw"
+                },
+                "count": 1112,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1623466786",
+                            "followed_by_viewer": false,
+                            "username": "sp2ed",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380822_519053628485141_5872539660340690944_a.jpg",
+                            "full_name": "\ud83c\udde9\ud83c\uddf4\ud83d\udcaf"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

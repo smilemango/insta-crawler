@@ -1,0 +1,115 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "186290412",
+                            "username": "misskarenelson",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802726_109496919557635_6294967118584610816_a.jpg",
+                            "full_name": "Karen Elson",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "13151837",
+                            "username": "chrisellelim",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437993_1830638447263171_5844458146252193792_a.jpg",
+                            "full_name": "Chriselle Lim \ud83c\udf1f \uc784\uc18c\uc815",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "5890342",
+                            "username": "theglamourai",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596214_433824736952918_8575061051534475264_a.jpg",
+                            "full_name": "Kelly Framel",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "2098900",
+                            "username": "evachen212",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907259_602089639947088_213984254_a.jpg",
+                            "full_name": "Eva Chen",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "12488328",
+                            "username": "garancedore",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662260_268973026887008_5417978596817895424_a.jpg",
+                            "full_name": "Garance Dor\u00e9",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "2983181",
+                            "username": "refinery29",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077031_395103094189740_7769977871510011904_a.jpg",
+                            "full_name": "Refinery29",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "11206038",
+                            "username": "vanityfair",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063275_605836459595888_676938676_a.jpg",
+                            "full_name": "Vanity Fair",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "10070230",
+                            "username": "glamourmag",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126522_1261268487297357_4756736822179004416_a.jpg",
+                            "full_name": "Glamour Magazine",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "12864526",
+                            "username": "gq",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12725199_567801390035808_1568225398_a.jpg",
+                            "full_name": "GQ",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQA1MpWMuYBn9a47uEUCLIUl1-GdcfhfDu_AZKYGRg-xkqrSf4ZmWNzR-SeD19TWPB4",
+                    "has_next_page": false
+                },
+                "count": 167
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC_tPsQuQkWgcn6lLiSLKV-ULJe7u_GJo789ZBV8DD21Heqi_ApFIZHOmDUC0clVxI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "You know my name",
+                            "username": "alpha_yx",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1469365988",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110942_1711595829152993_6791576307072237568_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ale Alexandra",
+                            "username": "allxx19",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "264347714",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13736084_1744572465792273_713127587_a.jpg"
+                        }
+                    }
+                ],
+                "count": 6149
+            }
+        }
+    },
+    "status": "ok"
+}

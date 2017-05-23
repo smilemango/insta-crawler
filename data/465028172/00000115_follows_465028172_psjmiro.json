@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDxUztypNg30yFPFZaRHyqArss--bjD2HOqetjKNfKRBVMLDFuKNA2vxqyG9ZLImNU"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sunmi Kim",
+                            "username": "kimcpt",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "407186266",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10727735_287886561404494_1165016410_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SS",
+                            "username": "bydoubles",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "271175720",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11950592_1057778714233150_1596382655_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\uc740\ubc00\ud55c\ubc25\uc0c1 \uc8fc\uc778\uc7a5 \uae40\ud76c\uc885",
+                            "username": "heechongkim",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3654773",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013645_408827826151719_5617391974161055744_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Yonghee Choi",
+                            "username": "bebe_ciel",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "296897465",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382261_1700035573347742_8823612063084445696_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2232
+            }
+        }
+    },
+    "status": "ok"
+}

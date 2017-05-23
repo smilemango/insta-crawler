@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBEl4YT5oRMKZLcJhXmaNkaRsHA3nJozH69dO8bypAfvzQA2ZtMYM5fvoPMwQLsXXk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JiJung Paik",
+                            "username": "jijungpaik",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1222382712",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/12934881_219375718452628_1759265916_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "The Art of Plating",
+                            "username": "theartofplating",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "423502633",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11252574_492843000871687_1785633416_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "AGBB",
+                            "username": "asiangirlbigbites",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "312389084",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751203_604009179749657_1455281217_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hyo Min Park",
+                            "username": "abettermap",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2011238138",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11202492_1618763498366919_337649422_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kim \ud83c\uddf0\ud83c\uddf7\ud83c\udde8\ud83c\udded\ud83c\udde9\ud83c\uddf0 \uc9c4\uc601",
+                            "username": "jykcph",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "13069740",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10707027_299174423620965_942859026_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ji hyun Youn",
+                            "username": "hyun.ee_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2028184184",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10706779_1610852249132017_479992068_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "",
+                            "username": "_yunae_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "679637056",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122458_1225524854151539_5871818561101496320_n.jpg"
+                        }
+                    }
+                ],
+                "count": 247
+            }
+        }
+    },
+    "status": "ok"
+}

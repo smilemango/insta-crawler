@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB0--NJdZN6eIOaILp0geyfcGxWcbHW1nJaY03agnI9uS1TLGe7HHvX4TUGbHutOyc"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mehdi Oubihi",
+                            "username": "elmehdi_oubihi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1689481587",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535451_364550777245380_3593630270781128704_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jibou Abdellatif",
+                            "username": "abdellatifjibou",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1716958272",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17587415_1856213081301455_494945051869184000_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u00c0f\u0151 Uf\u00e5",
+                            "username": "ufa.afo",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3970901257",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14478366_199331907146003_3629830179297165312_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "k\u00e3d\u012bj\u00e5kh",
+                            "username": "elkhabbaziakhadija",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1831462175",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12139694_936256683098177_1646800235_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1082
+            }
+        }
+    },
+    "status": "ok"
+}

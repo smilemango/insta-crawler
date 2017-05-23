@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "682506121",
+                            "username": "bravo_ra",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18512480_1675888429384376_8528610464832159744_a.jpg",
+                            "full_name": "Kim vora",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "353810285",
+                            "username": "stories_of_lee",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299470_1354125354622687_6531698268466839552_a.jpg",
+                            "full_name": "Out",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCHzBPnPOm6BmLfyCdNfof0qXXdqUgj099XPO3VmdqZhMtmXCB34B_fNDvTyUR3KWc",
+                    "has_next_page": false
+                },
+                "count": 413
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDO6DK5SDeFsy1Sl_KJu8I_Y3ib1wMT1Cm9xOL-ME1OYEi-tB0qpQOrnSHStdFf8Sj2tQCoeG3MybdqL0g-wqlz7b88eGKWVU_baWlauH-s3w"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kenny",
+                            "username": "kenny.tay90",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2060634149",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18514123_1717510201598740_7086606926418542592_n.jpg"
+                        }
+                    }
+                ],
+                "count": 875
+            }
+        }
+    },
+    "status": "ok"
+}

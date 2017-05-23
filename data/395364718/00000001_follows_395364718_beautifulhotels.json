@@ -1,0 +1,104 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBiGKcms_RElp18s4geNwlLO7WB8MnJcGV4HIM8VQYsGvsqahxhTYmlPeKyWd9_wcY"
+                },
+                "count": 8,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1836517576",
+                            "followed_by_viewer": false,
+                            "username": "beautifulhomes",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160658_425366287813142_7461351743641616384_a.jpg",
+                            "full_name": "BEAUTIFUL HOMES"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1137163363",
+                            "followed_by_viewer": false,
+                            "username": "beautifulmatters",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095860_649801868550324_2480419625771204608_a.jpg",
+                            "full_name": "BEAUTIFUL MATTERS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "542555582",
+                            "followed_by_viewer": false,
+                            "username": "beautifulcuisines",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096395_160775801118315_8754970256537026560_a.jpg",
+                            "full_name": "BEAUTIFUL CUISINES"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "276192188",
+                            "followed_by_viewer": false,
+                            "username": "beautifuldestinations",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160425_639966976202738_4013560596384448512_a.jpg",
+                            "full_name": "BEAUTIFUL DESTINATIONS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "261380553",
+                            "followed_by_viewer": false,
+                            "username": "jeremyjauncey",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12276957_204315906571718_674215546_a.jpg",
+                            "full_name": "Jeremy Jauncey"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1477014088",
+                            "followed_by_viewer": false,
+                            "username": "beautifulmenswear",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10654911_1533840240180684_1517496471_a.jpg",
+                            "full_name": "BEAUTIFUL MENSWEAR"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1322180210",
+                            "followed_by_viewer": false,
+                            "username": "beautifulapparel",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012073_356855228050330_5026564491828002816_a.jpg",
+                            "full_name": "BEAUTIFUL APPAREL"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "322409978",
+                            "followed_by_viewer": false,
+                            "username": "nickevansbd",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10483537_780774211942858_2023908864_a.jpg",
+                            "full_name": "Nick Evans"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

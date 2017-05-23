@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCL7Lincv_nXY2Fo4GOFTCQcPfldIXCQZRH9xvT8Glt7ZKd-YeDr3Wx94rCLPNdKLNyK232d1oebLNHtrJ2j5bKh6zmuIZ6ckhpo7iHuKiDVw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14659224_1788313138118380_5437651217775853568_a.jpg",
+                            "id": "46248701",
+                            "username": "tahatangestani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Taha"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11242396_1607953016114189_814059308_a.jpg",
+                            "id": "1951367",
+                            "username": "djnoren",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gabe Roche"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

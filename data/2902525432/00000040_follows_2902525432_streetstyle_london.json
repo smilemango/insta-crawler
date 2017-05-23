@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 772,
+                "page_info": {
+                    "end_cursor": "AQAK8ZuES3r_rFRB_qDnT42koG40tj-2-zr9rSXLFTrD1BzYv_kR4xXs_jvGM8GD2QM",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "1639967569",
+                            "username": "blogging4style",
+                            "full_name": "\ud83d\udd38Fashion\ud83d\udd38Lifestyle\ud83d\udd38Inspiration",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13686928_154016051706335_1411071585_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

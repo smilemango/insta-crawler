@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1323,
+                "page_info": {
+                    "end_cursor": "AQCgjioL0lS0UfFTeGCKwek99OQXB8QplkelhM2DJRbwY46-eAR6ruun7RHMf9WdNh-okm8bbhgAi6vikFIKMhTFuQL0NGVGNGCFiNHBLSs9Tg",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "18534103",
+                            "username": "alroker",
+                            "full_name": "Al Roker",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11426660_120695528275177_537553902_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "471485330",
+                            "username": "timgunn",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856674_1670610683159328_671879944_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "205593849",
+                            "username": "nfl",
+                            "full_name": "NFL",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252881_638900112982246_1364652620521668608_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "23551779",
+                            "username": "zacposen",
+                            "full_name": "Zac Posen",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1799649_1516783698645273_1199845452_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "8726122",
+                            "username": "fusetv",
+                            "full_name": "Fuse",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011374_989105084553594_6957607845676187648_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2440497",
+                            "username": "cbstv",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11241705_979219455445109_2061180659_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "251854607",
+                            "username": "54below",
+                            "full_name": "Feinstein's/54 Below",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13696384_109466896159586_1101905445_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5814140",
+                            "username": "todayshow",
+                            "full_name": "TODAY",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013418_171124196744524_1676516406406938624_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3536815",
+                            "username": "thedailybeast",
+                            "full_name": "The Daily Beast",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380321_1671129173196676_6150877365305081856_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "295038040",
+                            "username": "bronxzoo",
+                            "full_name": "Bronx Zoo",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1173079_653279934812480_907281187_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "862050359",
+                            "username": "statenislandusa",
+                            "full_name": "StatenIslandUSA",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375156_485833494921678_1071328308_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "19009288",
+                            "username": "nbcnewyork",
+                            "full_name": "NBC New York",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13686809_630445453800487_529683726_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "787132",
+                            "username": "natgeo",
+                            "full_name": "National Geographic",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13597791_261499887553333_1855531912_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "177517445",
+                            "username": "msnbc",
+                            "full_name": "MSNBC",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802549_228227450965742_6127018109011230720_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "18100510",
+                            "username": "fallontonight",
+                            "full_name": "The Tonight Show",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881678_1687056488197021_1918987309_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2920040",
+                            "username": "andersontv",
+                            "full_name": "Anderson Live",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326478_538201642997165_250364643_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "599979914",
+                            "username": "amnewyork",
+                            "full_name": "amNewYork",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11348131_516139785205884_1732454087_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "364273121",
+                            "username": "rosannascotto",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371181_978471682215400_1179909539_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "254127847",
+                            "username": "923amp",
+                            "full_name": "92.3 AMP NYC",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122425_1275932562489166_1269628887164256256_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "242811111",
+                            "username": "statenislandferry",
+                            "full_name": "Staten Island Ferry",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850004_879114328808636_1941878285_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

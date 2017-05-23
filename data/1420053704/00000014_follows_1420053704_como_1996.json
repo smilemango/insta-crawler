@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1208229400",
+                            "username": "mujin___",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357820_1659124547708258_204650154_a.jpg",
+                            "full_name": "Mujin Choi",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1410208602",
+                            "username": "taeyang4u",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662690_190676998089273_8191884049573216256_a.jpg",
+                            "full_name": "park tae yang",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQDeAGwbVOBJkFIU7wt80m9kq85-4WBQnEeiPfnXD3fbMZksYd7pXBOgkyw7gX82CMU",
+                    "has_next_page": false
+                },
+                "count": 258
+            }
+        }
+    }
+}

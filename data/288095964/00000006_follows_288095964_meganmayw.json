@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 681,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQAQXy4vnJZyVMDEX9ev988YnMjDi-KfasGP0mstTCGkc9VJU0afLrHciS2Am6CJl8OoeRRxtxSJPafo_xEW0q-O1R6a94Qz661kxPmywBASiQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13731126_1124400684301062_1935223298_a.jpg",
+                            "id": "1906837",
+                            "username": "michaelkors",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Michael Kors"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17125364_1735054946785634_4024956136758181888_a.jpg",
+                            "id": "7237610",
+                            "username": "womenshealthmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Women's Health Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727679_261125527623417_5154614925963821056_a.jpg",
+                            "id": "17372994",
+                            "username": "marieclairemag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Marie Claire"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13113881_1694827967449532_763514254_a.jpg",
+                            "id": "24852591",
+                            "username": "allure",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Allure Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11282209_863644490383627_1916055385_a.jpg",
+                            "id": "539702217",
+                            "username": "portermagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "PORTER magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17075951_1855530908067906_2419007554853011456_a.jpg",
+                            "id": "3119358",
+                            "username": "nylonmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Nylon Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11232704_690788074359060_178738687_a.jpg",
+                            "id": "178598981",
+                            "username": "elleusa",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Elle Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126522_1261268487297357_4756736822179004416_a.jpg",
+                            "id": "10070230",
+                            "username": "glamourmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Glamour Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063275_605836459595888_676938676_a.jpg",
+                            "id": "11206038",
+                            "username": "vanityfair",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Vanity Fair"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10488730_1754467621453387_937971884_a.jpg",
+                            "id": "28759374",
+                            "username": "people",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "People Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11008208_354291204759936_701050971_a.jpg",
+                            "id": "43757100",
+                            "username": "maximmag",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "MAXIM"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16583936_967715733362987_4812516958316527616_a.jpg",
+                            "id": "22636146",
+                            "username": "vmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "V Magazine"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599210_1266879739993740_674087546_a.jpg",
+                            "id": "11830955",
+                            "username": "taylorswift",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Taylor Swift"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13532039_151058571966787_2146365103_a.jpg",
+                            "id": "4333854",
+                            "username": "bfa",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Images Matter."
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14723735_1790655704549897_1356608185430966272_a.jpg",
+                            "id": "181306871",
+                            "username": "georgiamayjagger",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Georgia May Jagger"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076891_633561266837490_4702850268402810880_a.jpg",
+                            "id": "191014532",
+                            "username": "studio_jackson",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Daniel Jackson Photography"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906303_959424924120518_1031079524_a.jpg",
+                            "id": "5860403",
+                            "username": "ragandbone",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "rag & bone"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465429_589861287888674_8830641004697616384_n.jpg",
+                            "id": "6860189",
+                            "username": "justinbieber",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Justin Bieber"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13715215_261822970865747_1481930101_a.jpg",
+                            "id": "1389027341",
+                            "username": "calebandgladys",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "CALEB & GLADYS"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011955_1277246462359403_4147301501410213888_a.jpg",
+                            "id": "20952125",
+                            "username": "cturlington",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Christy Turlington Burns"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

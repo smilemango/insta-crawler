@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDaiaXE0oxGvurX1b_T81AHR_YbvSczaDxqIs9EvsV85xH27hqTvFh-E5R5r27YK0Q"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Layla Lari",
+                            "username": "larisurfari",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "24275309",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624093_590821707785685_5465838194786304000_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Angeline Rose Troy",
+                            "username": "angelinertroy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "19004117",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881754_518467404974589_449585086_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sophie // Philosophie Goddess",
+                            "username": "sophie.jaffe",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3525687",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17075915_1781279092194130_1604190888014118912_a.jpg"
+                        }
+                    }
+                ],
+                "count": 234
+            }
+        }
+    },
+    "status": "ok"
+}

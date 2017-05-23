@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 676,
+                "page_info": {
+                    "end_cursor": "AQBw316Lo16twSkzxRoN7ykijO3z9tk_u9MV5kgPI6HKbefr-BtmL_mrXNKJf5guVogfws_RII8HhqgjU28jUjTN231FthvHtvSUgLqsFxBLMg",
+                    "has_next_page": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "6913295",
+                            "username": "garypeppergirl",
+                            "full_name": "Nicole Warne",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108539_1701583913436862_84078897_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "296010508",
+                            "username": "mylittlesunnyc",
+                            "full_name": "My Little Sunshine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14718023_1155747867826117_8771645179300937728_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "7141888",
+                            "username": "mraetendencies",
+                            "full_name": "M A D I S O N   R A E",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096367_423201828046618_6169995634834145280_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1452023682",
+                            "username": "bonpoint",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803073_240853963007486_472280079951462400_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "15921631",
+                            "username": "emilyandmeritt",
+                            "full_name": "Emily Current & Meritt Elliott",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10623673_1454393964847984_546420853_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "4362770",
+                            "username": "thetot",
+                            "full_name": "The Tot",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534519_1682207495380693_537596357_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6590609",
+                            "username": "kevinhart4real",
+                            "full_name": "Kevin Hart",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515783_1158525867560668_3834942711954145280_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "622809029",
+                            "username": "dsokoler",
+                            "full_name": "David Sokoler",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11426432_726669087479296_1602967552_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "22061865",
+                            "username": "strugatz",
+                            "full_name": "Rachel Strugatz",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821250_759585604167893_145356191_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3136466568",
+                            "username": "rscrespi",
+                            "full_name": "Robbie Crespi",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12959943_1731592520390084_1060904614_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2995629248",
+                            "username": "mamaandtata",
+                            "full_name": "Mama & Tata",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519457_1602022530119024_522353566_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1702259586",
+                            "username": "thegoodvoice",
+                            "full_name": "Singing Videos",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299020_1892398894357690_5570331291649310720_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1271209",
+                            "username": "vanessaflay",
+                            "full_name": "Vanessa Flaherty",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13658479_874908402640979_605382499_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6598772",
+                            "username": "cygmakeup",
+                            "full_name": "Cassandra Garcia",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11357013_436272856575090_29382743_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "242666568",
+                            "username": "vanessabryant",
+                            "full_name": "Vanessa Bryant",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12950316_139458873117289_828204888_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "17203943",
+                            "username": "cnaselli",
+                            "full_name": "Christopher Naselli",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13385766_1822388511317523_264604723_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "231304447",
+                            "username": "aimeebelser",
+                            "full_name": "",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850196_1177593168934219_609265358_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "401066686",
+                            "username": "citizenofwe",
+                            "full_name": "Rebekah Neumann",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12328120_1748660715364201_444521205_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "43663840",
+                            "username": "mathildegoehler",
+                            "full_name": "Mathilde G\u00f8hler",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13266862_1708389842761584_352269684_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "40402619",
+                            "username": "bcharnas",
+                            "full_name": "Brandon Charnas",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228533_1854105741495668_6005182011516387328_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

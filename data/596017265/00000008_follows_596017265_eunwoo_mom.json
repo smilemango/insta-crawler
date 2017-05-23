@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "349596016",
+                            "username": "smkyun33",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850214_1027337673957673_1810563401_a.jpg",
+                            "full_name": "\uc774\ucf20 Respect",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "415376503",
+                            "username": "he.art.mond",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443532_1690129841294040_9168989715003604992_a.jpg",
+                            "full_name": "\uacf5\ubcd1\uac01",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQCVsmVsPsWTP13AyToPde6IIenuB8ky_ELI8JGmr4vE9vMsDg8vFvBLurwyPZgv6Lo",
+                    "has_next_page": false
+                },
+                "count": 139
+            }
+        }
+    }
+}

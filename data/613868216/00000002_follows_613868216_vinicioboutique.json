@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 456,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDkzSmfeJUch9GGHB5d5FCgY0Adta_R_CCSRYHfF2_IjxciD_1GlIi6jx8hQCjGl7wY9JomBZoSW2atFyJglar-u-ttdzI430ihT8jRCz7gHA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17268024_1741186056195687_7030830896269754368_a.jpg",
+                            "id": "1559275229",
+                            "username": "avant.arte",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Avant Arte"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10655027_841636699193442_1144696770_a.jpg",
+                            "id": "185162165",
+                            "username": "serpentineuk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Serpentine Galleries"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258630_1613353298973186_1243854998874357760_a.jpg",
+                            "id": "22055279",
+                            "username": "newmuseum",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "New Museum"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251733_218843788616648_514632499054247936_a.jpg",
+                            "id": "298317254",
+                            "username": "aianews",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Art in America"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10665952_1520915561475723_154594471_a.jpg",
+                            "id": "1267686871",
+                            "username": "artnewsmag",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ARTnews"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624324_356136418056468_2428281527411408896_a.jpg",
+                            "id": "1790800967",
+                            "username": "galleriacarlasozzani",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "FONDAZIONE  SOZZANI"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534515_916784235101988_565592333_a.jpg",
+                            "id": "201933447",
+                            "username": "museodel900",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Museo del Novecento"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13392858_580370435498985_320050626_a.jpg",
+                            "id": "546442988",
+                            "username": "flashartmagazine",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Flash Art"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12237401_1507749806220680_1060760306_a.jpg",
+                            "id": "691349469",
+                            "username": "centrepompidou",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Centre Pompidou"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14269204_180965869005294_65994782_a.jpg",
+                            "id": "331778081",
+                            "username": "latriennale",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "La Triennale di Milano"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11098656_577246339045582_857492758_a.jpg",
+                            "id": "1960416790",
+                            "username": "labiennale",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "La Biennale di Venezia"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375163_1661330480820638_2098750039_a.jpg",
+                            "id": "29603149",
+                            "username": "miartmilano",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "miart"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095748_1970589139831530_8308059367287029760_a.jpg",
+                            "id": "321787737",
+                            "username": "montovoli",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Andrea Montovoli \ud83c\udfac\u2122 Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14027316_1518047821554323_1588670491_a.jpg",
+                            "id": "46795185",
+                            "username": "jasmina_alagic",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jasmina Alagi\u010d"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230553_401062053569102_1341434710219292672_n.jpg",
+                            "id": "948148",
+                            "username": "kerina_hsueh",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Kerina*\u859b\u599e\u599e"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11258103_1485068095117865_396045281_a.jpg",
+                            "id": "7654777",
+                            "username": "giorgiatordini",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giorgia Tordini"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076561_1853387214932579_6350218402514075648_a.jpg",
+                            "id": "14781303",
+                            "username": "gildaambrosio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Gilda Ambrosio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850239_1666101536939754_924897469_a.jpg",
+                            "id": "425915244",
+                            "username": "alexandreherchcovitch",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Alexandre Herchcovitch"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10946545_312315118965935_1396533660_a.jpg",
+                            "id": "1664385008",
+                            "username": "rabaramaofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Rabarama Official"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381841_404643323253701_8864851733470248960_a.jpg",
+                            "id": "2463047524",
+                            "username": "diormakeup",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dior Makeup"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

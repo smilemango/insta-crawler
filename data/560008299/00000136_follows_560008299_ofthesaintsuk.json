@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDsPADAI4ukRANf8o-80t9VipwOmosbInv0bRL_ku8y8ZP9WKUjcwnCI02YpnzGAU4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Molly Tilbrook",
+                            "username": "mollytilbrook",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "231376871",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789100_370471956658338_2185595688841117696_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "KATE LA VIE",
+                            "username": "kate.lavie",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11526250",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160592_761432947364439_5071282956874547200_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lyzi Unwin.",
+                            "username": "being_little",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "44690600",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881786_1883173245296633_6176492348394962944_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lily Melrose",
+                            "username": "llymlrs",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1203894",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580082_1813904748926472_8349196430904131584_a.jpg"
+                        }
+                    }
+                ],
+                "count": 2650
+            }
+        }
+    },
+    "status": "ok"
+}

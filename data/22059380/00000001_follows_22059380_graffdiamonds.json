@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1418546339",
+                            "username": "alibinali_luxury",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14716476_1049657441798276_5248699994218692608_a.jpg",
+                            "full_name": "Ali Bin Ali Luxury",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "791855295",
+                            "username": "mercury_russia",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558448_1733986086830575_436551042_a.jpg",
+                            "full_name": "Mercury",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1829624611",
+                            "username": "graff_cyprus",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11098304_912684865464378_1207916546_a.jpg",
+                            "full_name": "Graff Boutique Cyprus",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "4886940",
+                            "username": "saks",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11881831_1681683735396040_2013586194_a.jpg",
+                            "full_name": "Saks Fifth Avenue",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": false,
+                            "id": "1028772004",
+                            "username": "delairegraff",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10731926_653423634775902_858761623_a.jpg",
+                            "full_name": "Delaire Graff Estate",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "9453373",
+                            "username": "harrods",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443853_234946390323373_1066077931601657856_a.jpg",
+                            "full_name": "Harrods",
+                            "requested_by_viewer": false,
+                            "followed_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQC410c8l2egL6rBA39jvBqbfQ1Bw-HbpO4z5Eng3i7zp-jwTUNs7UDkOgUKhhp1Uqc",
+                    "has_next_page": false
+                },
+                "count": 6
+            }
+        }
+    }
+}

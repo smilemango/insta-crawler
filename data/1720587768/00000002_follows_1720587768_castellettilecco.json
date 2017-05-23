@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 62,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCwEAtQIInFK7ss6XVCcH6xORMCXB8wLHf-1uCjq7t44In29xoTlcGCvLlRvnR5q6jCyeQz6FNO2RUwS6oyMikimevhJYm0d-hYXWPz14t1Nw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264601_116883675325342_163295204_a.jpg",
+                            "id": "178733366",
+                            "username": "alexanderwangny",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "ALEXANDER WANG"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12531072_1560969467535937_984363712_a.jpg",
+                            "id": "5123245",
+                            "username": "dolcegabbana",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Dolce & Gabbana"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850395_781528011955623_1449583618_a.jpg",
+                            "id": "305083839",
+                            "username": "miumiu",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Miu Miu"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908799_1455318101144896_8455862046779506688_a.jpg",
+                            "id": "20032127",
+                            "username": "ysl",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "SAINT LAURENT"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850052_1654448704768135_1464111520_a.jpg",
+                            "id": "695995017",
+                            "username": "chanelofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "CHANEL"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12063281_915775545178668_2024670251_a.jpg",
+                            "id": "331745456",
+                            "username": "pacorabanne",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Paco Rabanne"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13722089_1074519332616135_270736597_a.jpg",
+                            "id": "2188641150",
+                            "username": "giovanna.pan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Giovanna Panzeri"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14240557_589839564537762_818626055_a.jpg",
+                            "id": "176562134",
+                            "username": "ash",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Ash (Official Page)"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10959070_803935863011910_619195449_a.jpg",
+                            "id": "225852856",
+                            "username": "lautrechose",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "L'Autre Chose"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17265620_278619925905978_6491717251132030976_a.jpg",
+                            "id": "1390797475",
+                            "username": "ainea_official",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "AINEA"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494398_1438302859574592_1450341465799524352_a.jpg",
+                            "id": "763661647",
+                            "username": "marcellisnewyork",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marc Ellis"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14032988_1788005848103548_1264213114_a.jpg",
+                            "id": "8696369",
+                            "username": "stefanogabbana",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "stefanogabbana"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252635_634960246696406_8486619986918375424_a.jpg",
+                            "id": "308838882",
+                            "username": "elenaaaehe",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Elena Holdal Evensen \ud83d\udc2d"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585671_413621785647765_4894079104527106048_a.jpg",
+                            "id": "19769622",
+                            "username": "chiaraferragni",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Chiara Ferragni"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11093085_804743636242114_1025778596_a.jpg",
+                            "id": "1951208828",
+                            "username": "fashion.voyage",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Women's FASHION VOYAGE\u00ae"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443609_310633009366121_832320561240604672_a.jpg",
+                            "id": "1939075466",
+                            "username": "life_with__fashion",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Life_with__fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802157_887794138027093_8898797213652615168_a.jpg",
+                            "id": "2580711403",
+                            "username": "drunk4fashion",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Drunk4Fashion"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515838_557824237761861_7849449734447038464_a.jpg",
+                            "id": "29093846",
+                            "username": "aquazzura",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "AQUAZZURA by Edgardo Osorio"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363844_1610565245866652_2114040297_a.jpg",
+                            "id": "19330127",
+                            "username": "mytheresa.com",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "mytheresa.com"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11312193_1057894827556410_937015388_a.jpg",
+                            "id": "1586523229",
+                            "username": "milano_streetstyle",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

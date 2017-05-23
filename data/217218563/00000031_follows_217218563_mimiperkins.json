@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBAKCbnfnJUgTFY5kSdNQ1RDo9VB-sYAHpH6zVnrJIoCNIKkp9bvjLT69vxNaFUOd4"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Candice Swanepoel",
+                            "username": "angelcandices",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "43114731",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624567_234441336967976_775734229676851200_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kylizzle",
+                            "username": "officialkylie",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8724642",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10387892_263563343830024_494390309_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "JASMINE \ud83c\udf39",
+                            "username": "jasmineehoy",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "211170612",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662491_505952906244901_7491748077598932992_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bella Thomas",
+                            "username": "bellathomas",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "3365966",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803700_745083888974824_21532595200196608_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "t a y l a",
+                            "username": "taylarosen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "15295077",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788995_605859499602704_1490347475549028352_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sacha Aldred",
+                            "username": "sachaaldred",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "222498441",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381738_436919363351466_1063670842950418432_a.jpg"
+                        }
+                    }
+                ],
+                "count": 574
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBtPiMMaUQ1TjaZTkJQM_0j0pUZVrFrpTGYJpFsYRRfBqUM5nuqAtBwDaaL--uMCIk"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Mirketa",
+                            "username": "mirketa",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11694501",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14561746_358214877866093_868054547409403904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lita Jewellery",
+                            "username": "litajewellery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1535969307",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10890642_765221863547167_136582346_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "\ud83c\udf80DailyFashionDose\u2022Inspo&more\ud83c\udf80",
+                            "username": "dailyfashion.greece",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1513572881",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14504848_531884457001769_5373938959942418432_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "TM\u2800\u2800\u2800",
+                            "username": "ilovemademoiselle.t",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "260929304",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519125_916000298498457_2126629922_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "street_style_paris",
+                            "username": "street_style_paris",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2038106247",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12940931_888466261276224_1347905896_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Only The Most stylish\u203c\ufe0f\ufe0f",
+                            "username": "the_most_stylish_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2024255319",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12298898_1147580291938561_502955436_a.jpg"
+                        }
+                    }
+                ],
+                "count": 240
+            }
+        }
+    },
+    "status": "ok"
+}

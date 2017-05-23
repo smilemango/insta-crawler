@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDRvozSy_lnL8MTsMlZORnpRNLOj4CdiO8yjgjoqhqbavQYkKnCr8dkz4F4oDt_SrY"
+                },
+                "count": 278,
+                "edges": [
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "9614635",
+                            "followed_by_viewer": false,
+                            "username": "beachyogagirl",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443737_451177398550939_2731896549431836672_a.jpg",
+                            "full_name": "Kerri Verna"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "624360091",
+                            "followed_by_viewer": false,
+                            "username": "sjanaelise",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18581142_1848522778804915_5657324325221433344_a.jpg",
+                            "full_name": "SJANA ELISE EARP"
+                        }
+                    },
+                    {
+                        "node": {
+                            "is_verified": true,
+                            "id": "822609007",
+                            "followed_by_viewer": false,
+                            "username": "soniatlevfitness",
+                            "requested_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17127069_167666080413714_1428322676006453248_a.jpg",
+                            "full_name": "Sonia Tlev\u2022Personal Trainer\u2022"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

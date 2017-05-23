@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 680,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDkNzhjwk3gJmoPqrHbvNNqFDgKfNDOg7G3fWZqXCVQyCweol4OVQoXnXqdhCyEWosmRjfO6YirInyO87icANp0EhXPvl5Vu1YvezPtk8qwWw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624505_352820225095080_9130277654346334208_a.jpg",
+                            "id": "355294452",
+                            "username": "manchicorrea",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Martina Correa"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624098_1801659790100111_3168798678823469056_a.jpg",
+                            "id": "2523355875",
+                            "username": "angelcandicelais",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "C A N D I C E  &  L A I S"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063402_778206142321128_495392855_a.jpg",
+                            "id": "5911623",
+                            "username": "girefatti",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "giovanarefatti"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15539050_223731421404155_918044384732119040_n.jpg",
+                            "id": "4141580269",
+                            "username": "laisoliveraofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lais Oliveira"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934222_282510928860734_3695661758678040576_a.jpg",
+                            "id": "1283942917",
+                            "username": "wrznasty",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "charlie wrzesniewski"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580885_208482499669752_4618946497432518656_a.jpg",
+                            "id": "4097222496",
+                            "username": "jaque.32",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jaque \ud83d\ude1c"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/924455_269114563279462_356869853_a.jpg",
+                            "id": "20641491",
+                            "username": "vera_sawicki",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Vera"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077734_1875256772751418_2774925103761195008_a.jpg",
+                            "id": "4233308920",
+                            "username": "llgrotheoliveira",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Lais & Luma FOLLOW\u2728"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299007_1826970977623221_4015003782705315840_a.jpg",
+                            "id": "18976993",
+                            "username": "leandrolimale",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Leandro Lima"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17265440_117134432156333_978768457724067840_a.jpg",
+                            "id": "8832415",
+                            "username": "emanueladepaula",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Emanuela De Paula"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11930853_1618172178449594_886093657_a.jpg",
+                            "id": "10465423",
+                            "username": "angi_welsch",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Angi Welsch"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482106_1780387835542671_7493241673950953472_a.jpg",
+                            "id": "1147146",
+                            "username": "danjaramillo",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Daniel Jaramillo"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011258_1846453842271899_2641440745721954304_a.jpg",
+                            "id": "2236205977",
+                            "username": "120705x",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Marion - \ud83d\udccdParis."
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15625387_576754319201787_2845717022476599296_a.jpg",
+                            "id": "2211141478",
+                            "username": "kinglaisoliveira",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "She Follows\ud83d\ude01\ud83d\ude48\u2665"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802188_1044952402317156_8226513365858516992_n.jpg",
+                            "id": "3092040177",
+                            "username": "inlovewithlais",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15305870_198312920573313_3737230389198979072_a.jpg",
+                            "id": "6425096",
+                            "username": "lamekafox",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Lameka Fox"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12356391_722201644547590_1813522909_a.jpg",
+                            "id": "1543338813",
+                            "username": "dogpound",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "DOGPOUND"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464829_863782437097073_1239025754826604544_a.jpg",
+                            "id": "1189647449",
+                            "username": "oliveirasource",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "New Theme Is Coming \ud83d\udc95"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11184714_846729138698326_209406374_a.jpg",
+                            "id": "2008423556",
+                            "username": "primemgmt",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "PRIME Model Management"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCJxu4P9sgVKzpTGs6HAxo52TNAldb3DLcyui0wT2JTTs7t8dtSFn9quMZb6UE_D_CyG1gBxaKf7bWaoSptsPRR7DonNaFuAoJlfYUBicvcyQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Beth Kirby",
+                            "username": "local_milk",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "32355035",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13651726_1197381097002129_1437751533_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ilana Kohn",
+                            "username": "ilanakohn",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14351702",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11939492_421624258034033_460721738_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "C E R E A L",
+                            "username": "cerealmag",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "254493152",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906477_215783122230502_5529611797637627904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "persephonevint",
+                            "username": "persephonevint",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "183899552",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14295338_220727541675155_7499239535650275328_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "apartamento magazine",
+                            "username": "apartamentomagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "407952848",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12519556_1697764347149871_912290299_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rach Albright",
+                            "username": "rachpop",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11155797",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12356599_111606375876809_1218452387_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "dusendusen",
+                            "username": "dusendusen",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "9004012",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910521_924172130976720_1197648012_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "B SIDES",
+                            "username": "b_sides_jeans",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "193230996",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849326_874298995981652_1839232575_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Janelle Pietrzak",
+                            "username": "janelle_pietrzak",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "8329891",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586558_453436731671186_5555209149886758912_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "SHAINA MOTE",
+                            "username": "shainamote",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "324925",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11056014_603443153125139_1265871727_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Assembly",
+                            "username": "assemblynewyork",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "19879312",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547519_451975418337435_2050915619_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Humans of New York",
+                            "username": "humansofny",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "242598499",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10706901_1470474913241881_1565735513_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "New York Magazine",
+                            "username": "nymag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "21723588",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899620_548948698586046_1027842781_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sight Unseen",
+                            "username": "_sightunseen_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "298641207",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11355727_1603839423216491_598577735_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tavi Gevinson",
+                            "username": "tavitulle",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12076788",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677712_1550087495303724_533036047_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kinfolk Magazine",
+                            "username": "kinfolk",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "7452999",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906145_257439684702626_26687140070948864_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lena Dunham",
+                            "username": "lenadunham",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "13875723",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580233_340193533062907_2563670278244663296_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "T: The NYTimes Style Magazine",
+                            "username": "tmagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "212660742",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586948_349600655435215_4199413022512381952_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cass Bird",
+                            "username": "cassblackbird",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "195674570",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325431_782339951882228_1442123429_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Sheena Liam | \u7c98\u60a6\u99a8",
+                            "username": "_______ism",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "4359041578",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122412_1918605725034923_2919771892271284224_n.jpg"
+                        }
+                    }
+                ],
+                "count": 935
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBWrZrObQd6FmDTdIfR08sY3P0QBk5wMWPBekjZkSUgpBPJIkA0y9tqpHsZEo6mXlldDfhngCZ0MKQOj-5XJOyf4sQzKJKQDsZpiu5AC6F9Tw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126815_1860993207455307_4010669662487445504_a.jpg",
+                            "id": "34020566",
+                            "username": "neil_dz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u03b7 \u0454 \u03b9 \u2113  \u2202 \u0455 \u03c3 \u03c5 \u017a \u03b1"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

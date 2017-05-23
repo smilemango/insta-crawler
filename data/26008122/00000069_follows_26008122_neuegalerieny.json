@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCVNE815WO8D4INmTzs5E9VinkLJ23sI6JEkIWqyRAzn6ENiJxUUPdT3hFUyZiLt58fdajFSRAQQad3YEqmc9LrTpD5yOZW_zU768niL613AA"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Rebecca Taylor",
+                            "username": "rebeccataylorny",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "15880820",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850239_1471778523143575_2128642252_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pitchfork",
+                            "username": "pitchfork",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "7842406",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17076166_692680304249232_3494078619691515904_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kyle Chayka",
+                            "username": "kchayka",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "18952339",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10661299_797449056972571_240722485_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Julia Halperin",
+                            "username": "juliahalperin",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "15851884",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875498_511493032342346_1178030350_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "HuffPost",
+                            "username": "huffpost",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "21943587",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18094637_281041185688730_5093428499742457856_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gothamist",
+                            "username": "gothamist",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "27867831",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535442_666289433533056_6762951904822558720_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "George Eastman Museum",
+                            "username": "eastmanmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "46821594",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596361_801770916645473_1865525586252791808_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Cool Hunting",
+                            "username": "coolhunting",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "3773644",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13556741_630955283736093_250599765_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Albright-Knox Art Gallery",
+                            "username": "albrightknox",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "23972948",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13534027_271079613250596_1994448750_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Hyperallergic",
+                            "username": "hyperallergic",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "21227680",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849003_1620796831534543_1947582022_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Laguna Art Museum",
+                            "username": "lagunaartmuseum",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "190616570",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14359374_1675032346149494_1328570657_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Pace Gallery",
+                            "username": "pacegallery",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11473279",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821276_1054330904585763_1302064016_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Printed Matter, Inc.",
+                            "username": "printedmatterinc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "184585469",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11374087_864303886950916_493498905_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Uprise Art",
+                            "username": "uprisenyc",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "39835380",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12132748_1638833273030859_563845702_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Time Out New York",
+                            "username": "timeoutnewyork",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "9179228",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11378783_139179836475969_129992314_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "PULSE Contemporary Art Fair",
+                            "username": "pulseartfair",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "188111023",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494954_287659945001273_1686057190923698176_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Public Art Fund",
+                            "username": "publicartfund",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "31259453",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123203_176291059516603_3217187300798627840_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Javier Per\u00e9s",
+                            "username": "peresprojects",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "55144917",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599267_1208233225871245_1791764029_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Park Avenue Armory",
+                            "username": "parkavearmory",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "14160841",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13534510_1405721073060219_450191535_a.jpg"
+                        }
+                    }
+                ],
+                "count": 1417
+            }
+        }
+    },
+    "status": "ok"
+}

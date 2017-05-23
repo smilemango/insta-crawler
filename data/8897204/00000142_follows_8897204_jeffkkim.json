@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 3292,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQANDLURCXZvvACNKaC2Z6AuECxCuxtr6nB1UcgcmZkKXg0bVdvsTKfRdDKXCDGLhbQqHwHBgpNsjxvhDijhuNzTfYlN9JgXzayROvCH53vYkQ"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11810002_1000008273384028_268670213_a.jpg",
+                            "id": "4538604",
+                            "username": "danielcaplin",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Daniel Caplin"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14310663_1102533619839496_1887181778_a.jpg",
+                            "id": "28156897",
+                            "username": "mercadles",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Mercedes"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788502_658518144333062_8901506113950711808_a.jpg",
+                            "id": "177118342",
+                            "username": "stellamaxwell",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Stella!"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15048117_825036644305030_2636569295030583296_a.jpg",
+                            "id": "13984353",
+                            "username": "alzmilz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Allie Miller"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14504905_1224323830963348_3387881408654475264_a.jpg",
+                            "id": "933482",
+                            "username": "andrewdaystudio",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "ANDREW DAY."
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

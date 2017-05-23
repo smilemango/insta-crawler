@@ -1,0 +1,236 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 360,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQDbussaeTn9NtuyiCalj_VtJDPZKZJdLsUk5N8OzqFaIJjaEDAAe-06B7vSy3p98ft3vuTEk1oPMSKw-z41lkLhJtE2cocaA01p2m0XmL6m1Q"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856666_103350883352462_1401217998_a.jpg",
+                            "id": "17933226",
+                            "username": "diptyque",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "diptyque"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11208017_809846422397343_613984045_a.jpg",
+                            "id": "319827075",
+                            "username": "jomalonelondon",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Jo Malone London"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13556760_1050227871681099_820744166_a.jpg",
+                            "id": "528705478",
+                            "username": "lamer",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "La Mer"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249572_468554109983553_1982333449_a.jpg",
+                            "id": "560611766",
+                            "username": "lauramercier",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Laura Mercier Cosmetics"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11352292_1475135176130797_437350262_a.jpg",
+                            "id": "3542016",
+                            "username": "ejny",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Eric Jennings"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/14624735_981977705268251_3876440033133068288_a.jpg",
+                            "id": "11273586",
+                            "username": "billy_reid",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Billy Reid"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10665272_494816057336468_247432538_a.jpg",
+                            "id": "409035188",
+                            "username": "clinique",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Clinique"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325017_849884465108238_1561006376_a.jpg",
+                            "id": "24976106",
+                            "username": "guerlain",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Guerlain"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18252437_449628742044785_2450158016348028928_a.jpg",
+                            "id": "181065412",
+                            "username": "vitafede",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Cynthia K. Sakai"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586689_375689296164277_7294082605916356608_a.jpg",
+                            "id": "30865031",
+                            "username": "natalieoffduty",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Natalie Lim Suarez"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230084_1792922771033212_1346780746206937088_a.jpg",
+                            "id": "193154362",
+                            "username": "calvinklein",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Calvin Klein"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877179_1865611677006913_5561887604988706816_a.jpg",
+                            "id": "21926431",
+                            "username": "rachelcomey",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Rachel Comey"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12501807_1526247791013232_591352709_a.jpg",
+                            "id": "271194895",
+                            "username": "stellajeanltd",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Stella Jean"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850052_1654448704768135_1464111520_a.jpg",
+                            "id": "695995017",
+                            "username": "chanelofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "CHANEL"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821110_110528402629986_1242527498_a.jpg",
+                            "id": "722877997",
+                            "username": "givenchyofficial",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "GIVENCHY"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077484_1116828938426694_7382783962730463232_a.jpg",
+                            "id": "9445148",
+                            "username": "balenciaga",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Balenciaga"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850395_781528011955623_1449583618_a.jpg",
+                            "id": "305083839",
+                            "username": "miumiu",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Miu Miu"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11116987_815337488543248_767362508_a.jpg",
+                            "id": "20158039",
+                            "username": "fendi",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Fendi"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464802_1761553910841961_138821069652885504_a.jpg",
+                            "id": "195820487",
+                            "username": "crfashionbook",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "CR Fashion Book"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11910333_1784588088434625_680904727_a.jpg",
+                            "id": "480221457",
+                            "username": "carven_parfums",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Carven Parfums"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

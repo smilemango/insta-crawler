@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1101,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBD2TbFKVxg6J5AwY4ohwPvk_Aetau16XLqAR1uskEBqwf8pTjUTE2GbisZ10jNlD0"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10632330_1696771760579289_548240151_a.jpg",
+                            "id": "23002065",
+                            "username": "jlminkoff",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Jessica Minkoff"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258888_1862506560647666_1499620417315274752_a.jpg",
+                            "id": "1889387",
+                            "username": "burberry",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "Burberry"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12331757_957853907619215_1807426893_a.jpg",
+                            "id": "3585962",
+                            "username": "libertylndngirl",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Sasha Wilkins - LLG"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382172_1510323649012983_7112656362630283264_a.jpg",
+                            "id": "23962229",
+                            "username": "elleuk",
+                            "followed_by_viewer": false,
+                            "is_verified": true,
+                            "requested_by_viewer": false,
+                            "full_name": "ELLE UK"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

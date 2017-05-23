@@ -1,0 +1,225 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBbpHwCjdpuPEx9Yi4GxkPrasZ96ht5Z0kks36Ufgt1m-sojy6D12JjyDh3zzDwC8el2viHPzv34Zj4Vza_yQiVJJkbzywyN3bFHy3gdsPddg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Interview Magazine",
+                            "username": "interviewmag",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11711285",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11201523_1018981428142827_420869574_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "LOVE MAGAZINE",
+                            "username": "thelovemagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "181726134",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095959_400652586987859_555602995249676288_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vogue Paris",
+                            "username": "vogueparis",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "226876906",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18012066_1925399171024809_8540543537542856704_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vogue",
+                            "username": "voguemagazine",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "198154074",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16464097_388031631570279_6897921411013148672_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Vogue Italia",
+                            "username": "vogueitalia",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "314834803",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12729431_924296017683831_1546882456_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Art Gallery of NSW",
+                            "username": "artgalleryofnsw",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "187533679",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11259502_645069215595639_180637915_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "10 Magazine",
+                            "username": "10magazine",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "222566136",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16122559_1321559034568298_2771077251150643200_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Shopbop",
+                            "username": "shopbop",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "10526532",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543085_1657266497894470_4143841_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "ELLE Australia",
+                            "username": "elleaus",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "297155195",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820670_536641246485493_789550661_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Susie Lau",
+                            "username": "susiebubble",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "145292665",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15259023_732652420217973_7550668461895057408_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Country Road",
+                            "username": "countryroad",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "192430565",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10956880_339085516282129_849696409_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tiffany & Co.",
+                            "username": "tiffanyandco",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "8873242",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12907267_266509983689490_1439339335_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Broadsheet Sydney",
+                            "username": "broadsheet_syd",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "43917756",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809586_999987490051510_964399490_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jessica Alba",
+                            "username": "jessicaalba",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "12223257",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882803_1791405377841251_2042373256962375680_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Who What Wear",
+                            "username": "whowhatwear",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "27879728",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714536_1654542668169045_6949484580755734528_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Kjetil Lundstein",
+                            "username": "kjetillundstein",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22941219",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251985_1420214708038011_2208599112771698688_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "POPPY LISSIMAN",
+                            "username": "poppylissiman",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "22370416",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013609_1448914011796885_5765421277602906112_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Margaret Zhang \u7ae0\u51dd",
+                            "username": "margaret__zhang",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "144911175",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677398_1557217651243750_415511181_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Antipodium",
+                            "username": "antipodium",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "210749862",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821945_694213897380850_1846777365_a.jpg"
+                        }
+                    }
+                ],
+                "count": 889
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 130235,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCDvh9lpM5Fx0FUCz6Toibtko047aO5BJ8M3Qs-VBbTrt-N6d3Bvlu2yH9YEiy_eXoXE-Msk6Z2iJYNd9gUObLlKwiIOUrExZATi52coG9nJg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11910099_168237683515753_1443104719_a.jpg",
+                            "id": "36937048",
+                            "username": "tomfct79",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Tomfct79"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10387783_239430113065024_644182235_a.jpg",
+                            "id": "46242894",
+                            "username": "paulinescz",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "Pauline Sanchez"
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-sit4-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "id": "18075723",
+                            "username": "nathaliekooijman",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": ""
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17883117_114561952427417_3960386629222268928_a.jpg",
+                            "id": "26688072",
+                            "username": "solemarsan",
+                            "followed_by_viewer": false,
+                            "is_verified": false,
+                            "requested_by_viewer": false,
+                            "full_name": "\u2648\ufe0f\ud83d\udc9c\ud83d\udd2e"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

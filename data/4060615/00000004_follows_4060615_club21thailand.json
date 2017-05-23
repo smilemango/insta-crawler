@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12716703_526014564244186_1481728533_a.jpg",
+                            "full_name": "Mulberry",
+                            "is_verified": true,
+                            "id": "21908332",
+                            "followed_by_viewer": false,
+                            "username": "mulberryengland",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 58,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDLtpMKvNg3r3eJpKFw3FGWH7Wj-AwySqUTCIw42SpFA7ACtFBbfNQUNErEUpPdgd8"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

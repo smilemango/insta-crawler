@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQC99NF09SGTq7lHqjMLxRwJPolFATJLZEkjobCSDU1KVAdS_8TVYyh0dvdqSxclLFhUBEcsZwNqR-Qi07FntjpcefNP3AsOo8-f6sWPvZ9Ceg"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Health and Fitness Travel",
+                            "username": "healthandfitnesstravelau",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1690252166",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14716451_1389905164360901_2078293597467181056_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Well+Good",
+                            "username": "wellandgoodnyc",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "2466792",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624278_363488287333080_7421091364454006784_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Gabi Gregg",
+                            "username": "gabifresh",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "11311559",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14583263_693250514188445_750793487732965376_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Melissa Eckman",
+                            "username": "melisfit_",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "12579885",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877132_197947287343492_7263893495541137408_n.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "WorkOutSnob",
+                            "username": "theworkoutsnob",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "735448736",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15623625_1787454771508099_4415850043899117568_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Amanda Greite",
+                            "username": "adnamata",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "28584701",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17932242_218709118615255_4231742516954660864_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Uber Los Angeles",
+                            "username": "uber_la",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "51253404",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12547212_1557679007856749_1731338231_a.jpg"
+                        }
+                    }
+                ],
+                "count": 234
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCzO6j-lmZkUyEHVFhKRwnqsM_cyy9PWHH4oTRUy0YAPbcCqyT7Z_tiCT3MKKnGcjI"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "imvely, imjihyun\ud83d\udc30",
+                            "username": "imvely_jihyun",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "630518753",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161678_1188863624557824_1058052385777123328_a.jpg"
+                        }
+                    }
+                ],
+                "count": 121
+            }
+        }
+    },
+    "status": "ok"
+}

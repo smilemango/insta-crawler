@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQABpw436Lq2Mjc2DBn1UquvvTgYDno4LRZINjZ8IFbbjER4Oh8RxLrWZyBn_HUSLYkbvC8i2UKm1A7nI0FrzhfmdAQSfiYjc1wmzSg2mxSJnw"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "E L L i E M A R E E",
+                            "username": "elliemareehair",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1724587101",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16906927_1229061050545857_6228258609961107456_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Bellavarelis",
+                            "username": "bellavarelis",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "24995766",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934389_1286539814799747_4971125547892473856_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "GG",
+                            "username": "georgiagravanis",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "20234628",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374313_639069726253865_8643033002097508352_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Lyndl Kean",
+                            "username": "lyndlkean",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "175338562",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034964_145300182611733_2395647549852614656_a.jpg"
+                        }
+                    }
+                ],
+                "count": 5540
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 311,
+                "page_info": {
+                    "end_cursor": "AQDQxow-b_0FYi9T7AOPZCV4xbHnYcWPlFIBPWJIlpwWocm06gVC1G4BFwtcsjtMO-U",
+                    "has_next_page": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "1678575380",
+                            "username": "fashion___goals__",
+                            "full_name": "Fashion Goals \u2757\ufe0f",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276766_1214562315303572_6296503106263842816_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1631934363",
+                            "username": "man_revolution",
+                            "full_name": "Man_revolution",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14540634_1818429971737029_8634110838900260864_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "1692177691",
+                            "username": "women_with_style",
+                            "full_name": "All women are here\u2763",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "followed_by_viewer": false,
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14499031_1615024722130274_3330744470873309184_a.jpg"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": "ok"
+}

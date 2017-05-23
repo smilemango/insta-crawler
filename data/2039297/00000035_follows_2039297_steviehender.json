@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCoxnrcfMUwRlM1GruFRlCGy9bo5Hxwe2VvifWVDr6d2xllmlPJ7hJrdJ1NJEhFN4A"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "lauren  angarola",
+                            "username": "laurennnmae",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "1955173",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12558795_210826209265078_693274914_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "AMBER FILLERUP CLARK",
+                            "username": "amberfillerup",
+                            "requested_by_viewer": false,
+                            "is_verified": true,
+                            "id": "3561145",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228788_1359787434083007_7611320392321335296_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "absababs",
+                            "username": "absababs",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "11426259",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11363763_881159581964221_437520087_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Ashlee Rae Wood",
+                            "username": "ashleerae",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2964474",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12231072_517916995037604_1266477305_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "David Lopez",
+                            "username": "david.lopez",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "2675433",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11374082_409899035868744_1328367456_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Jennifer Lee",
+                            "username": "jenniferloliver",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "6044030",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18162115_420551221653317_3748346563424944128_a.jpg"
+                        }
+                    },
+                    {
+                        "node": {
+                            "followed_by_viewer": false,
+                            "full_name": "Meg Williams",
+                            "username": "megolive",
+                            "requested_by_viewer": false,
+                            "is_verified": false,
+                            "id": "5876408",
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12070915_649957015146545_1289742701_a.jpg"
+                        }
+                    }
+                ],
+                "count": 675
+            }
+        }
+    },
+    "status": "ok"
+}
