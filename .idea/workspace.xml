@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2735b3b2-cc81-4ad8-9068-6abcc3a16835" name="Default" comment="- 발견된 ID중 이미 처리된 ID는 제외하여, 중복처리되지 않도록 함">
+    <list default="true" id="2735b3b2-cc81-4ad8-9068-6abcc3a16835" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/insta-users.sqlite3" afterPath="$PROJECT_DIR$/data/insta-users.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/insta-crawler.iml" afterPath="$PROJECT_DIR$/.idea/insta-crawler.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download_followers.py" afterPath="$PROJECT_DIR$/download_followers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/insta_crawler.py" afterPath="$PROJECT_DIR$/insta_crawler.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +26,8 @@
       <file leaf-file-name="download_followers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download_followers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="107" column="20" lean-forward="false" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+            <state relative-caret-position="319">
+              <caret line="113" column="56" lean-forward="true" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -121,20 +121,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="insta-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insta-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="insta-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="log" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495465238534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- follow를 얻을때 예외가 발생하면 r.text를 출력하도록 함.">
+      <created>1495509926225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1495509926225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -372,7 +365,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29577464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29577464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -389,7 +382,8 @@
     <MESSAGE value="- follows를 자연스럽게 저장함&#10;- 과다 쿼리시 서버에서 발생하는 대기 요청 처리" />
     <MESSAGE value="- ajax 조회 과정에서 얻게된 id,username 조합을 sqlite db에 저장함" />
     <MESSAGE value="- 발견된 ID중 이미 처리된 ID는 제외하여, 중복처리되지 않도록 함" />
-    <option name="LAST_COMMIT_MESSAGE" value="- 발견된 ID중 이미 처리된 ID는 제외하여, 중복처리되지 않도록 함" />
+    <MESSAGE value="- follow를 얻을때 예외가 발생하면 r.text를 출력하도록 함." />
+    <option name="LAST_COMMIT_MESSAGE" value="- follow를 얻을때 예외가 발생하면 r.text를 출력하도록 함." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -572,8 +566,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download_followers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="107" column="20" lean-forward="false" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+        <state relative-caret-position="319">
+          <caret line="113" column="56" lean-forward="true" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

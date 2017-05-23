@@ -75,6 +75,7 @@ def download_follows_by_id(id, username = None):
     # 디렉토리 내에 'END'라는 파일이 있으면 패스함
     if os.path.exists(dir4id+"/END"):
         files = []
+        # dir4id 디렉토리 안의 *.json파일 목록을 구한다.
         for file in os.listdir(dir4id):
             if file.endswith(".json"):
                 files.append(os.path.join(dir4id, file))
@@ -164,6 +165,7 @@ if __name__ == "__main__":
     USER_DICT= NEXT_USER_DICT
     NEXT_USER_DICT={}
     while len(USER_DICT) != 0 or len(NEXT_USER_DICT) != 0:
+        user_dict_idx = 0
         for id in USER_DICT:
             logger.info("Downloading... '%s'" % USER_DICT[id])
             if id in COMPL_USER_DICT:
@@ -175,6 +177,9 @@ if __name__ == "__main__":
             #logger.info("Waiting %d seconds." % waits)
             #time.sleep(waits)
             #input("Press any key...")
+            user_dict_idx = user_dict_idx +1
+            logger.info("USER_DICT : %d of %d completed." % (user_dict_idx, len(USER_DICT)))
+            logger.info("NEXT_USER_DICT : %d" % len(NEXT_USER_DICT))
 
         logger.info("[%d] iteration completed. Count=%d" % (iter_count,len(USER_DICT)))
         if len(NEXT_USER_DICT) > 0 :
