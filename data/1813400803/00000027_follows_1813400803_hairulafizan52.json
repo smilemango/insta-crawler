@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13256961_1627515024235533_547116157_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "1646762873",
+                            "followed_by_viewer": false,
+                            "username": "allona666",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12277350_428961777308848_1610673754_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "2296210869",
+                            "followed_by_viewer": false,
+                            "username": "mam7une",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18160936_1966312813588009_5431062841023004672_a.jpg",
+                            "full_name": "Lcda. Katherine Yendez",
+                            "is_verified": false,
+                            "id": "779300295",
+                            "followed_by_viewer": false,
+                            "username": "katherineyendez",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789975_376580532719112_1752147378875400192_a.jpg",
+                            "full_name": "cheka",
+                            "is_verified": false,
+                            "id": "1411656654",
+                            "followed_by_viewer": false,
+                            "username": "ubuguyutz_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251902_294062751046675_2236807465834381312_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "2222714418",
+                            "followed_by_viewer": false,
+                            "username": "babeage_central",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 6487,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBIHz9y2Us5bGaalIWCIF1xUdhP4ikpVyuQ3yXJbfNuVF9ajGdGgJm_qsklZ6MFZBkYRLCLQck8Vx6rLl5o1eeEdXIsffdY5YsWDOMuKC9YjA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

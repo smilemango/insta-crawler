@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 843,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17819272_1893254280962497_6258342437802999808_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\ucbb8\ub2c8\ub9ac\ud83d\udc40\u2764",
+                            "username": "0104_s2",
+                            "followed_by_viewer": false,
+                            "id": "1346701344",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16123708_1415643345126572_5762624888820989952_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\u2764",
+                            "username": "luv_eun1030",
+                            "followed_by_viewer": false,
+                            "id": "1051879232",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13113773_911013995711913_749162672_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\u3148\u3153\u3147\u3147\u3155\u3134",
+                            "username": "__jjeong_k",
+                            "followed_by_viewer": false,
+                            "id": "490326295",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAcv5vM4InRL3nUiH4kscRYNQRXNbZE56p0gTPDa8LMgTMl8o0CQRv0VGB7WFBpHb0"
+                }
+            }
+        }
+    }
+}

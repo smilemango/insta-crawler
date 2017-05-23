@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11372034_105793636438202_2115039301_a.jpg",
+                            "full_name": "Nemory Oliver Martinez",
+                            "is_verified": false,
+                            "id": "313353228",
+                            "followed_by_viewer": false,
+                            "username": "nemoryoliver",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095142_1978122882409747_6243366110180147200_a.jpg",
+                            "full_name": "Big State",
+                            "is_verified": false,
+                            "id": "2267500521",
+                            "followed_by_viewer": false,
+                            "username": "stateodg",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15802539_659494144211472_7344264247888576512_a.jpg",
+                            "full_name": "A chuby_dice",
+                            "is_verified": false,
+                            "id": "899257263",
+                            "followed_by_viewer": false,
+                            "username": "chuby_dice",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/924452_938841646148902_1025724221_a.jpg",
+                            "full_name": "Nemory Studios",
+                            "is_verified": false,
+                            "id": "1657013485",
+                            "followed_by_viewer": false,
+                            "username": "nemorystudios",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 4,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCOesvWNGN1BbxKDvigAIuLsMWLcJCEYt0Yz6n_dqo_WRWqwHjNsqz07_J7GIECkbw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

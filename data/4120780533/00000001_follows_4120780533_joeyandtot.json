@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482978_1807214196234248_7529280005797314560_a.jpg",
+                            "full_name": "Laura Izumikawa",
+                            "is_verified": true,
+                            "id": "11443906",
+                            "followed_by_viewer": false,
+                            "username": "lauraiz",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBXa8QKw2JOTARnn08OMPe6to6f_q04a2RcfaBB2p8J4Wr2w2ElMW2WLYVRQxZIRwA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

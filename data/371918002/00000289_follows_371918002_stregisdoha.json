@@ -1,0 +1,104 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849033_135248106820136_180365226_a.jpg",
+                            "full_name": "Doha Film Institute",
+                            "is_verified": false,
+                            "id": "211575414",
+                            "followed_by_viewer": false,
+                            "username": "dohafilm",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596701_414659125566026_7660247057734565888_a.jpg",
+                            "full_name": "The St. Regis New York",
+                            "is_verified": false,
+                            "id": "206282150",
+                            "followed_by_viewer": false,
+                            "username": "stregisnewyork",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13534167_1741691756099774_970794763_a.jpg",
+                            "full_name": "W Hotels Worldwide",
+                            "is_verified": true,
+                            "id": "26825001",
+                            "followed_by_viewer": false,
+                            "username": "whotels",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17493571_440954526248041_4645287604873330688_a.jpg",
+                            "full_name": "St. Regis Hotels & Resorts",
+                            "is_verified": true,
+                            "id": "227508922",
+                            "followed_by_viewer": false,
+                            "username": "stregishotels",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11264994_397632090446744_1703844620_a.jpg",
+                            "full_name": "Jazz at Lincoln Center",
+                            "is_verified": true,
+                            "id": "294588892",
+                            "followed_by_viewer": false,
+                            "username": "jazzdotorg",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17126853_789475187883141_8998839891173310464_a.jpg",
+                            "full_name": "Hakkasan Doha",
+                            "is_verified": false,
+                            "id": "333568094",
+                            "followed_by_viewer": false,
+                            "username": "hakkasandoha",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18380222_795694387263570_593836012434620416_a.jpg",
+                            "full_name": "Gordon Ramsay",
+                            "is_verified": true,
+                            "id": "192815961",
+                            "followed_by_viewer": false,
+                            "username": "gordongram",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17933760_780749048759894_262534441518235648_a.jpg",
+                            "full_name": "St Regis Atlanta",
+                            "is_verified": false,
+                            "id": "263900545",
+                            "followed_by_viewer": false,
+                            "username": "stregisatl",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 5457,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAmmhMibNmQUWIYGVhguWB6p8uiFi1yPwgqDbaDVWwUSiDvGDYjW8iru2cA6I1v9Og"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

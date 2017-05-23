@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 391,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/914713_872937876065223_159329834_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Stefano Piccardo",
+                            "username": "stesh91",
+                            "followed_by_viewer": false,
+                            "id": "547800389",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14719833_310540259320655_1605122788543168512_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Instagram",
+                            "username": "instagram",
+                            "followed_by_viewer": false,
+                            "id": "25025320",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCOU7ryVk6EASCINos_Pp6LHCcwfJ7yfacUmQ9BB7tHWPcEHxAymErnV58Pyerc35g"
+                }
+            }
+        }
+    }
+}

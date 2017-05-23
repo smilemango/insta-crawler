@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17882796_207213939778342_2924900349510680576_a.jpg",
+                            "full_name": "\ud83c\uddf0\ud83c\uddf7\u2764\ufe0f\ud83c\udde6\ud83c\uddf9",
+                            "is_verified": false,
+                            "id": "1538437099",
+                            "followed_by_viewer": false,
+                            "username": "alice_kalh",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10802848_387878858044283_1821515159_a.jpg",
+                            "full_name": "\uae40\ud604\ub9ac",
+                            "is_verified": false,
+                            "id": "1207304421",
+                            "followed_by_viewer": false,
+                            "username": "hyunleek",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751598_967268526643506_1918941027_a.jpg",
+                            "full_name": "Yoonmi Park",
+                            "is_verified": false,
+                            "id": "264332772",
+                            "followed_by_viewer": false,
+                            "username": "pinkpooh1004",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751590_475521205981114_1784649994_a.jpg",
+                            "full_name": "louvrepetit",
+                            "is_verified": false,
+                            "id": "3006977251",
+                            "followed_by_viewer": false,
+                            "username": "louvrepetit",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 303,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDJGMX0upGYkHdM24qT18F1hkV0mt2xvo_1eaDtqKJO-xX9AtYkied_XQSsOhFTqys"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

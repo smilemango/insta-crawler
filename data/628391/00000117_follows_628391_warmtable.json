@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13532002_1555135181459744_590343068_a.jpg",
+                            "full_name": "tomo\uf8ff",
+                            "is_verified": false,
+                            "id": "308729",
+                            "followed_by_viewer": false,
+                            "username": "macherie",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10518122_1549181232027367_1799657888_a.jpg",
+                            "full_name": "Chrysti Hydeck | Photographer",
+                            "is_verified": false,
+                            "id": "7502",
+                            "followed_by_viewer": false,
+                            "username": "chrysti",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 2300,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCWzskm6_jDd6Nn836ynepidaNYGy-dcgo6mG1Q-W3G55LHt2zGQ9W26-TCrpQw0PU"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

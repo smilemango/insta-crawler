@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494386_196683000829260_5884966929168334848_a.jpg",
+                            "full_name": "Lukas Steidle",
+                            "is_verified": false,
+                            "id": "56187167",
+                            "followed_by_viewer": false,
+                            "username": "lksstdl",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437953_1725593764399314_491964640918503424_a.jpg",
+                            "full_name": "0711 / Stuttgart",
+                            "is_verified": false,
+                            "id": "43578814",
+                            "followed_by_viewer": false,
+                            "username": "0711dasoriginal",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1742300_280725602120530_1201304901_a.jpg",
+                            "full_name": "Mya",
+                            "is_verified": false,
+                            "id": "27219044",
+                            "followed_by_viewer": false,
+                            "username": "myaohooo",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12501708_1507299546239966_102363322_a.jpg",
+                            "full_name": "Daniel Wagner",
+                            "is_verified": false,
+                            "id": "5560528",
+                            "followed_by_viewer": false,
+                            "username": "danielwagnerphoto",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1596,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDE5qblsvyL8tph5XbpC7p05xerw_zVgggUIIiwGpjrtxySUGK9ANnVh4dCZdOYqVg"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

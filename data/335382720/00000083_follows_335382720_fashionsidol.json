@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://instagram.fhen2-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "1993081492",
+                            "followed_by_viewer": false,
+                            "username": "fuck_these_except.these",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1146,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBp54ToMwKHf5mftvsjaN37Z6EWNdP-TJ_ee6oVf0F7cKLJj4RMfC3qsFdsr_dVyZtpTgG1E68rO6T-J6Y9zHG39_uqjeMmvdAqaPmHqEE2bQ"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

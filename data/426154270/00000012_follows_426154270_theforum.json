@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 221,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011374_989105084553594_6957607845676187648_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Fuse",
+                            "username": "fusetv",
+                            "followed_by_viewer": false,
+                            "id": "8726122",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11375207_132117273796945_690435550_a.jpg",
+                            "is_verified": true,
+                            "full_name": "The Chicago Theatre",
+                            "username": "chicagotheatre",
+                            "followed_by_viewer": false,
+                            "id": "186959092",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553181_338998893128447_8080315556730765312_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Boch Center",
+                            "username": "bochcenter",
+                            "followed_by_viewer": false,
+                            "id": "38774197",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821098_1622522911346041_1743526073_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Beacon Theatre",
+                            "username": "beacontheatre",
+                            "followed_by_viewer": false,
+                            "id": "28694005",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10296980_458692460963203_1173325778_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Radio City Music Hall",
+                            "username": "radiocitymusichall",
+                            "followed_by_viewer": false,
+                            "id": "28693947",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371002_1620587204889876_324077619_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Madison Square Garden",
+                            "username": "thegarden",
+                            "followed_by_viewer": false,
+                            "id": "34321719",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB2sbOh0uiwjpmLaO5ra1eSsSeJw_2bUSxIOAX-Xn00Z4N3hYIB2xtHL_O3Sd-mCQw"
+                }
+            }
+        }
+    }
+}

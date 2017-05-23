@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12677667_1240121009351311_957167216_a.jpg",
+                            "full_name": "Danny Oliver",
+                            "is_verified": false,
+                            "id": "20859831",
+                            "followed_by_viewer": false,
+                            "username": "vwdeathtrap",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351784_1058927320798837_1040829030_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "21561202",
+                            "followed_by_viewer": false,
+                            "username": "letsfetz",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 77,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCi9Xcn9jktV3UrPLd43aPTR7Q8uLRisadNoZHTklws_Z35ISgGvG6khlcyYFlJtUg"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

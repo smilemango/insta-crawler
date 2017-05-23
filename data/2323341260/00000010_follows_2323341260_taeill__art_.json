@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788412_219136958559304_5114631739670528000_a.jpg",
+                            "full_name": "\uc774\uc601\uc6b0",
+                            "is_verified": false,
+                            "id": "1501400746",
+                            "followed_by_viewer": false,
+                            "username": "ywjm.s2",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161683_1906222612924679_850901397216952320_a.jpg",
+                            "full_name": "Scubadiving / Alpine snowboard",
+                            "is_verified": false,
+                            "id": "1552700540",
+                            "followed_by_viewer": false,
+                            "username": "park_sedong",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15258591_1901303326764550_362839240893005824_a.jpg",
+                            "full_name": "SADIK HADZOVIC",
+                            "is_verified": true,
+                            "id": "177468001",
+                            "followed_by_viewer": false,
+                            "username": "sadikhadzovic",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 177,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDDO1p5dnAtQG8cQSg60SwiZcNk78MqJv2b66QR26ItoukMXCIbyLbhPZio5duvMCY"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

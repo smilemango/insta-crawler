@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10919438_1621498591405329_444733951_a.jpg",
+                            "full_name": "sarahcolette",
+                            "is_verified": true,
+                            "id": "14702210",
+                            "followed_by_viewer": false,
+                            "username": "sarahcolette",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13721233_315230465493715_1451015104_a.jpg",
+                            "full_name": "Rich Tong",
+                            "is_verified": false,
+                            "id": "755597",
+                            "followed_by_viewer": false,
+                            "username": "therealrichtong",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16788871_1883475168600594_3402729887985827840_a.jpg",
+                            "full_name": "Benjamin Netter \ud83d\udc4b\ud83e\udd13",
+                            "is_verified": false,
+                            "id": "11533648",
+                            "followed_by_viewer": false,
+                            "username": "benjaminnetter",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727602_163931980734160_3574515445815836672_a.jpg",
+                            "full_name": "Bettina Chin Cho",
+                            "is_verified": false,
+                            "id": "10842407",
+                            "followed_by_viewer": false,
+                            "username": "tibetnchina",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 198,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAZ4eu7Q4llTeen-8wf5axzx6fc4TzRwoXejWu-J1EuPbGqhe5AYYplofAMSI52SJI"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13108539_1701583913436862_84078897_a.jpg",
+                            "full_name": "Nicole Warne",
+                            "is_verified": true,
+                            "id": "6913295",
+                            "followed_by_viewer": false,
+                            "username": "garypeppergirl",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230057_103230576859290_3654277167505735680_a.jpg",
+                            "full_name": "Jessica Stein",
+                            "is_verified": false,
+                            "id": "7522782",
+                            "followed_by_viewer": false,
+                            "username": "tuulavintage",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14624650_222550581483929_8627067642290634752_a.jpg",
+                            "full_name": "S T Y L E S T A L K E R \\ \\",
+                            "is_verified": false,
+                            "id": "6725266",
+                            "followed_by_viewer": false,
+                            "username": "stylestalker",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096592_800112653477447_7466462011694514176_a.jpg",
+                            "full_name": "lateafternoon",
+                            "is_verified": false,
+                            "id": "4888950",
+                            "followed_by_viewer": false,
+                            "username": "lateafternoon",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15338563_562846357253321_7750332261601378304_a.jpg",
+                            "full_name": "Aimee Song",
+                            "is_verified": true,
+                            "id": "10051934",
+                            "followed_by_viewer": false,
+                            "username": "songofstyle",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18096511_707264039444409_3581432602315194368_a.jpg",
+                            "full_name": "Zanita Whittington",
+                            "is_verified": true,
+                            "id": "539276",
+                            "followed_by_viewer": false,
+                            "username": "zanitazanita",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 141,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCmfFnmsiX4A8EHNHKnKtxHaPpa8zNlOt9EvYJPxnnT52RVeT429fSxPpOXw-l0Jkk"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

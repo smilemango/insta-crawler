@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 511,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580431_1829698730377315_4002286951477542912_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Sir Andrew Benys",
+                            "username": "hollytrnity",
+                            "followed_by_viewer": false,
+                            "id": "1181072",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14482312_1524301874250055_7451445165350191104_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Mitch Harrison",
+                            "username": "mitchayjayh",
+                            "followed_by_viewer": false,
+                            "id": "1695375",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCiD4lgXGkdM_VYrZ1UGntv15ACr9xfHo6qYGh1RrNbQftnbVnCUqPtzQmmyVzGJos"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299538_1666355120337385_711059645766041600_a.jpg",
+                            "full_name": "Jesus is Lord",
+                            "is_verified": false,
+                            "id": "496268321",
+                            "followed_by_viewer": false,
+                            "username": "hesolovedtheworld",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 167,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCJVi3_p0aZN68gpclWRI1YrVxLqSu63tmL-5ddY73-Grg9Bt9nJ4I7MwiKiS-g1_DdBB_fycFmeg_Rvrg9mkFTAmZrZ6VuHvwr9AVAFdTo4g"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10950299_328151437395848_1935218415_a.jpg",
+                            "full_name": "L'Homme Lyonnais",
+                            "is_verified": false,
+                            "id": "53042244",
+                            "followed_by_viewer": false,
+                            "username": "lhommelyonnais",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850218_1690200224541960_1950274836_a.jpg",
+                            "full_name": "Mathilde Corbin",
+                            "is_verified": false,
+                            "id": "19810517",
+                            "followed_by_viewer": false,
+                            "username": "mathilde_corbin",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10724669_300449216825660_1473036412_a.jpg",
+                            "full_name": "EliseBiancaB",
+                            "is_verified": false,
+                            "id": "25996149",
+                            "followed_by_viewer": false,
+                            "username": "elisebiancab",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 76,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQByfP1W4f-t76pY7d07asJ0Gv0xbfZjAG2prN96a_uz6LE39CVpe3jePw8guQgrNFc"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

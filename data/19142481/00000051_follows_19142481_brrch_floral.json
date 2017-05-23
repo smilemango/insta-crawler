@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11371974_720525881403389_1534552242_a.jpg",
+                            "full_name": "Aleksandra.",
+                            "is_verified": false,
+                            "id": "499248",
+                            "followed_by_viewer": false,
+                            "username": "aleksandradiary",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299969_1903659193182202_8124086165444755456_a.jpg",
+                            "full_name": "Amy Merrick",
+                            "is_verified": false,
+                            "id": "1718121",
+                            "followed_by_viewer": false,
+                            "username": "amy_merrick",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887169_1637273656540787_1516297673_a.jpg",
+                            "full_name": "Nicolette Camille Floral",
+                            "is_verified": false,
+                            "id": "6883749",
+                            "followed_by_viewer": false,
+                            "username": "nicamille",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15534701_382934965376877_3837435158785425408_a.jpg",
+                            "full_name": "sarah_winward",
+                            "is_verified": false,
+                            "id": "5143549",
+                            "followed_by_viewer": false,
+                            "username": "sarah_winward",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 994,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCv0B1NgDkGAOhZkZSIBbdCwXf9TL_RXjj-onbQrDcd-GwnvcebQuCUV76tl_1bXDg"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

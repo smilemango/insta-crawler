@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438048_1318253151573127_259903413272182784_a.jpg",
+                            "full_name": "LAUREN BULLEN",
+                            "is_verified": true,
+                            "id": "7672322",
+                            "followed_by_viewer": false,
+                            "username": "gypsea_lust",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586906_1896697613895253_7714349729970126848_a.jpg",
+                            "full_name": "Hello Emilie",
+                            "is_verified": false,
+                            "id": "1014516",
+                            "followed_by_viewer": false,
+                            "username": "helloemilie",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789729_153762965138125_6428222353003511808_a.jpg",
+                            "full_name": "Alexandra Taylor",
+                            "is_verified": false,
+                            "id": "986959732",
+                            "followed_by_viewer": false,
+                            "username": "alliemtaylor",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10632108_812239765473973_49054130_a.jpg",
+                            "full_name": "Pamela Sendee",
+                            "is_verified": false,
+                            "id": "1098396759",
+                            "followed_by_viewer": false,
+                            "username": "pamelasendee",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18443861_1346291722113545_2983202052357750784_n.jpg",
+                            "full_name": "Anastasija Tiemon",
+                            "is_verified": false,
+                            "id": "279382036",
+                            "followed_by_viewer": false,
+                            "username": "tieemonn",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 167,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCQRCRumCNdT7p2nWd8X8JsFWAVYLGCE6TWEs6jk66J8XrAABcZuab6N-MTLq3EhyUpl-iT9E_oeCAvzNONxXaHRMUnOF53rUxMSz4yW80IUw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

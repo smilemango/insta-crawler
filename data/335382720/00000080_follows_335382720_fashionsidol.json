@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://instagram.fmct1-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "2014299841",
+                            "followed_by_viewer": false,
+                            "username": "kytral_hav",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1146,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCcmnNkq4d2sOc9Fv9xnK_67lbjTqlck_NX-L_znc4k8TVasScF045_CE7dh2dVtWXQZAR3DOP0ji9NLlCD6e6tdtK798XkOILTeaMtLsj6ZA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

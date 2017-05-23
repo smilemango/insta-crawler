@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12407658_1546740175642863_418853691_a.jpg",
+                            "full_name": "Malcolm McCassy V",
+                            "is_verified": false,
+                            "id": "9059093",
+                            "followed_by_viewer": false,
+                            "username": "malcolm_mccassy",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17268285_1481869108499458_8130634689196064768_a.jpg",
+                            "full_name": "",
+                            "is_verified": true,
+                            "id": "5280297",
+                            "followed_by_viewer": false,
+                            "username": "ethika",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17437948_1226293344154081_3748899841112014848_a.jpg",
+                            "full_name": "Karl Bosch",
+                            "is_verified": false,
+                            "id": "2640899",
+                            "followed_by_viewer": false,
+                            "username": "karlbosch",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 531,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBMrMEfqsf88mQaC971kaDf4nvX6RFPzUpmWjwEsTxrGWpRBQfVrC6Rzucc_BtDMdE"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

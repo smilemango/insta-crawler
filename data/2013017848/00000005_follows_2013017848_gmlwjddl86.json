@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11116776_796843733725345_1579444935_a.jpg",
+                            "full_name": "\uc548\ubbf8\uc601",
+                            "is_verified": false,
+                            "id": "1800240346",
+                            "followed_by_viewer": false,
+                            "username": "o_hui_miyoung",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326469_485783421597480_1993203476_a.jpg",
+                            "full_name": "\uc740\uc815 \ud55c",
+                            "is_verified": false,
+                            "id": "583468365",
+                            "followed_by_viewer": false,
+                            "username": "eunjunhan",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18300094_1838284663164159_1913137678140833792_a.jpg",
+                            "full_name": "\uc21c\uac04\ub4e4",
+                            "is_verified": false,
+                            "id": "334680349",
+                            "followed_by_viewer": false,
+                            "username": "seraa.k",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15043467_217173638705396_5509385198912929792_a.jpg",
+                            "full_name": "\uae40\ud76c\uc1a1",
+                            "is_verified": false,
+                            "id": "1787784880",
+                            "followed_by_viewer": false,
+                            "username": "pkpk86",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 80,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAkps-Vak_QQIkiGTDZPD6OzYLp4simHYErsU2RYWd0Vm8QeuaGOcuw20NMbCwTmwE"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

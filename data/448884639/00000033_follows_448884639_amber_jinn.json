@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909195_443384439178398_1317703100_a.jpg",
+                            "full_name": "Janghoon Kim",
+                            "is_verified": false,
+                            "id": "9001818",
+                            "followed_by_viewer": false,
+                            "username": "jazzneko",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17334093_437506553253253_4768078864440098816_a.jpg",
+                            "full_name": "Jean Choi",
+                            "is_verified": false,
+                            "id": "45991064",
+                            "followed_by_viewer": false,
+                            "username": "jeanfor",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17494282_448183835573161_726214618258604032_a.jpg",
+                            "full_name": "studio APT 505",
+                            "is_verified": false,
+                            "id": "186515078",
+                            "followed_by_viewer": false,
+                            "username": "good_day_nina",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10948238_1397055660602082_496906818_a.jpg",
+                            "full_name": "A.Jay",
+                            "is_verified": false,
+                            "id": "8688637",
+                            "followed_by_viewer": false,
+                            "username": "jay0410",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "PopMythology.com",
+                            "is_verified": false,
+                            "id": "208442613",
+                            "followed_by_viewer": false,
+                            "username": "popmythology_com",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 638,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDtREST9Kf-3tcF0Y2oU6k9XrlMOLMTf5zb6MVh3jsY3XExICh_WeaIl6onFSkNtig"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

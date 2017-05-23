@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095711_1173573736087096_2465205932485771264_a.jpg",
+                            "full_name": "Marta Zemskova",
+                            "is_verified": false,
+                            "id": "6749378",
+                            "followed_by_viewer": false,
+                            "username": "martik_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13398798_1690186017909438_2133105495_a.jpg",
+                            "full_name": "Diana Yevdokimova",
+                            "is_verified": false,
+                            "id": "5309793",
+                            "followed_by_viewer": false,
+                            "username": "diana_yevdokimova",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12479444_1550329495293202_1285647491_a.jpg",
+                            "full_name": "Kristina Ozimkova",
+                            "is_verified": false,
+                            "id": "13698154",
+                            "followed_by_viewer": false,
+                            "username": "ozimkova",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727447_370315329978214_4490821038807973888_a.jpg",
+                            "full_name": "Yuliana Dementyeva",
+                            "is_verified": false,
+                            "id": "5602437",
+                            "followed_by_viewer": false,
+                            "username": "yulianadementyeva",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 688,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBWQLs42cVKa4vtyuKIWWxXO-x2cZDnB-kPzD86GeCQzlwHBOgLNrAry4cIzhHqAd0"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

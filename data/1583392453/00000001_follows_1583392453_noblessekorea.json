@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663546_264506317344237_1786676369019633664_a.jpg",
+                            "full_name": "\ub178\ube14\ub808\uc2a4\ubab0",
+                            "is_verified": false,
+                            "id": "5001037773",
+                            "followed_by_viewer": false,
+                            "username": "noblessemall_official",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15101648_1619125021714668_575148768643514368_a.jpg",
+                            "full_name": "Noblesse Collection",
+                            "is_verified": false,
+                            "id": "4157051895",
+                            "followed_by_viewer": false,
+                            "username": "noblessecollection",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10549888_1464858727100470_445282682_a.jpg",
+                            "full_name": "Noblesse_China",
+                            "is_verified": false,
+                            "id": "1176897977",
+                            "followed_by_viewer": false,
+                            "username": "noblesse_china",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 3,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAhTH0UijzKbkkThhI3z_l3hNs7ouDiawOWqwpMmoR83P9eRK5lBL_CsTTheOmq0n8"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

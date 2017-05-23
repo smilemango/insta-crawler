@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251580_225711057916432_5488474807034970112_a.jpg",
+                            "full_name": "lex",
+                            "is_verified": false,
+                            "id": "195374101",
+                            "followed_by_viewer": false,
+                            "username": "alexisss.martin",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17883129_164065960784879_8243501735335690240_a.jpg",
+                            "full_name": "jade moore",
+                            "is_verified": false,
+                            "id": "185009135",
+                            "followed_by_viewer": false,
+                            "username": "jademoorre",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11809706_135181330154477_788521724_a.jpg",
+                            "full_name": "Ashley Galin",
+                            "is_verified": false,
+                            "id": "185791772",
+                            "followed_by_viewer": false,
+                            "username": "_ashhlley_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/17586596_246075669134737_3673891561592061952_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "53019962",
+                            "followed_by_viewer": false,
+                            "username": "0liveeee_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17265832_147322835791218_5907088759521804288_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "234616520",
+                            "followed_by_viewer": false,
+                            "username": "jessejstallings",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18581000_642375512628181_4851534322429067264_a.jpg",
+                            "full_name": "\u264b\ufe0f\u2728",
+                            "is_verified": false,
+                            "id": "48576839",
+                            "followed_by_viewer": false,
+                            "username": "june.jolie",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1266,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCwF0JDD6CRzjGyIE3eav-3brL5HyoZZuu9oU3j7VdaiIuqdGcSQJJLjsu01umdHnU"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

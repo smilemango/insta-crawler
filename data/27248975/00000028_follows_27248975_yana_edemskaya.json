@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13714050_310359999313502_901534001_a.jpg",
+                            "full_name": "Ekaterina Minikhanova",
+                            "is_verified": false,
+                            "id": "17794169",
+                            "followed_by_viewer": false,
+                            "username": "minik13",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18381045_419075971809107_2611894059375001600_a.jpg",
+                            "full_name": "\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430 \u0410\u0441\u043c\u0443\u0441",
+                            "is_verified": false,
+                            "id": "8906669",
+                            "followed_by_viewer": false,
+                            "username": "christinasmus",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 515,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQApys3EDjPZZUfx3mNTdS7i3uIcWNST8UZ5zuN-Nd1u7TuYn-FinlIAi2MULtxM-2M"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

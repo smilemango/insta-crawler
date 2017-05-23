@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14487419_1352796468084908_5242732077031358464_a.jpg",
+                            "full_name": "\u029f\u1d0f\u1d20\u1d07\u029f\u028f \ud83c\udf88",
+                            "is_verified": false,
+                            "id": "991948079",
+                            "followed_by_viewer": false,
+                            "username": "rim_luvzz",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17267778_242112839593478_4416010911899189248_a.jpg",
+                            "full_name": "\uc720\ucc0c\ub2c8",
+                            "is_verified": false,
+                            "id": "347216582",
+                            "followed_by_viewer": false,
+                            "username": "yy_yujjiny",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12599188_1710124949263599_311753539_a.jpg",
+                            "full_name": "leo",
+                            "is_verified": false,
+                            "id": "253851712",
+                            "followed_by_viewer": false,
+                            "username": "h.owleo",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 173,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDrmMmgeLBJBkFJdIHStFCfsQjkbAYhgem7GPOCzrO97KRglBZbewAseh92LZzf1YI"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 142,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789342_1929474103941117_8781834770167365632_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Yannie Kim-\uae40\uc57c\ub2c8",
+                            "username": "yannie_kim",
+                            "followed_by_viewer": false,
+                            "id": "1527174492",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12071111_734998393273052_1208805216_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\uc774\uc740\ud76c",
+                            "username": "mavil76",
+                            "followed_by_viewer": false,
+                            "id": "1528946245",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332701_1225443800907512_738052016277815296_a.jpg",
+                            "is_verified": false,
+                            "full_name": "",
+                            "username": "cyj01230",
+                            "followed_by_viewer": false,
+                            "id": "1295958989",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553260_253825421699095_1413541107970605056_a.jpg",
+                            "is_verified": false,
+                            "full_name": "June Hostetter",
+                            "username": "striders_forever",
+                            "followed_by_viewer": false,
+                            "id": "1447430506",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQApk5ILDZ3H0H5XkrTgQ3D91xa7FcjnBZ--wpnrhRQGMjUSe4IfEbVCRRbFgTgp0R8"
+                }
+            }
+        }
+    }
+}

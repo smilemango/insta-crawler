@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11249937_396802387181395_1852428670_a.jpg",
+                            "full_name": "Emanuela Schmeidler",
+                            "is_verified": false,
+                            "id": "1277002388",
+                            "followed_by_viewer": false,
+                            "username": "e_schmeidler",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "1205284165",
+                            "followed_by_viewer": false,
+                            "username": "colinwoodhead",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12545309_476071719264842_682862580_a.jpg",
+                            "full_name": "Catwalking.com",
+                            "is_verified": false,
+                            "id": "638006535",
+                            "followed_by_viewer": false,
+                            "username": "catwalkingarchives",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16228547_304152506653414_1963078290843369472_a.jpg",
+                            "full_name": "Cameron Silver",
+                            "is_verified": true,
+                            "id": "51318926",
+                            "followed_by_viewer": false,
+                            "username": "cameronsilver",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10950458_1695565500674003_977555959_a.jpg",
+                            "full_name": "An Vandevorst",
+                            "is_verified": false,
+                            "id": "527986316",
+                            "followed_by_viewer": false,
+                            "username": "an_vandevorst",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1527765_662035173942662_713266766_a.jpg",
+                            "full_name": "Allegra Hicks",
+                            "is_verified": false,
+                            "id": "207294118",
+                            "followed_by_viewer": false,
+                            "username": "allegra_hicks",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11850285_942893889101422_2115163652_a.jpg",
+                            "full_name": "Cond\u00e9 Nast International",
+                            "is_verified": true,
+                            "id": "777698979",
+                            "followed_by_viewer": false,
+                            "username": "cni_now",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 226,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD722-HsUGYbVqsodsS9RWzQMGcbm6NwF5lt968ZI5Wc6wdTf1bC5L-Y1C9wnc2CPw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

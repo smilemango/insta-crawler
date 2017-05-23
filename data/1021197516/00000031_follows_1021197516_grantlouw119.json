@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14374210_874301036003594_5892008351956467712_a.jpg",
+                            "full_name": "Cameron Baker",
+                            "is_verified": false,
+                            "id": "403311669",
+                            "followed_by_viewer": false,
+                            "username": "cam__baker",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15337139_157987554678022_4841809090541780992_a.jpg",
+                            "full_name": "James Storm",
+                            "is_verified": false,
+                            "id": "523263962",
+                            "followed_by_viewer": false,
+                            "username": "jamesstorm101",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10979565_1566384923578963_275925055_a.jpg",
+                            "full_name": "Luke Croshaw",
+                            "is_verified": false,
+                            "id": "454674448",
+                            "followed_by_viewer": false,
+                            "username": "lukecrosh11",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13402542_1158015634273911_2095600171_a.jpg",
+                            "full_name": "Tessa Talmage",
+                            "is_verified": false,
+                            "id": "494145800",
+                            "followed_by_viewer": false,
+                            "username": "tesstalmage7",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14714658_1541070199251856_2264557528706711552_a.jpg",
+                            "full_name": "Leigh Hill",
+                            "is_verified": false,
+                            "id": "318747304",
+                            "followed_by_viewer": false,
+                            "username": "leighhill_",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 585,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDsagvIniLmLgD5bfIRb5On7t5OcEn8Op054ORuPqGTKN5pF7lIhHAR-Nq_vuJKBow"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

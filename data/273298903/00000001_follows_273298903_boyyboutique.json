@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11378286_626345730802561_162764805_a.jpg",
+                            "full_name": "jesse dorsey",
+                            "is_verified": false,
+                            "id": "9372779",
+                            "followed_by_viewer": false,
+                            "username": "jesseboyy",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15048213_677816419062632_6249077467496054784_a.jpg",
+                            "full_name": "wannacoo",
+                            "is_verified": false,
+                            "id": "8935665",
+                            "followed_by_viewer": false,
+                            "username": "wannacoo",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 2,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCQQA5UP3uVFlAs_SpFhaQ-EgbnIR_4LuMYWvtPfxuwGDrjE7Iax0Pv2q2cl9DZ4s0"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

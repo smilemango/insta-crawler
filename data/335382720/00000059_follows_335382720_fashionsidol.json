@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11373622_788505141251543_1647359113_a.jpg",
+                            "full_name": "Emily Cuba",
+                            "is_verified": false,
+                            "id": "1912678984",
+                            "followed_by_viewer": false,
+                            "username": "gymnast_dancer_89",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1146,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCK6TAIoe_mHte2CnX-4TovWQ0DUOizDVbFmAaS_-4GmnvzbSKaXybOaSCYL6EiA3QP-yk2N-ihgMHFKVxAOdk4dkURFwRnlYVs7LfJaJckKQ"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

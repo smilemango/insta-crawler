@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/929129_1468725683366410_1538703898_a.jpg",
+                            "full_name": "Aran",
+                            "is_verified": false,
+                            "id": "323425114",
+                            "followed_by_viewer": false,
+                            "username": "edito_ar",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10547229_1458564101062161_374813493_a.jpg",
+                            "full_name": "\uae40\ub098\uc601 \ud83c\udf97",
+                            "is_verified": true,
+                            "id": "258801220",
+                            "followed_by_viewer": false,
+                            "username": "nayoungkeem",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11376357_656338191134535_1934250955_a.jpg",
+                            "full_name": "\ud0b4\uc0ac\ub791",
+                            "is_verified": false,
+                            "id": "1099831178",
+                            "followed_by_viewer": false,
+                            "username": "sarangggkim",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13248901_258457004544010_107233554_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "942511",
+                            "followed_by_viewer": false,
+                            "username": "songromi",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906224_1618329591789077_650704699_a.jpg",
+                            "full_name": "jjin \ud83d\udc44",
+                            "is_verified": false,
+                            "id": "293723077",
+                            "followed_by_viewer": false,
+                            "username": "ksjjin",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 202,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDMM59puqDCAX74z-ngp8O-1jUkw9XVKWeJIDDbD-af4bXRnxvxv0rM_5CTIoNxo8c"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

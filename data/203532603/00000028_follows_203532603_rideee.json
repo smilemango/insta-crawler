@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17932714_1134816789998052_655141246041325568_a.jpg",
+                            "full_name": "Kristyn Jenkins",
+                            "is_verified": false,
+                            "id": "6534833",
+                            "followed_by_viewer": false,
+                            "username": "kristyn_jenkins",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579534_443014772715422_1471780044165611520_a.jpg",
+                            "full_name": "SANDY PELL",
+                            "is_verified": false,
+                            "id": "10984627",
+                            "followed_by_viewer": false,
+                            "username": "sandypellart",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11248102_892061734207559_1336953241_a.jpg",
+                            "full_name": "Daniele Cerioni",
+                            "is_verified": false,
+                            "id": "3412567",
+                            "followed_by_viewer": false,
+                            "username": "danz_cerio",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11849084_130239740655097_1498876585_a.jpg",
+                            "full_name": "Nick Feltch",
+                            "is_verified": false,
+                            "id": "11118933",
+                            "followed_by_viewer": false,
+                            "username": "nickfeltch",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110626_158804511281790_8800613088739983360_a.jpg",
+                            "full_name": "Amy",
+                            "is_verified": false,
+                            "id": "9960535",
+                            "followed_by_viewer": false,
+                            "username": "foodcrush",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 538,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA4eJvoXNXrxcTe4UdMsOZQejupGmvxd16EvfgIvBvepcKsZaux5lL6-ECnQgr63n4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

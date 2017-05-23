@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887087_882704995116371_1662111416_a.jpg",
+                            "full_name": "Graz Studio",
+                            "is_verified": false,
+                            "id": "22752543",
+                            "followed_by_viewer": false,
+                            "username": "grazstudio",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11251836_745655545544312_1448192951_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "7102013",
+                            "followed_by_viewer": false,
+                            "username": "huwbennett",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14716639_1435147299876122_3817456512817692672_a.jpg",
+                            "full_name": "HELMUT LANG",
+                            "is_verified": false,
+                            "id": "8852719",
+                            "followed_by_viewer": false,
+                            "username": "helmutlang",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906303_959424924120518_1031079524_a.jpg",
+                            "full_name": "rag & bone",
+                            "is_verified": true,
+                            "id": "5860403",
+                            "followed_by_viewer": false,
+                            "username": "ragandbone",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 479,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB2UcghYas4zwgMEIfecGxa9nIQf35tSPRPgrOzbvJ5h572c2qT-kKaG65572Gvfrw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

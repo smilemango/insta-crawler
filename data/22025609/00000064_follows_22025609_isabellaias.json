@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12093807_961565970549030_1295141473_a.jpg",
+                            "full_name": "Abby Moulton",
+                            "is_verified": false,
+                            "id": "12423709",
+                            "followed_by_viewer": false,
+                            "username": "abbymoulton",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11950510_1490512451272411_1489462505_a.jpg",
+                            "full_name": "tania debono",
+                            "is_verified": false,
+                            "id": "740445",
+                            "followed_by_viewer": false,
+                            "username": "the_cakeface",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095683_728951487296094_7846305315875192832_a.jpg",
+                            "full_name": "Oyster Magazine",
+                            "is_verified": false,
+                            "id": "8177574",
+                            "followed_by_viewer": false,
+                            "username": "oystermagazine",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17817512_666550670203211_7610110860811304960_a.jpg",
+                            "full_name": "Lara Worthington",
+                            "is_verified": false,
+                            "id": "1706898",
+                            "followed_by_viewer": false,
+                            "username": "laraworthington",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382005_1677222199252739_7548656853832433664_a.jpg",
+                            "full_name": "Harper's BAZAAR Australia",
+                            "is_verified": true,
+                            "id": "19955557",
+                            "followed_by_viewer": false,
+                            "username": "bazaaraustralia",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063400_1065942440158959_1074532488_a.jpg",
+                            "full_name": "Christina-Rose Cavaleri",
+                            "is_verified": false,
+                            "id": "4522017",
+                            "followed_by_viewer": false,
+                            "username": "christinacavaleri",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16465429_589861287888674_8830641004697616384_n.jpg",
+                            "full_name": "Justin Bieber",
+                            "is_verified": true,
+                            "id": "6860189",
+                            "followed_by_viewer": false,
+                            "username": "justinbieber",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1242,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCuKX1e_Sei3bbV6esD3PE2-VZdbxAotsGqD1e4UoPN8b1DhRSxfzjfC7TH1vRIuuA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

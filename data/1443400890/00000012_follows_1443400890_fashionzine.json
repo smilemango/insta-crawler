@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14156635_201374830275908_753095480_a.jpg",
+                            "full_name": "Samer Khouzami",
+                            "is_verified": true,
+                            "id": "238903437",
+                            "followed_by_viewer": false,
+                            "username": "samerkhouzami",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382698_709591852576520_6264914304701562880_a.jpg",
+                            "full_name": "Evon Wahab",
+                            "is_verified": true,
+                            "id": "433703962",
+                            "followed_by_viewer": false,
+                            "username": "evonwahab",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11325854_808453449269240_2020096017_a.jpg",
+                            "full_name": "Casadei",
+                            "is_verified": true,
+                            "id": "421635427",
+                            "followed_by_viewer": false,
+                            "username": "casadeiofficial",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13398660_1724161884508445_1530461906_a.jpg",
+                            "full_name": "Sandra Brandon",
+                            "is_verified": false,
+                            "id": "414704854",
+                            "followed_by_viewer": false,
+                            "username": "maysanchrisa_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17663699_201834220314479_894889498779844608_a.jpg",
+                            "full_name": "Malika",
+                            "is_verified": false,
+                            "id": "461164329",
+                            "followed_by_viewer": false,
+                            "username": "undercover1000",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095330_205026983336347_4411636303024619520_a.jpg",
+                            "full_name": "\u2728Zehra \u2728",
+                            "is_verified": false,
+                            "id": "261253422",
+                            "followed_by_viewer": false,
+                            "username": "zehra_to",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14659315_1787633621448600_4481642354394005504_a.jpg",
+                            "full_name": "Tulay Tokucin",
+                            "is_verified": false,
+                            "id": "193604898",
+                            "followed_by_viewer": false,
+                            "username": "tulayto",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 204,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCj443bRoEU2X5AJGmHOh1Fu1OxBK03UONgewpw11S0H8ixamsqx26MovjOQEGHHv4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

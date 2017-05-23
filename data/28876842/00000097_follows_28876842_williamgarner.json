@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424705_138639306512959_1062946372_a.jpg",
+                            "full_name": "Justin Miller",
+                            "is_verified": false,
+                            "id": "5053014",
+                            "followed_by_viewer": false,
+                            "username": "jthrillz",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15035792_1159065380845810_8836480863140052992_a.jpg",
+                            "full_name": "Chelsey Wilkens",
+                            "is_verified": false,
+                            "id": "20442145",
+                            "followed_by_viewer": false,
+                            "username": "chelseywilkens",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585053_609168815955308_6463107305742270464_a.jpg",
+                            "full_name": "MAAP",
+                            "is_verified": false,
+                            "id": "8223600",
+                            "followed_by_viewer": false,
+                            "username": "olliecuz",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14134793_1606079736357652_1030777293_a.jpg",
+                            "full_name": "Salvatore",
+                            "is_verified": false,
+                            "id": "3061376",
+                            "followed_by_viewer": false,
+                            "username": "salvatorebertucci",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356637_740460666083359_1017450265_a.jpg",
+                            "full_name": "Derek Ireland",
+                            "is_verified": false,
+                            "id": "2091768",
+                            "followed_by_viewer": false,
+                            "username": "direland84",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1880,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAQJutY6M_YSQ1dpXHSeOHYejkWzbxOJly53ON3VBQMYtou3K6gR3P75d-1vj_TSwY"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

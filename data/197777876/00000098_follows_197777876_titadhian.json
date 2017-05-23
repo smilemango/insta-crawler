@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1904,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11351905_409036232630395_2049957950_a.jpg",
+                            "is_verified": false,
+                            "full_name": "brandy byrd",
+                            "username": "bbyrd",
+                            "followed_by_viewer": false,
+                            "id": "9077",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAYn7XOUwxzDMSsQG7z9ZgNRXn9kKUokBSPpBn-reQUrroIKZh8H3OwpK5XHn9dRqU"
+                }
+            }
+        }
+    }
+}

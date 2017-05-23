@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13687305_852775204857577_1987207408_a.jpg",
+                            "full_name": "Anna Tuibaeva (Evdokim4ik)",
+                            "is_verified": false,
+                            "id": "24050541",
+                            "followed_by_viewer": false,
+                            "username": "evdokim4ik",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513994_1926651580944634_5093401188045422592_a.jpg",
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+                            "is_verified": false,
+                            "id": "356387432",
+                            "followed_by_viewer": false,
+                            "username": "gurulama_",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 205,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB3NYd_pWIK7YrtZUHYSP6N9aBKebzFf59ZmQEySPx8WGAEz9CtwV_moembUtn0kZ8"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

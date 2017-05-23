@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596115_1882149028729672_4150607080039907328_a.jpg",
+                            "full_name": "Karlie Kloss",
+                            "is_verified": true,
+                            "id": "10581097",
+                            "followed_by_viewer": false,
+                            "username": "karliekloss",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14240936_1150974791644366_910449329_a.jpg",
+                            "full_name": "Aishwarya Nair Mathew",
+                            "is_verified": false,
+                            "id": "51571601",
+                            "followed_by_viewer": false,
+                            "username": "aishwarya_n",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18161502_1405058282884097_8768386587613462528_a.jpg",
+                            "full_name": "sonamkapoor",
+                            "is_verified": true,
+                            "id": "54089228",
+                            "followed_by_viewer": false,
+                            "username": "sonamkapoor",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18251399_1252450038214824_2828029281999781888_a.jpg",
+                            "full_name": "Rhea Kapoor",
+                            "is_verified": true,
+                            "id": "51402900",
+                            "followed_by_viewer": false,
+                            "username": "rheakapoor",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13703170_845862915513500_842821652_a.jpg",
+                            "full_name": "Diana Kakkar",
+                            "is_verified": false,
+                            "id": "10559153",
+                            "followed_by_viewer": false,
+                            "username": "dianakakkar",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 2049,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB8yOAt2tOYZ7IUsOS8i4cfhkLkln-epzgIfN_Cx2EzINTrfoth9nqUTV8ITJ90a0c"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

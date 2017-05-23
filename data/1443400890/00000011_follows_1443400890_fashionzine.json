@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12918039_230227960666719_282379501_a.jpg",
+                            "full_name": "Beyonc\u00e9",
+                            "is_verified": true,
+                            "id": "247944034",
+                            "followed_by_viewer": false,
+                            "username": "beyonce",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11261371_124434901231777_1747842209_a.jpg",
+                            "full_name": "Gigi Hadid",
+                            "is_verified": true,
+                            "id": "12995776",
+                            "followed_by_viewer": false,
+                            "username": "gigihadid",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624459_268748283543048_3363244428272599040_a.jpg",
+                            "full_name": "irinashayk",
+                            "is_verified": true,
+                            "id": "220428576",
+                            "followed_by_viewer": false,
+                            "username": "irinashayk",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11205697_484196095079301_1537344458_a.jpg",
+                            "full_name": "ELIE SAAB",
+                            "is_verified": true,
+                            "id": "12456888",
+                            "followed_by_viewer": false,
+                            "username": "eliesaabworld",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18011409_151789495352685_5804274831662776320_a.jpg",
+                            "full_name": "Rose Bertram",
+                            "is_verified": true,
+                            "id": "33238731",
+                            "followed_by_viewer": false,
+                            "username": "rose_bertram",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15625517_134993690323897_2572001097459695616_a.jpg",
+                            "full_name": "Kristina Pimenova",
+                            "is_verified": false,
+                            "id": "1283278032",
+                            "followed_by_viewer": false,
+                            "username": "kristinapimenova2005",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 204,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQB8i5Y6nhL3i6VUZrj8ukSqGVYIUKPLNqyZDJ-m_WXEd1WoRBlphfVJ6IDf_RWnX0KP7nfAhQQSI_gj94Aa3hwQCDy74mAPZfxZmVSH5NOKVA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

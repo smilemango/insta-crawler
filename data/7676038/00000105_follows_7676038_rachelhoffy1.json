@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11887031_118939095121972_1248531071_a.jpg",
+                            "full_name": "Melissa Clark",
+                            "is_verified": false,
+                            "id": "5868246",
+                            "followed_by_viewer": false,
+                            "username": "clarkbar",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12446280_273749369631902_640735866_a.jpg",
+                            "full_name": "Jesse North",
+                            "is_verified": false,
+                            "id": "4715355",
+                            "followed_by_viewer": false,
+                            "username": "jessenorth",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881668_655956851241319_7002563319903027200_a.jpg",
+                            "full_name": "emily favret",
+                            "is_verified": false,
+                            "id": "3434825",
+                            "followed_by_viewer": false,
+                            "username": "iliveinyellow",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15034644_1603430023296250_715961960092401664_a.jpg",
+                            "full_name": "FOOD + STORIES | Liza deGuia",
+                            "is_verified": false,
+                            "id": "1109622",
+                            "followed_by_viewer": false,
+                            "username": "skeeternyc",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16789078_392945394394827_6834448730750451712_a.jpg",
+                            "full_name": "Jenna Beaugh",
+                            "is_verified": false,
+                            "id": "6794108",
+                            "followed_by_viewer": false,
+                            "username": "eatliverun",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11821758_110682629280880_2095320742_a.jpg",
+                            "full_name": "Nicole Lea Cross",
+                            "is_verified": false,
+                            "id": "4225741",
+                            "followed_by_viewer": false,
+                            "username": "pinchmysalt",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10358425_248175718704966_134837076_a.jpg",
+                            "full_name": "Faith Durand",
+                            "is_verified": false,
+                            "id": "4991458",
+                            "followed_by_viewer": false,
+                            "username": "faithdurand",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 2074,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA6W700sq0W2NAG4hcf5h9sgKUD7z6xHPc7ilVnkn5Bzhq78vdTvWgqqkzJFLnhUo4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

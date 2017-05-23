@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14549969_1328012890576640_3539339869820026880_a.jpg",
+                            "full_name": "maureen ryan",
+                            "is_verified": false,
+                            "id": "31335942",
+                            "followed_by_viewer": false,
+                            "username": "vegetablesorcery",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10748367_986724134677797_1912264908_a.jpg",
+                            "full_name": "Livia Barton Sheehan",
+                            "is_verified": false,
+                            "id": "37064200",
+                            "followed_by_viewer": false,
+                            "username": "livbarton",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 219,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDHLomeJ95PSerVAXn_9I46zlstqgS8CD8n-X_0rtOq4zZ19cZzhuTLdDTYaiq6DhI"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 7468,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15048124_1142787219135873_4559921161315549184_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Traveling for a Living \u2708\ufe0f\ud83d\udccd",
+                            "username": "travelingfal",
+                            "followed_by_viewer": false,
+                            "id": "1720293857",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357589_1671323446482463_1586160194_a.jpg",
+                            "is_verified": false,
+                            "full_name": "",
+                            "username": "anastasia_tencrew",
+                            "followed_by_viewer": false,
+                            "id": "2286169952",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17881115_508077702915496_4214574703743860736_a.jpg",
+                            "is_verified": false,
+                            "full_name": "H\u00e0 M\u00e0 H\u00e8 D\u00ec",
+                            "username": "hama_hedii",
+                            "followed_by_viewer": false,
+                            "id": "1833424844",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095855_1891274854430625_3065695940183588864_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\u0426\u0412\u0415\u0422\u042b \u0412 \u041c\u041e\u0421\u041a\u0412\u0415 \u0421 \u0414\u041e\u0421\u0422\u0410\u0412\u041a\u041e\u0419\ud83d\udd4a",
+                            "username": "onetwoflo",
+                            "followed_by_viewer": false,
+                            "id": "1537354464",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCfrE1CXrxosuFIOl7lkRk8sg5AeVSQOQCpR0iSgUxQjtts1NI7TaZLEc3o6yy8-GCM8Q7esnqNGVEc1QSxwMlz6MA0UqpQnq0ZWQjoVYdcuQ"
+                }
+            }
+        }
+    }
+}

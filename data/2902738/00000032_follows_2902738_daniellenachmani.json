@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 614,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17077362_1772134936446814_7962484885606629376_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Arielle Noa Charnas",
+                            "username": "somethingnavy",
+                            "followed_by_viewer": false,
+                            "id": "5219525",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15538214_1278601278870843_8259184138402136064_a.jpg",
+                            "is_verified": false,
+                            "full_name": "bryandouglassmith",
+                            "username": "brysmth",
+                            "followed_by_viewer": false,
+                            "id": "7015336",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15535030_1206883189380989_7721815955088605184_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Brad Goreski",
+                            "username": "bradgoreski",
+                            "followed_by_viewer": false,
+                            "id": "9199827",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11848871_989847871060078_1933689799_a.jpg",
+                            "is_verified": false,
+                            "full_name": "caseykenyon",
+                            "username": "caseykenyon",
+                            "followed_by_viewer": false,
+                            "id": "4086938",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQC3cPcPHXNmle4WAfCvpvO-pDujXciubnlD0nU0ZBqY4fiR2ZB_zup4mNFUgK7sKmQ"
+                }
+            }
+        }
+    }
+}

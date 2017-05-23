@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13549435_1037174083032284_1532378239_a.jpg",
+                            "full_name": "Kathryn Agudo",
+                            "is_verified": false,
+                            "id": "681769",
+                            "followed_by_viewer": false,
+                            "username": "kathrynagudo",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13707403_831964530241340_1627796988_a.jpg",
+                            "full_name": "Shelly Bishop",
+                            "is_verified": false,
+                            "id": "3080023",
+                            "followed_by_viewer": false,
+                            "username": "_shellybishop",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11385636_649192618515767_16682039_a.jpg",
+                            "full_name": "Ali Youngblood",
+                            "is_verified": false,
+                            "id": "2140898",
+                            "followed_by_viewer": false,
+                            "username": "aliyoungblood",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444683_122173668350205_1890346820731666432_a.jpg",
+                            "full_name": "Janelle Nelson",
+                            "is_verified": false,
+                            "id": "4122365",
+                            "followed_by_viewer": false,
+                            "username": "_janelson",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 712,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCWIbAh9Mig0YmXwGrTxXjFIX1mlNlq0ViHEgJYvkbIri0OD6qXBFhwcZ2pt4FbXCU"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

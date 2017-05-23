@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11055482_403299133174640_482882339_a.jpg",
+                            "full_name": "Ollie-Arthur-Clive Whiskerton",
+                            "is_verified": false,
+                            "id": "218750255",
+                            "followed_by_viewer": false,
+                            "username": "corgis_and_clive",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850417_401386770053877_1565132604_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "435200883",
+                            "followed_by_viewer": false,
+                            "username": "fukunosuke0823",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12751578_1690874874489349_106177679_a.jpg",
+                            "full_name": "Loki (+ Bear)",
+                            "is_verified": false,
+                            "id": "254088582",
+                            "followed_by_viewer": false,
+                            "username": "lokistagram",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 281,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB73MgtLrBIMFBq9WSVhb4FLutlDD13K7F0FUuY6dqRo5jJgWPaRhFSQWRoJoAik-Q"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

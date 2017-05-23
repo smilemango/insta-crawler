@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11906285_1557125407841506_983039088_a.jpg",
+                            "full_name": "TanisaK87",
+                            "is_verified": false,
+                            "id": "14849191",
+                            "followed_by_viewer": false,
+                            "username": "tanisak87",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10358211_281160185390682_1470914982_a.jpg",
+                            "full_name": "Drew Christensen",
+                            "is_verified": false,
+                            "id": "5451556",
+                            "followed_by_viewer": false,
+                            "username": "djchrist",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-ord1-1.cdninstagram.com/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "Demesheo Wilson",
+                            "is_verified": false,
+                            "id": "15908774",
+                            "followed_by_viewer": false,
+                            "username": "demesheo",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18382509_1528893057183178_8497323105549549568_a.jpg",
+                            "full_name": "Javier",
+                            "is_verified": false,
+                            "id": "607425",
+                            "followed_by_viewer": false,
+                            "username": "brilliantmoments",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 4,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCTYeGdAARkTuuy5HbfbzilSWZjTnwp2SKw_Gxrsx1cPTaU4FyWiRJt8wbGsbvdEKs"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

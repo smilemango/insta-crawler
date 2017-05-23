@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14553065_349072518761576_4108810481244831744_a.jpg",
+                            "full_name": "Carollll",
+                            "is_verified": false,
+                            "id": "2031502165",
+                            "followed_by_viewer": false,
+                            "username": "carol_engracio",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1146,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCOMoIodM4Wib9CG9SWkALgT_ccDEUUUqtnw463D5J6iw6gvScTAiI1O8XkBVFr_mSzUwN15SGEVfG_KNan8e0TTZnufqIeADySZEGttMTc-Q"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

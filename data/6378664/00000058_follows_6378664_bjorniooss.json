@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11296725_400604016811464_1559434466_a.jpg",
+                            "full_name": "Christian Iooss",
+                            "is_verified": false,
+                            "id": "2709478",
+                            "followed_by_viewer": false,
+                            "username": "christianiooss",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11372193_101337210219425_1799220318_a.jpg",
+                            "full_name": "Bronson",
+                            "is_verified": false,
+                            "id": "2485809",
+                            "followed_by_viewer": false,
+                            "username": "bronsonlamb",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10655147_277622365779114_1010126089_a.jpg",
+                            "full_name": "Bob Scott",
+                            "is_verified": false,
+                            "id": "4943343",
+                            "followed_by_viewer": false,
+                            "username": "bobscottnyc",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1114,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA_ntNLHK6qSCvx482JmMyhfO8mzZBQzyzcVNRa0zOgRKwEV1IfiLmkDpPAZE-XmgU"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,49 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 138,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110187_1327276873961718_6553180530945294336_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Irene Cioni",
+                            "username": "irenecioni_official",
+                            "followed_by_viewer": false,
+                            "id": "263834136",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11257136_1485610145069945_1977414286_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Insta Italia \ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9",
+                            "username": "instaitalia",
+                            "followed_by_viewer": false,
+                            "id": "210211814",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14515673_1117487321671971_4005400270191198208_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Carletto DJ",
+                            "username": "carlettoweb",
+                            "followed_by_viewer": false,
+                            "id": "204563016",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDasyNebkzWXI6kaZ9Y16rA4wu20sggHlhAaScu1NscFgi_Tz7d5RSkx7AZZBmjg8g"
+                }
+            }
+        }
+    }
+}

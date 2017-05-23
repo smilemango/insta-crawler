@@ -1,0 +1,60 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12445781_1737583086477334_1386391936_a.jpg",
+                            "full_name": "\u029f\u026as\u1d00\u1d0b\u1d00\u1d1b\u029cd\u1d07s\u026a\u0262\u0274",
+                            "is_verified": false,
+                            "id": "609934328",
+                            "followed_by_viewer": false,
+                            "username": "lisakathdesign",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10899188_396525570537626_766249718_a.jpg",
+                            "full_name": "Mintfactory",
+                            "is_verified": false,
+                            "id": "264033042",
+                            "followed_by_viewer": false,
+                            "username": "julieglein",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13768068_282462242133360_497623147_a.jpg",
+                            "full_name": "Liv",
+                            "is_verified": false,
+                            "id": "898717755",
+                            "followed_by_viewer": false,
+                            "username": "livkrols",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13649207_653845151447761_338214939_a.jpg",
+                            "full_name": "Anne Mari",
+                            "is_verified": false,
+                            "id": "212277934",
+                            "followed_by_viewer": false,
+                            "username": "annemaarii",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 442,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBm39cRke_83HxkE6QscRwPc6hoyQ4CINPtXiyEK5iWAB2gLyCXqb7DUk95q8zGK7w"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

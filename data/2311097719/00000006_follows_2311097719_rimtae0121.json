@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13712339_1871396753080117_35816291_a.jpg",
+                            "full_name": "\ubc15\uc608\uc2ac Ye-Seul Park",
+                            "is_verified": false,
+                            "id": "2202440214",
+                            "followed_by_viewer": false,
+                            "username": "ye_ssseul_park",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850173_1453864424920199_104296725_a.jpg",
+                            "full_name": "Yoon Jong Hun",
+                            "is_verified": false,
+                            "id": "671445609",
+                            "followed_by_viewer": false,
+                            "username": "yoonjongactor",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11376408_710341332426093_637039035_a.jpg",
+                            "full_name": "\uc0b6\uc744 \uc601\ud654\ucc98\ub7fc, \uc601\ud654\uac19\uc740 \uc0b6\uc744 \uafc8\uafb8\uba70\ud83c\udfa5",
+                            "is_verified": false,
+                            "id": "317009325",
+                            "followed_by_viewer": false,
+                            "username": "y_900317",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 99,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD3_OPwPuIfMktA-M0Gwoc2UA2M2eNmh58xp6bTEszKo7kRXeB2PKiB-mfgMv3rh2o"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585049_1209298412523252_5358353636021764096_a.jpg",
+                            "full_name": "#\uba5c\ub77c\ub2c8\uc564\ubca0\ub9ac, \ub514\uc790\uc774\ub108, \uba5c\ub77c\ub2c8, \ubca0\ub9ac\uc5c4\ub9c8",
+                            "is_verified": false,
+                            "id": "361315126",
+                            "followed_by_viewer": false,
+                            "username": "melaney_lee",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 179,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBjwcmki-YEVYlLsd7GmYM9crQcJ8eMS2i837LVYQ6PIw0t34YePPZrYuo4qNNOY-8"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

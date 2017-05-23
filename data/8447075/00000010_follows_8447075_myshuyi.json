@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 175,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095126_1844310039222224_4785129807295807488_a.jpg",
+                            "is_verified": false,
+                            "full_name": "RUIGAOGAO",
+                            "username": "gerykao",
+                            "followed_by_viewer": false,
+                            "id": "241349696",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDHfqCc1Mc-Wnov9O3rTK7VBn3cr4Jb8eig-izVXapT3fOPiJ4cqie25B7ezGXc8Dk"
+                }
+            }
+        }
+    }
+}

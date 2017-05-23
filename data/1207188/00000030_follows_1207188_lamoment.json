@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11203462_1583547678600904_790167921_a.jpg",
+                            "full_name": "May Ling Yong",
+                            "is_verified": false,
+                            "id": "872010",
+                            "followed_by_viewer": false,
+                            "username": "mlayyye",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 571,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDqfb4W3Ecaq7gUj3acY-FbvKuPxeFcfxkpwA5OTXFNupSxtE1s0TWXzTSFk049Y_E"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

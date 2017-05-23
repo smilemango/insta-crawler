@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 5227,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580954_334624423623795_2613245792957235200_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Eirini Kostoglou\ud83d\udc81\ud83c\udffb",
+                            "username": "eirini_kostoglou",
+                            "followed_by_viewer": false,
+                            "id": "1178066889",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14561993_1163371053739870_5553405203492896768_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Yiota",
+                            "username": "yiota83",
+                            "followed_by_viewer": false,
+                            "id": "27565314",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15623830_1268417439883950_2935670873358598144_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\u039d\u03af\u03ba\u03bf\u03c2 \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u03a0\u03c1\u03ad\u03b6\u03b1",
+                            "username": "nikolaosprezas",
+                            "followed_by_viewer": false,
+                            "id": "1131450958",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17934651_470909846587458_4569025418241245184_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\ud83d\udc51Maria\ud83c\udf80 Mastropetrou\ud83d\udc51",
+                            "username": "mariamastropetrou",
+                            "followed_by_viewer": false,
+                            "id": "526677716",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10299653_314234485395190_1504703541_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Irini",
+                            "username": "irinigambieraki",
+                            "followed_by_viewer": false,
+                            "id": "1319523639",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDNwiRbqQpe6zLSi9fib6xM2SjPg1h14NO-4Bc32iD9GcbDiIqb6DhNVf7Gcx_kxJc"
+                }
+            }
+        }
+    }
+}

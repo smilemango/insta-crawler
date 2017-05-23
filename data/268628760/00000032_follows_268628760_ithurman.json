@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/1169023_1584544255138687_574448326_a.jpg",
+                            "full_name": "Kate",
+                            "is_verified": false,
+                            "id": "282935220",
+                            "followed_by_viewer": false,
+                            "username": "estrellatenssa",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17586540_703391873174888_881769876929118208_a.jpg",
+                            "full_name": "Mickey",
+                            "is_verified": false,
+                            "id": "770310695",
+                            "followed_by_viewer": false,
+                            "username": "mickey_kun",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 588,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDRr2ohbk0SR56Zt-OQXt6BAQcpB0vU8yrXTW0m3jmnu2mEKFqla-tKzPF_Wrws7YQ"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11887153_491300997707788_679067677_a.jpg",
+                            "full_name": "cassiesharpless",
+                            "is_verified": false,
+                            "id": "22921836",
+                            "followed_by_viewer": false,
+                            "username": "cassiesharpless",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14727406_208624859594415_5949224304250978304_a.jpg",
+                            "full_name": "Madi Sharpless",
+                            "is_verified": false,
+                            "id": "24401796",
+                            "followed_by_viewer": false,
+                            "username": "madisharpless",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 880,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBzlCK4_pxrWQh2Pva4PXEUWwsrOpJf4eE1Y_yE9_UnZiW7hUPTZELBD-MX5I2W824"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

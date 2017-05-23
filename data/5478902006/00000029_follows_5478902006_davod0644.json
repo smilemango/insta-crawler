@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18513561_128455471044031_9220143204995694592_a.jpg",
+                            "full_name": "pia",
+                            "is_verified": false,
+                            "id": "5484407807",
+                            "followed_by_viewer": false,
+                            "username": "pxa15",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299871_221645904999907_1781936275608043520_a.jpg",
+                            "full_name": "\u0627\u0645\u06cc\u062f\u0631\u0636\u0627",
+                            "is_verified": false,
+                            "id": "5445620238",
+                            "followed_by_viewer": false,
+                            "username": "mydrd2299",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095704_110805282818225_7780297690079821824_a.jpg",
+                            "full_name": "\u0622\u0630\u0631\u062e\u0634",
+                            "is_verified": false,
+                            "id": "5385154443",
+                            "followed_by_viewer": false,
+                            "username": "azarakhsh_car_wax",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 563,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCqSC_JLp9rz-Xn1H-Jpe1UIeMD8lGbebE21FLw6dwUQFuYavePmKAz3_loOcsl290"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

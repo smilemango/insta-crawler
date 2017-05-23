@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17333579_456810068043676_2009034093018218496_a.jpg",
+                            "full_name": "\uff21\uff2e\uff24\uff39  \uff34\uff2f\uff32\uff32\uff25\uff33",
+                            "is_verified": true,
+                            "id": "1860612",
+                            "followed_by_viewer": false,
+                            "username": "stylescrapbook",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16908367_631493863704011_8124592812671893504_a.jpg",
+                            "full_name": "Kenza Zouiten",
+                            "is_verified": true,
+                            "id": "5359127",
+                            "followed_by_viewer": false,
+                            "username": "kenzas",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11313754_1670114506555491_683703029_a.jpg",
+                            "full_name": "Mimi Ikonn",
+                            "is_verified": true,
+                            "id": "12716300",
+                            "followed_by_viewer": false,
+                            "username": "mimiikonn",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15276596_341682029535586_5293615709933273088_a.jpg",
+                            "full_name": "Kendall",
+                            "is_verified": true,
+                            "id": "6380930",
+                            "followed_by_viewer": false,
+                            "username": "kendalljenner",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16585671_413621785647765_4894079104527106048_a.jpg",
+                            "full_name": "Chiara Ferragni",
+                            "is_verified": true,
+                            "id": "19769622",
+                            "followed_by_viewer": false,
+                            "username": "chiaraferragni",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 217,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAFcBFZLWP1Thbv421vGZ5C55FFsFQCa-OBO3ickZ3JIDZgY7Tgd2OCbMO-jhRTDOA"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

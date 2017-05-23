@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11203313_1583462668592144_810978366_a.jpg",
+                            "full_name": "B O U G I E S  d e  L U X E",
+                            "is_verified": false,
+                            "id": "52359858",
+                            "followed_by_viewer": false,
+                            "username": "bougiesdeluxe",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/917184_322585711240957_1721046248_a.jpg",
+                            "full_name": "The Queen Of Tarts",
+                            "is_verified": false,
+                            "id": "1431500039",
+                            "followed_by_viewer": false,
+                            "username": "thequeenoftarts",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16110147_397321020607039_5549277237410267136_n.jpg",
+                            "full_name": "RACHAEL HOSKEN RUDDICK",
+                            "is_verified": false,
+                            "id": "22930823",
+                            "followed_by_viewer": false,
+                            "username": "rachaelruddick",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11809724_1624064034510158_2098913550_a.jpg",
+                            "full_name": "Brierlie Godfrey-Kemp",
+                            "is_verified": false,
+                            "id": "146055319",
+                            "followed_by_viewer": false,
+                            "username": "brierlie",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18579937_110452269537472_1066460677612240896_a.jpg",
+                            "full_name": "Kelly Smith",
+                            "is_verified": false,
+                            "id": "1698491",
+                            "followed_by_viewer": false,
+                            "username": "birdyandme",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11241692_423968134394551_1571987997_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "1475125",
+                            "followed_by_viewer": false,
+                            "username": "8poundmouse",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 2292,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAbW2t3Yv5DrOZNeOT3JzHpaAzXjz6RvF0LWqtXIdpVeDOd_8AJLUFPFCBrZqMu-Mo"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

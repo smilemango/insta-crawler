@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 610,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13385698_514851798706359_2061827346_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Queenette Heiza Feliza",
+                            "username": "queenheiza",
+                            "followed_by_viewer": false,
+                            "id": "176018188",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15534923_174066383068621_7390370382508720128_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Snapoholic Cebu",
+                            "username": "snapoholiccebu",
+                            "followed_by_viewer": false,
+                            "id": "12726185",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17332874_1304170696334236_5194072318065770496_a.jpg",
+                            "is_verified": false,
+                            "full_name": "jsam.c",
+                            "username": "johnsamuelcrisostomo",
+                            "followed_by_viewer": false,
+                            "id": "53692717",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12543236_480750495446439_721916641_a.jpg",
+                            "is_verified": false,
+                            "full_name": "eileenceldran",
+                            "username": "eileenceldran",
+                            "followed_by_viewer": false,
+                            "id": "49359454",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14474486_1129053953852016_6321817789535354880_a.jpg",
+                            "is_verified": true,
+                            "full_name": "Kathryn Bernardo",
+                            "username": "bernardokath",
+                            "followed_by_viewer": false,
+                            "id": "15583865",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBoojSN5Vypr7KPdr14ktaotEprXOoWZwvdX-LxgblpjOJhOlbm5nPAdHBRdHAuwcU"
+                }
+            }
+        }
+    }
+}

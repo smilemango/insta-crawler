@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15624309_394134430925454_602860365788741632_a.jpg",
+                            "full_name": "SOPHIE\ud83c\udf88",
+                            "is_verified": false,
+                            "id": "269013081",
+                            "followed_by_viewer": false,
+                            "username": "sophgilmour93",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13704276_1574460789526362_177142504_a.jpg",
+                            "full_name": "lovehoneylingerie",
+                            "is_verified": false,
+                            "id": "1952482556",
+                            "followed_by_viewer": false,
+                            "username": "lovehoneylingerie",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 3250,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBveG-xnCXrO1fsqT9CD6NC0uuxex5YEI0WczrXdaOLu_LNX7Goca78RI0KOUNMbdFSNTz955ZpYYtX5hvBfkR-1xobKj8wDlapuwwUFiXTkg"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

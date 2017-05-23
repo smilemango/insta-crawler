@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11875302_736721746440205_249643628_a.jpg",
+                            "full_name": "Lyz Rahme",
+                            "is_verified": false,
+                            "id": "288216734",
+                            "followed_by_viewer": false,
+                            "username": "lyzrahme",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856860_766459380133606_17233353_a.jpg",
+                            "full_name": "irinacurutz",
+                            "is_verified": false,
+                            "id": "22920370",
+                            "followed_by_viewer": false,
+                            "username": "irinacurutz",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18013727_293337151110227_5429047625187852288_a.jpg",
+                            "full_name": "Amina Muaddi",
+                            "is_verified": false,
+                            "id": "20943805",
+                            "followed_by_viewer": false,
+                            "username": "aminamuaddi",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 3,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBOTyYJUfEGe2emKTiKGUBLgViwZMC4v9VCbLTLhQpBXCWz59IGoTvnIgooHaNttnM"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

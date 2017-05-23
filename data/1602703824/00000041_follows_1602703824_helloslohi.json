@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11296899_1589606331304255_358136982_a.jpg",
+                            "full_name": "\ud83c\udf73\uacc4\ub780\ud6c4\ub77c\uc774\uac8c\uc2a4\ud2b8\ud558\uc6b0\uc2a4 & \ud83d\ude4c\uc7ac\uc8fc\ud329\ud1a0\ub9ac",
+                            "is_verified": false,
+                            "id": "1542697452",
+                            "followed_by_viewer": false,
+                            "username": "friedeggs_jeju",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15099476_1825742720996761_185288935008632832_a.jpg",
+                            "full_name": "\uc7a5\uc720\ub840",
+                            "is_verified": false,
+                            "id": "901042123",
+                            "followed_by_viewer": false,
+                            "username": "euryejang",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 794,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB5X025XTXrJ30S51Wi4q7CxVUjHtIyZnMJFOVUr6jEc2EIN0aH3ywN1CN3ZR1KvK0"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

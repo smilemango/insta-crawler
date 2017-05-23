@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10954730_1047218721968622_1956579869_a.jpg",
+                            "full_name": "Zooey Deschanel",
+                            "is_verified": true,
+                            "id": "14057957",
+                            "followed_by_viewer": false,
+                            "username": "zooeydeschanel",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 315,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBCGW_5MCne10VVAKqAmpriux4pUJaLKWqkVrHO6r8zxPv4aLi0OKzoNrILcdWkcW0"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://instagram.fhyd3-1.fna.fbcdn.net/t51.2885-19/11906329_960233084022564_1448528159_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "233161391",
+                            "followed_by_viewer": false,
+                            "username": "amur15",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11098254_1391549657832858_199265859_a.jpg",
+                            "full_name": "Alena Rastorgueva",
+                            "is_verified": false,
+                            "id": "25459905",
+                            "followed_by_viewer": false,
+                            "username": "rastorguevaalena_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14334612_1684576541860150_6285578788226990080_a.jpg",
+                            "full_name": "Ar \u0427\u0438",
+                            "is_verified": false,
+                            "id": "13188800",
+                            "followed_by_viewer": false,
+                            "username": "archi_porsche",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 190,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBRt23F_7Ofsaz1a0N2PzRokrIzLEDMc2bKsixPXGlXspHXJ84rc2VHWi_U_mdanvg"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

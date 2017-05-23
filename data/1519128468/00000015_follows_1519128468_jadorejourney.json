@@ -1,0 +1,27 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12826099_441189882758993_418404217_a.jpg",
+                            "full_name": "Nonna Pink",
+                            "is_verified": false,
+                            "id": "284478352",
+                            "followed_by_viewer": false,
+                            "username": "mygoodcompany",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 167,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBd4mv8G_Hh-WGJvA8zkOlRO5-rVmzpUrk182DJKtA2sDpSB08mzxfWtdJn7ofdZ0M"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

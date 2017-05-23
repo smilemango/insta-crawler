@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17662304_252009705261651_754249944268800000_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "2272399526",
+                            "followed_by_viewer": false,
+                            "username": "uqa_3",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17438015_240182306449229_5483545876796276736_a.jpg",
+                            "full_name": "Thai Pretty Promo",
+                            "is_verified": false,
+                            "id": "2184586563",
+                            "followed_by_viewer": false,
+                            "username": "thaiprettypromo",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18444108_1030065027128498_6365323458896723968_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "1439156095",
+                            "followed_by_viewer": false,
+                            "username": "evesst",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 6487,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQBWGEV5E06lJ8iudMX7KZZk-ApK8zlg-nkMTPOuqmZd7BD6n-XfXiT8Gy-rF-zYPJZLcOQwo1qikM6Ia1KWL4MXk-a9kHIQMK4NMcrPAcciEw"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

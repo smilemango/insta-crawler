@@ -1,0 +1,71 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11906346_697886267008288_476380301_a.jpg",
+                            "full_name": "\ub9f9\uc774\ub124",
+                            "is_verified": false,
+                            "id": "511812431",
+                            "followed_by_viewer": false,
+                            "username": "soul415",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10852559_583400461792011_1929963862_a.jpg",
+                            "full_name": "Julie Kim",
+                            "is_verified": false,
+                            "id": "613345836",
+                            "followed_by_viewer": false,
+                            "username": "nabangk",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12338860_1092012937484120_93195140_a.jpg",
+                            "full_name": "Mon plaisir \ud83d\udc90",
+                            "is_verified": false,
+                            "id": "222150433",
+                            "followed_by_viewer": false,
+                            "username": "_ssong_hwa",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850334_538636159618653_2002982448_a.jpg",
+                            "full_name": "\ud55c\ud76c\uc9c4",
+                            "is_verified": false,
+                            "id": "847731317",
+                            "followed_by_viewer": false,
+                            "username": "hanheejin_",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11899662_1058519940839700_962441252_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "287133764",
+                            "followed_by_viewer": false,
+                            "username": "avec916",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 181,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBnVtyKAbMZJ123pmjSzKvDwo0_nqjftUP0_TNT2pfNLuS3l1O1ix76BO3NiouRdI4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

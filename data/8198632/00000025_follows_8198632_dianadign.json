@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10483606_1455168238103207_1314646010_a.jpg",
+                            "full_name": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800Regina \ud83c\udf11\u2600\ufe0f",
+                            "is_verified": false,
+                            "id": "1518206",
+                            "followed_by_viewer": false,
+                            "username": "regiaregia",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18580320_1690331307936078_7621262614546350080_a.jpg",
+                            "full_name": "arnella markaryan",
+                            "is_verified": false,
+                            "id": "4373552",
+                            "followed_by_viewer": false,
+                            "username": "arnellamm",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/924584_1563837757225405_281774918_a.jpg",
+                            "full_name": "Anna Bordo",
+                            "is_verified": false,
+                            "id": "3162658",
+                            "followed_by_viewer": false,
+                            "username": "abordeux",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 467,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQB6nsfi7wxiUrYb_l5xhyu-q37L3LpQkZW3N_VSzQyptjLAmGn-Evpdxud6dkIKujc"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

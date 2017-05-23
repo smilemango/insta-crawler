@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 621,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10809575_569490753197792_1937856692_a.jpg",
+                            "is_verified": false,
+                            "full_name": "FAHRENHEIT",
+                            "username": "fahrenheit_bcn",
+                            "followed_by_viewer": false,
+                            "id": "498734019",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11349410_1628295314092948_1988793676_a.jpg",
+                            "is_verified": false,
+                            "full_name": "\u2022\u2022\u2022 X E S C O \u2022\u2022\u2022",
+                            "username": "xescoserrat",
+                            "followed_by_viewer": false,
+                            "id": "285119149",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAkIm7gllTatC-icxWjiUHqMUl2j_XOZBV4LINBgEa1V1Yze79x2i6aznUN4StzgJg"
+                }
+            }
+        }
+    }
+}

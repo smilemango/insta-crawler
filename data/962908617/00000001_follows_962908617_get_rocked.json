@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18014069_1838105079844254_8362726454059859968_n.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "4525735442",
+                            "followed_by_viewer": false,
+                            "username": "show_me_your_studio",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16229131_377818145921501_5399423865652772864_a.jpg",
+                            "full_name": "Paris \ud83d\udc06",
+                            "is_verified": false,
+                            "id": "17009807",
+                            "followed_by_viewer": false,
+                            "username": "charcoalalley",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/10299721_1690433231238794_979463607_a.jpg",
+                            "full_name": "sundays_are_for_lovers",
+                            "is_verified": false,
+                            "id": "2363641076",
+                            "followed_by_viewer": false,
+                            "username": "sundays_are_for_lovers",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/929155_1467817686849848_943920633_a.jpg",
+                            "full_name": "PARIS | Curator @CharcoalAlley",
+                            "is_verified": false,
+                            "id": "1341205592",
+                            "followed_by_viewer": false,
+                            "username": "art_for_breakfast",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/1527668_887102504680560_1458643427_a.jpg",
+                            "full_name": "\ud83d\udc8c: @ZoeMaks + @CharcoalAlley",
+                            "is_verified": false,
+                            "id": "1815570384",
+                            "followed_by_viewer": false,
+                            "username": "dream_casa",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11243947_1431432353830016_1899375024_a.jpg",
+                            "full_name": "Zo\u00eb Maks",
+                            "is_verified": false,
+                            "id": "9859707",
+                            "followed_by_viewer": false,
+                            "username": "zoemaks",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 6,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQA2xJ-OyVUQX9vNKHIGy51lNYmGNgg5bEhsxwevkVRGDMOdBUjemF3JZabiBhOWs_A"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

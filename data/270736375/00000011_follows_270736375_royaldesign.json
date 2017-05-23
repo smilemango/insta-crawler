@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 205,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10755946_1492444484366542_541791290_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Trendspanarna.nu",
+                            "username": "trendspanarna",
+                            "followed_by_viewer": false,
+                            "id": "246039252",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18445028_1390567677676748_4249155534143356928_a.jpg",
+                            "is_verified": false,
+                            "full_name": "INREDNINGSKONTORET",
+                            "username": "inredning",
+                            "followed_by_viewer": false,
+                            "id": "214907419",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11326000_164164323914566_554326063_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Eva Solo A/S",
+                            "username": "evasolo_official",
+                            "followed_by_viewer": false,
+                            "id": "295180967",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11820432_399747513562187_628173137_a.jpg",
+                            "is_verified": false,
+                            "full_name": "orrefors kosta boda  AS",
+                            "username": "orrefors_norge",
+                            "followed_by_viewer": false,
+                            "id": "285561478",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11350753_1063762953661905_1585683909_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Fiskars Americas",
+                            "username": "fiskarsamericas",
+                            "followed_by_viewer": false,
+                            "id": "207597386",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15259033_364781303902306_4217146783563776_a.jpg",
+                            "is_verified": false,
+                            "full_name": "inredningsfrun",
+                            "username": "inredningsfrun",
+                            "followed_by_viewer": false,
+                            "id": "178521828",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQAhqiHvZWaEAJHBDbixPI3GzLe-wZjy3QlfGKkduaSdA6AK9J4YtxhOntl015zv8j0"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "edge_follow": {
+                "count": 1949,
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12424855_666792023423939_1454102563_a.jpg",
+                            "is_verified": false,
+                            "full_name": "Alicia Ruiz-Inzunza",
+                            "username": "alicia_ruizm",
+                            "followed_by_viewer": false,
+                            "id": "224728649",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/16230199_183443962134777_8558122306109440000_a.jpg",
+                            "is_verified": false,
+                            "full_name": "",
+                            "username": "cyn_zano",
+                            "followed_by_viewer": false,
+                            "id": "2951924377",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQCZZYIO_em6zFZYqVMNKM8BYxsS0WDgoP0jrUWJ0vSAFktfAhwkM0j5FYKYD2cx8CvMbqccSmIMsBANxYZB8z9qGSoOsjmg1mYiAGWWrBlzZA"
+                }
+            }
+        }
+    }
+}

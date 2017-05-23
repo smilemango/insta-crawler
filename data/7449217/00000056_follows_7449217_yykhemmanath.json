@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15803604_746420042181020_7765903012697997312_n.jpg",
+                            "full_name": "JUNIORR.",
+                            "is_verified": false,
+                            "id": "5121067",
+                            "followed_by_viewer": false,
+                            "username": "juniorjayjayy",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877559_1215626215153697_8076492000750206976_a.jpg",
+                            "full_name": "Kraipich R.",
+                            "is_verified": false,
+                            "id": "4040130",
+                            "followed_by_viewer": false,
+                            "username": "jobkraipich",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11909410_1104799216216027_814194698_a.jpg",
+                            "full_name": "Kapows",
+                            "is_verified": false,
+                            "id": "6882700",
+                            "followed_by_viewer": false,
+                            "username": "kapow_eiei",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18095390_410455369324433_9111046298328367104_a.jpg",
+                            "full_name": "Bim Nadda",
+                            "is_verified": false,
+                            "id": "5842329",
+                            "followed_by_viewer": false,
+                            "username": "bimnadda",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/18299781_168864836975874_6582607946050437120_a.jpg",
+                            "full_name": "TheKid from \"Southside\"",
+                            "is_verified": true,
+                            "id": "2627385",
+                            "followed_by_viewer": false,
+                            "username": "twopee",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14718009_1231261026970996_5839146852255006720_a.jpg",
+                            "full_name": "Nudnit Natthanij",
+                            "is_verified": false,
+                            "id": "2791794",
+                            "followed_by_viewer": false,
+                            "username": "nnudnit",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1084,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQCBK9RlJ9yO3ldWY2Ufg8_64XYvQGNVX3RLLHsJ8XqBMhx4zCwDGiY4-FFa2m1orDQ"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

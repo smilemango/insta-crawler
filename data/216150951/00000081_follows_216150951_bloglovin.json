@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10488761_594422487340901_1099999974_a.jpg",
+                            "full_name": "Homepolish",
+                            "is_verified": true,
+                            "id": "9620227",
+                            "followed_by_viewer": false,
+                            "username": "homepolish",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12357550_563801883776292_1337244514_a.jpg",
+                            "full_name": "Accidental Icon",
+                            "is_verified": true,
+                            "id": "1475405317",
+                            "followed_by_viewer": false,
+                            "username": "iconaccidental",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/12534494_1054224497952607_1029858120_a.jpg",
+                            "full_name": "Casey d. Watson",
+                            "is_verified": false,
+                            "id": "3789125",
+                            "followed_by_viewer": false,
+                            "username": "cdearbornw",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14606904_350034158672513_3730069927097270272_a.jpg",
+                            "full_name": "Vince",
+                            "is_verified": true,
+                            "id": "1228652019",
+                            "followed_by_viewer": false,
+                            "username": "vince",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15305938_1713477495633061_4155410137672056832_a.jpg",
+                            "full_name": "miguelcarrizo",
+                            "is_verified": false,
+                            "id": "344817837",
+                            "followed_by_viewer": false,
+                            "username": "miguelcarrizo",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10731484_786822271379269_583335_a.jpg",
+                            "full_name": "Kelly Gallozzi",
+                            "is_verified": false,
+                            "id": "356385712",
+                            "followed_by_viewer": false,
+                            "username": "kgalloz",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 1857,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "AQC9SXSH3YRZocLBjBFb_WvBCbCifA14sewVbADCNgu2ObhLFV3dcv5iJoFtRRoX49GRcfNTidBNVDhy8le2J9X1PQT6au1S2hN-SAttJHIi9g"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14596809_776636515809541_8142540703612796928_a.jpg",
+                            "full_name": "\uac15\ud76c\uc7ac  \ud83c\udfaa \uc0ac\uc9c4\uc77c\uae30",
+                            "is_verified": false,
+                            "id": "402731746",
+                            "followed_by_viewer": false,
+                            "username": "heejaeholic",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11356925_129381587403520_735830324_a.jpg",
+                            "full_name": "Viola Qian",
+                            "is_verified": false,
+                            "id": "245910007",
+                            "followed_by_viewer": false,
+                            "username": "violaqian",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 235,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQD1mk-HCqS6Cx80VJlH6eID-3Dv0IygJgbMlPPsHL_DLxTSz9NHfwYOoPy9n2Z3ioM"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/13129807_690686731063489_128388013_a.jpg",
+                            "full_name": "Lucas Mercator",
+                            "is_verified": false,
+                            "id": "198195410",
+                            "followed_by_viewer": false,
+                            "username": "lucasmercator",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11850336_1605267149738213_1474092582_a.jpg",
+                            "full_name": "Henrik Vibskov",
+                            "is_verified": false,
+                            "id": "205531958",
+                            "followed_by_viewer": false,
+                            "username": "henrikvibskov",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11856805_420534924798296_1113553740_a.jpg",
+                            "full_name": "Angela Turner",
+                            "is_verified": false,
+                            "id": "566083163",
+                            "followed_by_viewer": false,
+                            "username": "angela__turner",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/11875517_889446381123490_1686625622_a.jpg",
+                            "full_name": "sophie",
+                            "is_verified": false,
+                            "id": "183714980",
+                            "followed_by_viewer": false,
+                            "username": "wefindwildness",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/17596427_275429586234640_1977385131849023488_a.jpg",
+                            "full_name": "Hummus for life",
+                            "is_verified": false,
+                            "id": "45422738",
+                            "followed_by_viewer": false,
+                            "username": "hummus_is_the_new_black",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/14063665_1044072855700204_717825509_a.jpg",
+                            "full_name": "Pia Chukerbuti",
+                            "is_verified": false,
+                            "id": "476781145",
+                            "followed_by_viewer": false,
+                            "username": "pia_shugabooti",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/s150x150/15877444_1911040032449201_1529562378092412928_a.jpg",
+                            "full_name": "",
+                            "is_verified": false,
+                            "id": "43001786",
+                            "followed_by_viewer": false,
+                            "username": "aureliesutter",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 523,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQDXHmqS0hb8YIbM4wa-YkbZTBSMmOJfvIfdcFNGfHmuPSZWhMg4fZ3uRXySLNKCygs"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}

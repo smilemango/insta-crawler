@@ -1,0 +1,38 @@
+{
+    "data": {
+        "user": {
+            "edge_follow": {
+                "edges": [
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/10598237_322837201217594_1347663471_a.jpg",
+                            "full_name": "Han Byoul Kang",
+                            "is_verified": false,
+                            "id": "240451832",
+                            "followed_by_viewer": false,
+                            "username": "str9265",
+                            "requested_by_viewer": false
+                        }
+                    },
+                    {
+                        "node": {
+                            "profile_pic_url": "https://scontent-icn1-1.cdninstagram.com/t51.2885-19/11950677_1624900804454613_1316726485_a.jpg",
+                            "full_name": "\uc815\ud558\uc740",
+                            "is_verified": false,
+                            "id": "1289929073",
+                            "followed_by_viewer": false,
+                            "username": "jgd0728",
+                            "requested_by_viewer": false
+                        }
+                    }
+                ],
+                "count": 454,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": "AQBOLZHTpEY0wli_YSnr_MPAGweyDCFJfcYqNFbykhbb1YVF6Hy7rbf2gsRurGIHc-4"
+                }
+            }
+        }
+    },
+    "status": "ok"
+}
