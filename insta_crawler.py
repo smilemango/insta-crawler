@@ -16,6 +16,9 @@ class InstaCrawler:
     def __init__(self, username, password):
         self._username = username
         self._password = password
+        self.init()
+
+    def init(self):
         self._session = requests.session()
         self._is_logged_in = False
 

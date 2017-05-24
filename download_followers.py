@@ -10,6 +10,7 @@ DATA_DIR = "./data"
 USER_DICT = {}
 NEXT_USER_DICT = {}
 COMPL_USER_DICT = {}
+USER_ID, USER_PASSWORD = "smileman_god@naver.com","zaq12345"
 
 logger = logging.getLogger("main_logger")
 
@@ -107,6 +108,26 @@ def download_follows_by_id(id, username = None):
             logger.info("Waiting for %d seconds." % waits)
             time.sleep(waits)
             continue
+        except ConnectionError as ce:
+            logger.fatal("Exception from get_follows_by_id(Connection Error)===>")
+            logger.fatal(str(ce))
+            file_idx = file_idx -1
+            waits = random.randrange(5, 20)
+            logger.info("Waiting for %d seconds." % waits)
+            time.sleep(waits)
+            continue
+        except KeyError as ke :
+            logger.fatal("Exception from get_follows_by_id(Key Error)===>")
+            logger.fatal(str(ke))
+            file_idx = file_idx -1
+            waits = random.randrange(5, 20)
+            logger.info("Waiting for %d seconds." % waits)
+            time.sleep(waits)
+            ic.init()
+            ic.login()
+            continue
+
+
 
         if 'status' in json_follows and 'message' in json_follows:
             logger.info("Received wating message.")
@@ -153,7 +174,7 @@ if __name__ == "__main__":
         os.mkdir(DATA_DIR)
         logger.info("DATA DIRECTORY '%s' directory is made." % DATA_DIR)
 
-    ic = insta_crawler.InstaCrawler("smileman_god@naver.com","zaq12345")
+    ic = insta_crawler.InstaCrawler(USER_ID, USER_PASSWORD)
     ic.login()
     if ic.is_logged_in()== False:
         logger.error("Login failure.")
