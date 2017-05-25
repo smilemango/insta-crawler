@@ -5,6 +5,8 @@ import os
 import json
 import logging
 import sqlite3
+import requests
+import traceback
 
 DATA_DIR = "./data"
 USER_DICT = {}
@@ -108,7 +110,7 @@ def download_follows_by_id(id, username = None):
             logger.info("Waiting for %d seconds." % waits)
             time.sleep(waits)
             continue
-        except ConnectionError as ce:
+        except requests.exceptions.ConnectionError as ce:
             logger.fatal("Exception from get_follows_by_id(Connection Error)===>")
             logger.fatal(str(ce))
             file_idx = file_idx -1
@@ -134,17 +136,33 @@ def download_follows_by_id(id, username = None):
             logger.error(json_follows)
             # message:'몇 분 후에 다시 시도해주세요.', status:'fail'
             if json_follows['status'] == 'fail' and json_follows['message'] == '몇 분 후에 다시 시도해주세요.':
-                waits = random.randrange(20, 60)
+                waits = random.randrange(10, 30)
                 logger.info("Waiting for %d seconds." % waits)
                 time.sleep(waits)
                 file_idx = file_idx - 1
                 continue
 
-        for node in  json_follows['data']['user']['edge_follow']['edges']:
-            f_id = node['node']['id']
-            f_username = node['node']['username']
-            if not node["node"]["id"] in COMPL_USER_DICT:
-                NEXT_USER_DICT[f_id] = f_username
+        try:
+            for node in  json_follows['data']['user']['edge_follow']['edges']:
+                f_id = node['node']['id']
+                f_username = node['node']['username']
+                if not node["node"]["id"] in COMPL_USER_DICT:
+                    NEXT_USER_DICT[f_id] = f_username
+        except TypeError as e:
+            logger.fatal("NODE ERROR ===>")
+            logger.fatal(json_follows)
+            waits = random.randrange(10, 20)
+            logger.info("Waiting for %d seconds." % waits)
+            time.sleep(waits)
+            file_idx = file_idx - 1
+
+            #이 에러가 발생하면 계속 데이터를 못 가져오므로 연결 자체를 초기화 해야한다.
+            logger.info("Login initialize...")
+            ic.init()
+            ic.login()
+            continue
+
+
 
         outfile_name = dir4id + "/" + file_name
         logger.info("Writing... '%s'" % outfile_name)
