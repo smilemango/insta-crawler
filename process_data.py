@@ -37,13 +37,12 @@ def extract_json_to_db(id, files):
             data = json.load(data_file)
             for node in data["data"]["user"]["edge_follow"]["edges"]:
                 cur.execute(
-                    "INSERT OR REPLACE INTO users (id, username, full_name, profile_pic_url) VALUES ( %s, '%s', '%s', '%s' )"
+                    "INSERT OR REPLACE INTO users (id, username, full_name) VALUES ( %s, '%s', '%s')"
                     %
                     (
                         node["node"]["id"],
                         node["node"]["username"],
-                        str(node["node"]["full_name"]).replace("'", "''"),
-                        node["node"]["profile_pic_url"]
+                        str(node["node"]["full_name"]).replace("'", "''")
                     ))
                 cur.execute(
                     "INSERT OR IGNORE INTO relations (user_id,follow_id) VALUES ( %s, %s )" % (id, node["node"]["id"]))
