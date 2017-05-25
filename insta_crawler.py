@@ -60,10 +60,14 @@ class InstaCrawler:
 
         # login failure
         # {"authenticated": false, "user": true, "status": "ok"}
-        if result['authenticated'] == True:
-            self._is_logged_in = True
-            return True
-        else:
+        if 'authenticated' in result :
+            if result['authenticated'] == True:
+                self._is_logged_in = True
+                return True
+            else:
+                return False
+        else :
+            print( str(result) )
             return False
 
     def is_logged_in(self):
