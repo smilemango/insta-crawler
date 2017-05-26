@@ -270,8 +270,8 @@ if __name__ == "__main__":
             user_dict_idx = user_dict_idx +1
             logger.info("USER_DICT : %d of %d completed." % (user_dict_idx, len(USER_DICT)))
             logger.info("NEXT_USER_DICT : %d" % len(NEXT_USER_DICT))
+            logger.info("COMPL_USER_DICT : %d" % len(COMPL_USER_DICT))
 
-        break
 
         logger.info("[%d] iteration completed. Count=%d" % (iter_count,len(USER_DICT)))
 
