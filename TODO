@@ -1,0 +1,12 @@
+
+* download_followers.py
+ - insta에서 사용자를 잘 끌어오고 있다 종종 발생하는 예외처리를 계속 추가하며 추이를 보자.
+
+* process_data.py
+ - 읽어온 json파일을 db에 넣는다
+ - profile_url은 데이터가 커져서, 제외하였다. 필요하면 읽어올 수 있도록 한다.
+
+* insta2vec.py
+ - 사용자별로 얻은 follower id가 db에 이미 저장되어 있다
+ - 이를 사용자 id:[id1,id2,id3,...] 와 같이 저장되도록 한다(pandas를 이용하면 되는것 같다)
+ - 이를 이용하여 트레이닝 한다
