@@ -4,7 +4,7 @@ import os
 import logging
 import pprint
 
-DATA_DIR = "data"
+DATA_DIR = "data_from_lovelymrsyi"
 PROC_DATA_DIR = "processed_data"
 
 logger = logging.getLogger("data_proc_logger")
@@ -51,11 +51,12 @@ def extract_json_to_db(id, files):
     logger.info("%d users were added." % count)
 
 
-dirs = [dir4id for dir4id in os.listdir('data') if os.path.isdir(os.path.join('data', dir4id))]
+dirs = [dir4id for dir4id in os.listdir(DATA_DIR) if os.path.isdir(os.path.join(DATA_DIR, dir4id))]
 
 target_ids = []
 
 cur = conn.cursor()
+#디렉토리 아래 있는 END파일이 있는 녀석들만 대상에 추가한다.
 for a_dir in dirs:
     end_file = os.path.join(DATA_DIR, os.path.join(a_dir, 'END'))
     if os.path.exists(end_file):

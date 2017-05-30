@@ -94,7 +94,7 @@ class InstaCrawler:
         url = "https://www.instagram.com/graphql/query/?query_id=17851374694183129&id=%s&first=20" % id
 
         if after != None:
-            url = url + "&after" + after
+            url = url + "&after=" + after
 
         r = self._session.get(url, headers=headers, cookies=self._last_cookies)
         self._last_cookies = r.cookies
