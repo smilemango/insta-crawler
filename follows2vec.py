@@ -9,6 +9,7 @@ import multiprocessing
 import sklearn
 from sklearn.manifold import TSNE
 from matplotlib import font_manager, rc
+from matplotlib.widgets import RadioButtons
 
 import my_logger
 
@@ -35,7 +36,7 @@ else :
         (SELECT username FROM users WHERE id = A.user_id) user_id,
         (SELECT username FROM users WHERE id = A.follow_id) follow_id
     FROM relations A
-    limit 100 ;
+    --limit 100 ;
     """, conn)
     logger.info("Database loading completed.")
     logger.info("Data transforming... Group By 'USER_ID'")
@@ -59,7 +60,7 @@ else :
     #more dimensions = more generalized
     num_features = 300
     # Minimum word count threshold.
-    min_word_count = 1
+    min_word_count = 100
 
     # Number of threads to run in parallel.
     #more workers, faster we train
@@ -142,9 +143,30 @@ elif sys.platform == 'darwin':
 plt.rcParams['axes.unicode_minus'] = False
 
 ax = points.plot.scatter("x", "y", s=10, figsize=(20, 12))
+text_labels = []
 for i, point in points.iterrows():
-    ax.text(point.x + 0.1, point.y - 2, point.word, fontsize=11)
+    t= ax.text(point.x + 0.0001, point.y, point.word, fontsize=11, url="http://www.instagram.com/" + point.word)
+    text_labels.append( t)
 
+
+# the left side of the subplots of the figure
+plt.subplots_adjust(left=0.15)
+
+axcolor = 'lightgoldenrodyellow'
+rax = plt.axes([0, 0.8, 0.1, 0.1], facecolor=axcolor)
+radio = RadioButtons(rax, ('On', 'Off'))
+
+def toggleLabel(label):
+    toggle = None
+    if label == 'On':
+        toggle = True
+    else :
+        toggle = False
+    for label in text_labels:
+        label.set_visible(toggle)
+    plt.draw()
+
+radio.on_clicked(toggleLabel)
 # print(model.most_similar(positive=['lovelymrsyi']))
 #
 # for value in points.values:
