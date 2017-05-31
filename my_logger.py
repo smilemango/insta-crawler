@@ -1,5 +1,6 @@
 import logging
 
+
 def init_mylogger(logger_name,logfile_path, loglevel=logging.DEBUG):
     logger = logging.getLogger(logger_name)
 
@@ -16,5 +17,7 @@ def init_mylogger(logger_name,logfile_path, loglevel=logging.DEBUG):
     fileHandler.setLevel(logging.DEBUG)
     streamHandler.setLevel(logging.INFO)
 
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(loglevel)
+
+    return logger
 

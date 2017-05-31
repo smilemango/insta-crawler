@@ -1,97 +1,109 @@
 import sqlite3
-import gensim
-import codecs
-import glob
 import logging
-import multiprocessing
-import os
 import pprint as pp
-import re
-import nltk
-import gensim.models.word2vec as w2v
-import sklearn.manifold
-import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
-import my_logger
-
-
-my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
-
-conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
-c = conn.cursor()
-
-df = pd.read_sql_query("""
-SELECT
-    (SELECT username FROM users WHERE id = A.user_id) user_id,
-    (SELECT username FROM users WHERE id = A.follow_id) follow_id
-FROM relations A
---limit 10000 ;
-""", conn)
-trans =  df.groupby('user_id')['follow_id'].apply(lambda x: ",".join(x.astype(str)))
-trans2 = trans.reset_index()['follow_id']
-
-corpus = []
-for x in trans2:
-    corpus.append(x.split(','))
-
+import os, sys
 import gensim
 import multiprocessing
 import sklearn
+from sklearn.manifold import TSNE
+from matplotlib import font_manager, rc
 
-#ONCE we have vectors
-#step 3 - build model
-#3 main tasks that vectors help with
-#DISTANCE, SIMILARITY, RANKING
+import my_logger
 
-# Dimensionality of the resulting word vectors.
-#more dimensions, more computationally expensive to train
-#but also more accurate
-#more dimensions = more generalized
-num_features = 300
-# Minimum word count threshold.
-min_word_count = 150
+SAVED_FILE_PATH = "./vector/follows2vec.w2v"
 
-# Number of threads to run in parallel.
-#more workers, faster we train
-num_workers = multiprocessing.cpu_count()
-
-# Context window length.
-context_size = 10
-
-# Downsample setting for frequent words.
-#0 - 1e-5 is good for this
-downsampling = 1e-3
-
-# Seed for the RNG, to make the results reproducible.
-#random number generator
-#deterministic, good for debugging
-seed = 1
+logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
 
-model = gensim.models.Word2Vec(
-    sg=1,
-    seed=seed,
-    workers=num_workers,
-    size=num_features,
-    min_count=min_word_count,
-    window=context_size,
-    sample=downsampling
-)
+model = None
+
+if os.path.isfile(SAVED_FILE_PATH):
+    logger.info("Vector data already exists.")
+    logger.info("Load data...")
+    model = gensim.models.Word2Vec.load(SAVED_FILE_PATH)
+
+else :
+    logger.info("Vector data does not exist.")
+    conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
+    c = conn.cursor()
+
+    logger.info("Loading Database.")
+    df = pd.read_sql_query("""
+    SELECT
+        (SELECT username FROM users WHERE id = A.user_id) user_id,
+        (SELECT username FROM users WHERE id = A.follow_id) follow_id
+    FROM relations A
+    limit 100 ;
+    """, conn)
+    logger.info("Database loading completed.")
+    logger.info("Data transforming... Group By 'USER_ID'")
+    trans =  df.groupby('user_id')['follow_id'].apply(lambda x: ",".join(x.astype(str)))
+    trans2 = trans.reset_index()['follow_id']
+
+    corpus = []
+    for x in trans2:
+        corpus.append(x.split(','))
+
+    logger.info("Data preprocessing completed.")
+
+    #ONCE we have vectors
+    #step 3 - build model
+    #3 main tasks that vectors help with
+    #DISTANCE, SIMILARITY, RANKING
+
+    # Dimensionality of the resulting word vectors.
+    #more dimensions, more computationally expensive to train
+    #but also more accurate
+    #more dimensions = more generalized
+    num_features = 300
+    # Minimum word count threshold.
+    min_word_count = 1
+
+    # Number of threads to run in parallel.
+    #more workers, faster we train
+    num_workers = multiprocessing.cpu_count()
+
+    # Context window length.
+    context_size = 10
+
+    # Downsample setting for frequent words.
+    #0 - 1e-5 is good for this
+    downsampling = 1e-3
+
+    # Seed for the RNG, to make the results reproducible.
+    #random number generator
+    #deterministic, good for debugging
+    seed = 1
 
 
-model.build_vocab(corpus)
-print("Word2Vec vocabulary length:", len(model.wv.vocab))
-model.train(corpus,total_examples=model.corpus_count, epochs=model.iter)
+    model = gensim.models.Word2Vec(
+        sg=1,
+        seed=seed,
+        workers=num_workers,
+        size=num_features,
+        min_count=min_word_count,
+        window=context_size,
+        sample=downsampling
+    )
+
+    logger.info("Building vocablary.")
+    model.build_vocab(corpus)
+    logger.info("Word2Vec vocabulary length : %d", len(model.wv.vocab))
+    logger.info("Traing...")
+    model.train(corpus,total_examples=model.corpus_count, epochs=model.iter)
+    logger.info("Traing completed.")
+
+    model.save(SAVED_FILE_PATH)
 
 
 #my video - how to visualize a dataset easily
 tsne = sklearn.manifold.TSNE(n_components=2, random_state=0)
-
 all_word_vectors_matrix = model.wv.syn0
-import pprint as pp
-pp.pprint(model.wv.syn0[0])
+#pp.pprint(model.wv.syn0[0])
+
+logging.info("Vector to 2d matrix.")
 all_word_vectors_matrix_2d = tsne.fit_transform(all_word_vectors_matrix)
 
 points = pd.DataFrame(
@@ -106,25 +118,32 @@ points = pd.DataFrame(
 )
 
 
-pp.pprint(points.head(10))
+# .---------------------.----------.
+# | System              | Value    |
+# |---------------------|----------|
+# | Linux (2.x and 3.x) | linux2   |
+# | Windows             | win32    |
+# | Windows/Cygwin      | cygwin   |
+# | Mac OS X            | darwin   |
+# | OS/2                | os2      |
+# | OS/2 EMX            | os2emx   |
+# | RiscOS              | riscos   |
+# | AtheOS              | atheos   |
+# | FreeBSD 7           | freebsd7 |
+# | FreeBSD 8           | freebsd8 |
+# '---------------------'----------'
 
+if sys.platform == 'win32':
+    font_name = font_manager.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
+    rc('font', family=font_name)
+elif sys.platform == 'darwin':
+    rc('font', family="AppleGothic")
 
-import seaborn as sns
-sns.set_context("poster")
-
-from sklearn.manifold import TSNE
-from mpl_toolkits.mplot3d import Axes3D
-from matplotlib import font_manager, rc
-import matplotlib.pyplot as plt
-import pylab
-
-font_name = font_manager.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
-rc('font', family=font_name)
-
+plt.rcParams['axes.unicode_minus'] = False
 
 ax = points.plot.scatter("x", "y", s=10, figsize=(20, 12))
 for i, point in points.iterrows():
-    ax.text(point.x + 0.0001, point.y + 0, point.word, fontsize=11)
+    ax.text(point.x + 0.1, point.y - 2, point.word, fontsize=11)
 
 # print(model.most_similar(positive=['lovelymrsyi']))
 #
