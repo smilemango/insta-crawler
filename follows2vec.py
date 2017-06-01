@@ -13,7 +13,38 @@ from matplotlib.widgets import RadioButtons
 
 import my_logger
 
-SAVED_FILE_PATH = "./vector/follows2vec.w2v"
+# ONCE we have vectors
+# step 3 - build model
+# 3 main tasks that vectors help with
+# DISTANCE, SIMILARITY, RANKING
+
+# Dimensionality of the resulting word vectors.
+# more dimensions, more computationally expensive to train
+# but also more accurate
+# more dimensions = more generalized
+num_features = 500
+# Minimum word count threshold.
+min_word_count = 100
+
+# Number of threads to run in parallel.
+# more workers, faster we train
+num_workers = multiprocessing.cpu_count()
+
+# Context window length.
+context_size = 20
+
+# Downsample setting for frequent words.
+# 0 - 1e-5 is good for this
+downsampling = 1e-3
+
+# Seed for the RNG, to make the results reproducible.
+# random number generator
+# deterministic, good for debugging
+seed = 1
+
+sg = 0
+
+SAVED_FILE_PATH = "./vector/follows2vec_%d_%d_%d.w2v" % ( num_features, context_size, sg )
 
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
@@ -49,38 +80,8 @@ else :
 
     logger.info("Data preprocessing completed.")
 
-    #ONCE we have vectors
-    #step 3 - build model
-    #3 main tasks that vectors help with
-    #DISTANCE, SIMILARITY, RANKING
-
-    # Dimensionality of the resulting word vectors.
-    #more dimensions, more computationally expensive to train
-    #but also more accurate
-    #more dimensions = more generalized
-    num_features = 300
-    # Minimum word count threshold.
-    min_word_count = 100
-
-    # Number of threads to run in parallel.
-    #more workers, faster we train
-    num_workers = multiprocessing.cpu_count()
-
-    # Context window length.
-    context_size = 10
-
-    # Downsample setting for frequent words.
-    #0 - 1e-5 is good for this
-    downsampling = 1e-3
-
-    # Seed for the RNG, to make the results reproducible.
-    #random number generator
-    #deterministic, good for debugging
-    seed = 1
-
-
     model = gensim.models.Word2Vec(
-        sg=1,
+        sg=sg,
         seed=seed,
         workers=num_workers,
         size=num_features,
