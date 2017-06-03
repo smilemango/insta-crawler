@@ -10,8 +10,8 @@ import sklearn
 from sklearn.manifold import TSNE
 from matplotlib import font_manager, rc
 from matplotlib.widgets import RadioButtons
-
 import my_logger
+
 
 # ONCE we have vectors
 # step 3 - build model
@@ -143,7 +143,9 @@ elif sys.platform == 'darwin':
 
 plt.rcParams['axes.unicode_minus'] = False
 
+
 ax = points.plot.scatter("x", "y", s=10, figsize=(20, 12))
+
 text_labels = []
 for i, point in points.iterrows():
     t= ax.text(point.x + 0.0001, point.y, point.word, fontsize=11, url="http://www.instagram.com/" + point.word)

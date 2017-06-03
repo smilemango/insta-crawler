@@ -1,12 +1,22 @@
+* followers2vec.py
+ - 특성별로 군집화 -> 색깔 표시하기
+ - 사용자를 검색하여 화면에 다른 색으로 표시해주기
+ - 최빈값 평균값등 nltk를 활용하여 분석하기
 
+
+
+
+
+=== DONE ===
 * download_followers.py
  - insta에서 사용자를 잘 끌어오고 있다 종종 발생하는 예외처리를 계속 추가하며 추이를 보자.
+    => 사용자가 username을 변경한 경우 발생함. 처리 완료
 
 * process_data.py
  - 읽어온 json파일을 db에 넣는다
  - profile_url은 데이터가 커져서, 제외하였다. 필요하면 읽어올 수 있도록 한다.
 
-* insta2vec.py
+* followers2vec.py
  - 사용자별로 얻은 follower id가 db에 이미 저장되어 있다
  - 이를 사용자 id:[id1,id2,id3,...] 와 같이 저장되도록 한다(pandas를 이용하면 되는것 같다)
  - 이를 이용하여 트레이닝 한다
