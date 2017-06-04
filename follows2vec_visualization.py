@@ -23,27 +23,55 @@ from sklearn.manifold import TSNE
 import pandas as pd
 
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
+conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
+
+
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
 
 class MyDialog(tsdlg.Dialog):
 
+    def doSearch(self):
+        logger.info("Do Search Action")
+
+        c = conn.cursor()
+        c.execute("""
+SELECT 
+    (SELECT username FROM users WHERE  id = relations.follow_id) follow_id
+    FROM relations, users 
+    WHERE users.username  ='%s'
+    AND users.id = relations.user_id;    
+""" % self.etSearch.get())
+        rs = c.fetchall()
+        print(rs)
+
+        self.lstResult.delete(0, Tk.END)
+        for row in rs :
+            self.lstResult.insert(Tk.END, row[0] )
+
     def body(self, master):
 
-        Tk.Label(master, text="First:").grid(row=0)
-        Tk.Label(master, text="Second:").grid(row=1)
+        f = Tk.Frame(self)
 
-        self.e1 = Tk.Entry(master)
-        self.e2 = Tk.Entry(master)
+        self.etSearch = Tk.Entry(f)
+        self.btnSearch = Tk.Button(f,text="찾기",command=self.doSearch)
+        self.lstResult = Tk.Listbox(master)
+        self.scrollbar = Tk.Scrollbar(master)
 
-        self.e1.grid(row=0, column=1)
-        self.e2.grid(row=1, column=1)
-        return self.e1 # initial focus
+        self.etSearch.pack(side= Tk.LEFT)
+        self.btnSearch.pack(side=Tk.RIGHT)
+
+        f.pack(side=Tk.TOP)
+        self.scrollbar.pack(side=Tk.RIGHT, fill=Tk.Y)
+        self.lstResult.pack()
+        # attach listbox to scrollbar
+        self.lstResult.config(yscrollcommand=self.scrollbar.set)
+        self.scrollbar.config(command=self.lstResult.yview)
+
+        return self.etSearch # initial focus
 
     def apply(self):
-        first = int(self.e1.get())
-        second = int(self.e2.get())
-        print(first, second )# or something
+        pass
 
 
 
