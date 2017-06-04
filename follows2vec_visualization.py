@@ -21,108 +21,124 @@ import sklearn
 from sklearn.manifold import TSNE
 import pandas as pd
 
+logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
 
+do_word2vec = False
 
-# ONCE we have vectors
-# step 3 - build model
-# 3 main tasks that vectors help with
-# DISTANCE, SIMILARITY, RANKING
+if do_word2vec :
+    # ONCE we have vectors
+    # step 3 - build model
+    # 3 main tasks that vectors help with
+    # DISTANCE, SIMILARITY, RANKING
 
-# Dimensionality of the resulting word vectors.
-# more dimensions, more computationally expensive to train
-# but also more accurate
-# more dimensions = more generalized
-num_features = 500
-# Minimum word count threshold.
-min_word_count = 100
+    # Dimensionality of the resulting word vectors.
+    # more dimensions, more computationally expensive to train
+    # but also more accurate
+    # more dimensions = more generalized
+    num_features = 500
+    # Minimum word count threshold.
+    min_word_count = 100
 
-# Number of threads to run in parallel.
-# more workers, faster we train
-num_workers = multiprocessing.cpu_count()
+    # Number of threads to run in parallel.
+    # more workers, faster we train
+    num_workers = multiprocessing.cpu_count()
 
-# Context window length.
-context_size = 20
+    # Context window length.
+    context_size = 20
 
-# Downsample setting for frequent words.
-# 0 - 1e-5 is good for this
-downsampling = 1e-3
+    # Downsample setting for frequent words.
+    # 0 - 1e-5 is good for this
+    downsampling = 1e-3
 
-# Seed for the RNG, to make the results reproducible.
-# random number generator
-# deterministic, good for debugging
-seed = 1
+    # Seed for the RNG, to make the results reproducible.
+    # random number generator
+    # deterministic, good for debugging
+    seed = 1
 
-sg = 0
+    sg = 0
 
-SAVED_FILE_PATH = "./vector/follows2vec_%d_%d_%d.w2v" % ( num_features, context_size, sg )
+    SAVED_FILE_PATH = "./vector/follows2vec_%d_%d_%d.w2v" % ( num_features, context_size, sg )
 
-logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
+    model = None
+
+    if os.path.isfile(SAVED_FILE_PATH):
+        logger.info("Vector data already exists.")
+        logger.info("Load data...")
+        model = gensim.models.Word2Vec.load(SAVED_FILE_PATH)
+
+    else :
+        logger.info("Vector data does not exist.")
+        conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
+        c = conn.cursor()
+
+        logger.info("Loading Database.")
+        points_by_cluster = pd.read_sql_query("""
+        SELECT
+            (SELECT username FROM users WHERE id = A.user_id) user_id,
+            (SELECT username FROM users WHERE id = A.follow_id) follow_id
+        FROM relations A
+        --limit 100 ;
+        """, conn)
+        logger.info("Database loading completed.")
+        logger.info("Data transforming... Group By 'USER_ID'")
+        trans =  points_by_cluster.groupby('user_id')['follow_id'].apply(lambda x: ",".join(x.astype(str)))
+        trans2 = trans.reset_index()['follow_id']
+
+        corpus = []
+        for x in trans2:
+            corpus.append(x.split(','))
+
+        logger.info("Data preprocessing completed.")
+
+        model = gensim.models.Word2Vec(
+            sg=sg,
+            seed=seed,
+            workers=num_workers,
+            size=num_features,
+            min_count=min_word_count,
+            window=context_size,
+            sample=downsampling
+        )
+
+        logger.info("Building vocablary.")
+        model.build_vocab(corpus)
+        logger.info("Word2Vec vocabulary length : %d", len(model.wv.vocab))
+        logger.info("Traing...")
+        model.train(corpus,total_examples=model.corpus_count, epochs=model.iter)
+        logger.info("Traing completed.")
+
+        model.save(SAVED_FILE_PATH)
 
 
-model = None
+    """
+    ---------------------------------
+    """
+    tsne = sklearn.manifold.TSNE(n_components=2, random_state=0)
+    all_word_vectors_matrix = model.wv.syn0
+    #pp.pprint(model.wv.syn0[0])
 
-if os.path.isfile(SAVED_FILE_PATH):
-    logger.info("Vector data already exists.")
-    logger.info("Load data...")
-    model = gensim.models.Word2Vec.load(SAVED_FILE_PATH)
+    logger.info("Vector to 2d matrix.")
+    all_word_vectors_matrix_2d = tsne.fit_transform(all_word_vectors_matrix)
 
-else :
-    logger.info("Vector data does not exist.")
-    conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
-    c = conn.cursor()
 
-    logger.info("Loading Database.")
-    points_by_cluster = pd.read_sql_query("""
-    SELECT
-        (SELECT username FROM users WHERE id = A.user_id) user_id,
-        (SELECT username FROM users WHERE id = A.follow_id) follow_id
-    FROM relations A
-    --limit 100 ;
-    """, conn)
-    logger.info("Database loading completed.")
-    logger.info("Data transforming... Group By 'USER_ID'")
-    trans =  points_by_cluster.groupby('user_id')['follow_id'].apply(lambda x: ",".join(x.astype(str)))
-    trans2 = trans.reset_index()['follow_id']
-
-    corpus = []
-    for x in trans2:
-        corpus.append(x.split(','))
-
-    logger.info("Data preprocessing completed.")
-
-    model = gensim.models.Word2Vec(
-        sg=sg,
-        seed=seed,
-        workers=num_workers,
-        size=num_features,
-        min_count=min_word_count,
-        window=context_size,
-        sample=downsampling
+    points = pd.DataFrame(
+        [
+            (word, coords[0], coords[1])
+            for word, coords in [
+                (word, all_word_vectors_matrix_2d[model.wv.vocab[word].index])
+                for word in model.wv.vocab
+            ]
+        ],
+        columns=["word", "x", "y"]
     )
 
-    logger.info("Building vocablary.")
-    model.build_vocab(corpus)
-    logger.info("Word2Vec vocabulary length : %d", len(model.wv.vocab))
-    logger.info("Traing...")
-    model.train(corpus,total_examples=model.corpus_count, epochs=model.iter)
-    logger.info("Traing completed.")
+else :
+    logger.info("Initialize data for testing.")
+    points = pd.DataFrame([['a',5,5],['b',-5,-5],['c',5,-5]],columns=['word','x','y'])
 
-    model.save(SAVED_FILE_PATH)
-
-
-"""
----------------------------------
-"""
-tsne = sklearn.manifold.TSNE(n_components=2, random_state=0)
-all_word_vectors_matrix = model.wv.syn0
-#pp.pprint(model.wv.syn0[0])
-
-logging.info("Vector to 2d matrix.")
-all_word_vectors_matrix_2d = tsne.fit_transform(all_word_vectors_matrix)
-
-
+logger.info("Intialize UI")
 root = Tk.Tk()
 root.wm_title("Embedding in TK")
 
@@ -132,18 +148,6 @@ ax = f.add_subplot(111)
 
 #my video - how to visualize a dataset easily
 
-points = pd.DataFrame(
-    [
-        (word, coords[0], coords[1])
-        for word, coords in [
-            (word, all_word_vectors_matrix_2d[model.wv.vocab[word].index])
-            for word in model.wv.vocab
-        ]
-    ],
-    columns=["word", "x", "y"]
-)
-
-#points = pd.DataFrame([['a',5,5],['b',-5,-5],['c',5,-5]],columns=['word','x','y'])
 
 if sys.platform == 'win32':
     font_name = font_manager.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
@@ -155,10 +159,13 @@ plt.rcParams['axes.unicode_minus'] = False
 
 from sklearn.cluster import KMeans
 import numpy as np
-kmeans = KMeans(n_clusters=10, n_jobs=-1, random_state=0)
+
+logger.info("Clustring...")
+kmeans = KMeans(n_clusters=12 if len(points) >= 12 else len(points), n_jobs=-1, random_state=0)
 #cluster_idx = kmeans.fit_predict(points[["x","y"]])
 kmeans.fit(points[["x","y"]])
 cluster_idx = kmeans.labels_
+logger.info("Clustering...DONE")
 
 points['cluster']= pd.Series(np.asarray(cluster_idx))
 
