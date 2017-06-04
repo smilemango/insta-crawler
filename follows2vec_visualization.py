@@ -9,6 +9,7 @@ import os, sys
 import multiprocessing
 from matplotlib import font_manager, rc
 import my_logger
+import ui.tkSimpleDialog as tsdlg
 
 from numpy import arange, sin, pi
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2TkAgg
@@ -24,6 +25,27 @@ import pandas as pd
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
+
+class MyDialog(tsdlg.Dialog):
+
+    def body(self, master):
+
+        Tk.Label(master, text="First:").grid(row=0)
+        Tk.Label(master, text="Second:").grid(row=1)
+
+        self.e1 = Tk.Entry(master)
+        self.e2 = Tk.Entry(master)
+
+        self.e1.grid(row=0, column=1)
+        self.e2.grid(row=1, column=1)
+        return self.e1 # initial focus
+
+    def apply(self):
+        first = int(self.e1.get())
+        second = int(self.e2.get())
+        print(first, second )# or something
+
+
 
 do_word2vec = False
 
@@ -218,12 +240,12 @@ def _quit():
 
 
 def toggle():
-    if btnToggle.config('text')[-1] == 'True':
-        btnToggle.config(text='False')
+    if btnToggle.config('text')[-1] == '라벨 감추기':
+        btnToggle.config(text='라벨 보여주기')
     else:
-        btnToggle.config(text='True')
+        btnToggle.config(text='라벨 감추기')
 
-    if btnToggle.config('text')[-1] == 'True':
+    if btnToggle.config('text')[-1] == '라벨 감추기':
         for label in text_labels:
             label.set_visible(True)
     else:
@@ -231,17 +253,22 @@ def toggle():
             label.set_visible(False)
     canvas.draw()
 
+def openSearchDialog():
+    logger.info("Open SearchDailog")
+
+    d= MyDialog(root)
+    logger.info(d.result)
+
+
 
 bottom_panel = Tk.PanedWindow(master=root)
 bottom_panel.pack(side=Tk.BOTTOM)
 
-txtSearch = Tk.Text(master=bottom_panel,height=1,width=10)
-txtSearch.pack(side=Tk.LEFT)
 
-btnSearch = Tk.Button(master=bottom_panel, text="검색")
+btnSearch = Tk.Button(master=bottom_panel, text="검색", command=openSearchDialog)
 btnSearch.pack(side=Tk.LEFT)
 
-btnToggle = Tk.Button(master=bottom_panel, text="True", width=12, command=toggle)
+btnToggle = Tk.Button(master=bottom_panel, text="라벨 감추기", width=12, command=toggle)
 btnToggle.pack(side=Tk.LEFT)
 
 btnQuit = Tk.Button(master=bottom_panel, text='Quit', command=_quit)
