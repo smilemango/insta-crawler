@@ -19,7 +19,7 @@ class Dialog(Toplevel):
         self.initial_focus = self.body(body)
         body.pack(padx=5, pady=5)
 
-        self.buttonbox()
+        #self.buttonbox()
 
         if modal :
             self.grab_set()

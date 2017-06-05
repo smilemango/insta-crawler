@@ -23,34 +23,44 @@ from sklearn.manifold import TSNE
 import pandas as pd
 
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
-conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
-
-
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
 
-class MyDialog(tsdlg.Dialog):
+class SearchByIDDlg(tsdlg.Dialog):
 
-    def __init__(self,parent):
+    def __init__(self,parent,db_conn,callback):
+        self.conn = db_conn
+        self.callback = callback
         tsdlg.Dialog.__init__(self,parent=parent, modal = False,title="아이디 검색")
 
     def doSearch(self):
         logger.info("Do Search Action")
 
-        c = conn.cursor()
+        c = self.conn.cursor()
         c.execute("""
-SELECT 
-    (SELECT username FROM users WHERE  id = relations.follow_id) follow_id
-    FROM relations, users 
-    WHERE users.username  ='%s'
-    AND users.id = relations.user_id;    
+SELECT username, count(*) as CNT
+FROM users, relations
+WHERE users.id = relations.user_id
+AND users.username like '%s%%'
+GROUP BY username
+ORDER BY CNT;
 """ % self.etSearch.get())
         rs = c.fetchall()
         print(rs)
 
         self.lstResult.delete(0, Tk.END)
         for row in rs :
-            self.lstResult.insert(Tk.END, row[0] )
+            self.lstResult.insert(Tk.END, "%s (%d)" % (row[0], row[1]) )
+
+    def doDoubleClick(self,event):
+        ##this block works
+        w = event.widget
+        index = int(w.curselection()[0])
+        value = w.get(index)
+        print(value)
+        username = value.split()[0]
+        self.callback(username)
+
 
     def body(self, master):
 
@@ -60,6 +70,8 @@ SELECT
         self.etSearch = Tk.Entry(f)
         self.btnSearch = Tk.Button(f,text="찾기",command=self.doSearch)
         self.lstResult = Tk.Listbox(master)
+        self.lstResult.bind("<Double-Button-1>", self.doDoubleClick)
+
         self.scrollbar = Tk.Scrollbar(master)
 
         self.etSearch.pack(side= Tk.LEFT)
@@ -80,6 +92,8 @@ SELECT
 
 
 if __name__ == '__main__':
+
+    conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
 
     do_word2vec = False
 
@@ -290,17 +304,50 @@ if __name__ == '__main__':
     def openSearchDialog():
         logger.info("Open SearchDailog")
 
-        d= MyDialog(root)
+        d= SearchByIDDlg(parent=root,db_conn=conn,callback=setUsername)
         logger.info(d.result)
 
+    def setUsername(username):
+        logger.info("Set Username")
+
+        #1. SELECT FOLLOWS BY username
+        #2. SCATTER POINTS
+        #3. SET LABEL BY username
+        etUsername.config(state=Tk.NORMAL)
+        etUsername.delete(0, Tk.END)
+        etUsername.insert(0, username)
+        etUsername.config(state=Tk.DISABLED)
+        ax.scatter([0],[0])
+
+        canvas.draw()
+
+
+    def clearUsername():
+        logger.debug("Clear Username")
+        etUsername.config(state=Tk.NORMAL)
+        etUsername.delete(0, Tk.END)
+        etUsername.config(state=Tk.DISABLED)
 
 
     bottom_panel = Tk.PanedWindow(master=root)
     bottom_panel.pack(side=Tk.BOTTOM)
 
+    lbShow = Tk.Label(master=bottom_panel, text="표시")
+    lbShow.pack(side=Tk.LEFT)
 
-    btnSearch = Tk.Button(master=bottom_panel, text="검색", command=openSearchDialog)
-    btnSearch.pack(side=Tk.LEFT)
+    etUsername = Tk.Entry(master=bottom_panel)
+    etUsername.config(state=Tk.DISABLED)
+    etUsername.pack(side=Tk.LEFT)
+
+    btnSet = Tk.Button(master=bottom_panel, text="설정...", command=openSearchDialog)
+    btnSet.pack(side=Tk.LEFT)
+
+    btnClear =Tk.Button(master=bottom_panel, text="지우기", command=clearUsername)
+    btnClear.pack(side=Tk.LEFT)
+
+
+    lbSep = Tk.Label(master=bottom_panel, text="    ")
+    lbSep.pack(side=Tk.LEFT)
 
     btnToggle = Tk.Button(master=bottom_panel, text="라벨 감추기", width=12, command=toggle)
     btnToggle.pack(side=Tk.LEFT)
