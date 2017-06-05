@@ -52,6 +52,7 @@ ORDER BY CNT;
         for row in rs :
             self.lstResult.insert(Tk.END, "%s (%d)" % (row[0], row[1]) )
 
+
     def doDoubleClick(self,event):
         ##this block works
         w = event.widget
@@ -95,7 +96,7 @@ if __name__ == '__main__':
 
     conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
 
-    do_word2vec = False
+    do_word2vec = True
 
     if do_word2vec :
         # ONCE we have vectors
@@ -109,7 +110,7 @@ if __name__ == '__main__':
         # more dimensions = more generalized
         num_features = 500
         # Minimum word count threshold.
-        min_word_count = 100
+        min_word_count = 150
 
         # Number of threads to run in parallel.
         # more workers, faster we train
@@ -117,28 +118,19 @@ if __name__ == '__main__':
 
         # Context window length.
         context_size = 20
-
         # Downsample setting for frequent words.
         # 0 - 1e-5 is good for this
         downsampling = 1e-3
-
         # Seed for the RNG, to make the results reproducible.
         # random number generator
         # deterministic, good for debugging
         seed = 1
-
         sg = 0
 
         SAVED_FILE_PATH = "./vector/follows2vec_%d_%d_%d.w2v" % ( num_features, context_size, sg )
-
         model = None
 
-        if os.path.isfile(SAVED_FILE_PATH):
-            logger.info("Vector data already exists.")
-            logger.info("Load data...")
-            model = gensim.models.Word2Vec.load(SAVED_FILE_PATH)
-
-        else :
+        if not os.path.isfile(SAVED_FILE_PATH):
             logger.info("Vector data does not exist.")
             conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
             c = conn.cursor()
@@ -182,12 +174,16 @@ if __name__ == '__main__':
             model.save(SAVED_FILE_PATH)
 
 
+        logger.info("Vector data already exists.")
+        logger.info("Load data...")
+        model = gensim.models.Word2Vec.load(SAVED_FILE_PATH)
+
         """
         ---------------------------------
         """
         tsne = sklearn.manifold.TSNE(n_components=2, random_state=0)
         all_word_vectors_matrix = model.wv.syn0
-        #pp.pprint(model.wv.syn0[0])
+        pp.pprint(model.wv.syn0[0])
 
         logger.info("Vector to 2d matrix.")
         all_word_vectors_matrix_2d = tsne.fit_transform(all_word_vectors_matrix)
@@ -206,7 +202,7 @@ if __name__ == '__main__':
 
     else :
         logger.info("Initialize data for testing.")
-        points = pd.DataFrame([['a',5,5],['b',-5,-5],['c',5,-5]],columns=['word','x','y'])
+        points = pd.DataFrame([['a',100,100],['b',-100,-100],['c',100,-100]],columns=['word','x','y'])
 
     logger.info("Intialize UI")
     root = Tk.Tk()
@@ -215,7 +211,8 @@ if __name__ == '__main__':
 
     f = Figure(figsize=(5, 4), dpi=100)
     ax = f.add_subplot(111)
-
+    #username으로 검색해서 화면에 찍은 점
+    global sct_by_username
     #my video - how to visualize a dataset easily
 
 
@@ -231,7 +228,7 @@ if __name__ == '__main__':
     import numpy as np
 
     logger.info("Clustring...")
-    kmeans = KMeans(n_clusters=12 if len(points) >= 12 else len(points), n_jobs=-1, random_state=0)
+    kmeans = KMeans(n_clusters=10 if len(points) >= 10 else len(points), n_jobs=-1, random_state=0)
     #cluster_idx = kmeans.fit_predict(points[["x","y"]])
     kmeans.fit(points[["x","y"]])
     cluster_idx = kmeans.labels_
@@ -308,6 +305,7 @@ if __name__ == '__main__':
         logger.info(d.result)
 
     def setUsername(username):
+        global sct_by_username
         logger.info("Set Username")
 
         #1. SELECT FOLLOWS BY username
@@ -317,17 +315,39 @@ if __name__ == '__main__':
         etUsername.delete(0, Tk.END)
         etUsername.insert(0, username)
         etUsername.config(state=Tk.DISABLED)
-        ax.scatter([0],[0])
+
+        c = conn.cursor()
+        c.execute(
+"""
+SELECT (SELECT username FROM users WHERE id = relations.follow_id) as ids
+FROM relations
+WHERE user_id = (SELECT id FROM users WHERE username='%s')
+""" % ( username ))
+
+        rs = c.fetchall()
+        logger.info(rs)
+
+        points_by_user = pd.DataFrame()
+        for row in rs :
+            points_by_user = points_by_user.append( points[points['word'] == row[0]])
+
+        sct_by_username =  ax.scatter(points_by_user["x"],points_by_user["y"],c='r', marker="^")
 
         canvas.draw()
 
 
     def clearUsername():
+        global sct_by_username
+
         logger.debug("Clear Username")
         etUsername.config(state=Tk.NORMAL)
         etUsername.delete(0, Tk.END)
         etUsername.config(state=Tk.DISABLED)
 
+        if sct_by_username != None:
+            sct_by_username.remove()
+
+        canvas.draw()
 
     bottom_panel = Tk.PanedWindow(master=root)
     bottom_panel.pack(side=Tk.BOTTOM)
