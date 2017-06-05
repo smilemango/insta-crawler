@@ -3,7 +3,7 @@ import os
 
 class Dialog(Toplevel):
 
-    def __init__(self, parent, title = None):
+    def __init__(self, parent, modal= True, title = None):
 
         Toplevel.__init__(self, parent)
         self.transient(parent)
@@ -21,7 +21,8 @@ class Dialog(Toplevel):
 
         self.buttonbox()
 
-        self.grab_set()
+        if modal :
+            self.grab_set()
 
         if not self.initial_focus:
             self.initial_focus = self
