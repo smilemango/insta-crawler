@@ -22,6 +22,9 @@ import sklearn
 from sklearn.manifold import TSNE
 import pandas as pd
 
+#username으로 검색해서 화면에 찍은 점
+sct_by_username=None
+
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
@@ -90,7 +93,83 @@ ORDER BY CNT;
     def apply(self):
         pass
 
+def on_key_event(event):
+    print('you pressed %s' % event.key)
+    key_press_handler(event, canvas, toolbar)
 
+def _quit():
+    root.quit()  # stops mainloop
+    root.destroy()  # this is necessary on Windows to prevent
+    # Fatal Python Error: PyEval_RestoreThread: NULL tstate
+
+def toggle():
+    if btnToggle.config('text')[-1] == '라벨 감추기':
+        btnToggle.config(text='라벨 보여주기')
+    else:
+        btnToggle.config(text='라벨 감추기')
+
+    if btnToggle.config('text')[-1] == '라벨 감추기':
+        for label in text_labels:
+            label.set_visible(True)
+    else:
+        for label in text_labels:
+            label.set_visible(False)
+    canvas.draw()
+
+def openSearchDialog():
+    logger.info("Open SearchDailog")
+
+    d = SearchByIDDlg(parent=root, db_conn=conn, callback=setUsername)
+    logger.info(d.result)
+
+def setUsername(username):
+    global sct_by_username
+    clearUsername()
+
+    logger.info("Set Username")
+
+    # 1. SELECT FOLLOWS BY username
+    # 2. SCATTER POINTS
+    # 3. SET LABEL BY username
+    etUsername.config(state=Tk.NORMAL)
+    etUsername.delete(0, Tk.END)
+    etUsername.insert(0, username)
+    etUsername.config(state=Tk.DISABLED)
+
+    c = conn.cursor()
+    c.execute(
+        """
+        SELECT (SELECT username FROM users WHERE id = relations.follow_id) as ids
+        FROM relations
+        WHERE user_id = (SELECT id FROM users WHERE username='%s')
+        """ % (username))
+
+    rs = c.fetchall()
+    logger.info(rs)
+
+    points_by_user = pd.DataFrame()
+    for row in rs:
+        points_by_user = points_by_user.append(points[points['word'] == row[0]])
+
+    sct_by_username = ax.scatter(points_by_user["x"], points_by_user["y"], c='r', marker="^")
+
+    canvas.draw()
+
+def clearUsername():
+    global sct_by_username
+
+    logger.debug("Clear Username")
+    etUsername.config(state=Tk.NORMAL)
+    etUsername.delete(0, Tk.END)
+    etUsername.config(state=Tk.DISABLED)
+
+    if sct_by_username != None:
+        sct_by_username.remove()
+
+    canvas.draw()
+
+def popupSimiar():
+    pass
 
 if __name__ == '__main__':
 
@@ -211,8 +290,7 @@ if __name__ == '__main__':
 
     f = Figure(figsize=(5, 4), dpi=100)
     ax = f.add_subplot(111)
-    #username으로 검색해서 화면에 찍은 점
-    global sct_by_username
+
     #my video - how to visualize a dataset easily
 
 
@@ -269,85 +347,7 @@ if __name__ == '__main__':
     toolbar = NavigationToolbar2TkAgg(canvas, root)
     toolbar.update()
     canvas._tkcanvas.pack(side=Tk.TOP, fill=Tk.BOTH, expand=1)
-
-
-    def on_key_event(event):
-        print('you pressed %s' % event.key)
-        key_press_handler(event, canvas, toolbar)
-
     canvas.mpl_connect('key_press_event', on_key_event)
-
-
-    def _quit():
-        root.quit()     # stops mainloop
-        root.destroy()  # this is necessary on Windows to prevent
-                        # Fatal Python Error: PyEval_RestoreThread: NULL tstate
-
-
-    def toggle():
-        if btnToggle.config('text')[-1] == '라벨 감추기':
-            btnToggle.config(text='라벨 보여주기')
-        else:
-            btnToggle.config(text='라벨 감추기')
-
-        if btnToggle.config('text')[-1] == '라벨 감추기':
-            for label in text_labels:
-                label.set_visible(True)
-        else:
-            for label in text_labels:
-                label.set_visible(False)
-        canvas.draw()
-
-    def openSearchDialog():
-        logger.info("Open SearchDailog")
-
-        d= SearchByIDDlg(parent=root,db_conn=conn,callback=setUsername)
-        logger.info(d.result)
-
-    def setUsername(username):
-        global sct_by_username
-        logger.info("Set Username")
-
-        #1. SELECT FOLLOWS BY username
-        #2. SCATTER POINTS
-        #3. SET LABEL BY username
-        etUsername.config(state=Tk.NORMAL)
-        etUsername.delete(0, Tk.END)
-        etUsername.insert(0, username)
-        etUsername.config(state=Tk.DISABLED)
-
-        c = conn.cursor()
-        c.execute(
-"""
-SELECT (SELECT username FROM users WHERE id = relations.follow_id) as ids
-FROM relations
-WHERE user_id = (SELECT id FROM users WHERE username='%s')
-""" % ( username ))
-
-        rs = c.fetchall()
-        logger.info(rs)
-
-        points_by_user = pd.DataFrame()
-        for row in rs :
-            points_by_user = points_by_user.append( points[points['word'] == row[0]])
-
-        sct_by_username =  ax.scatter(points_by_user["x"],points_by_user["y"],c='r', marker="^")
-
-        canvas.draw()
-
-
-    def clearUsername():
-        global sct_by_username
-
-        logger.debug("Clear Username")
-        etUsername.config(state=Tk.NORMAL)
-        etUsername.delete(0, Tk.END)
-        etUsername.config(state=Tk.DISABLED)
-
-        if sct_by_username != None:
-            sct_by_username.remove()
-
-        canvas.draw()
 
     bottom_panel = Tk.PanedWindow(master=root)
     bottom_panel.pack(side=Tk.BOTTOM)
@@ -365,12 +365,20 @@ WHERE user_id = (SELECT id FROM users WHERE username='%s')
     btnClear =Tk.Button(master=bottom_panel, text="지우기", command=clearUsername)
     btnClear.pack(side=Tk.LEFT)
 
+    # 공백 구분자 표시
+    lbSep1 = Tk.Label(master=bottom_panel, text="    ")
+    lbSep1.pack(side=Tk.LEFT)
 
-    lbSep = Tk.Label(master=bottom_panel, text="    ")
-    lbSep.pack(side=Tk.LEFT)
+    btnSimilar = Tk.Button(master=bottom_panel, text="근처값 구하기", width=12, command=popupSimiar)
+    btnSimilar.pack(side=Tk.LEFT)
 
-    btnToggle = Tk.Button(master=bottom_panel, text="라벨 감추기", width=12, command=toggle)
+    #공백 구분자 표시
+    lbSep2 = Tk.Label(master=bottom_panel, text="    ")
+    lbSep2.pack(side=Tk.LEFT)
+
+    btnToggle = Tk.Button(master=bottom_panel, text="라벨 보이기", width=12, command=toggle)
     btnToggle.pack(side=Tk.LEFT)
+
 
     btnQuit = Tk.Button(master=bottom_panel, text='Quit', command=_quit)
     btnQuit.pack(side=Tk.LEFT)
