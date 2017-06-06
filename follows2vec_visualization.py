@@ -9,7 +9,7 @@ import os, sys
 import multiprocessing
 from matplotlib import font_manager, rc
 import my_logger
-import ui.tkSimpleDialog as tsdlg
+import ui.tkSearchByIDDlg as tsdlg
 import ui.tkSimilarByIDDlg as tsbdlg
 
 from numpy import arange, sin, pi
@@ -117,7 +117,7 @@ if __name__ == '__main__':
 
     conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
 
-    do_word2vec = False
+    do_word2vec = True
 
     if do_word2vec :
         # ONCE we have vectors
