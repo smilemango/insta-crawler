@@ -10,6 +10,7 @@ import multiprocessing
 from matplotlib import font_manager, rc
 import my_logger
 import ui.tkSimpleDialog as tsdlg
+import ui.tkSimilarByIDDlg as tsbdlg
 
 from numpy import arange, sin, pi
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2TkAgg
@@ -28,70 +29,6 @@ sct_by_username=None
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
-
-class SearchByIDDlg(tsdlg.Dialog):
-
-    def __init__(self,parent,db_conn,callback):
-        self.conn = db_conn
-        self.callback = callback
-        tsdlg.Dialog.__init__(self,parent=parent, modal = False,title="아이디 검색")
-
-    def doSearch(self):
-        logger.info("Do Search Action")
-
-        c = self.conn.cursor()
-        c.execute("""
-SELECT username, count(*) as CNT
-FROM users, relations
-WHERE users.id = relations.user_id
-AND users.username like '%s%%'
-GROUP BY username
-ORDER BY CNT;
-""" % self.etSearch.get())
-        rs = c.fetchall()
-        print(rs)
-
-        self.lstResult.delete(0, Tk.END)
-        for row in rs :
-            self.lstResult.insert(Tk.END, "%s (%d)" % (row[0], row[1]) )
-
-
-    def doDoubleClick(self,event):
-        ##this block works
-        w = event.widget
-        index = int(w.curselection()[0])
-        value = w.get(index)
-        print(value)
-        username = value.split()[0]
-        self.callback(username)
-
-
-    def body(self, master):
-
-
-        f = Tk.Frame(self)
-
-        self.etSearch = Tk.Entry(f)
-        self.btnSearch = Tk.Button(f,text="찾기",command=self.doSearch)
-        self.lstResult = Tk.Listbox(master)
-        self.lstResult.bind("<Double-Button-1>", self.doDoubleClick)
-
-        self.scrollbar = Tk.Scrollbar(master)
-
-        self.etSearch.pack(side= Tk.LEFT)
-        self.btnSearch.pack(side=Tk.RIGHT)
-
-        f.pack(side=Tk.TOP)
-        self.scrollbar.pack(side=Tk.RIGHT, fill=Tk.Y)
-        self.lstResult.pack()
-        # attach listbox to scrollbar
-        self.lstResult.config(yscrollcommand=self.scrollbar.set)
-        self.scrollbar.config(command=self.lstResult.yview)
-
-        return self.etSearch # initial focus
-
-    def apply(self):
-        pass
 
 def on_key_event(event):
     print('you pressed %s' % event.key)
@@ -119,7 +56,7 @@ def toggle():
 def openSearchDialog():
     logger.info("Open SearchDailog")
 
-    d = SearchByIDDlg(parent=root, db_conn=conn, callback=setUsername)
+    d = tsdlg.SearchByIDDlg(parent=root, db_conn=conn, callback=setUsername)
     logger.info(d.result)
 
 def setUsername(username):
@@ -169,13 +106,18 @@ def clearUsername():
     canvas.draw()
 
 def popupSimiar():
+    logger.info("Open SearchIDDialog")
+
+    d = tsbdlg.SimilarByIDDlg(parent=root,callback=checkSimiar)
+
+def checkSimiar():
     pass
 
 if __name__ == '__main__':
 
     conn = sqlite3.connect('processed_data/insta_user_relations.sqlite3')
 
-    do_word2vec = True
+    do_word2vec = False
 
     if do_word2vec :
         # ONCE we have vectors
