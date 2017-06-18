@@ -129,9 +129,9 @@ if __name__ == '__main__':
         # more dimensions, more computationally expensive to train
         # but also more accurate
         # more dimensions = more generalized
-        num_features = 500
+        num_features = 700
         # Minimum word count threshold.
-        min_word_count = 150
+        min_word_count = 70
 
         # Number of threads to run in parallel.
         # more workers, faster we train
