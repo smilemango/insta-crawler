@@ -2,20 +2,82 @@ import my_logger
 import ui.tkSimpleDialog as tsdlg
 import tkinter as Tk
 
+class SearchSimilarByIDDlg(tsdlg.Dialog):
+    def __init__(self, parent,model,callback):
+        self.model = model
+        self.callback = callback
+        tsdlg.Dialog.__init__(self,parent=parent, title="아이디 목록 검색")
+
+    def body(self,master):
+        top_f = Tk.Frame(self)
+
+        self.etSearch = Tk.Entry(top_f)
+        self.btnSearch = Tk.Button(top_f,text="찾기", command=self.searchIds)
+
+
+        self.etSearch.pack(side=Tk.LEFT)
+        self.btnSearch.pack(side=Tk.RIGHT)
+
+        self.btnOk = Tk.Button(master,text="Apply", command=self.ok)
+
+        top_f.pack(side=Tk.TOP)
+
+        self.scrollbar = Tk.Scrollbar(master)
+        self.scrollbar.pack(side=Tk.RIGHT, fill=Tk.Y)
+
+        self.lstResult = Tk.Listbox(master)
+        self.lstResult.pack(fill=Tk.BOTH )
+
+        self.btnOk.pack(side=Tk.BOTTOM)
+
+        # attach listbox to scrollbar
+        self.lstResult.config(yscrollcommand=self.scrollbar.set)
+        self.scrollbar.config(command=self.lstResult.yview)
+
+        return self.etSearch  # initial focus
+
+    def searchIds(self):
+
+        self.lstResult.delete(0, Tk.END)
+
+        q_word = self.etSearch.get()
+
+        keys = list(self.model.wv.vocab.keys())
+        for key in keys:
+            if q_word in key :
+                self.lstResult.insert(Tk.END, "%s (%d)" % ( key, self.model.wv.vocab[key].count))
+
+    def ok(self):
+
+        seleted_word = self.lstResult.get(Tk.ACTIVE).split(' ')[0]
+        self.callback(seleted_word)
+        super(SearchSimilarByIDDlg,self).ok()
+
 class SimilarByIDDlg(tsdlg.Dialog):
 
-    def __init__(self,parent,callback):
+    def __init__(self,parent,model, callback):
         self.logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
+        self.model = model
         self.callback = callback
         tsdlg.Dialog.__init__(self,parent=parent, modal = False,title="유사아이디 검색")
 
-    def doSearch(self):
-        self.logger.info("Do Search Action")
-        result = self.callback(self.etSearch.get())
+    def openSimilarDlg(self):
+        SearchSimilarByIDDlg(self,self.model,callback=self.setID)
 
-        self.logger.info(result)
-        self.txtResult.delete(0, Tk.END)
-        self.txtResult.insert(Tk.END, result)
+
+    def setID(self, id):
+        self.etSearch.delete(0, Tk.END)
+        self.etSearch.insert(0, id)
+
+    def doGo(self):
+        id = self.etSearch.get()
+
+        lstResult = self.model.most_similar(positive=id, topn=10)
+        self.txtResult.delete(1.0, Tk.END)
+        for line in lstResult:
+            self.txtResult.insert(Tk.END, "%s : %f\n" % (line[0],line[1]))
+
+
 
 
     def body(self, master):
@@ -23,12 +85,14 @@ class SimilarByIDDlg(tsdlg.Dialog):
         f = Tk.Frame(self)
 
         self.etSearch = Tk.Entry(f)
-        self.btnSearch = Tk.Button(f,text="찾기",command=self.doSearch)
+        self.btnSearch = Tk.Button(f, text="아이디 설정...", command=self.openSimilarDlg)
+        self.btnGo = Tk.Button(f,text="GO!",command=self.doGo)
         self.txtResult = Tk.Text(master)
         self.scrollbar = Tk.Scrollbar(master)
 
         self.etSearch.pack(side= Tk.LEFT)
         self.btnSearch.pack(side=Tk.RIGHT)
+        self.btnGo.pack(side=Tk.RIGHT)
 
         f.pack(side=Tk.TOP)
         self.scrollbar.pack(side=Tk.RIGHT, fill=Tk.Y)

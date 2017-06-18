@@ -25,7 +25,7 @@ import pandas as pd
 
 #username으로 검색해서 화면에 찍은 점
 sct_by_username=None
-
+model = None
 logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
 
 # 클러스터링 관련 : https://github.com/gaetangate/word2vec-cluster 의 소스를 참고할 것
@@ -107,8 +107,8 @@ def clearUsername():
 
 def popupSimiar():
     logger.info("Open SearchIDDialog")
-
-    d = tsbdlg.SimilarByIDDlg(parent=root,callback=checkSimiar)
+    global model
+    d = tsbdlg.SimilarByIDDlg(parent=root,model=model,callback=checkSimiar)
 
 def checkSimiar():
     pass
@@ -149,6 +149,7 @@ if __name__ == '__main__':
         sg = 0
 
         SAVED_FILE_PATH = "./vector/follows2vec_%d_%d_%d.w2v" % ( num_features, context_size, sg )
+        global model
         model = None
 
         if not os.path.isfile(SAVED_FILE_PATH):
@@ -205,7 +206,8 @@ if __name__ == '__main__':
         tsne = sklearn.manifold.TSNE(n_components=2, random_state=0)
         all_word_vectors_matrix = model.wv.syn0
         pp.pprint(model.wv.syn0[0])
-
+        # model.wv.vocab['word'].count - 단어 출현 빈도
+        # list(model.wv.vocab.keys()) - 단어 목록
         logger.info("Vector to 2d matrix.")
         all_word_vectors_matrix_2d = tsne.fit_transform(all_word_vectors_matrix)
 
