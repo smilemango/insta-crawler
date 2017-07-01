@@ -6,7 +6,7 @@ class SearchSimilarByIDDlg(tsdlg.Dialog):
     def __init__(self, parent,model,callback):
         self.model = model
         self.callback = callback
-        tsdlg.Dialog.__init__(self,parent=parent, title="아이디 목록 검색")
+        tsdlg.Dialog.__init__(self,parent=parent, title="[SMBI] 아이디 목록 검색")
 
     def body(self,master):
         top_f = Tk.Frame(self)

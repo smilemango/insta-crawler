@@ -2,13 +2,15 @@ import my_logger
 import ui.tkSimpleDialog as tsdlg
 import tkinter as Tk
 
+#검색한 ID가 팔로잉한 ID를 화면에 표시해주는 기능
+#ID를 검색하기 위해 다이얼로그를 띄워줌
 class SearchByIDDlg(tsdlg.Dialog):
 
     def __init__(self,parent,db_conn,callback):
         self.conn = db_conn
         self.callback = callback
         self.logger = my_logger.init_mylogger("follows2vec_logger","./log/follows2vec.log")
-        tsdlg.Dialog.__init__(self,parent=parent, modal = False,title="아이디 검색")
+        tsdlg.Dialog.__init__(self,parent=parent, modal = False,title="[SCHBI] 아이디 검색")
 
     def doSearch(self):
         self.logger.info("Do Search Action")

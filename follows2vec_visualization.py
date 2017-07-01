@@ -296,25 +296,35 @@ if __name__ == '__main__':
     bottom_panel = Tk.PanedWindow(master=root)
     bottom_panel.pack(side=Tk.BOTTOM)
 
-    lbShow = Tk.Label(master=bottom_panel, text="표시")
+    lbShow = Tk.Label(master=bottom_panel, text="ID")
     lbShow.pack(side=Tk.LEFT)
 
     etUsername = Tk.Entry(master=bottom_panel)
     etUsername.config(state=Tk.DISABLED)
     etUsername.pack(side=Tk.LEFT)
 
+    lbShow1 = Tk.Label(master=bottom_panel, text="===> ID 가 follow한 아이디 표시")
+    lbShow1.pack(side=Tk.LEFT)
+
     btnSet = Tk.Button(master=bottom_panel, text="설정...", command=openSearchDialog)
     btnSet.pack(side=Tk.LEFT)
 
-    btnClear =Tk.Button(master=bottom_panel, text="지우기", command=clearUsername)
-    btnClear.pack(side=Tk.LEFT)
+    # 공백 구분자 표시
+    lbSep0 = Tk.Label(master=bottom_panel, text="    ")
+    lbSep0.pack(side=Tk.LEFT)
+
+    lbShow = Tk.Label(master=bottom_panel, text="===> ID 와 유사한 아이디 표시")
+    lbShow.pack(side=Tk.LEFT)
+
+    btnSimilar = Tk.Button(master=bottom_panel, text="설정...", command=popupSimiar)
+    btnSimilar.pack(side=Tk.LEFT)
 
     # 공백 구분자 표시
     lbSep1 = Tk.Label(master=bottom_panel, text="    ")
     lbSep1.pack(side=Tk.LEFT)
 
-    btnSimilar = Tk.Button(master=bottom_panel, text="근처값 구하기", width=12, command=popupSimiar)
-    btnSimilar.pack(side=Tk.LEFT)
+    btnClear =Tk.Button(master=bottom_panel, text="표시된 마크 지우기", command=clearUsername)
+    btnClear.pack(side=Tk.LEFT)
 
     #공백 구분자 표시
     lbSep2 = Tk.Label(master=bottom_panel, text="    ")
