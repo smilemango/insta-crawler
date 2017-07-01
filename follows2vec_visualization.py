@@ -56,12 +56,12 @@ def toggle():
 def openSearchDialog():
     logger.info("Open SearchDailog")
 
-    d = tsdlg.SearchByIDDlg(parent=root, db_conn=conn, callback=setUsername)
+    d = tsdlg.SearchByIDDlg(parent=root, db_conn=conn, callback=set_follower_by_username)
     logger.info(d.result)
 
-def setUsername(username):
+def set_follower_by_username(username):
     global sct_by_username
-    clearUsername()
+    clear_username()
 
     logger.info("Set Username")
 
@@ -88,11 +88,41 @@ def setUsername(username):
     for row in rs:
         points_by_user = points_by_user.append(points[points['word'] == row[0]])
 
-    sct_by_username = ax.scatter(points_by_user["x"], points_by_user["y"], c='r', marker="^")
+    sct_by_username = ax.scatter(points_by_user["x"], points_by_user["y"],  c='darkred', marker="*", s=80)
 
     canvas.draw()
 
-def clearUsername():
+
+# username 리스트를 인수로 받는다.
+# username 리스트의 첫번째 인수는 root user
+# 그 이하는 유사한 아이디이다.
+# 따라서 조금 다른 색으로 표시해 줄 이유가 있음
+def set_users_by_username(usernames):
+    global sct_by_username
+    clear_username()
+
+    logger.info("Set Username")
+
+    # 1. SELECT FOLLOWS BY username
+    # 2. SCATTER POINTS
+    # 3. SET LABEL BY username
+    etUsername.config(state=Tk.NORMAL)
+    etUsername.delete(0, Tk.END)
+    etUsername.insert(0, usernames[0])
+    etUsername.config(state=Tk.DISABLED)
+
+    logger.info("SET USERS %s" % usernames)
+
+    points_by_user = pd.DataFrame()
+    for row in usernames:
+        points_by_user = points_by_user.append(points[points['word'] == row])
+
+    sct_by_username = ax.scatter(points_by_user["x"], points_by_user["y"], c='darkred', marker="*", s=80)
+
+    canvas.draw()
+
+
+def clear_username():
     global sct_by_username
 
     logger.debug("Clear Username")
@@ -108,10 +138,8 @@ def clearUsername():
 def popupSimiar():
     logger.info("Open SearchIDDialog")
     global model
-    d = tsbdlg.SimilarByIDDlg(parent=root,model=model,callback=checkSimiar)
+    d = tsbdlg.SimilarByIDDlg(parent=root, model=model, callback=set_users_by_username)
 
-def checkSimiar():
-    pass
 
 if __name__ == '__main__':
 
@@ -323,7 +351,7 @@ if __name__ == '__main__':
     lbSep1 = Tk.Label(master=bottom_panel, text="    ")
     lbSep1.pack(side=Tk.LEFT)
 
-    btnClear =Tk.Button(master=bottom_panel, text="표시된 마크 지우기", command=clearUsername)
+    btnClear =Tk.Button(master=bottom_panel, text="표시된 마크 지우기", command=clear_username)
     btnClear.pack(side=Tk.LEFT)
 
     #공백 구분자 표시

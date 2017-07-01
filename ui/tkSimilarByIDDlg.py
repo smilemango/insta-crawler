@@ -73,11 +73,22 @@ class SimilarByIDDlg(tsdlg.Dialog):
         id = self.etSearch.get()
 
         lstResult = self.model.most_similar(positive=id, topn=10)
-        self.txtResult.delete(1.0, Tk.END)
-        for line in lstResult:
-            self.txtResult.insert(Tk.END, "%s : %f\n" % (line[0],line[1]))
+        self.lstResult.delete(0, Tk.END)
+        for row in lstResult :
+            self.lstResult.insert(Tk.END, "%s (%f)" % (row[0], row[1]) )
 
+    def doDoubleClick(self,event):
+        ##this block works
+        w = event.widget
+        tpl_users = w.get(0,w.size())
 
+        lst_ret_users = []
+        lst_ret_users.append(self.etSearch.get())
+
+        for item in tpl_users:
+            lst_ret_users.append( item.split()[0])
+
+        self.callback(lst_ret_users)
 
 
     def body(self, master):
@@ -87,7 +98,8 @@ class SimilarByIDDlg(tsdlg.Dialog):
         self.etSearch = Tk.Entry(f)
         self.btnSearch = Tk.Button(f, text="아이디 설정...", command=self.openSimilarDlg)
         self.btnGo = Tk.Button(f,text="GO!",command=self.doGo)
-        self.txtResult = Tk.Text(master)
+        self.lstResult = Tk.Listbox(master)
+        self.lstResult.bind("<Double-Button-1>", self.doDoubleClick)
         self.scrollbar = Tk.Scrollbar(master)
 
         self.etSearch.pack(side= Tk.LEFT)
@@ -96,10 +108,10 @@ class SimilarByIDDlg(tsdlg.Dialog):
 
         f.pack(side=Tk.TOP)
         self.scrollbar.pack(side=Tk.RIGHT, fill=Tk.Y)
-        self.txtResult.pack()
+        self.lstResult.pack()
         # attach listbox to scrollbar
-        self.txtResult.config(yscrollcommand=self.scrollbar.set)
-        self.scrollbar.config(command=self.txtResult.yview)
+        self.lstResult.config(yscrollcommand=self.scrollbar.set)
+        self.scrollbar.config(command=self.lstResult.yview)
 
         return self.etSearch # initial focus
 
